@@ -5,11 +5,14 @@ Kaffe - en kjÃ¦rlighetshistorie
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 HEEEEEI, jeg er her og gjør endringer:
 
 Hallo hallo, dette er en endring sjø :)
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 35c6bc5d8a39636e5b3f04f23e236b0a342bf776
 =======
 >>>>>>> 35c6bc5d8a39636e5b3f04f23e236b0a342bf776
 
@@ -24,8 +27,12 @@ HEEEEEI, jeg er her og gjør endringer:
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Skriver noe her også.
 >>>>>>> 380a3168b6dd152b7a9423a37e2276eeacaa71e0
+=======
+Skriver noe her også.
+>>>>>>> 35c6bc5d8a39636e5b3f04f23e236b0a342bf776
 =======
 Skriver noe her også.
 >>>>>>> 35c6bc5d8a39636e5b3f04f23e236b0a342bf776
