@@ -1,12 +1,30 @@
-body 
-{
-padding: 10px;
+@media screen {
+	body 
+	{
+	padding: 10px;
+	}
+	#flowchart img{
+		width:100%;
+	}
+	article{
+	padding: 5px;
+	min-width: 200px;
+	max-width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	}
 }
-
-article{
-padding: 5px;
-min-width: 200px;
-max-width: 1200px;
-margin-left: auto;
-margin-right: auto;
+@media print {
+	article{
+		min-width: auto;
+		max-width:auto;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	#flowchart img {
+		width:100%;
+	}
+	.linkClass {
+		display: none;
+	}
 }
