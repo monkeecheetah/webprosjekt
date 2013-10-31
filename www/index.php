@@ -31,7 +31,7 @@
 					} else if ($_GET['page'] == 'overskrifter') {
 						include 'overskrifter.php'; 
 					} else if ($_GET['page'] == 'kaffehelse') {
-						include 'kaffehelse.php'; 
+						include 'pages/kaffehelse.php'; 
 					} else {
 						include 'pages/main.php';						
 					}
