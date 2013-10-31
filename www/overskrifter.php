@@ -4,8 +4,8 @@ include('external_code/simple_html_dom.php');
  
 // Retrieve the DOM from a given URL
 htmlParse('kaffeinfo.php');
+htmlParse('tilberedning.php');
 htmlParse('kaffenorge.php');
-htmlParse('tilbredning.php');
 htmlParse('kaffehelse.php');
 htmlParse('funfacts.php');
 function htmlParse($filename) {
