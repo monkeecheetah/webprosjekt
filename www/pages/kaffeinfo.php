@@ -11,6 +11,9 @@
 
 <h2>Fra bønne til kopp (en reise fra bønne til kopp)</h2>
 <p>Kaffe kommer ikke fra bønner. Men fra frø inni frukter på kaffetreet, Coffea arabica”</p>
+<h3>Hva smaker kaffefrukten?</h3>
+<p>Noen påstår de er søte med klissete kjøtt, som smaker som vannmelon, rosenvann og hibiskus</p>
+<p><a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html</p>
 <h3>Robusta vs arabica. To bønnetyper.</h3>
 <h3>Røsting</h3>
 <p>Før bruk må kaffe rostes (brennes) ved oppheting til henimot 200 °C til fargen blir sjokoladebrun. Ved rostingen får kaffe sin særpregede aroma.</p>
