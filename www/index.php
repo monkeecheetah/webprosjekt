@@ -16,6 +16,7 @@
 		<ul>
 			<li><a href="?page=tilberedning">Tilberedning</a></li>
 			<li><a href="?page=kaffeinfo">Hva er kaffe?</a></li>
+			<li><a href="?page=overskrifter">Overskrifter</a></li>
 		</ul>
 			<?php
 				if(isset($_GET['page']))
@@ -26,6 +27,8 @@
 						include 'pages/tilberedning.php'; 
 					} else if ($_GET['page'] == 'kaffeinfo') {
 						include 'pages/kaffeinfo.php'; 
+					} else if ($_GET['page'] == 'overskrifter') {
+						include 'overskrifter.php'; 
 					} else {
 						include 'pages/main.php';						
 					}
