@@ -9,6 +9,7 @@ htmlParse('tilbredning.php');
 htmlParse('kaffehelse.php');
 htmlParse('funfacts.php');
 function htmlParse($filename) {
+echo "<h1>Filnavn".$filename."</h1>";
 $html = file_get_html('pages/'.$filename);
 
 // Find all "A" tags and print their HREFs
