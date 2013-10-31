@@ -6,7 +6,6 @@
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
-
 		<title>Kaffe - en kjærlighetshistorie</title>
 		<script charset="utf-8" src="external_code/jquery-1.10.2.min.js"></script>
 		<script charset="utf-8" src="js/script.js"></script>
@@ -16,6 +15,7 @@
 	<nav>
 		<ul>
 			<li><a href="?page=tilberedning">Tilberedning</a></li>
+			<li><a href="?page=kaffeinfo">Hva er kaffe?</a></li>
 		</ul>
 			<?php
 				if(isset($_GET['page']))
@@ -24,6 +24,8 @@
 						include 'pages/main.php';
 					} else if ($_GET['page'] == 'tilberedning') {
 						include 'pages/tilberedning.php'; 
+					} else if ($_GET['page'] == 'kaffeinfo') {
+						include 'pages/kaffeinfo.php'; 
 					} else {
 						include 'pages/main.php';						
 					}
