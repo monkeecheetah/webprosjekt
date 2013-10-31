@@ -1,0 +1,14 @@
+body{
+	
+	}
+.block1 {
+	background-image:url('bildeFull.png');
+}
+@media screen and (max-width:500px) {
+	body{
+		background-color:red;
+	}
+	.block1 {
+		background-image:url('bildeSmall.png');
+	}
+}
