@@ -4,7 +4,10 @@ include('external_code/simple_html_dom.php');
  
 // Retrieve the DOM from a given URL
 htmlParse('kaffeinfo.php');
+htmlParse('kaffenorge.php');
 htmlParse('tilbredning.php');
+htmlParse('kaffehelse.php');
+htmlParse('funfacts.php');
 function htmlParse($filename) {
 $html = file_get_html('pages/'.$filename);
 
