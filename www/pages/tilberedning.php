@@ -4,7 +4,15 @@
 
  <h2>Kaffe med papirfilter</h2>
 	<h3>Kaffetrakter</h3>
-	 	<p>Det de fleste er vant til trakterkaffe med en moccamaster eller liknende apparat. En slik kaffetrakter gjør mye for deg. Det enkleste du kan gjøre for at trakterkaffen skal bli mer spennende er å kjøpe bønner og kverne dem selv. Man kan også være nøye på hvor mye kaffe man bruker. 6-7 skjeer pr liter skal funke. Det er også veldig viktig å ikke la kolben stå på varmeplaten for lenge, men å ta den av og helle kaffen på termokaffe med en gang den er ferdig.</p>
+	 	<p>Det de fleste er vant til trakterkaffe med en moccamaster<br>
+	 	   eller liknende apparat. En slik kaffetrakter gjør mye for deg.<br>
+	 	   Et par tips for litt mer spennende trakterkaffe:</p>
+	 	<ul>
+	 		<li>Kjøp hele bønner og kvern selv</li>
+	 		<li>Pass på å bruke riktig mengde kaffe<br>6-87kaffesjeer pr. liter </li>
+	 		<li>Ikke la kolben stå på varmeplaten for lenge!</li>
+	 		<li>Hell på termokanne</li>
+	 	</ul>
 
 
 	<h3>Manuelt håndbrygg</h3>
