@@ -79,6 +79,7 @@ Basert på denne, tatt fra Wikipedia.</p>
 <p>Mange bl.a. hjerte-og karsykdommer. kaffe reduserer risikoen for diabetes 2, bra for korttidsminnet og beskytte mot skrumplever.  “- Kaffe inneholder mange polyfenoler, hvorav de aller fleste er gode antioksidanter. Det er de samme stoffene som finnes i frukt og grønnsaker, og som man tror kan forklare den positive effekten av å spise frukt og grønt, sier Blomhoff.”</p>
 
 <p><a href="http://www.forskning.no/artikler/2006/mai/1148455804.23">http://www.forskning.no/artikler/2006/mai/1148455804.23</a></p>
+<h2>Rare kaffedrikker</h2>
 
 <h2>Funfacts</h2>
 <h3>Kafé</h3>
