@@ -110,6 +110,7 @@ Basert på denne, tatt fra Wikipedia.</p>
 <p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
 <p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. Dette fordi yngre generasjoner i land som Kina og India har begynt å drikke kaffe</p>
 <p>For å dekke verdens behov må kaffen bli dyrere - så bønder kan investere i det utstyret som trengs for å effektivisere produksjonen sin</p>
+<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
 <p><a href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/</a></p>
 <p><a href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/</a></p>
 <p><a href="http://www.waterfootprint.org/Reports/Report14.pdf">http://www.waterfootprint.org/Reports/Report14.pdf</a></p>
