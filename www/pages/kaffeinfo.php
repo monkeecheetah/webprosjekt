@@ -10,18 +10,41 @@
 </p>
 
 <h2>Fra bønne til kopp (en reise fra bønne til kopp)</h2>
-<p>Kaffe kommer ikke fra bønner. Men fra frø inni frukter på kaffetreet, Coffea arabica”</p>
+<p><a href="http://equalexchange.coop/products/coffee/steps">http://equalexchange.coop/products/coffee/steps</a></p>
+<p><a href="http://www.friele.no/alt-om-kaffe/fra-bonne-til-kopp">http://www.friele.no/alt-om-kaffe/fra-bonne-til-kopp</a></p>
+<h3>Kaffetreet</h3>
+<p>Kaffetre som har kaffefrukter, som også kalles bær</p>
+<p>I kaffefruktene er det frø, som på folkemunne kalles bønner</p>
 <h3>Hva smaker kaffefrukten?</h3>
 <p>Noen påstår de er søte med klissete kjøtt, som smaker som vannmelon, rosenvann og hibiskus</p>
-<p><a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html</p>
+<p><a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html</a></p>
 <h3>Robusta vs arabica. To bønnetyper.</h3>
-<h3>Røsting</h3>
-<p>Før bruk må kaffe rostes (brennes) ved oppheting til henimot 200 °C til fargen blir sjokoladebrun. Ved rostingen får kaffe sin særpregede aroma.</p>
+<h3>Høsting</h3>
+<p>Fruktene plukkes</p>
+<h3>Fjerning av fruktkjøtt</h3>
+<h4>Den tørre metoden</h4>
+<h5>Natural og pulped natural</h5>
+<p>Natural så tørkes bærene før frukten rundt fjernes
+<p>Pulped natural - Frøene separeres fra frukten før det tørkes</p>
 
-<p>Veldig bredt og generelt <a href="http://snl.no/kaffe">http://snl.no/kaffe</a></p>
+<h4>Den våte metoden</h4>
+<h5>Fermentering</h5>
+<p>Ved å legge kaffebærene i bløt løsner det ytterste skinnlaget på fruktkjøttet. Dette gjør det enklere å fjerne selve fruktkjøttet, såkal "pulping". En pulpe-maskin har hull/rister hvor kun kaffebønnen kan presses gjennom og gå videre i systemet. Det som er igjen er bønnen med en sølvhinne og pergament fremdeles inntakt, men med rester av fruktkjøttet som er som et planteslim.</p>
+<p>Vanlige betegnelser er "Semi-washed" og "Fully washed"</p>
+<h3>Tørking</h3>
+<p>Frøene tørkes i solen eller mekanisk(?). Denne prosessen kan ta alt fra noen dager til flere uker. Avhengig av været. Når den har blitt tørket til 12% fuktighet blir frøene lagt i sekkert og klare for eksport</p>
+<h3>Sortering</h3>
+<p>Frøene blir sortert for å luke ut dårliger bønner. Dette gjøres enten med maskin, for hånd eller for hånd ved et transport bånd</p>
+<h3>Brenning/røsting</h3>
+<p>Kaffebønnene er grønne før de blir brent. Dette er en viktig del av prosessen og avgjør hvor mye og hvilken smak kaffen skal få. De brennes på henimot 200 °C til fargen blir sjokoladebrun. Ved rostingen får kaffe sin særpregede aroma. Eksempler på hvordan de skal ristes er "medium roast", "full city roast", "vienna roast", "French roast" og "blending" (skrive mer om disse typene brenning?</p>
+<h3>Kvalitetstesting</h3>
+<p>Det blir tatt smaksprøver på kaffen om de er holder mål og det blir gitt tilbakemelding til kaffebøndene om hvordan kaffen er. Hvordan dette gjøres varierer fra kaffehus til kaffehus</p>
+<h3>Kverning</h3>
+<p>Her regner jeg med at Osen har skrevet ett og annet</p>
+<p>Veldig bredt og generelt om kaffe <a href="http://snl.no/kaffe">http://snl.no/kaffe</a></p>
 
 <h2>Kaffe og koffein</h2>
-<p>Kaffe inneholder ca. 110mg koffein i en kopp på 236ml. Avhenger av type, størrelse på kopp osv. Men mer enn i en boks red bull som bare inneholder 80mg i en 250ml boks.
+<p>Kaffe inneholder ca. 110mg koffein i en kopp (ca. 240ml) Avhenger av type, størrelse på kopp osv. Men mer enn i en boks red bull som bare inneholder 80mg i en 250ml boks.
 <p><a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">http://www.energyfiend.com/caffeine-content/coffee-brewed</a></p>
 
 <h2>Opphav på navnet</h2>
@@ -34,6 +57,21 @@
 <p>I 2009 var Brasil verdensledende innen produksjon av grønn kaffe, etterfulgt av Vietnam, Indonesia og Colombia
 Basert på denne, tatt fra Wikipedia.</p>
 <p><a href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf</a></p>
+<h3>Topp 10 kaffe produserende land</h3>
+<ol>
+	<li>Brazil</li>
+	<li>Vietnam</li>
+	<li>Elfenbenskysten</li>
+	<li>Indonesia</li>
+	<li>Etiopia</li>
+	<li>India</li>
+	<li>Mexico</li>
+	<li>Guatemala</li>
+	<li>Peru</li>
+	<li>Honduras</li>
+</ol>
+<h3>Kaffe og handel</h3>
+<p>Kaffe på det internasjonale markedet måles i sekker og hver sekk veier 60kg</p>
 
 <h2>Helseeffekter</h2>
 <h3>Kan kaffe med andre ord erstatte en av de 5 om dagen?</h3>
@@ -67,6 +105,12 @@ Basert på denne, tatt fra Wikipedia.</p>
 <h3>Søt historie om hvorfor kaffe serveres på kaffeservise</h3>
 <p><a href="http://en.ilovecoffee.jp/posts/view/83">http://en.ilovecoffee.jp/posts/view/83</a></p>
 
-<h3>Kaffe og ansvar, noe vi skal se nærmere på?</h3>
+<h2>Kaffe og ansvar, noe vi skal se nærmere på?</h2>
+<p>En kopp kaffe trenger 140 liter vann</p>
+<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
+<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. Dette fordi yngre generasjoner i land som Kina og India har begynt å drikke kaffe</p>
+<p>For å dekke verdens behov må kaffen bli dyrere - så bønder kan investere i det utstyret som trengs for å effektivisere produksjonen sin</p>
 <p><a href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/</a></p>
 <p><a href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/</a></p>
+<p><a href="http://www.waterfootprint.org/Reports/Report14.pdf">http://www.waterfootprint.org/Reports/Report14.pdf</a></p>
+<p><a href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/</a></p>
