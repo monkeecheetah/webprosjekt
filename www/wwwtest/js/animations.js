@@ -2,8 +2,8 @@ init = function(){
       jarallax = new Jarallax();
 
 
-      jarallax.setDefault('.content div', {opacity:'0'});
-      jarallax.setDefault('.content div', {marginLeft:'-1000px'});
+      jarallax.setDefault("p", {opacity:'0'});
+      jarallax.setDefault('p', {marginLeft:'-1000px'});
 
 
       jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"}, {progress: "100%", top: "-10%"}]);		
