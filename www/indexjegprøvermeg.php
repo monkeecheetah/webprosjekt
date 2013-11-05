@@ -49,12 +49,9 @@
 
 			<div id="legends">
 				<h2>Hvordan oppdaget vi kaffen da?</h2>
-					<p>To legender
-					gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter
-					Munken som oppdaget
-					Det vi vet derimot
-					Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn
-					og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
+					<p>
+						Her plasserer vi historie og heges tegninger
+					</p>
 
 			</div>
 
@@ -102,7 +99,7 @@
 
 			</div>
 
-					
+
 			<div id="koffein">	
 				Kjenner du deg kvikk?
 				Selvfølgelig gjør du det
