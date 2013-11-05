@@ -46,7 +46,8 @@
 <h2>Kaffe og koffein</h2>
 <p>Kaffe inneholder ca. 110mg koffein i en kopp (ca. 240ml) Avhenger av type, størrelse på kopp osv. Men mer enn i en boks red bull som bare inneholder 80mg i en 250ml boks.
 <p><a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">http://www.energyfiend.com/caffeine-content/coffee-brewed</a></p>
-
+<h2>Kaffekunst</h2>
+<p><a href="http://www.amusingplanet.com/2013/05/kazuki-yamamotos-incredible-3d-coffee.html">http://www.amusingplanet.com/2013/05/kazuki-yamamotos-incredible-3d-coffee.html</a></p>
 <h2>Opphav på navnet</h2>
 <p>“Selv ordet kaffe er dokumentert fra 1598 på italiensk, caffe, igjen fra tyrkisk kahve, som igjen er avledet fra det arabiske ordet qahwah (kaffe). Det siste skal etter sigende bety vin, men mer sannsynlig er nok forklaringen at ordet har sin opprinnelse i den etiopiske regionen Kaffa, et tradisjonelt område for kaffeproduksjon. Kaffe er forøvrig kalt buno i Etiopia”</p>
 <p><a href="Fra wikipedia artikkelen http://no.wikipedia.org/wiki/Kaffe">Fra wikipedia artikkelen http://no.wikipedia.org/wiki/Kaffe</a> <a href="http://www.etymonline.com/index.php?search=coffee&searchmode=none">http://www.etymonline.com/index.php?search=coffee&searchmode=none</a></p>
