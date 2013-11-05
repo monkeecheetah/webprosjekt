@@ -15,10 +15,14 @@
 	<body>
 		<span class="bmeter"></span>
 		<span class="bak1"></span>
+		
+
 		<header>
 			<h1>Kaffe</h1>
 			<h3> - en kjærlighetshistorie</h3>
 		</header>
+
+
 		<article id ="content">
 			<div id ="intro">
 				<p>Kaffe er det man starter dagen med.<br>
@@ -95,10 +99,10 @@
 						Du utvikler demens senere enn andre.<br>
 						Og mer kaffe du drikker, jo mindre sjanse for parkinson.<br>
 						Og skal du trene nå snart?<br>
-						Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% 
-						Og koffeinen
-						Ikke bare er den oppkvikkende
-						Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein
+						Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10%<br>
+						Og koffeinen<br>
+						Ikke bare er den oppkvikkende<br>
+						Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein<br>
 					</p>
 
 					<p>
@@ -110,48 +114,48 @@
 
 
 			<div id="koffein">	
-				Kjenner du deg kvikk?
-				Selvfølgelig gjør du det
-				Koffeinen tas opp nesten umiddelbart
-				En kopp kaffe inneholder opptil 200mg koffein
-				Energidrikker? Ca. 80mg
-				Er det mørkbrent kaffe inneholder den mindre koffein en lysbrent
-				Så nyt kaffen din
-				Man finner forøvrig koffein i mer enn 60 planter
-				Og 90% av jordas befolkning tar til seg koffein på et vis
-				Nyter du en bit sjokolade til kaffen din?
-				Den inneholder også koffein
-				Og smertestillende kan også inneholde koffein
-				Gjør de det er de inntil 40% mer effektive
-				og kan hjelpe kroppen til å ta det opp raskere
+				Kjenner du deg kvikk?<br>
+				Selvfølgelig gjør du det<br>
+				Koffeinen tas opp nesten umiddelbart<br>
+				En kopp kaffe inneholder opptil 200mg koffein<br>
+				Energidrikker? Ca. 80mg<br>
+				Er det mørkbrent kaffe inneholder den mindre koffein en lysbrent<br>
+				Så nyt kaffen din<br>
+				Man finner forøvrig koffein i mer enn 60 planter<br>
+				Og 90% av jordas befolkning tar til seg koffein på et vis<br>
+				Nyter du en bit sjokolade til kaffen din?<br>
+				Den inneholder også koffein<br>
+				Og smertestillende kan også inneholde koffein<br>
+				Gjør de det er de inntil 40% mer effektive<br>
+				og kan hjelpe kroppen til å ta det opp raskere<br><br><br>
 			</div>
 
 
 			<div id="norge">
-				Kaffe er 60% av antioksidant inntaket på den norske befolkningen
-			Norge fikk kaffe på 1600 tallet
-			Da som en luksusvare, for rikfolket
-			I dag drikkes det av alle sosiale lag
-			Men det har vært e gradvis klassereise
-			I dag er norge ett Kaffesentrum
-			Med kaffehandlere som Wendelboe og hva nå han andre het
-			masse enkeltstående kaffebarer og brennerier
-				-Sitat fra utenlandsk journalist
+				Kaffe er 60% av antioksidant inntaket på den norske befolkningen<br>
+				Norge fikk kaffe på 1600 tallet<br>
+				Da som en luksusvare, for rikfolket<br>
+				I dag drikkes det av alle sosiale lag<br>
+				Men det har vært e gradvis klassereise<br>
+				I dag er norge ett Kaffesentrum<br>
+				Med kaffehandlere som Wendelboe og hva nå han andre het<br>
+				masse enkeltstående kaffebarer og brennerier<br>
+					-Sitat fra utenlandsk journalist<br><br><br>
 
 			</div>
 			
 			
 
 			<div id="beanyman">
-				Når kaffen kommer til norge er det lyse bønner
-				Så brennes den i Norge
-				Brenningen avgjør mye av smaken
-				Mye brent gir XXXX
-				Lite brent XXX
-				Og det kan legges til aroma
-				Så kvernes kaffen
-				Enten hos kaffehuset
-				Eller kverner du bønnene selv?
+				Når kaffen kommer til norge er det lyse bønner<br>
+				Så brennes den i Norge<br>
+				Brenningen avgjør mye av smaken<br>
+				Mye brent gir XXXX<br>
+				Lite brent XXX<br>
+				Og det kan legges til aroma<br>
+				Så kvernes kaffen<br>
+				Enten hos kaffehuset<br>
+				Eller kverner du bønnene selv?<br><br><br><br>
 			</div>
 
 
