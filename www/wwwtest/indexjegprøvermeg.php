@@ -50,52 +50,59 @@
 			<div id="legends">
 				<h2>Hvordan oppdaget vi kaffen da?</h2>
 					<p>
-						Her plasserer vi historie og heges tegninger
+						Her plasserer vi historie og heges tegninger<br>
 					</p>
 
 			</div>
 
 			<div id="mekking">
-				Hvordan tar du kaffen din?
-			Svart?
-			Med melk?
-			Som latte?
-			Fra lokale kaffebaren?
-				Insert kaffeknapp her
+				<p>
+				Hvordan tar du kaffen din?<br>
+				Svart?<br>
+				Med melk?<br>
+				Som latte?<br>
+				Fra lokale kaffebaren?<br>
+					Insert kaffeknapp her<br><br>
+				</p>
 
 
-
-			Har du prøvd en red eye - filterkaffe med en shot espresso
-			Viatnemesisk iskaffe?
-			Og hvordan lager du den?
-			En kapsel?
-			Fra Moccamaster?
-			Presskanne?
-			Tilberedt med en chemex?
-			Slow-drip - som tar 12 timer
+				<p>
+					Har du prøvd en red eye - filterkaffe med en shot espresso<br>
+					Vietnaemesisk iskaffe?<br>
+					Og hvordan lager du den?<br>
+					Fra Moccamaster?<br>
+					Presskanne? (info, link)<br>
+					Vakumkolbe?(tilhørende bilde)
+					Tilberedt med en chemex?(tilhørende bilde)<br>
+					Slow-drip - som tar 12 timer<br>
+				</p>
 
 			</div>
 		
 
 
 			<div id="helse">
-					Hvor mange kopper har du drukket i dag?
-					1?
-					2?
-					3?
-					5?
-					Godt, for er du på den 5. koppen så har du senket mulighetene for diabetes type 2 med 50%
-					Du har senket sjansen for å få en masse hjerte og kar sykdommer
-					Du utvikler demens senere enn andre
-					Og mer kaffe du drikker, jo mindre sjanse for parkinson
-					Og skal du trene nå snart?
-					Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% 
-					Og koffeinen
-					Ikke bare er den oppkvikkende
-					Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein
-					Bare for å drikke kaffe
-					Og siden kaffe stammer fra frukt
-					Kan vi da si at det er en av de fem om dagen?
+					<h2>Hvor mange kopper har du drukket i dag?</h2>
+					<p>
+						1?<br>
+						2?<br>
+						3?<br>
+						5?<br>
+						Godt, for er du på den 5. koppen så har du senket mulighetene for diabetes type 2 med 50%!<br>
+						Du har senket sjansen for å få en masse hjerte og kar sykdommer.<br>
+						Du utvikler demens senere enn andre.<br>
+						Og mer kaffe du drikker, jo mindre sjanse for parkinson.<br>
+						Og skal du trene nå snart?<br>
+						Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% 
+						Og koffeinen
+						Ikke bare er den oppkvikkende
+						Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein
+					</p>
+
+					<p>
+						Og siden kaffe stammer fra frukt
+						Kan vi da si at det er en av de fem om dagen?
+					</p>
 
 			</div>
 
