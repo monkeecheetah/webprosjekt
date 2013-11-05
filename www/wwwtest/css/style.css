@@ -52,6 +52,17 @@ background-color: #fff;
 opacity: 0.5;
 z-index: 10;
 }
+.arrow {
+position: fixed;
+top: 82%;
+left: 50%;
+width: 10px;
+height: 15px;
+text-align: center;
+opacity: 0.6;
+z-index: 10;
+font-size: 130px;
+}
 /*
 .block1 {
 	background-image:url('bildeFull.png');
