@@ -2,9 +2,17 @@ init = function(){
       jarallax = new Jarallax();
 
 
-      jarallax.setDefault('#intro, #p2, #p3', {opacity:'0'});
-      jarallax.setDefault('#p1, #p2, #p3', {marginLeft:'-1000px'});
+      jarallax.setDefault('.content', {opacity:'0'});
+      jarallax.setDefault('.content', {marginLeft:'-1000px'});
 
 
-      jarallax.addAnimation('.planet2',[{progress: "0%", top:"70%"}, {progress: "100%", top: "40%"}]);
-      jarallax.addAnimation('.bean',[{progress: "0%", top:"90%"}, {progress: "100%", top: "-5%"}]);
+      jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"}, {progress: "100%", top: "-10%"}]);		
+
+      jarallax.addAnimation('.bak2',[{progress: "0%", top:"100%"}, {progress: "100%", top: "-10%"}]);
+
+      
+      jarallax.addAnimation('.arrow',[{progress: "0%", opacity:"0.6"}, {progress: "50%"}]);					//pil som hinter til scroll
+      jarallax.addAnimation('.arrow',[{progress: "5%", opacity:"0.4"}, {progress: "100%", top: "2%"}]);
+      jarallax.addAnimation('.arrow',[{progress: "7%", opacity:"0"}, {progress: "100%", top: "8%"}]);
+
+      jarallax.addAnimation('.bmeter',[{progress: "0%", width:"0%"}, {progress: "100%", width: "100%"}]); //progress barometer
