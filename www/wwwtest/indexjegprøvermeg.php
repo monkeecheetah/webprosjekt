@@ -13,8 +13,10 @@
     	<script src="external_code/jarallax-0.2.3b.min"></script>
 	</head>
 	<body>
+		<span class="arrow">&darr;</span>
 		<span class="bmeter"></span>
 		<span class="bak1"></span>
+
 		
 
 		<header>
