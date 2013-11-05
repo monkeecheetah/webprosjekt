@@ -18,6 +18,7 @@
 			<li><a href="?page=kaffeinfo">Hva er kaffe?</a></li>
 			<li><a href="?page=overskrifter">Overskrifter</a></li>
 			<li><a href="?page=kaffehelse">Kaffehelse</a></li>
+			<li><a href="?page=kaffeinorge">Kaffe i Norge</a></li>
 		</ul>
 			<?php
 				if(isset($_GET['page']))
@@ -32,6 +33,8 @@
 						include 'overskrifter.php'; 
 					} else if ($_GET['page'] == 'kaffehelse') {
 						include 'pages/kaffehelse.php'; 
+					} else if ($_GET['page'] == 'kaffeinorge') {
+						include 'pages/kaffeinorge.php'; 
 					} else {
 						include 'pages/main.php';						
 					}
