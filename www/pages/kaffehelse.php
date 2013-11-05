@@ -43,6 +43,3 @@
 	den fiktive personen. Det viste seg at gruppen som hadde fått varm kaffe i større grad beskrev personen<br>
 	som et varmt menneske, mens den andre gruppen var litt mer skeptiske til personen. <a href="http://www.forskning.no/artikler/2008/oktober/198734">(kilde)</a>
 </p>
-
-
-
