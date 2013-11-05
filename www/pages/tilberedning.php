@@ -1,28 +1,27 @@
 <h1>Tilbredning</h1>
-<p>Det finnes mange veier til en god kopp kaffe. <strong>Gode råvarer</strong> er alltid viktigst men<br>
- kaffenerder sverger til forskjellige mange tilbredningsmetoder for å lage kaffen de liker best</p>
 
  <h2>Råvarer</h2>
- 	<p>Bra bønner er det viktigste! Det er gøy å kjøpe bønner og kverne dem selv!<br>
- 	   Det finnes både elektriske kverner og håndkverner. Håndkverner er koselige og <br>
- 	   det lukter supergodt i hele rommet når man kverner, men man går veldig fort lei<br>
- 	   av å kverne for hånd hver gang. Dessuten koster gjerne en håndkvern mer enn en elektrisk en.
+ 	<p>
+ 		Råvarene er viktigst! Kjøp hele bønner.<br>
+ 		Kvern dem selv! Bruk eletrisk kvern eller<br> 
+ 		håndkvern hvis du gidder.
  	</p>
 
- <h2>Kaffe med papirfilter</h2>
-	<h3>Kaffetrakter</h3>
-	 	<p>Det de fleste er vant til trakterkaffe med en moccamaster<br>
-	 	   eller liknende apparat. En slik kaffetrakter gjør mye for deg.<br>
-	 	   Et par tips for litt mer spennende trakterkaffe:</p>
-	 	<ul>
-	 		<li>Kjøp hele bønner og kvern selv</li>
-	 		<li>Pass på å bruke riktig mengde kaffe<br>6-7kaffesjeer pr. liter </li>
-	 		<li>Ikke la kolben stå på varmeplaten for lenge!</li>
-	 		<li>Hell på termokanne</li>
-	 	</ul>
+
+ <h2>Brygg manuelt med med papirfilter</h2>
+ 	<p>Hvis du brygger kaffen for hånd, ikke med kaffetrakter, <br>
+ 	   får du mer kontroll på hva den skal smake!
+ 	</p>
+
+ 	<h2>Teknikker</h2>
+ 		<h3>Chemex</h3>
+
+ 		<h3>Vakumkolbe</h3>
+ 			<p>Var poppis i Norge på 60tallet og ser superkul ut<br>
+
+ 			</p>
 
 
-	<h3>Brygg manuelt</h3>
 	 	<p>Hvis man vil ha litt mer kontroll over filterbrygging kan man<br>
 	 	   bruke de mer manuelle teknikkersom inngår i <strong>håndbrygging</strong>.<br>
 	 	   Det som er mest i vinden for tiden er å bruke en<br>
