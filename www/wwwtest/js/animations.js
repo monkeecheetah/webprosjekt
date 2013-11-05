@@ -2,7 +2,7 @@ init = function(){
       jarallax = new Jarallax();
 
 
-      jarallax.setDefault('.content', {opacity:'0'});
+      jarallax.setDefault('.content div', {opacity:'0'});
       jarallax.setDefault('.content', {marginLeft:'-1000px'});
 
 
