@@ -7,8 +7,7 @@ init = function(){
 
 
       jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"}, {progress: "100%", top: "-10%"}]);		
-
-      jarallax.addAnimation('.bak2',[{progress: "0%", top:"100%"}, {progress: "100%", top: "-10%"}]);
+      //jarallax.addAnimation('.bak2',[{progress: "0%", top:"100%"}, {progress: "100%", top: "-10%"}]);
 
       
       jarallax.addAnimation('.arrow',[{progress: "0%", opacity:"0.6"}, {progress: "50%"}]);					//pil som hinter til scroll
