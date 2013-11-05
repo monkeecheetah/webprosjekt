@@ -12,10 +12,11 @@
 		<script src="js/animations.js"></script>
     	<script src="external_code/jarallax.js"></script>
 	</head>
-	<body>
-		<span class="arrow">&darr;</span>
-		<span class="bmeter"></span>
-		<span class="bak1"></span>
+	<body onload="init()">
+		<div class="wrap">
+			<span class="arrow">&darr;</span>
+			<span class="bmeter"></span>
+			<span class="bak1"></span>
 
 		
 
