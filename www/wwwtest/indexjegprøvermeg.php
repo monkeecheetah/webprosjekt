@@ -13,6 +13,8 @@
     	<script src="external_code/jarallax-0.2.3b.min"></script>
 	</head>
 	<body>
+		<span class="bmeter"></span>
+		<span class="bak1"></span>
 		<header>
 			<h1>Kaffe</h1>
 			<h3> - en kjærlighetshistorie</h3>
