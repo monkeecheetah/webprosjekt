@@ -71,9 +71,16 @@ Basert på denne, tatt fra Wikipedia.</p>
 	<li>Peru</li>
 	<li>Honduras</li>
 </ol>
+<h4>Særpreg fra forskjellige regioner</h4>
 <h3>Kaffe og handel</h3>
 <p>Kaffe på det internasjonale markedet måles i sekker og hver sekk veier 60kg</p>
-
+<h2>Kaffe og kultur</h2>
+<ul>
+	<li>Coffee and cigarettes</li>
+	<li><a href="http://comediansincarsgettingcoffee.com/">Comedians in car getting coffee</a></li>
+	<li>GTA's Hot coffee</li>
+	<li>Blurs Coffee&TV</li>
+</ul>
 <h2>Helseeffekter</h2>
 <h3>Kan kaffe med andre ord erstatte en av de 5 om dagen?</h3>
 <p>Det er de samme stoffene som finnes i frukt og grønnsaker, og som man tror kan forklare den positive effekten av å spise frukt og grønt</p>
@@ -81,12 +88,20 @@ Basert på denne, tatt fra Wikipedia.</p>
 
 <p><a href="http://www.forskning.no/artikler/2006/mai/1148455804.23">http://www.forskning.no/artikler/2006/mai/1148455804.23</a></p>
 <h2>Rare kaffedrikker</h2>
-
+<h3>Svart kaffe</h3>
+<h4>Kaffe Mike Tyson - Svart og uten kjærlighet (sukker)</h4>
+<h3>Melkebaserte kaffedrikker</h3>
+<h3>Iskaffe</h3>
+<h4>Vietnamesisk iskaffe</h4>
 <h2>Funfacts</h2>
-<h3>Kafé</h3>
-<p>Ordet kafé stammer fra ordet kaffe, og skulle være serveringssteder uten alkohol. Bl.a. i muslimske land. Enda myndighetene forsøkte å hindre det, ble bruken av kaffe i det følgende århundre stadig mer vanlig i hele Europa. Det ble den gang antatt at det nye nytelsesmiddel ville redusere alkoholforbruket.</p>
-<p><a href="http://snl.no/kaf%C3%A9">http://snl.no/kaf%C3%A9</a></p>
-
+<h3>Kafé og andre opphavsord</h3>
+<ul>
+	<li>Ordet kafé stammer fra ordet kaffe, og skulle være serveringssteder uten alkohol. Bl.a. i muslimske land. Enda myndighetene forsøkte å hindre det, ble bruken av kaffe i det følgende århundre stadig mer vanlig i hele Europa. Det ble den gang antatt at det nye nytelsesmiddel ville redusere alkoholforbruket.<a href="http://snl.no/kaf%C3%A9">http://snl.no/kaf%C3%A9</a></li>
+	<li>Coffetable</li>
+	<li>Coffetablebook (jfr Seinfeld)</li>
+	<li>Kaffebrød</li>
+	<li>Kaffe/mokka-farget</li>
+</ul>
 <h3>Kaffekonsum verden over</h3>
 <ol>
 	<li>Finland</li>
@@ -113,6 +128,7 @@ Basert på denne, tatt fra Wikipedia.</p>
 <p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. Dette fordi yngre generasjoner i land som Kina og India har begynt å drikke kaffe</p>
 <p>For å dekke verdens behov må kaffen bli dyrere - så bønder kan investere i det utstyret som trengs for å effektivisere produksjonen sin</p>
 <p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
+<p>Noen vil påstå Starbucks har vært en pådriver for mer bærekraftig kaffehandel og høyere kvalitet på kaffen som drikkes (særlig i statene)</p>
 <p><a href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/</a></p>
 <p><a href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/</a></p>
 <p><a href="http://www.waterfootprint.org/Reports/Report14.pdf">http://www.waterfootprint.org/Reports/Report14.pdf</a></p>
