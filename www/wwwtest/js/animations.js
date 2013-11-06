@@ -4,6 +4,7 @@ init = function(){
 
       jarallax.setDefault("p, h2, h3", {opacity:'0'});
       jarallax.setDefault("p, h2, h3", {marginLeft:'-1000px'});
+      jarallax.setDefault("h1",{marginLeft:'30%'});
 
       jarallax.setDefault(".bak1", {top:"-10%"}); //test
 
