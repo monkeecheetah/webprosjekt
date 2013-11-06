@@ -4,10 +4,16 @@ padding: 0;
 height: 12000px;
 color: white;
 }
+
+
 h1{
 font-family: arial, sans-serif, verdana;
 font-size: 200px;
+margin-left: 18%;
+margin-top:40%;
+margin-bottom:5%; 
 }
+
 
 #love{
 	font-family: arial, sans-serif, verdana;
