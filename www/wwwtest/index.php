@@ -18,8 +18,10 @@
 			<span class="arrow">&darr;</span>
 			<span class="bmeter"></span>
 			<span class="bak1"></span>
-
-
+			<span class="bak2"></span>
+			<span class="bak3"></span>
+			<span class="bak4"></span>
+		
 
 		
 
@@ -31,7 +33,7 @@
 
 		<article id ="content">
 			<div id ="intro">
-				<p>Kaffe er det man starter dagen med.<br>
+				<p id="int">Kaffe er det man starter dagen med.<br>
 				Det er over en kaffe man treffer venner.<br>
 				Det er kaffen som gjør dagen så awesome.</p><br>
 				<p>Men hva er det egentlig?</p>
