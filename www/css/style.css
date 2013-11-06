@@ -12,3 +12,8 @@ body{
 		background-image:url('bildeSmall.png');
 	}
 }
+
+h1{
+	font-family: arial;
+	font-size: 60px;
+}
