@@ -2,7 +2,7 @@ init = function(){
       jarallax = new Jarallax();
 
 
-      jarallax.setDefault("p, h1, h2, h3", {opacity:'0'});
+      jarallax.setDefault("p, h2, h3", {opacity:'0'});
       jarallax.setDefault("p, h1, h2, h3", {marginLeft:'-1000px'});
 
       jarallax.setDefault(".bak1", {top:"-10%"}); //test
