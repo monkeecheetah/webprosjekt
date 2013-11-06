@@ -27,7 +27,7 @@
 
 		<header>
 			<h1>Kaffe</h1>
-			<h3> - en kjærlighetshistorie</h3>
+			<h3 id="love"> - en kjærlighetshistorie</h3>
 		</header>
 
 
