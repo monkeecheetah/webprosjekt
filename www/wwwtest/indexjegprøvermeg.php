@@ -7,10 +7,10 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
 		<title>Kaffe - en kjærlighetshistorie</title>
-		<script charset="utf-8" src="external_code/jquery-1.10.2.min.js"></script>
+		<script charset="utf-8" src="external_code/jquery.js"></script>
 		<script charset="utf-8" src="js/script.js"></script>
 		<script src="js/animations.js"></script>
-    	<script src="external_code/jarallax-0.2.3b.min"></script>
+    	<script src="external_code/jarallax.js"></script>
 	</head>
 	<body onload="init()">
 		<div class="wrap">
