@@ -10,10 +10,10 @@ init = function(){
       jarallax.setDefault(".bak1", {top:"-10%"}); //test
 
 
-      jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"}, {progress: "25%", top: "-10"}]);         
-      jarallax.addAnimation('.bak2',[{progress: "0%", top:"100%"}, {progress: "25%", top: "-10%"}]);
-      jarallax.addAnimation('.bak3',[{progress: "0%", top:"200%"}, {progress: "50%", top: "-10%"}]);
-      jarallax.addAnimation('.bak4',[{progress: "0%", top:"300%"}, {progress: "75%", top: "-10%"}]);
+      jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"}, {progress: "25%", top: "-15"}]);         
+      jarallax.addAnimation('.bak2',[{progress: "0%", top:"100%"}, {progress: "25%", top: "-15%"}]);
+      jarallax.addAnimation('.bak3',[{progress: "0%", top:"200%"}, {progress: "50%", top: "-15%"}]);
+      jarallax.addAnimation('.bak4',[{progress: "0%", top:"300%"}, {progress: "75%", top: "-15%"}]);
 
                                                             // sett bak2 til 50
       
@@ -30,6 +30,4 @@ init = function(){
       jarallax.addAnimation('#int',[{progress: "5%", marginLeft:"0"}, {progress: "7%"}]);
 
    }
-
-
 
