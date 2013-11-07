@@ -1,0 +1,21 @@
+{
+	"coffee": {
+		"methods":[{
+			"name": "Aeropress",
+			"t": "t1"},
+			{
+			"name":"Kapselmaskin",
+			"t":"t2"
+			},
+			{
+				"name":"Espressomaskin",
+				"t":"t3"
+			},
+{
+				"name":"Espressomaskin",
+				"t":"t1"
+			}			
+			]
+		}
+
+}

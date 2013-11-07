@@ -4,7 +4,7 @@
 		<title>Kaffe - en kjærlighetshistorie</title>
 		
 		<link rel="stylesheet" type="text/css" title="Standard" href="kaffevelgerstyle.css">
-		<script src="../external_code/jquery.js"></script>
+		<script src="../external_code/jquery-1.10.2.min.js"></script>
 		<script src="kaffescript.js"></script>
     	<meta charset="utf-8">
 	</head>
