@@ -7,7 +7,8 @@
 				"o": "o1",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Presskanne",
@@ -15,7 +16,8 @@
 				"o": "o1",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Mokkakanne",
@@ -23,7 +25,8 @@
 				"o": "o2",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Vakuum-kolbe",
@@ -31,7 +34,8 @@
 				"o": "o2",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Kokekaffe",
@@ -39,7 +43,8 @@
 				"o": "o1",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Aeropress",
@@ -47,7 +52,8 @@
 				"o": "o1",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Espressomaskin",
@@ -55,7 +61,8 @@
 				"o": "o3",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Pulverkaffe",
@@ -63,7 +70,8 @@
 				"o": "o1",
 				"b": "b2",
 				"p": "p2",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Kapselmaskin",
@@ -71,7 +79,8 @@
 				"o": "o3",
 				"b": "b1",
 				"p": "p2",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Cafékaffe",
@@ -79,7 +88,8 @@
 				"o": "o3",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Chemex",
@@ -87,7 +97,8 @@
 				"o": "o2",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},
 			{
 				"name":"Slow drip",
@@ -95,7 +106,8 @@
 				"o": "o2",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			},			
 			{
 				"name":"Håndbrygget",
@@ -103,7 +115,8 @@
 				"o": "o2",
 				"b": "b1",
 				"p": "p1",
-				"img": "hei.jpg"
+				"img": "hei.jpg",
+				"om": ""
 			}			
 			]
 		}

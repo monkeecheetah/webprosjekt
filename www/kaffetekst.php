@@ -5,12 +5,13 @@
 	<p>Man tar en kopp med kolleger</p>
 </div>
 <div id="hvaerkaffe">
-	<h3>Men hva er det?</h3>
+	<h3>Men hva er kaffe?</h3>
 	<p>Er det en bønne?
 	<p>En frukt?</p>
 	<p>Et bær?</p>
 	<p>Et frø?</p>
-	<p>Kaffe er et frø i en frukt, eller “a cherry”</p>
+	<p>Det er frøet i frukten som blir til kaffe</p>
+	<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
 	<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
 	<p>Noen ord om klimaet?</p>
 	<h3>Fra bønne til kopp</h3>
@@ -29,6 +30,8 @@
 	<p>Det vi vet derimot</p>
 	<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
 	<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
+	<p><a href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
+	<p><a href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 </div>
 <div id="kaffetilnorge">
 	<h3>Enn veien til Norge da</h3>
@@ -36,10 +39,36 @@
 	<p>Da som en luksusvare, for rikfolket</p>
 	<p>I dag drikkes det av alle sosiale lag</p>
 	<p>Men det har vært e gradvis klassereise</p>
-	<p>I dag er norge ett Kaffesentrum</p>
-	<p>Med kaffehandlere som Wendelboe og hva nå han andre het</p>
-	<p>masse enkeltstående kaffebarer og brennerier</p>
-	<p>-Sitat fra utenlandsk journalist</p>
+	<p>I dag drikker vi 3-4 kopper om dagen hver</p>
+	<p>Det blir noe sånn som 1200 kopper i året</p>
+	<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året</p>
+	<p><a href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+	<p>Ifølge New York Times er Oslo for kaffe det San Sebastian er for mat <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+	<p>Og anbefaler særlig</p>
+	<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
+	<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
+	<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
+	<p><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
+	<p>Og mange flere</p>
+	<q>Now Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q>
+</div>
+<div id="kaffekonsum">
+	<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
+	<p>Ettefulgt av Finland.</p>
+	<p>Topp 10 listen er som følger</p>
+	<ul>
+		<li>Finland</li>
+		<li>Norge</li>
+		<li>Danmark</li>
+		<li>Nederland</li>
+		<li>Sverige</li>
+		<li>Sveits</li>
+		<li>Beliga</li>
+		<li>Tyskland</li>
+		<li>Canda</li>
+		<li>Estland</li>
+	</ul>
+<p><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
 </div>
 <div id="helse">
 	<h3>Forresten;</h3>
@@ -54,6 +83,7 @@
 	<p>Og mer kaffe du drikker, jo mindre sjanse for parkinson</p>
 	<p>Og skal du trene nå snart?</p>
 	<p>Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% </p>
+	<p><a class="kilde" href="http://www.forskning.no/artikler/2006/mai/1148455804.23">Kilde</a></p>
 </div>
 <div id="koffein">
 <h3>Koffeinen</h3>
@@ -67,6 +97,8 @@
 <p>Og siden kaffe stammer fra frukt</p>
 <p>Kan vi da si at det er en av de fem om dagen?</p>
 <p>Kaffe er 60% av antioksidant inntaket på den norske befolkningen</p>
+<p><a href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
+<p><a href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
 </div>
 
 <div id="hvordankaffen">
@@ -100,29 +132,31 @@
 	<p>Eller kverner du bønnene selv?</p>
 </div>
 <div id="merkoffein">
-<h3>Kjenner du deg kvikk?</h3>
-<p>Selvfølgelig gjør du det</p>
-<p>Koffeinen tas opp nesten umiddelbart</p>
-<p>En kopp kaffe inneholder opptil 200mg koffein</p>
-<p>Energidrikker? Ca. 80mg. </p>
-<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola</p>
-<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
-<p>Nyt kaffen din</p>
-<p>Du har glede av den</p>
-<p>Mentalt</p>
-<p>Og fysisk</p>
-<p>Man finner forøvrig koffein i mer enn 60 planter</p>
-<p>Og 90% av jordas befolkning tar til seg koffein på et vis</p>
-<p>Nyter du en bit sjokolade til kaffen din?</p>
-<p>Den inneholder også koffein</p>
-<p>Og smertestillende kan også inneholde koffein</p>
-<p>Gjør de det er de inntil 40% mer effektive</p>
-<p>og kan hjelpe kroppen til å ta det opp raskere</p>
-<p>Har du opplevd å få fine mønster i kaffen din?</p>
-<p>Har du opplevd å få en figur i kaffen din?</p>
-<p>Kaffebarer har lenge servert cappuccino med et hjerte i toppen</p>
-<p>Nå skal det være 3d-figurer i skummet</p>
-<p>Hva blir det neste?</p>
+	<h3>Kjenner du deg kvikk?</h3>
+	<p>Selvfølgelig gjør du det</p>
+	<p>For du hentet kaffe sant?</p>
+	<p>Koffeinen tas opp nesten umiddelbart</p>
+	<p>En kopp kaffe inneholder opptil 200mg koffein</p>
+	<p>Energidrikker? Ca. 80mg. </p>
+	<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola</p>
+	<p><a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
+	<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
+	<p>Nyt kaffen din</p>
+	<p>Du har glede av den</p>
+	<p>Mentalt</p>
+	<p>Og fysisk</p>
+	<p>Man finner forøvrig koffein i mer enn 60 planter</p>
+	<p>Og 90% av jordas befolkning tar til seg koffein på et vis</p>
+	<p>Nyter du en bit sjokolade til kaffen din?</p>
+	<p>Den inneholder også koffein</p>
+	<p>Og smertestillende kan også inneholde koffein</p>
+	<p>Gjør de det er de inntil 40% mer effektive</p>
+	<p>og kan hjelpe kroppen til å ta det opp raskere</p>
+	<p>Har du opplevd å få fine mønster i kaffen din?</p>
+	<p>Har du opplevd å få en figur i kaffen din?</p>
+	<p>Kaffebarer har lenge servert cappuccino med et hjerte i toppen</p>
+	<p>Nå skal det være 3d-figurer i skummet</p>
+	<p>Hva blir det neste?</p>
 </div>
 <div id="ordetkaffe">
 	<h3>Kaffe - kaffe. Smak på ordet</h3>
@@ -132,8 +166,9 @@
 	<p>Som igjen er avledet fra det arabiske ordet qahwah (kaffe). </p>
 	<p>Det siste skal etter sigende bety vin, </p>
 	<p>Mer sannsynlig har det sin opprinnelse fra den etiopiske regionen Kaffa, et tradisjonelt område for kaffeproduksjon.</p>
-	<p>Og ordet café - ja du har alltid antatt det riktige. Det sxtammer fra ordet kaffe </p>
+	<p>Og ordet café - ja du har alltid antatt det riktige. Det sxtammer fra ordet kaffe <a class="kilde" href="http://snl.no/kaf%C3%A9">[Kilde]</p>
 	<p>Kaffe er forøvrig kalt buno i Etiopia</p>
+	<p><a class="kilde"  href="http://www.etymonline.com/index.php?search=coffee&searchmode=none">[Kilde]</a></p>
 </div>
 <div id="prodland">
 <h3>Etiopia</h3>
@@ -153,6 +188,7 @@
 		<li>Peru</li>
 		<li>Honduras</li>
 	</ol>
+	<p><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
 	<p>Har du forresten prøvd cà phê đá?</p>
 	<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
 	<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
@@ -177,4 +213,7 @@
 	<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
 	<p>For å dekke verdens behov må kaffen bli dyrere</p>
 	<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
+	<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
+	<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
+	<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
 </div>
