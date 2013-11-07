@@ -6,91 +6,104 @@
 				"t": "t1",
 				"o": "o1",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Presskanne",
 				"t":"t2",
 				"o": "o1",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Mokkakanne",
 				"t":"t3",
 				"o": "o2",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Vakuum-kolbe",
 				"t":"t3",
 				"o": "o2",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Kokekaffe",
 				"t":"t1",
 				"o": "o1",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Aeropress",
 				"t":"t1",
 				"o": "o1",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Espressomaskin",
 				"t":"t2",
 				"o": "o3",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Pulverkaffe",
 				"t":"t1",
 				"o": "o1",
 				"b": "b2",
-				"p": "p2"
+				"p": "p2",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Kapselmaskin",
 				"t":"t1",
 				"o": "o3",
 				"b": "b1",
-				"p": "p2"
+				"p": "p2",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Cafékaffe",
 				"t":"t2",
 				"o": "o3",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Chemex",
 				"t":"t2",
 				"o": "o2",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},
 			{
 				"name":"Slow drip",
 				"t":"t3",
 				"o": "o2",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			},			
 			{
 				"name":"Håndbrygget",
 				"t":"t2",
 				"o": "o2",
 				"b": "b1",
-				"p": "p1"
+				"p": "p1",
+				"img": "hei.jpg"
 			}			
 			]
 		}

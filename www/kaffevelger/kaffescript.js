@@ -34,7 +34,6 @@ function displayCoffee() {
 				$('#maskinliste').append(this.name+"<br/>");
 			} else if(this.t == tid && this.o == penger && this.b == bryr && this.p == pavirke){
 				$('#maskinliste').append(this.name+"<br/>");
-
 				console.log(this.name);
 			}
 		});
