@@ -13,7 +13,7 @@
     	<script src="external_code/jarallax.js"></script>
     	<meta charset="utf-8">
 	</head>
-	<body onload="init()">
+	<body>
 		<div class="wrap">
 			<span class="arrow">&darr;</span>
 			<span class="bmeter"></span>
@@ -33,7 +33,7 @@
 
 		<article id ="content">
 			<div id ="intro">
-				<p id="int">Kaffe er det man starter dagen med.<br>
+				<p id="intro1">Kaffe er det man starter dagen med.<br>
 				Det er over en kaffe man treffer venner.<br>
 				Det er kaffen som gjør dagen så awesome.</p><br>
 				<p>Men hva er det egentlig?</p>
