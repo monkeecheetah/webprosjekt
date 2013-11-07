@@ -1,19 +1,96 @@
 {
 	"coffee": {
-		"methods":[{
-			"name": "Aeropress",
-			"t": "t1"},
+		"methods":
+			[{
+				"name": "Kaffetrakter",
+				"t": "t1",
+				"o": "o1",
+				"b": "b1",
+				"p": "p1"
+			},
 			{
-			"name":"Kapselmaskin",
-			"t":"t2"
+				"name":"Presskanne",
+				"t":"t2",
+				"o": "o1",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Mokkakanne",
+				"t":"t3",
+				"o": "o2",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Vakuum-kolbe",
+				"t":"t3",
+				"o": "o2",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Kokekaffe",
+				"t":"t1",
+				"o": "o1",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Aeropress",
+				"t":"t1",
+				"o": "o1",
+				"b": "b1",
+				"p": "p1"
 			},
 			{
 				"name":"Espressomaskin",
-				"t":"t3"
+				"t":"t2",
+				"o": "o3",
+				"b": "b1",
+				"p": "p1"
 			},
-{
-				"name":"Espressomaskin",
-				"t":"t1"
+			{
+				"name":"Pulverkaffe",
+				"t":"t1",
+				"o": "o1",
+				"b": "b2",
+				"p": "p2"
+			},
+			{
+				"name":"Kapselmaskin",
+				"t":"t1",
+				"o": "o3",
+				"b": "b1",
+				"p": "p2"
+			},
+			{
+				"name":"Cafékaffe",
+				"t":"t2",
+				"o": "o3",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Chemex",
+				"t":"t2",
+				"o": "o2",
+				"b": "b1",
+				"p": "p1"
+			},
+			{
+				"name":"Slow drip",
+				"t":"t3",
+				"o": "o2",
+				"b": "b1",
+				"p": "p1"
+			},			
+			{
+				"name":"Håndbrygget",
+				"t":"t2",
+				"o": "o2",
+				"b": "b1",
+				"p": "p1"
 			}			
 			]
 		}

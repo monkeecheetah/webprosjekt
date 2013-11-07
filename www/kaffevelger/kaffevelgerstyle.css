@@ -7,7 +7,7 @@ color:#fff;
 #kaffevelger input[type="radio"]:checked + label { 
     background:pink !important;
 }
-.radio-toolbar input[type="radio"] {
+input[type="radio"] {
     display:none;
 }
 
