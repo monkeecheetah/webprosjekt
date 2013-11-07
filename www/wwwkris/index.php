@@ -12,6 +12,7 @@
 		<script src="js/script.js"></script>
     	<script src="external_code/jarallax.js"></script>
     	<meta charset="utf-8">
+		<meta name='viewport' content='width=device-width; initial-scale=1.0'> 
 	</head>
 	<body onload="init()">
 		<div class="wrap">
