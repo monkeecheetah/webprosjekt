@@ -29,7 +29,7 @@
 				"e": "e3",				
 				"p": "p1",
 				"img": "hei.jpg",
-				"om": ""
+				"om": "Kaffe fra en Mokkakanne er god og fyldig. Den krever litt innsats, spesielt hvis du kverner bønner selv. "
 			},
 			{
 				"name":"Vakuum-kolbe",
@@ -39,7 +39,7 @@
 				"e": "e3",				
 				"p": "p1",
 				"img": "hei.jpg",
-				"om": ""
+				"om": "Ser kjempekult ut! Krever ikke mer innsats enn å ta den av og på platen, fysikken gjør resten av jobben, men bruker litt tid."
 			},
 			{
 				"name":"Kokekaffe",
@@ -49,7 +49,7 @@
 				"e": "e2",				
 				"p": "p1",
 				"img": "hei.jpg",
-				"om": ""
+				"om": "Kok opp vann og kaffe, hell i kopp, superenkelt og raskt!(Hvis du er over 80)"
 			},
 			{
 				"name":"Aeropress",
@@ -108,7 +108,7 @@
 				"b": "b1",
 				"p": "p1",
 				"img": "hei.jpg",
-				"om": ""
+				"om": "Den tøffeste håndbryggeren! Den er designet på 40tallet og har siden vært et ikon for moderne industridesign."
 			},
 			{
 				"name":"Slow drip",
@@ -128,9 +128,8 @@
 				"e": "e3",								
 				"p": "p1",
 				"img": "hei.jpg",
-				"om": ""
-			}			
-			]
+				"om": "Full kontroll over alle kjemiske prosesser! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmenge, tepratur, tekketid, osv"
+			}			]
 		}
 
 }
