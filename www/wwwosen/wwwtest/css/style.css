@@ -6,19 +6,22 @@ color: white;
 }
 
 #intro{
-	margin-top: 50%;
+	margin-top: 20%;
 	margin-left:20%;
 }
 #over1{
 font-family: arial, sans-serif, verdana;
 font-size: 500%;
-margin-left: 18%;
 margin-bottom:5%; 
 }
 #over2{
 font-family: arial, sans-serif, verdana;
 font-size: 30px;
 margin-left:30%;
+}
+#intro.p{
+	margin-left: 30%;
+}
 
 
 
