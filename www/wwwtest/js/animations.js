@@ -7,20 +7,39 @@ $(document).ready(function(){
       // jarallax.setDefault("h1",{marginLeft:'20%', marginBottom:'20px'}); 
       // jarallax.setDefault("#love",{marginLeft:'30%', opacity:'1'});
 
-      jarallax.setDefault(".bak1", {top:"-10%"}); //test
+      jarallax.setDefault(".bak1", {top:"0%"}); //test
+      jarallax.setDefault(".bak2", {top:"100%"}); //test
+       jarallax.setDefault(".bak3", {top:"230%"});
 
 
-      jarallax.addAnimation('.bak1',[{progress: "0%", top:"-10%"},      //start ved progress # , top X
-                                     {progress: "5%", top: "-15"}]);   //slutt ved progress ## , top Y
+      jarallax.addAnimation('.bak1',[{progress: "0%", top:"0%"},      //start ved progress # , top X
+                                     {progress: "11%", top: "15%"}]);   //slutt ved progress ## , top Y
 
-      jarallax.addAnimation('.bak2',[{progress: "6%", top:"100%"}, 
-                                     {progress: "11%", top: "-15%"}]);
+      jarallax.addAnimation('.bak2',[{progress: "8%", top:"100%"}, 
+                                     {progress: "15%", top: "140%"}]);  //STARTBAK2  SLOW
 
-      jarallax.addAnimation('.bak3',[{progress: "0%", top:"200%"},
-                                     {progress: "50%", top: "-15%"}]);
+     jarallax.addAnimation('.bak2',[{progress: "15%", top:"140%"},  //SKLUTTBAK2   RASK
+                                     {progress: "17%", top: "100%"}]);
 
-      jarallax.addAnimation('.bak4',[{progress: "0%", top:"300%"}, 
-                                     {progress: "75%", top: "-15%"}]);
+       jarallax.addAnimation('.bak3',[{progress: "8%", top:"195%"},    //SLOwWWWWW inn**
+                                     {progress: "15%", top: "235%"}]);
+
+      jarallax.addAnimation('.bak3',[{progress: "15%", top:"235%"},    //RASK INN
+                                     {progress: "17%", top: "195%"}]);
+
+      jarallax.addAnimation('.bak3',[{progress: "17%", top:"195%"},    //SLOw ned
+                                     {progress: "24%", top: "235%"}]);
+
+      // jarallax.addAnimation('.bak3',[{progress: "12%", top:"240%"},
+      //                                {progress: "18%", top: "200%"}]);
+
+
+
+
+
+
+      // jarallax.addAnimation('.bak4',[{progress: "0%", top:"300%"}, 
+      //                                {progress: "75%", top: "-15%"}]);
 
                                                             // sett bak2 til 50
       
