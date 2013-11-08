@@ -12,11 +12,11 @@ $(document).ready(function(){
       jarallax.setDefault(".bak6", {top:"1000%"});
 
       jarallax.addAnimation(".bak1",[{progress: "0%", top:"0%"}, {progress: "100%", top: "250%"}]); 
-      jarallax.addAnimation(".bak2",[{progress: "0%", top:"150%"}, {progress: "100%", top: "400%"}]); 
-      jarallax.addAnimation(".bak3",[{progress: "0%", top:"300%"}, {progress: "100%", top: "550%"}]); 
-      jarallax.addAnimation(".bak4",[{progress: "0%", top:"450%"}, {progress: "100%", top: "700%"}]); 
-      jarallax.addAnimation(".bak5",[{progress: "0%", top:"600%"}, {progress: "100%", top: "850%"}]);
-      jarallax.addAnimation(".bak6",[{progress: "0%", top:"750%"}, {progress: "100%", top: "1000%"}]);  
+      jarallax.addAnimation(".bak2",[{progress: "0%", top:"120%"}, {progress: "100%", top: "400%"}]); 
+      jarallax.addAnimation(".bak3",[{progress: "0%", top:"240%"}, {progress: "100%", top: "550%"}]); 
+      jarallax.addAnimation(".bak4",[{progress: "0%", top:"360%"}, {progress: "100%", top: "700%"}]); 
+      jarallax.addAnimation(".bak5",[{progress: "0%", top:"480%"}, {progress: "100%", top: "850%"}]);
+      jarallax.addAnimation(".bak6",[{progress: "0%", top:"600%"}, {progress: "100%", top: "1000%"}]);  
 
      
    });
