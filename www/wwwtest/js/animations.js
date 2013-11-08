@@ -21,14 +21,14 @@ $(document).ready(function(){
      jarallax.addAnimation('.bak2',[{progress: "15%", top:"140%"},  //SKLUTTBAK2   RASK
                                      {progress: "17%", top: "100%"}]);
 
-       jarallax.addAnimation('.bak3',[{progress: "11%", top:"230%"},    //SLOwWWWWW inn**
-                                     {progress: "15%", top: "275%"}]);
+       jarallax.addAnimation('.bak3',[{progress: "8%", top:"195%"},    //SLOwWWWWW inn**
+                                     {progress: "15%", top: "235%"}]);
 
-      jarallax.addAnimation('.bak3',[{progress: "15%", top:"275%"},    //RASK INN
-                                     {progress: "17%", top: "200%"}]);
+      jarallax.addAnimation('.bak3',[{progress: "15%", top:"235%"},    //RASK INN
+                                     {progress: "17%", top: "195%"}]);
 
-      // jarallax.addAnimation('.bak3',[{progress: "10%", top:"200%"},    //SLOw
-      //                                {progress: "13%", top: "240%"}]);
+      jarallax.addAnimation('.bak3',[{progress: "17%", top:"195%"},    //SLOw ned
+                                     {progress: "24%", top: "235%"}]);
 
       // jarallax.addAnimation('.bak3',[{progress: "12%", top:"240%"},
       //                                {progress: "18%", top: "200%"}]);
