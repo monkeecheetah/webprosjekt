@@ -11,12 +11,12 @@ $(document).ready(function(){
       jarallax.setDefault(".bak5", {top:"800%"});
       jarallax.setDefault(".bak6", {top:"1000%"});
 
-      jarallax.addAnimation(".bak1",[{progress: "0%", top:"0%"}, {progress: "100%", top: "100%"}]); 
-      jarallax.addAnimation(".bak2",[{progress: "0%", top:"200%"}, {progress: "100%", top: "300%"}]); 
-      jarallax.addAnimation(".bak3",[{progress: "0%", top:"400%"}, {progress: "100%", top: "5000%"}]); 
-      jarallax.addAnimation(".bak4",[{progress: "0%", top:"600%"}, {progress: "100%", top: "700%"}]); 
-      jarallax.addAnimation(".bak5",[{progress: "0%", top:"800%"}, {progress: "100%", top: "900%"}]);
-      jarallax.addAnimation(".bak6",[{progress: "0%", top:"1000%"}, {progress: "100%", top: "1100%"}]);  
+      jarallax.addAnimation(".bak1",[{progress: "0%", top:"0%"}, {progress: "100%", top: "150%"}]); 
+      jarallax.addAnimation(".bak2",[{progress: "0%", top:"200%"}, {progress: "100%", top: "350%"}]); 
+      jarallax.addAnimation(".bak3",[{progress: "0%", top:"400%"}, {progress: "100%", top: "550%"}]); 
+      jarallax.addAnimation(".bak4",[{progress: "0%", top:"600%"}, {progress: "100%", top: "750%"}]); 
+      jarallax.addAnimation(".bak5",[{progress: "0%", top:"800%"}, {progress: "100%", top: "950%"}]);
+      jarallax.addAnimation(".bak6",[{progress: "0%", top:"1000%"}, {progress: "100%", top: "1150%"}]);  
 
      
    });
