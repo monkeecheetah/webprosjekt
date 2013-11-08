@@ -36,7 +36,8 @@
 <div id="kaffetilnorge">
 	<h3>Enn veien til Norge da</h3>
 	<p>Norge fikk kaffe på 1600 tallet</p>
-	<p>Da som en luksusvare, for rikfolket</p>
+	<p>Det første dokumenterte spor etter kaffe i Christiania finner vi i et skifte etter overtollbetjent Nicolay Flygl fra 1694. Her nevnes: 1 kofi potte og kiel av blich, verds 2 ort.</p>
+	<p>På den tiden en luksusvare, for rikfolket</p>
 	<p>I dag drikkes det av alle sosiale lag</p>
 	<p>Men det har vært e gradvis klassereise</p>
 	<p>I dag drikker vi 3-4 kopper om dagen hver</p>
