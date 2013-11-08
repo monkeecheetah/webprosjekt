@@ -2,6 +2,7 @@ $(document).ready(function(){
       jarallax = new Jarallax();
       console.log("Jeg spiser havregrøt til min kaffe");
 
+      jarallax.addAnimation('.bmeter',[{progress: "0%", width:"0%"}, {progress: "100%", width: "100%"}]); //progress barometer*/
 
       jarallax.addAnimation('.bak1',[{progress: "0%", top:"0"}, {progress: "100%", top: "50%"}]); 
       jarallax.addAnimation('.bak2',[{progress: "0%", top:"200"}, {progress: "100%", top: "250%"}]); 
