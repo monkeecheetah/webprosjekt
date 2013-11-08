@@ -4,12 +4,12 @@ $(document).ready(function(){
 
       jarallax.addAnimation('.bmeter',[{progress: "0%", width:"0%"}, {progress: "100%", width: "100%"}]); //progress barometer*/
 
-      jarallax.setDefault(".bak1", {top:"0%"});
+     /* jarallax.setDefault(".bak1", {top:"0%"});
       jarallax.setDefault(".bak2", {top:"200%"});
       jarallax.setDefault(".bak3", {top:"400%"});
       jarallax.setDefault(".bak4", {top:"600%"});
       jarallax.setDefault(".bak5", {top:"800%"});
-      jarallax.setDefault(".bak6", {top:"1000%"});
+      jarallax.setDefault(".bak6", {top:"1000%"});*/
 
       jarallax.addAnimation('.bak1',[{progress: "0%", top:"0"}, {progress: "100%", top: "50%"}]); 
       jarallax.addAnimation('.bak2',[{progress: "0%", top:"200"}, {progress: "100%", top: "250%"}]); 
