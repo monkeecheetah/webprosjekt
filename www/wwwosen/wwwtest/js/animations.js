@@ -13,27 +13,27 @@ $(document).ready(function(){
 
 
     /*  jarallax.addAnimation(".bak1",[{progress: "0%", top:"0%"}, {progress: "20%", top: "30%"}]); // 250% på 20%*/
-      jarallax.addAnimation(".bak1",[{progress: "9%", top:"0%"}, {progress: "35%", top: "100%"}]); //250% på 5%
+      jarallax.addAnimation(".bak1",[{progress: "9%", top:"0%"}, {progress: "25%", top: "200%"}]); //250% på 5%
 
 
      /* jarallax.addAnimation(".bak2",[{progress: "0%", top:"120%"}, {progress: "20%", top: "150%"}]);*/
-      jarallax.addAnimation(".bak2",[{progress: "9%", top:"120%"}, {progress: "35%", top: "220%"}]); 
+      jarallax.addAnimation(".bak2",[{progress: "9%", top:"120%"}, {progress: "25%", top: "320%"}]); 
 
 
      /* jarallax.addAnimation(".bak3",[{progress: "0%", top:"240%"}, {progress: "20%", top: "270%"}]); */
-      jarallax.addAnimation(".bak3",[{progress: "9%", top:"240%"}, {progress: "35%", top: "340%"}]); 
+      jarallax.addAnimation(".bak3",[{progress: "9%", top:"240%"}, {progress: "25%", top: "440%"}]); 
 
 
      /* jarallax.addAnimation(".bak4",[{progress: "0%", top:"360%"}, {progress: "20%", top: "390%"}]);*/
-      jarallax.addAnimation(".bak4",[{progress: "9%", top:"360%"}, {progress: "35%", top: "460%"}]); 
+      jarallax.addAnimation(".bak4",[{progress: "9%", top:"360%"}, {progress: "25%", top: "560%"}]); 
 
 
      /* jarallax.addAnimation(".bak5",[{progress: "0%", top:"480%"}, {progress: "20%", top: "510%"}]);*/
-      jarallax.addAnimation(".bak5",[{progress: "9%", top:"480%"}, {progress: "35%", top: "580%"}]); 
+      jarallax.addAnimation(".bak5",[{progress: "9%", top:"480%"}, {progress: "25%", top: "680%"}]); 
 
 
    /*   jarallax.addAnimation(".bak6",[{progress: "0%", top:"600%"}, {progress: "20%", top: "630%"}]);  */
-      jarallax.addAnimation(".bak6",[{progress: "9%", top:"600%"}, {progress: "35%", top: "700%"}]); 
+      jarallax.addAnimation(".bak6",[{progress: "9%", top:"600%"}, {progress: "25%", top: "800%"}]); 
 
      
    });
