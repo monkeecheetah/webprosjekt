@@ -17,8 +17,8 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak1", [{progress:"24%", top:"150%"}, {progress:"31%", top:"150%"}]); // bytte til bak3(progress 7%, top 0%)
       jarallax.addAnimation(".bak1",[{progress:"31%", top:"150%"}, {progress:"46%", top:"300%"}]);  // slomo bak3
       jarallax.addAnimation(".bak1",[{progress:"46%", top:"300%"}, {progress:"54%", top:"300%"}]);  // bytte til bak4
-      jarallax.addAnimation(".bak1",[{progress:"54%", top:"300%"}, {progress:"69%", top:"450%"}]);  // slomo bak4
-      jarallax.addAnimation(".bak1",[{progress:"69%", top:"450%"}, {progress:"76%", top:"450%"}]);  //bytte til bak5
+      jarallax.addAnimation(".bak1",[{progress:"54%", top:"300%"}, {progress:"67%", top:"450%"}]);  // slomo bak4
+      jarallax.addAnimation(".bak1",[{progress:"67%", top:"450%"}, {progress:"74%", top:"450%"}]);  //bytte til bak5
 
      /* jarallax.addAnimation(".bak2",[{progress: "0%", top:"120%"}, {progress: "20%", top: "150%"}]);*/
       jarallax.addAnimation(".bak2",[{progress: "9%", top:"120%"}, {progress: "24%", top: "270%"}]); 
@@ -26,7 +26,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak2",[{progress:"31%", top:"270%"}, {progress:"46%", top:"420%"}]);
       jarallax.addAnimation(".bak2",[{progress:"46%", top:"420%"}, {progress:"54%", top:"420%"}]);
       jarallax.addAnimation(".bak2",[{progress:"54%", top:"420%"}, {progress:"67%", top:"570%"}]);
-      jarallax.addAnimation(".bak2",[{progress:"69%", top:"570%"}, {progress:"76%", top:"570%"}]);
+      jarallax.addAnimation(".bak2",[{progress:"67%", top:"570%"}, {progress:"74%", top:"570%"}]);
 
 
      /* jarallax.addAnimation(".bak3",[{progress: "0%", top:"240%"}, {progress: "20%", top: "270%"}]); */
@@ -35,7 +35,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak3",[{progress:"31%", top:"390%"}, {progress:"46%", top:"540%"}]);
       jarallax.addAnimation(".bak3",[{progress:"46%", top:"540%"}, {progress:"54%", top:"540%"}]);
       jarallax.addAnimation(".bak3",[{progress:"54%", top:"540%"}, {progress:"67%", top:"690%"}]);
-      jarallax.addAnimation(".bak3",[{progress:"69%", top:"690%"}, {progress:"76%", top:"690%"}]);
+      jarallax.addAnimation(".bak3",[{progress:"67%", top:"690%"}, {progress:"74%", top:"690%"}]);
 
      /* jarallax.addAnimation(".bak4",[{progress: "0%", top:"360%"}, {progress: "20%", top: "390%"}]);*/
       jarallax.addAnimation(".bak4",[{progress: "9%", top:"360%"}, {progress: "24%", top: "510%"}]); 
@@ -43,7 +43,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak4",[{progress:"31%", top:"510%"}, {progress:"46%", top:"660%"}]);
       jarallax.addAnimation(".bak4",[{progress:"46%", top:"660%"}, {progress:"54%", top:"660%"}]);
       jarallax.addAnimation(".bak4",[{progress:"54%", top:"660%"}, {progress:"67%", top:"810%"}]);
-      jarallax.addAnimation(".bak4",[{progress:"69%", top:"810%"}, {progress:"76%", top:"810%"}]);
+      jarallax.addAnimation(".bak4",[{progress:"67%", top:"810%"}, {progress:"74%", top:"810%"}]);
 
 
      /* jarallax.addAnimation(".bak5",[{progress: "0%", top:"480%"}, {progress: "20%", top: "510%"}]);*/
@@ -52,7 +52,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak5",[{progress:"31%", top:"630%"}, {progress:"46%", top:"780%"}]);
       jarallax.addAnimation(".bak5",[{progress:"46%", top:"780%"}, {progress:"54%", top:"780%"}]);
       jarallax.addAnimation(".bak5",[{progress:"54%", top:"780%"}, {progress:"67%", top:"930%"}]);
-      jarallax.addAnimation(".bak5",[{progress:"69%", top:"930%"}, {progress:"76%", top:"930%"}]);
+      jarallax.addAnimation(".bak5",[{progress:"67%", top:"930%"}, {progress:"74%", top:"930%"}]);
 
 
    /*   jarallax.addAnimation(".bak6",[{progress: "0%", top:"600%"}, {progress: "20%", top: "630%"}]);  */
@@ -61,7 +61,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak6",[{progress:"31%", top:"750%"}, {progress:"46%", top:"900%"}]);
       jarallax.addAnimation(".bak6",[{progress:"46%", top:"900%"}, {progress:"54%", top:"900%"}]);
       jarallax.addAnimation(".bak6",[{progress:"54%", top:"900%"}, {progress:"67%", top:"1050%"}]);
-      jarallax.addAnimation(".bak6",[{progress:"69%", top:"1050%"}, {progress:"76%", top:"1050%"}]);
+      jarallax.addAnimation(".bak6",[{progress:"67%", top:"1050%"}, {progress:"74%", top:"1050%"}]);
 
      
    });
