@@ -74,7 +74,7 @@ $(document).ready(function(){
       jarallax.addAnimation(".bak6",[{progress:"54%", top:"900%"}, {progress:"67%", top:"1050%"}]);
       jarallax.addAnimation(".bak6",[{progress:"67%", top:"1050%"}, {progress:"75%", top:"1050%"}]);
       jarallax.addAnimation(".bak6",[{progress:"75%", top:"1050%"}, {progress:"89%", top:"1200%"}]);
-      jarallax.addAnimation(".bak6",[{progress:"89%", top:"1200%"}, {progress:"100%", top:"1200%"}]);
+      jarallax.addAnimation(".bak6",[{progress:"89%", top:"1200%"}, {progress:"110%", top:"1200%"}]);
       /*jarallax.addAnimation(".bak6",[{progress:"97%", top:"1200%"}, {progress:"100%", top:"1350%"}]);*/
 
      
