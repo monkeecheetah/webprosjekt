@@ -6,7 +6,7 @@ color: white;
 }
 
 #intro{
-	/*margin-top: 20%;*/
+	margin-top: 20%;
 	margin-left:20%;
 }
 #over1{
@@ -19,7 +19,7 @@ font-family: arial, sans-serif, verdana;
 font-size: 30px;
 margin-left:30%;
 }
-#intro.p{
+#intro, p{
 	margin-left: 30%;
 }
 
