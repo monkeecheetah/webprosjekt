@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 
      /* jarallax.addAnimation(".bak3",[{progress: "0%", top:"240%"}, {progress: "20%", top: "270%"}]); */
-      jarallax.addAnimation(".bak3",[{progress: "9%", top:"240%"}, {progress: "25%", top: "140%"}]); 
+      jarallax.addAnimation(".bak3",[{progress: "9%", top:"240%"}, {progress: "25%", top: "340%"}]); 
 
 
      /* jarallax.addAnimation(".bak4",[{progress: "0%", top:"360%"}, {progress: "20%", top: "390%"}]);*/
