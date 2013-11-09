@@ -3,16 +3,17 @@ margin: 0;
 padding: 0;
 height: 9500px;
 color: white;
+font-family: arial, sans-serif, verdana;
 }
 
 #intro{
 	margin-top: 20%;
-	margin-left:20%;
+	margin-left:17%;
 	/*pikk*/
 }
 #over1{
 font-family: arial, sans-serif, verdana;
-font-size: 500%;
+font-size: 1000%;
 margin-bottom:5%; 
 }
 #over2{
@@ -20,8 +21,20 @@ font-family: arial, sans-serif, verdana;
 font-size: 30px;
 margin-left:30%;
 }
-#intro, p{
+#intro p{
 	margin-left: 30%;
+	font-size: 300%;
+
+}
+
+#hvaerkaffe{
+	margin-left: 17%;
+
+}
+#hvaerkaffe p{
+	margin-left: 30%;
+	font-size: 300%;
+
 }
 
 

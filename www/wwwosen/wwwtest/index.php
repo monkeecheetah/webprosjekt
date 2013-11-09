@@ -26,7 +26,7 @@
 		
 		<div id="intro">
 			<h1 id="over1">Kaffe</h1>
-			<p id ="over2">En kjærlighetshistore</p>
+			<p id ="over2">- En kjærlighetshistore</p>
 			<p>Det man starter dagen med</p>
 			<p>Det treffer venner over en kopp</p>
 			<p>Man tar en kopp med kolleger</p>
