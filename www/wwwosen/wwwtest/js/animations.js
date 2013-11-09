@@ -11,7 +11,7 @@ $(document).ready(function(){
       jarallax.setDefault(".bak5", {top:"480%"});
       jarallax.setDefault(".bak6", {top:"600%"});
 
-      jarallax.addAnimation("#hvaerkaffe", [{progress:"10%", opacity:"1"}, {progress:"11%", opacity:"0"}]);
+      jarallax.addAnimation("#hvaerkaffe", [{progress:"18%", opacity:"1"}, {progress:"19%", opacity:"0"}]);
 
 
       jarallax.addAnimation(".bak1",[{progress: "9%", top:"0%"}, {progress: "24%", top: "150%"}]);  // slomo bak2 (progress 15%, top 150%)
