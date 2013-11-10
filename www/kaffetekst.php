@@ -77,7 +77,8 @@
 	<p>1?</p>
 	<p>2?</p>
 	<p>3?</p>
-	<p>5?</p>
+	<p>Drikker du mellom 3 og 4 kopper om dagen er du på landsgjennomsnittet</p>
+	<p>4? 5?</p>
 	<p>Godt, for er du på den 5. koppen så har du senket mulighetene for diabetes type 2 med 50%</p>
 	<p>Du har senket sjansen for å få en masse hjerte og kar sykdommer</p>
 	<p>Du utvikler demens senere enn andre</p>
@@ -124,13 +125,34 @@
 	<p>Slow-drip - som tar 12 timer</p>
 	<p>Når kaffe eksporteres er den lysegrønn nesten hvit</p>
 	<p>Så brennes den i Norge</p>
+	<p>Før den brennes smaker den ingenting</p>
 	<p>Brenningen avgjør mye av smaken</p>
-	<p>Mye brent gir XXXX</p>
-	<p>Lite brent XXX</p>
+	<p>Brenningen frigjør oljen i kaffen som gir smak</p>
+	<p>Mye brent gir mer smak</p>
+	<p>Lite brent lite smak</p>
 	<p>Og det kan legges til aroma</p>
 	<p>Så kvernes kaffen</p>
 	<p>Enten hos kaffehuset</p>
 	<p>Eller kverner du bønnene selv?</p>
+	<p><a href="http://www.friele.no/alt-om-kaffe/kaffebonnen-blir-storre-ved-brenning/">[Kilde]</a></p>
+</div>
+<div id="tilberedning">
+	<h3>Tilberedning</h3>
+	<p>Uansett hvordan du lager kaffe</p>
+	<p>Finnes det noen grunnprinsipper</p>
+	<p>Nykvernet kaffe gir best smak</p>
+	<p>Det sies at det tar bare noen minutter fra den er kvernet til den mister mye smak og aroma</p>
+	<p>Ferskt vann</p>
+	<p>Vann mister mye av oksygennivået når det har stått en stund</p>
+	<p>Så at kaffe kommer fra en fancy maskin hjelper ikke om vannet har stått en uke</p>
+	<p>Og renhold er viktig</p>
+	<p>Kaffetraktere bør renses annenhver uke</p>
+	<p>En dårlig kaffetrakter kan erstattes med en filterholder og en vannkoker</p>
+	<p>Bare sørg for at vannet holder rett temperatur (90-96 grader)</p>
+	<p>Også bør kaffe drikkes løpet av en halvtime etter brygging</p>
+	<p>Og ikke kaffen bør ikke stå på trakteren</p>
+	<p>Da blir den besk</p>
+	<a href="http://www.nrk.no/livsstil/slik-lager-du-den-beste-kaffen_-1.7164523">[Kilde]</a>
 </div>
 <div id="merkoffein">
 	<h3>Kjenner du deg kvikk?</h3>
@@ -176,7 +198,7 @@
 	<p>Etiopa. Hvor kaffe kom fra, og fortsatt kommer fra</p>
 	<p>Er i dag det 5. mest produserende landet</p>
 	<p>Topp 10 er forøvrig</p>
-	<p>1/3 av kaffen kommer faktisk fra Brasil.</p>
+	<p>1/3 av verdenskaffeproduksjon skjer i Brasil.</p>
 	<ol>
 		<li>Brazil</li>
 		<li>Vietnam</li>
@@ -208,7 +230,7 @@
 	<h3>Fra kaffen såes i jorda</h3>	
 	<p>- til den er i din kopp</p>
 	<p>Trengs det 140 liter vann</p>
-	<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
+	<p>Kaffe dyrkes i en del land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
 	<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
 	<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
 	<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
