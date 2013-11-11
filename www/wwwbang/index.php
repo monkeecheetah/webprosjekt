@@ -57,7 +57,7 @@
 			</section>
 
 			<section id="bak3" data-speed="100" data-type="background">
-				<span id="over3" data-speed="1" data-type="over"></span>
+				<span id="over3" data-speed="2" data-type="over2"></span>
 				<article>mer tekst
 				<h3>Men hva er kaffe?</h3>
 					<p>Er det en bønne?
