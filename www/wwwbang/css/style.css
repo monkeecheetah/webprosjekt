@@ -1,63 +1,87 @@
 
 body{
-	margin:0;
-	padding:0;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
 }
 
 
 
 #bak1{
-	background: url(images/beans2.jpg) 50% 0 no-repeat fixed; 
+	background: url(images/beans2.jpg) 110% 0 no-repeat fixed; 
 	height: 1000px;  
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+/*    box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
 
 }
 #bak2{
-	background: url(images/5882139013_7c6d68b520_o.jpg) 50% 0 no-repeat fixed; 
+	background: url(images/5882139013_7c6d68b520_o.jpg) 110% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 #bak3{
-	background: url(images/beans.jpg) 100% 0 no-repeat fixed; 
+	background: url(images/8112875566_653aab9940_o.jpg) 110% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 #bak4{
-	background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed; 
+	background: url(images/6085694779_9a49e657f5_o.jpg) 110% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 
 #bak1 article
 {
-	margin-left: 40%;
+	margin-left: 2%;
 	color: blue;
 	font-size: 1.2em;
+	background-color: 
+}
+
+#over1
+{
+background: url("images/3552538209_8b7a313bbc_o 2.png") no-repeat scroll transparent; 
+height: 100%; 
+position: absolute; 
+text-indent: -9999px; 
+top: 291px; 
+left: 40px;
+width: 100%; 
 }
 #bak2 article
 {
 	margin-left: 40%;
 	color: blue;
 	font-size: 1.2em;
+
+}
+#over3
+{
+background: url("images/3552538209_8b7a313bbc_o 2.png") no-repeat scroll transparent; 
+height: 100%; 
+position: absolute; 
+text-indent: -9999px; 
+top: 291px; 
+left: 40px;
+width: 100%; 
 }
 #bak3 article
 {
@@ -71,70 +95,3 @@ body{
 	color: blue;
 	font-size: 1.2em;
 }
-
-
-
-/*.bak3{
-width: 100%;
-height: 110%;
-background:url(images/beans3.jpg) top center no-repeat;
-top:0%;
-left:0%;
-position:absolute;
-z-index:-1;
-background-size: cover;
-}*/
-/*.bak4{
-width: 100%;
-height: 110%;
-background:url(images/beans4.jpg) top center no-repeat;
-top:0%;
-left:0%;
-position:absolute;
-z-index:-1;
-background-size: cover;
-}*/
-/*.bmeter {
-position: fixed;
-top: 0px;
-left: 0px;
-width: 0%;
-height: 15px;
-background-color: #fff;
-opacity: 0.5;
-z-index: 10;
-}
-.arrow {
-position: fixed;
-top: 82%;
-left: 50%;
-width: 10px;
-height: 15px;
-text-align: center;
-opacity: 0.6;
-z-index: 10;
-font-size: 130px;
-}*/
-/*#intro{
-	position: fixed;
-	top: 82%;
-left: 50%;
-width: 10px;
-height: 15px;
-text-align: center;
-color: blue;*/
-
-
-/*
-.block1 {
-	background-image:url('bildeFull.png');
-}
-@media screen and (max-width:500px) {
-	body{
-		background-color:red;
-	}
-	.block1 {
-		background-image:url('bildeSmall.png');
-	}
-}
-*/
