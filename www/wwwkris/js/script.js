@@ -1,7 +1,11 @@
 $(document).ready(function() {
 
+	var winH = $(window).height();
+	$('#intro').css('height', winH*0.75);
+	$('.section').css('height', winH);
 });
 
+/*
  $(window).scroll(function(){
        var leftToBottom = $(document).height() - $(window).height() - $(window).scrollTop();
        var distanceFromTop = $(window).scrollTop();
@@ -9,9 +13,11 @@ $(document).ready(function() {
           && leftToBottom > 200) {
             $(".content").fadeIn();
        }else if($(".content").is(":visible") && (distanceFromTop < 600 || leftToBottom < 600)){
-            $("#fade-in-area").fadeOut();
+            $(".content").fadeOut();
       }
    });
+*/
+
 
 // $(document).ready(function(){
 // $('#intro p').each(function() {
