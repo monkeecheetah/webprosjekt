@@ -49,8 +49,27 @@ body{
 
 #bak1 article
 {
-	margin-left: 40px;
-	color: red;
+	margin-left: 40%;
+	color: blue;
+	font-size: 1.2em;
+}
+#bak2 article
+{
+	margin-left: 40%;
+	color: blue;
+	font-size: 1.2em;
+}
+#bak3 article
+{
+	margin-left: 40%;
+	color: blue;
+	font-size: 1.2em;
+}
+#bak4 article
+{
+	margin-left: 40%;
+	color: blue;
+	font-size: 1.2em;
 }
 
 

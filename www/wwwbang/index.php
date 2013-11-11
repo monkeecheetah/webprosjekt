@@ -19,20 +19,89 @@
 			<span class="bmeter"></span>
 
 			<section id="bak1" data-speed="100" data-type="background">
-				<article>Tekst her</article>
+				<article>
+<h3>Men hva er kaffe?</h3>
+	<p>Er det en bønne?
+	<p>En frukt?</p>
+	<p>Et bær?</p>
+	<p>Et frø?</p>
+	<p>Det er frøet i frukten som blir til kaffe</p>
+	<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+	<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
+	<p>Noen ord om klimaet?</p>
+	<h3>Fra bønne til kopp</h3>
+	<p>Fruktene høstes</p>
+	<p>Frøene tas ut</p>
+	<p>Tørkes</p>
+	<p>Sorteres</p>
+	<p>Og sendes i 60kg sekker verden rundt</p>
+	<p>Det er den 2. mest (lovlige) omsatte varen i verden etter olje</p>
+				</article>
 			</section>
 
 			<section id="bak2" data-speed="75" data-type="background">
-				<article>Teskt her 2</article>
+				<article>Teskt her 2
+<h3>Men hva er kaffe?</h3>
+	<p>Er det en bønne?
+	<p>En frukt?</p>
+	<p>Et bær?</p>
+	<p>Et frø?</p>
+	<p>Det er frøet i frukten som blir til kaffe</p>
+	<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+	<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
+	<p>Noen ord om klimaet?</p>
+	<h3>Fra bønne til kopp</h3>
+	<p>Fruktene høstes</p>
+	<p>Frøene tas ut</p>
+	<p>Tørkes</p>
+	<p>Sorteres</p>
+	<p>Og sendes i 60kg sekker verden rundt</p>
+	<p>Det er den 2. mest (lovlige) omsatte varen i verden etter olje</p>
+				</article>
 			</section>
 
 			<section id="bak3" data-speed="50" data-type="background2">
-				<article>mer tekst</article>
+				<article>mer tekst
+<h3>Men hva er kaffe?</h3>
+	<p>Er det en bønne?
+	<p>En frukt?</p>
+	<p>Et bær?</p>
+	<p>Et frø?</p>
+	<p>Det er frøet i frukten som blir til kaffe</p>
+	<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+	<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
+	<p>Noen ord om klimaet?</p>
+	<h3>Fra bønne til kopp</h3>
+	<p>Fruktene høstes</p>
+	<p>Frøene tas ut</p>
+	<p>Tørkes</p>
+	<p>Sorteres</p>
+	<p>Og sendes i 60kg sekker verden rundt</p>
+	<p>Det er den 2. mest (lovlige) omsatte varen i verden etter olje</p>
+				</article>
 			</section>
 
 
 			<section id="bak4" data-speed="25" data-type="background2">
-				<article>mer tekssssst</article>
+				<article>mer tekssssst
+er tekst
+<h3>Men hva er kaffe?</h3>
+	<p>Er det en bønne?
+	<p>En frukt?</p>
+	<p>Et bær?</p>
+	<p>Et frø?</p>
+	<p>Det er frøet i frukten som blir til kaffe</p>
+	<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+	<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
+	<p>Noen ord om klimaet?</p>
+	<h3>Fra bønne til kopp</h3>
+	<p>Fruktene høstes</p>
+	<p>Frøene tas ut</p>
+	<p>Tørkes</p>
+	<p>Sorteres</p>
+	<p>Og sendes i 60kg sekker verden rundt</p>
+	<p>Det er den 2. mest (lovlige) omsatte varen i verden etter olje</p>
+				</article>
 			</section>
 
 			<!-- 
