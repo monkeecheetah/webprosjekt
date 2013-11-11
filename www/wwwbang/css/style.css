@@ -26,8 +26,18 @@ body{
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     background-size: cover;
 }
-#bak2{
-	background: url(images/beans.jpg) 50% 0 no-repeat fixed; 
+#bak3{
+	background: url(images/beans.jpg) 100% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    background-size: cover;
+}
+#bak4{
+	background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
@@ -37,11 +47,12 @@ body{
     background-size: cover;
 }
 
+#bak1 article
+{
+	margin-left: 40px;
+	color: red;
+}
 
-
-#bak1 article { background: url("../images/intro.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
-
-#bak2 article { background: url("../images/parallax.png") no-repeat scroll center top transparent; height: 458px; position: absolute; text-indent: -9999px; top: 291px; width: 100%; }
 
 
 /*.bak3{

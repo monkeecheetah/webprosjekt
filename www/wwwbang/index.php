@@ -18,19 +18,24 @@
 			<span class="arrow">&darr;</span>
 			<span class="bmeter"></span>
 
-			<section id="bak1" data-speed="50" data-type="background">
+			<section id="bak1" data-speed="100" data-type="background">
 				<article>Tekst her</article>
 			</section>
 
-			<section id="bak2" data-speed="20" data-type="background">
+			<section id="bak2" data-speed="75" data-type="background">
 				<article>Teskt her 2</article>
 			</section>
 
-			<section id="bak3" data-speed="10" data-type="background">
+			<section id="bak3" data-speed="50" data-type="background2">
 				<article>mer tekst</article>
 			</section>
 
-			
+
+			<section id="bak4" data-speed="25" data-type="background2">
+				<article>mer tekssssst</article>
+			</section>
+
+			<!-- 
 			<span class="bak4"></span>
 		
 		<div id="intro">
@@ -253,7 +258,7 @@
 	<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
 	<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
 </div>
-
+ -->
 		
 
 	</body>
