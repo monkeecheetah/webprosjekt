@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
 	var winH = $(window).height();
-	$('#intro').css('height', winH*0.75);
-	$('.section').css('height', winH);
+	$('.content').css('height', winH*0.75);
+	$('.block').css('height', winH);
 });
 
 /*
