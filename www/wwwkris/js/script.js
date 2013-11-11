@@ -5,18 +5,17 @@ $(document).ready(function() {
 	$('.block').css('height', winH);
 });
 
-/*
+
  $(window).scroll(function(){
-       var leftToBottom = $(document).height() - $(window).height() - $(window).scrollTop();
+       var leftToBottom = $(window).height() - $(window).scrollTop();
        var distanceFromTop = $(window).scrollTop();
        if( distanceFromTop > 100 && !$(".content").is(":visible") 
           && leftToBottom > 200) {
-            $(".content").fadeIn();
-       }else if($(".content").is(":visible") && (distanceFromTop < 600 || leftToBottom < 600)){
-            $(".content").fadeOut();
+            $(this).fadeIn();
+       }else if($(".content").is(":visible") && (distanceFromTop < 100 || leftToBottom < 100)){
+            $(this).fadeOut();
       }
    });
-*/
 
 
 // $(document).ready(function(){

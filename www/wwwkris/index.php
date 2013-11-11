@@ -243,7 +243,7 @@
 		</div>
 
 		<div class="block12 block">
-			<div id="kaffeansvar">
+			<div id="kaffeansvar" class="content">
 				<h3>Fra kaffen såes i jorda</h3>	
 				<p>- til den er i din kopp</p>
 				<p>Trengs det 140 liter vann</p>
