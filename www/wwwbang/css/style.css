@@ -1,140 +1,197 @@
 
 body{
-	margin:0;
-	padding:0;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
 }
 
 
 
 #bak1{
-	background: url(images/beans2.jpg) 50% 0 no-repeat fixed; 
+	background: url(images/beans2.jpg) 110% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 	height: 1000px;  
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+/*    box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
 
 }
 #bak2{
-	background: url(images/5882139013_7c6d68b520_o.jpg) 50% 0 no-repeat fixed; 
+	background: url(images/2291755823_513c35efd6_o.jpg) 110% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 #bak3{
-	background: url(images/beans.jpg) 100% 0 no-repeat fixed; 
+	background: url(images/1424445_10152028026882139_716846569_n.jpg) 110% 0 no-repeat fixed; /*fjell til vann*/
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 #bak4{
-	background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed; 
+	background: url(images/1401901_10152028027422139_1551925132_o.jpg) 110% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
+}
+#bak5{
+	background: url(images/5882139013_7c6d68b520_o.jpg) 110% 0 no-repeat fixed;  /* kaffesekk*/
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
+}
+#bak6{
+	background: url(images/6085694779_9a49e657f5_o.jpg) 110% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
+}
+#bak7{
+	background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 110% 0 no-repeat fixed;  /* Kaffemoleky */
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
+}
+#bak8{
+	background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
 
-#bak1 article
+
+#over1
 {
-	margin-left: 40%;
-	color: blue;
-	font-size: 1.2em;
+background: url("images/3552538209_8b7a313bbc_o.png") no-repeat scroll transparent; 
+height: 100%; 
+position: absolute; 
+text-indent: -9999px; 
+top: 291px; 
+left: 40px;
+width: 100%; 
 }
 #bak2 article
 {
 	margin-left: 40%;
 	color: blue;
 	font-size: 1.2em;
+
 }
-#bak3 article
+#over3
 {
-	margin-left: 40%;
-	color: blue;
-	font-size: 1.2em;
+background: url("images/3552538209_8b7a313bbc_o 2.png") no-repeat scroll transparent; 
+height: 100%; 
+position: absolute; 
+text-indent: -9999px; 
+top: 291px; 
+left: 40px;
+width: 100%; 
+z-index: 2;
 }
-#bak4 article
+
+
+/*FRA KRIS *********************/
+body {
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+}
+/*.block {        
+    position:relative;
+    z-index:1;
+    height:100%;
+    width:100%;
+    background-attachment:fixed;     this keeps the background in place 
+    background-size:cover;
+    background-repeat:no-repeat;
+    background:url(images/beans.jpg);
+}*/
+#intro {
+    float:left;
+    margin-top:50px;
+    padding-top:20px;
+    padding-left:20%;
+    width:80%;
+}
+q {
+    clear:left;
+    float:left;
+    background-color:rgba(255,255,255,0.4);
+    padding:20px;
+}
+.content {
+    float:left;
+    margin-top:50px;
+    padding-top:20px;
+    padding-left:20%;
+    width:80%;
+    position:relative;
+    z-index:2;
+    overflow:auto;
+    -moz-box-shadow: 1px 2px 20px rgba(255,255,255,.1);
+    -webkit-box-shadow: 1px 2px 20px rgba(255,255,255,.1);
+    box-shadow: 1px 2px 20px rgba(255,255,255,.1);
+    padding-bottom:50px;
+}
+.content h1, .content h3 {
+    text-align:center;
+    background-color:#fff;
+    float:left;
+    clear:left;    
+}
+.content p {
+    float:left;
+    clear:left;
+    margin-left:auto;
+    margin-right:auto;
+    /*text-align:center;*/
+	color:rgba(255,255,255,1);
+	background-color:rgba(255,255,255,0.4);
+	font-size: 2em;	
+	max-width: 500px;	
+	
+}
+.block1
 {
-	margin-left: 40%;
-	color: blue;
-	font-size: 1.2em;
+	margin-left: 60%;
+}
+
+ul,ol {
+    background-color:rgba(255,255,255,0.4);
+    float: left;
+    clear: left;
+}
+a {
+    color:#fff;
+    background-color:#000;
 }
 
 
-
-/*.bak3{
-width: 100%;
-height: 110%;
-background:url(images/beans3.jpg) top center no-repeat;
-top:0%;
-left:0%;
-position:absolute;
-z-index:-1;
-background-size: cover;
-}*/
-/*.bak4{
-width: 100%;
-height: 110%;
-background:url(images/beans4.jpg) top center no-repeat;
-top:0%;
-left:0%;
-position:absolute;
-z-index:-1;
-background-size: cover;
-}*/
-/*.bmeter {
-position: fixed;
-top: 0px;
-left: 0px;
-width: 0%;
-height: 15px;
-background-color: #fff;
-opacity: 0.5;
-z-index: 10;
-}
-.arrow {
-position: fixed;
-top: 82%;
-left: 50%;
-width: 10px;
-height: 15px;
-text-align: center;
-opacity: 0.6;
-z-index: 10;
-font-size: 130px;
-}*/
-/*#intro{
-	position: fixed;
-	top: 82%;
-left: 50%;
-width: 10px;
-height: 15px;
-text-align: center;
-color: blue;*/
-
-
-/*
-.block1 {
-	background-image:url('bildeFull.png');
-}
-@media screen and (max-width:500px) {
-	body{
-		background-color:red;
-	}
-	.block1 {
-		background-image:url('bildeSmall.png');
-	}
-}
-*/
