@@ -71,7 +71,7 @@ $(document).ready(function(){
           if(windowPosY >= 900 && windowPosY <= 1200)
           {
 
-	          $('#intro p').each( function(i)			// endre så jeg kan snakke til en og en #ID
+	          $('#intro p, #intro h3').each( function(i)			// endre så jeg kan snakke til en og en #ID
 	          {
 	              
 	              var bottom_of_object = $(this).position().top + $(this).outerHeight();
@@ -102,23 +102,25 @@ $(document).ready(function(){
 	          });  
 
           }
-          // else if(windowPosY >= 1250 && windowPosY <= 1300)
-          // {
-          // 	 $('#oppdagelsen p').each( function(i)			// endre så jeg kan snakke til en og en #ID
-	         //  {
-	              
-	         //      var bottom_of_object = $(this).position().top + $(this).outerHeight();
-	         //      var bottom_of_window = $(window).scrollTop() + $(window).height();
-	              
-	         //      /* If the object is completely visible in the window, fade it it */
-	         //      if( bottom_of_window > bottom_of_object )
-	         //      {
-	         //          $(this).animate({'opacity':'0'},1300);                    
-	         //      }
-	         //  });  
+          else if(windowPosY >= 2300 && windowPosY <= 2700)
+          {
 
-          // }
-          /* Check the location of each desired element */
+	          $('#kaffetilnorge p').each( function(i)			// endre så jeg kan snakke til en og en #ID
+	          {
+	              
+	              var bottom_of_object = $(this).position().top + $(this).outerHeight();
+	              var bottom_of_window = $(window).scrollTop() + $(window).height();
+	              
+	              /* If the object is completely visible in the window, fade it it */
+	              if( bottom_of_window > bottom_of_object )
+	              {
+	                  $(this).animate({'opacity':'1'},2400);                    
+	              }
+	          });  
+
+          }
+          
+
 
   });
 

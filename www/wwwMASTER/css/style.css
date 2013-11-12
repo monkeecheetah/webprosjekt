@@ -45,7 +45,7 @@ color: white;
 margin-right: 90%
  }
 
-p {
+p, h3 {
     opacity:0;
     /*background-color: rgba(255,255,255,0.4);*/
 }
