@@ -80,12 +80,12 @@ $(document).ready(function(){
 	              /* If the object is completely visible in the window, fade it it */
 	              if( bottom_of_window > bottom_of_object )
 	              {
-	                  $(this).animate({'opacity':'1'},1500);                    
+	                  $(this).animate({'opacity':'1'},1000);                    
 	              }
 	          });  
           //do things
           }
-          else if(windowPosY >= 1200 && windowPosY <= 1250)
+          else if(windowPosY >= 1500 && windowPosY <= 1900)
           {
 
 	          $('#oppdagelsen p').each( function(i)			// endre så jeg kan snakke til en og en #ID
@@ -97,27 +97,27 @@ $(document).ready(function(){
 	              /* If the object is completely visible in the window, fade it it */
 	              if( bottom_of_window > bottom_of_object )
 	              {
-	                  $(this).animate({'opacity':'1'},1250);                    
+	                  $(this).animate({'opacity':'1'},1600);                    
 	              }
 	          });  
 
           }
-          else if(windowPosY >= 1250 && windowPosY <= 1300)
-          {
-          	 $('#oppdagelsen p').each( function(i)			// endre så jeg kan snakke til en og en #ID
-	          {
+          // else if(windowPosY >= 1250 && windowPosY <= 1300)
+          // {
+          // 	 $('#oppdagelsen p').each( function(i)			// endre så jeg kan snakke til en og en #ID
+	         //  {
 	              
-	              var bottom_of_object = $(this).position().top + $(this).outerHeight();
-	              var bottom_of_window = $(window).scrollTop() + $(window).height();
+	         //      var bottom_of_object = $(this).position().top + $(this).outerHeight();
+	         //      var bottom_of_window = $(window).scrollTop() + $(window).height();
 	              
-	              /* If the object is completely visible in the window, fade it it */
-	              if( bottom_of_window > bottom_of_object )
-	              {
-	                  $(this).animate({'opacity':'0'},1300);                    
-	              }
-	          });  
+	         //      /* If the object is completely visible in the window, fade it it */
+	         //      if( bottom_of_window > bottom_of_object )
+	         //      {
+	         //          $(this).animate({'opacity':'0'},1300);                    
+	         //      }
+	         //  });  
 
-          }
+          // }
           /* Check the location of each desired element */
 
   });
