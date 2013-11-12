@@ -68,51 +68,6 @@ $(document).ready(function(){
 
 }); // end of life
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//_____________________funker
-// $(document).ready(function(){
-// 	// Cache the Window object
-// 	$window = $(window);
-                
-//    $('span[data-type="over"]').each(function(){
-//      var $bgobj = $(this); // assigning the object
-                    
-//       $(window).scroll(function() {
-                    
-// 		// Scroll the background at var speed
-// 		// the yPos is a negative value because we're scrolling it UP!								
-// 		var yPos = ($window.scrollTop() / $bgobj.data('speed')); 
-		
-// 		// Put together our final background position
-// 		var coords = '10% '+ yPos + 'px';
-
-// 		// Move the background
-// 		$bgobj.css({ backgroundPosition: coords });
-		
-// }); // window scroll Ends
-
-//  });	
-
-// }); 
-//_____________________ fubker
-
 // *****
 // $(window).scroll(function() {
 //     if ($('#specsallA').is(':visible')) {
@@ -120,39 +75,6 @@ $(document).ready(function(){
 //     }
 // });
 // *****
-
-// $(document).ready(function(){
-// 	// Cache the Window object
-// 	$window = $(window);
-                
-//    $('span[data-type="over2"]').each(function(){
-//      var $bobj = $(this); // assigning the object
-                    
-//       $(window).scroll(function() {
-//       	if ($('#over3').is(':visible')) {
-                    
-// 		// Scroll the background at var speed
-// 		// the yPos is a negative value because we're scrolling it UP!								
-// 		var yPos = ($window.scrollTop() / $bobj.data('speed')); 
-		
-// 		// Put together our final background position
-// 		var coords = yPos + 'px';
-
-// 		// Move the background
-// 		$bobj.css({ backgroundPosition: coords });
-		
-// }); // window scroll Ends
-
-//  });	
-
-// }); 
-
-
-
-
-
-
-
 
 
 
@@ -162,16 +84,13 @@ $(document).ready(function(){
 // 	$(this).fadeIn("slow");
 // 	$(this).css({top: 200, left: 200});
 
-// });	
-// })
-
-// .css({top: 200, left: 200, position:'absolute'});
 
 
-// 
-// $("#info-panel").fadeOut("fast");
-// $("#info-panel").css({
-//     top: (new pos),
-//     left: (new pos)
-// });
-// $("#info-panel").fadeIn("fast");
+
+
+
+
+
+
+
+

@@ -7,7 +7,8 @@
 		<title>Kaffe - en kjærlighetshistorie</title>
 		
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
-		<link rel="stylesheet" type="text/css" title="Standard" href="css/reset.css">
+		<!-- <link rel="stylesheet" type="text/css" title="Standard" href="css/reset.css"> -->
+		
 		<script src="external_code/jquery.js"></script>
 		<script src="js/script.js"></script>
     	<meta charset="utf-8">
@@ -40,10 +41,6 @@
 					</div>
 				</div>
 			</section>
-
-
-
-
 
 
 			<section id="bak2" data-speed="100" data-type="background">
