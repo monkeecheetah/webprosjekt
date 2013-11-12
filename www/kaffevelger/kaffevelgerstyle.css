@@ -10,7 +10,9 @@ color:#fff;
 input[type="radio"] {
     display:none;
 }
-
+.kaffe {
+	width:240px;
+}
 .radio-toolbar label {
     display:inline-block;
     background-color:#ddd;
