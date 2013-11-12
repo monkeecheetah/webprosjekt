@@ -7,8 +7,7 @@
 		<title>Kaffe - en kjærlighetshistorie</title>
 		
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
-		<!-- <link rel="stylesheet" type="text/css" title="Standard" href="css/reset.css"> -->
-		
+	
 		<script src="external_code/jquery.js"></script>
 		<script src="js/script.js"></script>
     	<meta charset="utf-8">
@@ -214,6 +213,86 @@
 						<p>Hva blir det neste?</p>
 					</div>
 				</div>
+			</section>
+
+			<section id="bak9" data-speed="100" data-type="background">
+				<div class="block9 block">
+		 			<div id="ordetkaffe" class="content">
+		 				<h3>Kaffe - kaffe. Smak på ordet</h3>
+		 				<p>Hvor kommer det fra?</p>
+		 				<p>Første gang dokumentert er fra 1598 på italiensk, caffe</p>
+		 				<p>Som igjen er fra tyrkisk kahve</p>
+		 				<p>Som igjen er avledet fra det arabiske ordet qahwah (kaffe). </p>
+		 				<p>Det siste skal etter sigende bety vin, </p>
+		 				<p>Mer sannsynlig har det sin opprinnelse fra den etiopiske regionen Kaffa, et tradisjonelt område for kaffeproduksjon.</p>
+		 				<p>Og ordet café - ja du har alltid antatt det riktige. Det sxtammer fra ordet kaffe <a class="kilde" href="http://snl.no/kaf%C3%A9">[Kilde]</a></p>
+						<p>Kaffe er forøvrig kalt buno i Etiopia</p>
+		 				<p><a class="kilde"  href="http://www.etymonline.com/index.php?search=coffee&amp;searchmode=none">[Kilde]</a></p>
+					</div>
+				</div>
+			</section>
+			<section id="bak10" data-speed="100" data-type="background">
+				<div class="block10 block">
+							<div id="prodland" class="content">
+								<h3>Etiopia</h3>
+								<p>Etiopa. Hvor kaffe kom fra, og fortsatt kommer fra</p>
+								<p>Er i dag det 5. mest produserende landet</p>
+								<p>Topp 10 er forøvrig</p>
+								<p>1/3 av kaffen kommer faktisk fra Brasil.</p>
+								<ol>
+									<li>Brazil</li>
+									<li>Vietnam</li>
+									<li>Elfenbenskysten</li>
+									<li>Indonesia</li>
+									<li>Etiopia</li>
+									<li>India</li>
+									<li>Mexico</li>
+									<li>Guatemala</li>
+									<li>Peru</li>
+									<li>Honduras</li>
+								</ol>
+								<p><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
+								<p>Har du forresten prøvd cà phê đá?</p>
+								<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
+								<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
+								<p>Apropos, whisky. Hadde vært gøy å koblet whisky og kaffe. Det må vi få til.</p>
+						</div>
+				</div>
+				
+			</section>
+			<section id="bak11" data-speed="100" data-type="background">
+		-		<div class="block11 block">
+		-			<div id="kaffeogsamfunn" class="content">
+		-				<h3>Kaffe og samfunn</h3>
+		-				<p>Kaffe er i dag en del av samfunnet</p>
+		-				<p>Kaffe er overalt der vi ferdes</p>
+		-				<p>Man møter venner over en kopp kaffe</p>
+		-				<p>Det er aldri et møte uten kaffe</p>
+		-				<p>Man har kirkekaffe</p>
+		-			</div>
+		-		</div>
+			</section>
+			<section id="bak12" data-speed="100" data-type="background">
+				<div class="block12 block">
+		-			<div id="kaffeansvar" class="content">
+		-				<h3>Fra kaffen såes i jorda</h3>	
+		-				<p>- til den er i din kopp</p>
+		-				<p>Trengs det 140 liter vann</p>
+		-				<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
+		-				<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
+		-				<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
+		-				<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
+		-				<p>For å dekke verdens behov må kaffen bli dyrere</p>
+		-				<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
+		-				<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
+		-				<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
+		-				<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
+		-			</div>
+		-		</div>
+
+			</section>
+			<section id="bak13" data-speed="100" data-type="background">
+
 			</section>
 
 	</body>
