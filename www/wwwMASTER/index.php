@@ -13,6 +13,10 @@
     	<meta charset="utf-8">
 	</head>
 	<body>
+			<section id="bak0" data-speed="100" data-type="background">>
+			</section>
+
+
 			<section id="bak1" data-speed="100" data-type="background">
 				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
@@ -62,6 +66,7 @@
 
 			<section id="bak3" data-speed="100" data-type="background">
 				<span id="over3" data-speed="2" data-type="over2"></span>
+				<div class="block3 block">
 					<div id="kaffetilnorge" class="content">
 						<h3>Enn veien til Norge da</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>

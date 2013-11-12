@@ -1,4 +1,13 @@
-/*RESET*/
+/***
+ *      _____    ______    _____   ______   _______ 
+ *     |  __ \  |  ____|  / ____| |  ____| |__   __|
+ *     | |__) | | |__    | (___   | |__       | |   
+ *     |  _  /  |  __|    \___ \  |  __|      | |   
+ *     | | \ \  | |____   ____) | | |____     | |   
+ *     |_|  \_\ |______| |_____/  |______|    |_|   
+ *                                                  
+ *_____________________________________________________________________________________                                                     
+ */
 /*h1, h2, h3, h4, h5, h6, p
 {
   margin: 0;
@@ -8,12 +17,30 @@
   font: inherit;
   vertical-align: baseline;
   }*/
+/***
+ *       _____    ____    _   _   _______   ______   _   _   _______ 
+ *      / ____|  / __ \  | \ | | |__   __| |  ____| | \ | | |__   __|
+ *     | |      | |  | | |  \| |    | |    | |__    |  \| |    | |   
+ *     | |      | |  | | | . ` |    | |    |  __|   | . ` |    | |   
+ *     | |____  | |__| | | |\  |    | |    | |____  | |\  |    | |   
+ *      \_____|  \____/  |_| \_|    |_|    |______| |_| \_|    |_|   
+ *                                                                   
+ *______________________________________________________________________________________                                                                 
+ */
+p {
+    opacity:0;
+    background-color: rgba(255,255,255,0.4);
+}
+
   .block {
 float:left;
 height:80%;
 margin-top:10%;
 overflow:auto;
+/*prøver litt*/
+font-size: 2em;
 }
+
 
 body{
 	margin:0 0 0 0;
@@ -26,11 +53,30 @@ body{
     background-color: red;
 }
 
-
-#bak1{
+/***
+ *      ____    _   _       _               
+ *     |  _ \  (_) | |     | |              
+ *     | |_) |  _  | |   __| |   ___   _ __ 
+ *     |  _ <  | | | |  / _` |  / _ \ | '__|
+ *     | |_) | | | | | | (_| | |  __/ | |   
+ *     |____/  |_| |_|  \__,_|  \___| |_|   
+ *                                          
+ *_____________________________________________________________________________________                                             
+ */
+#bak0{
 	background: url(images/1874968239_5ec7cd1eef_o.jpg) 110% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 	height: 1000px;  
 	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+/*    box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
+    background-size: cover;
+}    
+#bak1{
+    background: url(images/255406114_ddf3ebe9f6_o.jpg) 110% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
+    height: 1000px;  
+    margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
     position: relative; 
@@ -109,7 +155,7 @@ body{
     background-size: cover;
 }
 #bak9{
-	background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+	background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /*uteligger*/
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
@@ -119,7 +165,7 @@ body{
     background-size: cover;
 }
 #bak10{
-    background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+    background: url(images/4448779926_b9329c1568_o.jpg) 110% 0 no-repeat fixed;  /*gul kaffekopp*/
     height: 1000px;
     margin: 0 auto; 
     width: 100%; 
@@ -129,7 +175,7 @@ body{
     background-size: cover;
 }
 #bak11{
-    background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+    background: url(images/8112875566_653aab9940_o.jpg) 110% 0 no-repeat fixed;  /*putesekk*/
     height: 1000px;
     margin: 0 auto; 
     width: 100%; 
@@ -139,7 +185,7 @@ body{
     background-size: cover;
 }
 #bak12{
-    background: url(images/10502752753_673727d16b_o.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+    background: url(images/4048845899_db46e5d2d8_o.jpg) 110% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
     height: 1000px;
     margin: 0 auto; 
     width: 100%; 
@@ -149,7 +195,7 @@ body{
     background-size: cover;
 }
 #bak13{
-    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 110% 0 no-repeat fixed;  /* BYTT BILDE, skal være kaffekopp på bord, ikke  uteligger*/
+    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 110% 0 no-repeat fixed;  
     height: 1000px;
     margin: 0 auto; 
     width: 100%; 
@@ -158,9 +204,19 @@ body{
     /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     background-size: cover;
 }
+/***
+ *      ______   _                   _     _                 
+ *     |  ____| | |                 | |   (_)                
+ *     | |__    | |   ___     __ _  | |_   _   _ __     __ _ 
+ *     |  __|   | |  / _ \   / _` | | __| | | | '_ \   / _` |
+ *     | |      | | | (_) | | (_| | | |_  | | | | | | | (_| |
+ *     |_|      |_|  \___/   \__,_|  \__| |_| |_| |_|  \__, |
+ *                                                      __/ |
+ *                                                     |___/
+ *_____________________________________________________________________________________  
+ */
 
-
-#over1
+/*#over1
 {
 background: url("images/3552538209_8b7a313bbc_o.png") no-repeat scroll transparent; 
 height: 100%; 
@@ -187,7 +243,7 @@ top: 291px;
 left: 40px;
 width: 100%; 
 z-index: 2;
-}
+}*/
 
 
 /*FRA KRIS *********************/
@@ -263,4 +319,4 @@ a {
 }
 
 
-*/*/*/
+*/
