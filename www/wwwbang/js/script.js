@@ -42,31 +42,32 @@ $(document).ready(function(){
 }); // window scroll Ends
 
  });	
+});
 
-	$window = $(window);
+// 	$window = $(window);
                 
-   $('span[data-type="over2"]').each(function(){
-     var $flytobjekt2 = $(this); // assigning the object
+//    $('span[data-type="over2"]').each(function(){
+//      var $flytobjekt2 = $(this); // assigning the object
                     
-      $(window).scroll(function() {
+//       $(window).scroll(function() {
                     
-		// Scroll the background at var speed
-		// the yPos is a negative value because we're scrolling it UP!								
-		var yPos = ($window.scrollTop() / $flytobjekt2.data('speed')); 
+// 		// Scroll the background at var speed
+// 		// the yPos is a negative value because we're scrolling it UP!								
+// 		var yPos = ($window.scrollTop() / $flytobjekt2.data('speed')); 
 		
-		// Put together our final background position
-		var kordinz2 = yPos + 'px';
+// 		// Put together our final background position
+// 		var kordinz2 = yPos + 'px';
 
-		// Move the background
-		$flytobjekt2.css({ backgroundPosition: kordinz2 });
+// 		// Move the background
+// 		$flytobjekt2.css({ backgroundPosition: kordinz2 });
 		
-}); // window scroll Ends
+// }); // window scroll Ends
 
- });	
+//  });	
 
 
 
-}); // end of life
+// }); // end of life
 
 // *****
 // $(window).scroll(function() {
