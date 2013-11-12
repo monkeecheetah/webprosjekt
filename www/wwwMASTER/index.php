@@ -13,7 +13,11 @@
     	<meta charset="utf-8">
 	</head>
 	<body>
-			<section id="bak0" data-speed="100" data-type="background">>
+			<section id="bak0" data-speed="100" data-type="background">
+				<div class="block0 block">
+					<h1>KAFFE</h1> 
+					<h2>- en kjærlighetshistorie</h2>
+				</div>
 			</section>
 
 
@@ -21,7 +25,6 @@
 				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
-						<h1>Kaffe - en kjærlighetshistorie</h1>
 						<p>Det man starter dagen med</p>
 						<p>Det treffer venner over en kopp</p>
 						<p>Man tar en kopp med kolleger</p>
