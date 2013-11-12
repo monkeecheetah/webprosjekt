@@ -1,9 +1,30 @@
+/*RESET*/
+/*h1, h2, h3, h4, h5, h6, p
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  }*/
+  .block {
+float:left;
+height:80%;
+margin-top:10%;
+overflow:auto;
+}
 
 body{
 	margin:0 0 0 0;
 	padding:0 0 0 0;
 }
 
+#header
+{
+    border: solid;
+    background-color: red;
+}
 
 
 #bak1{
@@ -120,10 +141,7 @@ z-index: 2;
 
 
 /*FRA KRIS *********************/
-body {
-	margin:0 0 0 0;
-	padding:0 0 0 0;
-}
+
 /*.block {        
     position:relative;
     z-index:1;
@@ -134,7 +152,7 @@ body {
     background-repeat:no-repeat;
     background:url(images/beans.jpg);
 }*/
-#intro {
+/*#intro {
     float:left;
     margin-top:50px;
     padding-top:20px;
@@ -172,7 +190,7 @@ q {
     clear:left;
     margin-left:auto;
     margin-right:auto;
-    /*text-align:center;*/
+    /*text-align:center;
 	color:rgba(255,255,255,1);
 	background-color:rgba(255,255,255,0.4);
 	font-size: 2em;	
@@ -183,7 +201,7 @@ q {
 {
 	margin-left: 60%;
 }
-*/
+
 ul,ol {
     background-color:rgba(255,255,255,0.4);
     float: left;
@@ -195,3 +213,4 @@ a {
 }
 
 
+*/*/*/
