@@ -71,7 +71,7 @@ $(document).ready(function(){
           if(windowPosY >= 900 && windowPosY <= 1200)
           {
 
-	          $('p').each( function(i)
+	          $('p').each( function(i)			// endre så jeg kan snakke til en og en #ID
 	          {
 	              
 	              var bottom_of_object = $(this).position().top + $(this).outerHeight();
