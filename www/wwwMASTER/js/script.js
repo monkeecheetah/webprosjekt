@@ -1,8 +1,12 @@
 $(document).ready(function(){
 	// Cache the Window object
+	
+	$('section').each(function() {
+	console.log("Du er en sau"); 
+		$(this).css('height',$(window).height()+'px');
+	});
 	$window = $(window);
-                
-   $('section[data-type="background"]').each(function(){
+	$('section[data-type="background"]').each(function(){
      var $bgobj = $(this); // assigning the object
                     
       $(window).scroll(function() {
@@ -63,29 +67,41 @@ $(document).ready(function(){
 //   }); // window scroll Ends
 
 // });  
+tiles = $("#intro h3, #intro p").fadeTo(0,0);
+
+$(window).scroll(function(d,h) {
+    tiles.each(function(i) {
+        a = $(this).offset().top + $(this).height();
+        b = $(window).scrollTop() + $(window).height();
+        if (a < b) $(this).fadeTo(500,1);
+    });
+});
+
   $(window).scroll( function()
   {
           var windowPosY = $(this).scrollTop();
           // var trigger = $('#oppdagelsen').position().top;
 
-          if(windowPosY >= 900 && windowPosY <= 1200)
+          if(windowPosY >= $('.block1').position().top && windowPosY <= $('.block1').position().top+$(window).height())
           {
 
 	          $('#intro p, #intro h3').each( function(i)			// endre så jeg kan snakke til en og en #ID
 	          {
-	              
-	              var bottom_of_object = $(this).position().top + $(this).outerHeight();
-	              var bottom_of_window = $(window).scrollTop() + $(window).height();
-	              
+	              console.log(document.getElementById('intro').scrollTop);
+
+	              var bottom_of_object = $(this).position().top;
+	              var bottom_of_window = $(document).scrollTop() + $(document).height();
+	              console.log("objekt"+bottom_of_object);
+	              console.log("window"+bottom_of_window);
 	              /* If the object is completely visible in the window, fade it it */
 	              if( bottom_of_window > bottom_of_object )
 	              {
-	                  $(this).animate({'opacity':'1'},1000);                    
+	                //  $(this).animate({'opacity':'1'},1000);                    
 	              }
 	          });  
           //do things
           }
-          else if(windowPosY >= 1500 && windowPosY <= 1900)
+          else if(windowPosY >= $('#oppdagelsen').position().top && windowPosY <= $('#oppdagelsen').position().top+$(window).height())
           {
 
 	          $('#oppdagelsen p').each( function(i)			// endre så jeg kan snakke til en og en #ID
@@ -102,7 +118,7 @@ $(document).ready(function(){
 	          });  
 
           }
-          else if(windowPosY >= 2300 && windowPosY <= 2700)
+          else if(windowPosY >= $('#kaffetilnorge').position().top && windowPosY <= $('#kaffetilnorge').position().top+$(window).height())
           {
 
 	          $('#kaffetilnorge p').each( function(i)			// endre så jeg kan snakke til en og en #ID

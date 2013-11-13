@@ -7,12 +7,20 @@
 		<title>Kaffe - en kjærlighetshistorie</title>
 		
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
-	
+		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
 		<script src="external_code/jquery.js"></script>
 		<script src="js/script.js"></script>
     	<meta charset="utf-8">
 	</head>
 	<body>
+			<nav>
+				<ul>
+					<li><a href="">Intro</a></li>
+					<li><a href="">Om</a></li>
+					<li><a href="">Kaffevelger</a></li>	
+					<li><a href="">Velvære</a></li>														
+				</ul>
+			</nav>
 			<section id="bak0" data-speed="100" data-type="background">
 				<div class="block0 block">
 					<h1>KAFFE</h1> 
@@ -269,35 +277,34 @@
 				
 			</section>
 			<section id="bak11" data-speed="100" data-type="background">
-		-		<div class="block11 block">
-		-			<div id="kaffeogsamfunn" class="content">
-		-				<h3>Kaffe og samfunn</h3>
-		-				<p>Kaffe er i dag en del av samfunnet</p>
-		-				<p>Kaffe er overalt der vi ferdes</p>
-		-				<p>Man møter venner over en kopp kaffe</p>
-		-				<p>Det er aldri et møte uten kaffe</p>
-		-				<p>Man har kirkekaffe</p>
-		-			</div>
-		-		</div>
+				<div class="block11 block">
+					<div id="kaffeogsamfunn" class="content">
+						<h3>Kaffe og samfunn</h3>
+						<p>Kaffe er i dag en del av samfunnet</p>
+						<p>Kaffe er overalt der vi ferdes</p>
+						<p>Man møter venner over en kopp kaffe</p>
+						<p>Det er aldri et møte uten kaffe</p>
+						<p>Man har kirkekaffe</p>
+					</div>
+				</div>
 			</section>
 			<section id="bak12" data-speed="100" data-type="background">
 				<div class="block12 block">
-		-			<div id="kaffeansvar" class="content">
-		-				<h3>Fra kaffen såes i jorda</h3>	
-		-				<p>- til den er i din kopp</p>
-		-				<p>Trengs det 140 liter vann</p>
-		-				<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
-		-				<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
-		-				<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
-		-				<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
-		-				<p>For å dekke verdens behov må kaffen bli dyrere</p>
-		-				<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
-		-				<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
-		-				<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
-		-				<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
-		-			</div>
-		-		</div>
-
+					<div id="kaffeansvar" class="content">
+						<h3>Fra kaffen såes i jorda</h3>	
+						<p>- til den er i din kopp</p>
+						<p>Trengs det 140 liter vann</p>
+						<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
+						<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
+						<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
+						<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
+						<p>For å dekke verdens behov må kaffen bli dyrere</p>
+						<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
+						<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
+						<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
+						<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
+					</div>
+				</div>
 			</section>
 			<section id="bak13" data-speed="100" data-type="background">
 
