@@ -85,8 +85,8 @@ p, h3 {
 
 
 body{
-	margin:0 0 0 0;
-	padding:0 0 0 0;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
 }
 
 #header
@@ -108,34 +108,34 @@ body{
 
 #bak0{
     height: 780px;
-	background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
+    background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 }    
 #bak1{
     background: url(images/255406114_ddf3ebe9f6_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/  
 }
 #bak2{
-	background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
+    background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 }
 #bak3{
-	background: url(images/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+    background: url(images/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak4{
-	background: url(images/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
+    background: url(images/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
 }
 #bak5{
-	background: url(images/5882139013_7c6d68b520_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+    background: url(images/5882139013_7c6d68b520_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
 }
 #bak6{
     background: url(images/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
 #bak7{
-	background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
+    background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
 }
 #bak8{
-	background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
+    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
 }
 #bak9{
-	background: url(images/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
+    background: url(images/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
 }
 #bak10{
     background: url(images/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  /*gul kaffekopp*/
@@ -183,9 +183,9 @@ width: 100%;
 }
 #bak2 article
 {
-	margin-left: 40%;
-	color: blue;
-	font-size: 1.2em;
+    margin-left: 40%;
+    color: blue;
+    font-size: 1.2em;
 
 }
 #over3
@@ -252,15 +252,15 @@ q {
     margin-left:auto;
     margin-right:auto;
     /*text-align:center;
-	color:rgba(255,255,255,1);
-	background-color:rgba(255,255,255,0.4);
-	font-size: 2em;	
-	max-width: 500px;	
-	
+    color:rgba(255,255,255,1);
+    background-color:rgba(255,255,255,0.4);
+    font-size: 2em; 
+    max-width: 500px;   
+    
 }
 /*.block1
 {
-	margin-left: 60%;
+    margin-left: 60%;
 }
 
 ul,ol {
