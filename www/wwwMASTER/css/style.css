@@ -94,6 +94,12 @@ body{
     border: solid;
     background-color: red;
 }
+.content p{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 200%;
+    letter-spacing: 5px;
+
+}
 
 /***
  *      ____    _   _       _               
