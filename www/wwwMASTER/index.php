@@ -43,8 +43,9 @@
 						<p>Et frø?</p>
 						<p>Det er frøet i frukten som blir til kaffe</p>
 						<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
-						<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
-						<p>Noen ord om klimaet?</p>
+						<p>Den høstles fra de to vanligste kaffetrærene</p>
+						<p>Arabicatrærene, som vokser i tørt klima, høyt oppe</p>
+						<p>Robustatrærene, som er mer robuste og vokser i tørt klima, i lavlandet</p>
 						<h3>Fra bønne til kopp</h3>
 						<p>Fruktene høstes</p>
 						<p>Frøene tas ut</p>
