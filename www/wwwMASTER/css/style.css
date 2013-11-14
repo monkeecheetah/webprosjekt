@@ -99,7 +99,13 @@ body{
     font-family: Verdana, Geneva, sans-serif;
     font-size: 200%;
     letter-spacing: 3px;
+}
+/*************************PLASSERING AV TEKST**************************/
 
+#intro{
+    width:50%;
+    float: left;
+    margin-left: 5%;
 }
 
 /***
@@ -118,42 +124,39 @@ body{
     background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 }    
 #bak1{
-    background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/  
-}
-#bak2{
     background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 }
-#bak3{
+#bak2{
     background: url(images/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
-#bak4{
+#bak3{
     background: url(images/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
 }
-#bak5{
+#bak4{
     background: url(images/5882139013_7c6d68b520_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
 }
-#bak6{
+#bak5{
     background: url(images/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
-#bak7{
+#bak6{
     background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
 }
-#bak8{
+#bak7{
     background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
 }
-#bak9{
+#bak8{
     background: url(images/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
 }
-#bak10{
+#bak9{
     background: url(images/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  /*gul kaffekopp*/
 }
-#bak11{
+#bak10{
     background: url(images/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  /*putesekk*/
 }
-#bak12{
+#bak11{
     background: url(images/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
 }
-#bak13{
+#bak12{
     background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  
 }
 
