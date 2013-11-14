@@ -21,7 +21,7 @@
 					<li><a href="">Velvære</a></li>														
 				</ul>
 			</nav>
-			<section id="bak0" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak0" data-speed="100" data-type="background">
 				<div class="block0 block">
 					<h1>KAFFE</h1> 
 					<h2>- en kjærlighetshistorie</h2>
@@ -29,8 +29,7 @@
 			</section>
 
 
-			<section id="bak1" data-speed="100" data-type="background">
-				<span id="over1" data-speed="2" data-type="over"></span>
+			<section class="blockWrap" id="bak1" data-speed="100" data-type="background">
 				<div class="block1 block">
 					<div id="intro" class="content">
 						<p>Det man starter dagen med</p>
@@ -57,7 +56,7 @@
 			</section>
 
 
-			<section id="bak2" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
 				<div class="block2 block">
 					<div id="oppdagelsen" class="content">
 						<h3>Hvordan oppdaget vi kaffen da?</h3>
@@ -75,8 +74,7 @@
 
 
 
-			<section id="bak3" data-speed="100" data-type="background">
-				<span id="over3" data-speed="2" data-type="over2"></span>
+			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
 				<div class="block3 block">
 					<div id="kaffetilnorge" class="content">
 						<h3>Enn veien til Norge da</h3>
@@ -102,7 +100,7 @@
 			</section>
 
 
-			<section id="bak4" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak4" data-speed="100" data-type="background">
 				<div class="block4 block">
 				<div id="kaffekonsum" class="content">
 					<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
@@ -125,7 +123,7 @@
 				</div>
 			</section>
 
-			<section id="bak5" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
 				<div class="block5 block">
 					<div id="helse" class="content">
 						<h3>Forresten;</h3>
@@ -144,7 +142,7 @@
 					</div>
 				</div>
 			</section>
-			<section id="bak6" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
 				<div class="block6 block">
 					<div id="koffein" class="content">
 						<h3>Koffeinen</h3>
@@ -164,7 +162,7 @@
 				</div>
 			</section>
 
-			<section id="bak7" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak7" data-speed="100" data-type="background">
 				<div class="block7 block">
 					<div id="hvordankaffen" class="content">
 						<h3>Hvordan tar du kaffen din?</h3>
@@ -199,7 +197,7 @@
 				</div>
 			</section>
 
-			<section id="bak8" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak8" data-speed="100" data-type="background">
 				<div class="block8 block">
 					<div id="merkoffein" class="content">
 						<h3>Kjenner du deg kvikk?</h3>
@@ -231,7 +229,7 @@
 				</div>
 			</section>
 
-			<section id="bak9" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak9" data-speed="100" data-type="background">
 				<div class="block9 block">
 		 			<div id="ordetkaffe" class="content">
 		 				<h3>Kaffe - kaffe. Smak på ordet</h3>
@@ -247,7 +245,7 @@
 					</div>
 				</div>
 			</section>
-			<section id="bak10" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak10" data-speed="100" data-type="background">
 				<div class="block10 block">
 							<div id="prodland" class="content">
 								<h3>Etiopia</h3>
@@ -276,7 +274,7 @@
 				</div>
 				
 			</section>
-			<section id="bak11" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak11" data-speed="100" data-type="background">
 				<div class="block11 block">
 					<div id="kaffeogsamfunn" class="content">
 						<h3>Kaffe og samfunn</h3>
@@ -288,7 +286,7 @@
 					</div>
 				</div>
 			</section>
-			<section id="bak12" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak12" data-speed="100" data-type="background">
 				<div class="block12 block">
 					<div id="kaffeansvar" class="content">
 						<h3>Fra kaffen såes i jorda</h3>	
@@ -306,7 +304,7 @@
 					</div>
 				</div>
 			</section>
-			<section id="bak13" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak13" data-speed="100" data-type="background">
 
 			</section>
 

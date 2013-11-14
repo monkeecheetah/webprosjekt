@@ -1,25 +1,26 @@
 $(document).ready(function(){
 	// Cache the Window object
 	
-	$('section').each(function() {
-	console.log("Du er en sau"); 
+	/*	$('section').each(function() {
+		console.log("Du er en sau"); 
 		$(this).css('height',$(window).height()+'px');
 	});
+	*/
 	$window = $(window);
 	$('section[data-type="background"]').each(function(){
-     var $bgobj = $(this); // assigning the object
+    	var $bgobj = $(this); // assigning the object
                     
-      $(window).scroll(function() {
+    	$(window).scroll(function() {
                     
 		// Scroll the background at var speed
 		// the yPos is a negative value because we're scrolling it UP!								
-		var yPos = -($window.scrollTop() / $bgobj.data('speed')); 
+			var yPos = -($window.scrollTop() / $bgobj.data('speed')); 
 		
 		// Put together our final background position
-		var coords = '100% '+ yPos + 'px';
+			var coords = '100% '+ yPos + 'px';
 
 		// Move the background
-		$bgobj.css({ backgroundPosition: coords });
+			$bgobj.css({ backgroundPosition: coords });
 	}); // window scroll Ends
 });	
 
