@@ -54,7 +54,7 @@
 			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
-						<h3>Enn veien til Norge da</h3>
+						<h3>Hvordan kom kaffen til norge?</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>
 						<p>Og da var det en luksusvare, for rikfolket</p>
 						<p>I dag drikkes det heldigvis av alle sosiale lag</p>
