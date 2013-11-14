@@ -72,6 +72,8 @@ nav li a {
 }
 
 p, h3 {
+    font-family: Arial, "sans-serif";
+
     /*background-color: rgba(255,255,255,0.4);*/
 }
 
@@ -112,6 +114,28 @@ body{
 }    
 #bak1{
     background: url(images/255406114_ddf3ebe9f6_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/  
+}
+.block1 p {
+    float:left;
+    clear:left;
+    color:#fff;
+    background-color:rgba(255,255,255,0.4);
+    padding:2px;
+    font-size:14px;
+}
+
+.block1 h3 {
+    float:left;
+    clear:left;
+    color:#000;
+    background-color:rgba(255,255,255,0.4);
+    padding:2px;
+    font-size:16px;
+}
+
+.block1 {
+    padding-top:120px;
+    padding-bottom:120px;    
 }
 #bak2{
     background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
