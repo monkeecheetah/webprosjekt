@@ -5,13 +5,11 @@ color:#fff;
 }
 .tilbWrap {
 	float:left;
-	width:220px;
-}
-.tilbWrap:nth-child(5n+6){
-	clear:left;
+	width:22%;
+    display:block;
 }
 .kaffeTilbBilde {
-	width:120px;
+	width:20%;
 }
 #kaffevelger input[type="radio"]:checked + label { 
     background:pink !important;
@@ -32,4 +30,16 @@ input[type="radio"] {
 
 .radio-toolbar input[type="radio"]:checked + label {
     background-color:#bbb;
+}
+#kaffeForm {
+    float:left;
+    width:20%;
+}
+#maskinliste {
+    float:left;
+    width:75%;
+}
+#kaffeForm label {
+    margin-top:10px;
+
 }

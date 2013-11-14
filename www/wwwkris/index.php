@@ -8,8 +8,10 @@
 		
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
+		<link rel="stylesheet" type="text/css" title="Standard" href="css/kaffevelgerstyle.css">
 		<script src="external_code/jquery.js"></script>
 		<script src="js/script.js"></script>
+		<script src="js/kaffescript.js"></script>
     	<meta charset="utf-8">
 	</head>
 	<body>
@@ -17,7 +19,7 @@
 				<ul>
 					<li><a href="">Intro</a></li>
 					<li><a href="">Om</a></li>
-					<li><a href="">Kaffevelger</a></li>	
+					<li><a href="#kaffevelger">Kaffevelger</a></li>	
 					<li><a href="">Velvære</a></li>														
 				</ul>
 			</nav>
@@ -30,6 +32,7 @@
 
 
 			<section class="blockWrap" id="bak1" data-speed="100" data-type="background">
+				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
 						<p>Det man starter dagen med</p>
@@ -42,8 +45,9 @@
 						<p>Et frø?</p>
 						<p>Det er frøet i frukten som blir til kaffe</p>
 						<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
-						<p>Som vokser på kaffetrærne langs fjellsiden eller i høyden</p>
-						<p>Noen ord om klimaet?</p>
+						<p>Den høstles fra de to vanligste kaffetrærene</p>
+						<p>Arabicatrærene, som vokser i tørt klima, høyt oppe</p>
+						<p>Robustatrærene, som er mer robuste og vokser i tørt klima, i lavlandet</p>
 						<h3>Fra bønne til kopp</h3>
 						<p>Fruktene høstes</p>
 						<p>Frøene tas ut</p>
@@ -56,26 +60,9 @@
 			</section>
 
 
+
 			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
 				<div class="block2 block">
-					<div id="oppdagelsen" class="content">
-						<h3>Hvordan oppdaget vi kaffen da?</h3>
-						<p>Det finnes to veldig kjente anekdoter</p>
-						<p>gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter</p>
-						<p>Munken som oppdaget</p>
-						<p>Det vi vet derimot</p>
-						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
-						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
-						<p><a href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
-						<p><a href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
-					</div>
-				</div>	
-			</section>
-
-
-
-			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
-				<div class="block3 block">
 					<div id="kaffetilnorge" class="content">
 						<h3>Enn veien til Norge da</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>
@@ -99,32 +86,25 @@
 				</div>
 			</section>
 
+			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
+				<div class="block3 block">
+					<div id="oppdagelsen" class="content">
+						<h3>Hvordan oppdaget vi kaffen da?</h3>
+						<p>Det finnes to veldig kjente anekdoter</p>
+						<p>gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter</p>
+						<p>Munken som oppdaget</p>
+						<p>Det vi vet derimot</p>
+						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
+						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
+						<p><a href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
+						<p><a href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
+					</div>
+				</div>	
+			</section>
+
 
 			<section class="blockWrap" id="bak4" data-speed="100" data-type="background">
 				<div class="block4 block">
-				<div id="kaffekonsum" class="content">
-					<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
-					<p>Ettefulgt av Finland.</p>
-					<p>Topp 10 listen er som følger</p>
-					<ol>
-						<li>Finland</li>
-						<li>Norge</li>
-						<li>Danmark</li>
-						<li>Nederland</li>
-						<li>Sverige</li>
-						<li>Sveits</li>
-						<li>Beliga</li>
-						<li>Tyskland</li>
-						<li>Canda</li>
-						<li>Estland</li>
-					</ol>
-					<p><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
-				</div>
-				</div>
-			</section>
-
-			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
-				<div class="block5 block">
 					<div id="helse" class="content">
 						<h3>Forresten;</h3>
 						<p>Hvor mange kopper har du drukket i dag?</p>
@@ -139,11 +119,30 @@
 						<p>Og skal du trene nå snart?</p>
 						<p>Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% </p>
 						<p><a class="kilde" href="http://www.forskning.no/artikler/2006/mai/1148455804.23">Kilde</a></p>
+
+						<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
+						<p>Ettefulgt av Finland.</p>
+						<p>Topp 10 listen er som følger</p>
+						<ol>
+							<li>Finland</li>
+							<li>Norge</li>
+							<li>Danmark</li>
+							<li>Nederland</li>
+							<li>Sverige</li>
+							<li>Sveits</li>
+							<li>Beliga</li>
+							<li>Tyskland</li>
+							<li>Canda</li>
+							<li>Estland</li>
+						</ol>
+						<p><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
 					</div>
 				</div>
 			</section>
-			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
-				<div class="block6 block">
+
+
+			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
+				<div class="block5 block">
 					<div id="koffein" class="content">
 						<h3>Koffeinen</h3>
 						<p>Ikke bare er den oppkvikkende</p>
@@ -162,8 +161,8 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak7" data-speed="100" data-type="background">
-				<div class="block7 block">
+			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
+				<div class="block6 block">
 					<div id="hvordankaffen" class="content">
 						<h3>Hvordan tar du kaffen din?</h3>
 						<p>Svart?</p>
@@ -197,8 +196,14 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak8" data-speed="100" data-type="background">
-				<div class="block8 block">
+			<section class="blockWrap" = id="kaffeV">
+				<div id="kaffevelger">
+					<?php include('pages/kaffevelger.php'); ?>
+				</div>
+			</section>
+
+			<section class="blockWrap" id="bak7" data-speed="100" data-type="background">
+				<div class="block7 block">
 					<div id="merkoffein" class="content">
 						<h3>Kjenner du deg kvikk?</h3>
 						<p>Selvfølgelig gjør du det</p>
@@ -229,8 +234,8 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak9" data-speed="100" data-type="background">
-				<div class="block9 block">
+			<section class="blockWrap" id="bak8" data-speed="100" data-type="background">
+				<div class="block8 block">
 		 			<div id="ordetkaffe" class="content">
 		 				<h3>Kaffe - kaffe. Smak på ordet</h3>
 		 				<p>Hvor kommer det fra?</p>
@@ -245,8 +250,10 @@
 					</div>
 				</div>
 			</section>
-			<section class="blockWrap" id="bak10" data-speed="100" data-type="background">
-				<div class="block10 block">
+
+
+			<section class="blockWrap" id="bak9" data-speed="100" data-type="background">
+				<div class="block9 block">
 							<div id="prodland" class="content">
 								<h3>Etiopia</h3>
 								<p>Etiopa. Hvor kaffe kom fra, og fortsatt kommer fra</p>
@@ -274,8 +281,10 @@
 				</div>
 				
 			</section>
-			<section class="blockWrap" id="bak11" data-speed="100" data-type="background">
-				<div class="block11 block">
+
+
+			<section class="blockWrap" id="bak10" data-speed="100" data-type="background">
+				<div class="block10 block">
 					<div id="kaffeogsamfunn" class="content">
 						<h3>Kaffe og samfunn</h3>
 						<p>Kaffe er i dag en del av samfunnet</p>
@@ -286,8 +295,10 @@
 					</div>
 				</div>
 			</section>
-			<section class="blockWrap" id="bak12" data-speed="100" data-type="background">
-				<div class="block12 block">
+
+
+			<section class="blockWrap" id="bak11" data-speed="100" data-type="background">
+				<div class="block11 block">
 					<div id="kaffeansvar" class="content">
 						<h3>Fra kaffen såes i jorda</h3>	
 						<p>- til den er i din kopp</p>
@@ -304,7 +315,7 @@
 					</div>
 				</div>
 			</section>
-			<section class="blockWrap" id="bak13" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak12" data-speed="100" data-type="background">
 
 			</section>
 
