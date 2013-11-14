@@ -104,22 +104,28 @@ body{
 }
 /*************************PLASSERING AV TEKST**************************/
 
+/*Gultkaffebønnebilde*/
 #intro{
     width:50%;
     float: left;
     margin-left: 5%;
+}
+#intro h3{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 200%;
+}
+
+
+/*Norge*/
+#kaffetilnorge{
+    width:50%;
+    float: right;
+    margin-left: 5%;
 
 }
 #intro h3{
-    font-family: "Arial Black", Gadget, sans-serif
-    font-size: 200%
-}
-
-#kaffetilnorge{
-    width:60%;
-    float: right;
-    margin-left: 10%;
-
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 200%;
 }
 
 /***
