@@ -94,10 +94,11 @@ body{
     border: solid;
     background-color: red;
 }
+
 .content p{
     font-family: Verdana, Geneva, sans-serif;
     font-size: 200%;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
 
 }
 
@@ -117,7 +118,7 @@ body{
     background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 }    
 #bak1{
-    background: url(images/255406114_ddf3ebe9f6_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/  
+    background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/  
 }
 #bak2{
     background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
