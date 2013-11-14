@@ -55,21 +55,19 @@ nav li a {
     letter-spacing: 10px;
     font-size: 700%;
     margin: 0;
-    color: white;
-    background-color:rgba(255,255,255,0.4);    
+    color: white;  
     float:left;
     margin-top: 60%
  }
 .block0 h2
 {
-    background-color:rgba(255,255,255,0.4);
     font-family: Verdana, Geneva, sans-serif;
     letter-spacing: 6px;
     font-size: 100%;
     margin-left: 10%;
     color: white;
     margin-right: 90%;
-    float:left;S
+    float:left;
 }
 
 p, h3 {
@@ -102,6 +100,15 @@ body{
     letter-spacing: 3px;
     line-height:200%;
 }
+.content h3{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 200%;
+}
+
+
+
+
+
 /*************************PLASSERING AV TEKST**************************/
 
 /*Gultkaffebønnebilde*/
@@ -110,23 +117,26 @@ body{
     float: left;
     margin-left: 5%;
 }
-#intro h3{
-    font-family: "Arial Black", Gadget, sans-serif;
-    font-size: 200%;
-}
+
 
 
 /*Norge*/
 #kaffetilnorge{
-    width:50%;
-    float: right;
-    margin-left: 5%;
+    width:60%;
+    margin-left: 50%;
+}
 
+
+/*HVORDANTARDUKAFFEN*/
+#hvordankaffen{
+    width:60%;
+    margin-left: 50%;
+    text-align: center;
+    background-color:rgba(255,255,255,0.4);
 }
-#intro h3{
-    font-family: "Arial Black", Gadget, sans-serif;
-    font-size: 200%;
-}
+
+
+
 
 /***
  *      ____    _   _       _               
@@ -159,10 +169,10 @@ body{
     background: url(images/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
 #bak6{
-    background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
+    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
 }
 #bak7{
-    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
+    background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
 }
 #bak8{
     background: url(images/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/

@@ -43,7 +43,8 @@
 						<p>FRØ er riktig, kaffebønner er egentlig frø!</p>
 						<p>Den høstles fra de to vanligste kaffetrærene</p>
 						<p>Arabicatrærene og robustatrærene</p>
-						<p>Arabicatrærene kan vokse rundt om kring i hele verden, ikke bare i arabien</p>
+						<p>Arabicatrærene plantes rundt om kring i hele verden, ikke bare i arabien.</p>
+						<p>Frøene fra trærene sorteres og tørkes</p>
 						<p>Så sendes de til Norge!<p>
 					</div>
 				</div>
