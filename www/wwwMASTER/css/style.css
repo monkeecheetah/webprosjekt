@@ -58,6 +58,7 @@ nav li a {
     color: white;
     background-color:rgba(255,255,255,0.4);    
     float:left;
+    margin-top: 60%
  }
 .block0 h2
 {
@@ -68,7 +69,7 @@ nav li a {
     margin-left: 10%;
     color: white;
     margin-right: 90%;
-    float:left;
+    float:left;S
 }
 
 p, h3 {
@@ -97,8 +98,9 @@ body{
 
 .content p{
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 200%;
+    font-size: 170%;
     letter-spacing: 3px;
+    line-height:200%;
 }
 /*************************PLASSERING AV TEKST**************************/
 
@@ -106,6 +108,18 @@ body{
     width:50%;
     float: left;
     margin-left: 5%;
+
+}
+#intro h3{
+    font-family: "Arial Black", Gadget, sans-serif
+    font-size: 200%
+}
+
+#kaffetilnorge{
+    width:60%;
+    float: right;
+    margin-left: 10%;
+
 }
 
 /***
