@@ -1,0 +1,22 @@
+@media all and (max-width: 900px) and (min-width:480px) { 
+
+	.block0 h1 {
+		margin-left:30px;
+		margin-top:60px;
+		font-size:150%;
+	}
+
+}
+
+@media all and (max-width: 480px) {
+
+	.block0 h1 {
+		margin-left:30px;
+		margin-top:60px;		
+		font-size:150%;
+	}
+	.block0 h2 {
+		font-size:60%;
+	}
+
+}
