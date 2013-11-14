@@ -136,7 +136,10 @@ body{
     text-align: center;
 }
 #hvordankaffen p{
-     background-color:rgba(255,255,255,0.4);
+
+     background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
+     padding:2px;
+     line-height:500%;/*Setning for setning? eller blir dette for langt?*/
 }
 
 
