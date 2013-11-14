@@ -48,29 +48,18 @@ function displayCoffee() {
 	var thisO = parseFloat(0.0);
 
 	var numM = 0;
-/*
-	console.log("tid"+tid);
-	console.log("penger"+penger);
-	console.log("bryr"+bryr);
-	console.log("egeninnsats"+egeninnsats);
-*/
 	$('#maskinliste').html("");	
 	$.getJSON('kaffe.json', function(data){
 		$.each(data.coffee.methods, function (index, value) {
-/*			console.log("{"+this.t +" and " +tid);
-			console.log(this.o+" and "+ penger);
-			console.log(this.e+" and "+ egeninnsats+"}");			
-*/			
 			thisT = parseFloat(this.t);
 			thisE = parseFloat(this.e);
 			thisO = parseFloat(this.o);
 									
 			if($('#showAll').is(':checked')) {
-				$('#maskinliste').append(this.name+"<img class='kaffe' src='images/"+this.img+"'><br/>");
+				$('#maskinliste').append("<div class='tilbWrap'><h3>"+this.name+"</h3><img class='kaffeTilbBilde' src='images/"+this.img+"'><p class='tilbText'>"+ this.om +"</p></div>");
 				numM =1;
-//			} else if(this.t == tid  && this.o == penger && this.b == bryr && this.e == egeninnsats){
 			} else if((thisT >= tid-tidsPara && thisT <= tid+tidsPara || tid == 0.0 || thisT == 0.0)  && (thisO >= penger-tidsPara && thisO <= penger+tidsPara || penger == 0.0 || thisO == 0.0 ) && (this.b == bryr || bryr == 0.0) && (thisE >= egeninnsats-tidsPara && thisE <= egeninnsats+tidsPara || egeninnsats == 0.0 || thisE == 0.0)){
-				$('#maskinliste').append(this.name+"<img class='kaffe' src='images/"+this.img+"'><br/>");
+				$('#maskinliste').append("<div class='tilbWrap'><h3>"+this.name+"</h3><img class='kaffeTilbBilde' src='images/"+this.img+"'><p class='tilbText'>"+ this.om +"</p></div>");
 				numM++;
 			}
 		});

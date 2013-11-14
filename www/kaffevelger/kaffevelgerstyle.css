@@ -3,7 +3,16 @@ display: inline-block;
 background-color:#000;
 color:#fff;
 }
-
+.tilbWrap {
+	float:left;
+	width:220px;
+}
+.tilbWrap:nth-child(5n+6){
+	clear:left;
+}
+.kaffeTilbBilde {
+	width:120px;
+}
 #kaffevelger input[type="radio"]:checked + label { 
     background:pink !important;
 }

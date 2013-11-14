@@ -20,11 +20,13 @@ $(document).ready(function(){
 
 		// Move the background
 		$bgobj.css({ backgroundPosition: coords });
-		
+	}); // window scroll Ends
+});	
 
-}); // window scroll Ends
 
- });	
+
+
+
 // 	$window = $(window);
                 
 //    $('span[data-type="over"]').each(function(){
