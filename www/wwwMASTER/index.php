@@ -194,6 +194,12 @@
 				</div>
 			</section>
 
+			<section = id="kaffeV">
+				<div id="kaffevelger">
+					
+				</div>
+			</section>
+
 			<section id="bak7" data-speed="100" data-type="background">
 				<div class="block7 block">
 					<div id="merkoffein" class="content">
