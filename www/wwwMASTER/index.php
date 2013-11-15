@@ -15,6 +15,7 @@
     	<meta charset="utf-8">
 	</head>
 	<body>
+
 			<nav>
 				<ul>
 					<li><a href="">Intro</a></li>
@@ -28,6 +29,7 @@
 					<h1>KAFFE</h1> 
 					<h2>- en kjærlighetshistorie</h2>
 				</div>
+				<span id="arrow">&darr;</span>
 			</section>
 
 
