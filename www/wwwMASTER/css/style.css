@@ -150,15 +150,16 @@ body{
 }
 #hvordankaffen p{
 
-     background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
+   /*  background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
      font-size: 250%;
      color:white;
-     padding:2px;
-     float:right;
-     text-align: center;
      margin-top: 10%;
      margin-bottom: 10%;
     /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
+}
+#hvordankaffen h3{
+    font-size: 300%;
+    background-color: rgba(255,255,255,0.4);
 }
 
 /*KAFFEHELSE*/
@@ -170,12 +171,14 @@ body{
 
 }
 #helse p{
-     background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
-     padding:2px;
-     float:left;
-     text-align: center;
-     margin-top: 10%;
-     margin-bottom: 10%;
+    font-size: 250%;
+    padding:2px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#helse h3{
+    font-size: 300%;
+    background-color: rgba(255,255,255,0.4);
 }
 
 
