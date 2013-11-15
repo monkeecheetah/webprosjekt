@@ -91,7 +91,7 @@
 			<section class="blockWrap" id="bak4" data-speed="100" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
-						<h3>HVORDAN TAR DU KAFFEN DIN?</h3>
+						<h3>HVORDAN TAR DU KAFFEN?</h3>
 						<p>Svart?</p>
 						<p>Med melk?</p>
 						<p>Som latte?</p>
