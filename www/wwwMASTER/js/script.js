@@ -1,6 +1,13 @@
 $(document).ready(function(){
 	// Cache the Window object
-	
+		blockFade();
+	function blockFade(){ 
+	 $('#arrow').fadeTo(1000,1, function(){
+	 	$(this).fadeTo(1000,0, function(){
+	 		blockFade();
+	 	});
+	 })
+	};
 	$window = $(window);
 	$('section[data-type="background"]').each(function(){
     	var $bgobj = $(this); // assigning the object
@@ -34,7 +41,4 @@ $(document).ready(function(){
 	        if (a < b) $(this).fadeTo(3000,1);
 	    });
 
-
-	    
-
-}); // end of life
+}); // end of life (as we know it)

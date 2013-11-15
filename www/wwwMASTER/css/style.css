@@ -51,13 +51,13 @@ nav li a {
 #arrow
 {
     position: fixed;
-    top: 82%;
+    bottom: 20%;
     left: 50%;
-    width: 10px;
+    width: 20px;
     height: 15px;
     text-align: center;
     font-size: 130px;
-    color: blue;
+    color: white;
 }
 
 .block0 h1
@@ -68,7 +68,8 @@ nav li a {
     margin: 0;
     color: white;  
     float:left;
-    margin-top: 20%;
+    margin-top: 30%;
+    margin-left: 7%;
  }
 .block0 h2
 {
@@ -79,6 +80,7 @@ nav li a {
     color: white;
     margin-right: 90%;
     float:left;
+    padding-bottom: 25%;
 }
 
 p, h3 {
@@ -172,9 +174,8 @@ body{
  */
 
 #bak0{
-    height: 780px;
+    /*height: 780px;*/
     background: url(images/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
-        padding-bottom:10%;
 }    
 #bak1{
     background: url(images/2291755823_513c35efd6_oSjølmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
