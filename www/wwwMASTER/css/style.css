@@ -138,6 +138,8 @@ body{
 #intro h3{
     font-size: 300%;
     margin-top:20%;
+    border-style: solid;
+    border-bottom-width: 1px;
 }
 
 
@@ -154,6 +156,8 @@ body{
 }
 
 
+
+
 /*HVORDANTARDUKAFFEN*/
 #hvordankaffen{
     width:80%;
@@ -164,7 +168,7 @@ body{
 #hvordankaffen p{
 
    /*  background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
-     font-size: 250%;
+     font-size: 200%;
      color:white;
      margin-top: 10%;
      margin-bottom: 10%;
@@ -175,6 +179,9 @@ body{
     font-size: 350%;
     background-color: rgba(255,255,255,0.4);
 }
+
+
+
 
 /*KAFFEHELSE*/
 #helse{
