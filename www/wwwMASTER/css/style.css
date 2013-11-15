@@ -117,6 +117,7 @@ body{
  
 }
 .content h3{
+    letter-spacing: 7px;
     margin-top: 25%;
     font-family: "Arial Black", Gadget, sans-serif;
     font-size: 200%;
@@ -155,7 +156,7 @@ body{
 
 /*HVORDANTARDUKAFFEN*/
 #hvordankaffen{
-    width:60%;
+    width:80%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -171,7 +172,7 @@ body{
 }
 #hvordankaffen h3{
     letter-spacing: 10px;
-    font-size: 400%;
+    font-size: 350%;
     background-color: rgba(255,255,255,0.4);
 }
 
