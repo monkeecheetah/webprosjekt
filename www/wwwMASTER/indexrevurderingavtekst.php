@@ -74,7 +74,7 @@
 			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
 				<div class="block3 block">
 					<div id="oppdagelsen" class="content">
-						<h3>HVOR KOM OPPRINNELIG KAFFEN FRA?</h3>
+						<h3>KAFFEN KOM FRA</h3>
 						<p>Det finnes to veldig kjente anekdoter</p>
 						<p>gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter</p>
 						<p>Munken som oppdaget</p>
