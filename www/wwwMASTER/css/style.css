@@ -107,7 +107,7 @@ body{
     background-color: red;
 }
 .content{
-    margin-bottom: 20%;
+    margin-bottom: 10%;
 }
 
 .content p{
@@ -170,7 +170,8 @@ body{
     /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
 }
 #hvordankaffen h3{
-    font-size: 300%;
+    letter-spacing: 10px;
+    font-size: 400%;
     background-color: rgba(255,255,255,0.4);
 }
 
