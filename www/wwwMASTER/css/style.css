@@ -199,8 +199,10 @@ body{
 #hvordankaffen h3{
     margin-top: 15;
     letter-spacing: 8px;
-    font-size: 280%;
-    background-color: rgba(255,255,255,0.4);
+    font-size: 300%;
+    color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
 
 
