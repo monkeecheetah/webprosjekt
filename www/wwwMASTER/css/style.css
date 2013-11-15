@@ -140,7 +140,7 @@ body{
     margin-top:20%;
     border-bottom-style: solid;
     border-bottom-width: 1px;
-
+    float: left;
 }
 
 
@@ -161,7 +161,7 @@ body{
 
 /*HVORDANTARDUKAFFEN*/
 #hvordankaffen{
-    width:80%;
+    width:85%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -176,8 +176,8 @@ body{
     /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
 }
 #hvordankaffen h3{
-    letter-spacing: 10px;
-    font-size: 300%;
+    letter-spacing: 8px;
+    font-size: 280%;
     background-color: rgba(255,255,255,0.4);
 }
 
@@ -200,8 +200,11 @@ body{
     color: white;
 }
 #helse h3{
-    font-size: 300%;
-    background-color: rgba(255,255,255,0.4);
+    font-size: 400%;
+    letter-spacing: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: white;
 }
 
 
