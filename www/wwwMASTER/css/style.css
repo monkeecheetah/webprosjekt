@@ -114,6 +114,7 @@ body{
  
 }
 .content h3{
+    margin-top: 30%;
     font-family: "Arial Black", Gadget, sans-serif;
     font-size: 200%;
 }
@@ -160,7 +161,6 @@ body{
 #hvordankaffen h3{
     font-size: 300%;
     background-color: rgba(255,255,255,0.4);
-    margin-top: 10%;
 }
 
 /*KAFFEHELSE*/
@@ -179,7 +179,6 @@ body{
     color: white;
 }
 #helse h3{
-    margin-top: 10%;
     font-size: 300%;
     background-color: rgba(255,255,255,0.4);
 }
@@ -189,18 +188,16 @@ body{
 /*KOFFEIN*/
 
 #koffein{
-    width:50%;
+    width:45%;
     float: left;
     margin-left: 5%;
 }
 #koffein p{
-    font-size: 250%;
     margin-top: 10%;
     margin-bottom: 10%;
     color: white;
 }
 #koffein h3{
-    margin-top: 10%;
     font-size: 300%;
     background-color: rgba(255,255,255,0.4);
 }
@@ -238,7 +235,7 @@ body{
     background: url(images/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
 #bak6{
-    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
+    background: url(images/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
 }
 #bak7{
     background: url(images/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
@@ -256,7 +253,7 @@ body{
     background: url(images/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
 }
 #bak12{
-    background: url(images/423580043_4d6302fb42_occaffeine2.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  
 }
 
 .blockWrap {
