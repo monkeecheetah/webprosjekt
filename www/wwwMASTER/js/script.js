@@ -34,4 +34,7 @@ $(document).ready(function(){
 	        if (a < b) $(this).fadeTo(3000,1);
 	    });
 
+
+	    
+
 }); // end of life
