@@ -80,7 +80,7 @@ nav li a {
     color: white;
     margin-right: 90%;
     float:left;
-    padding-bottom: 25%;
+    padding-bottom: 15%;
 }
 
 p, h3 {
@@ -111,7 +111,7 @@ body{
 }
 
 .content p{
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 170%;
     letter-spacing: 3px;
  
@@ -262,8 +262,12 @@ body{
     color: white;
 }
 #koffein h3{
-    font-size: 300%;
-    background-color: rgba(255,255,255,0.4);
+    font-size: 400%;
+    letter-spacing: 20px;
+    padding-bottom: 3%;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    color: white;
 }
 
 
