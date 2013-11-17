@@ -17,9 +17,9 @@
 	<body>
 			<nav>
 				<ul>
-					<li><a href="">INTRO -</a></li>
-					<li><a href="">OM -</a></li>
-					<li><a href="#kaffevelger">KAFFEVELGER -</a></li>	
+					<li><a href="">INTRO</a></li>
+					<li><a href="">OM</a></li>
+					<li><a href="#kaffevelger">KAFFEVELGER</a></li>	
 					<li><a href="">VELVÆRE</a></li>														
 				</ul>
 			</nav>
