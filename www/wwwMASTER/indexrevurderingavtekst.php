@@ -16,12 +16,12 @@
 	</head>
 	<body>
 			<nav>
-				<ul>
-					<li><a href="">INTRO</a></li>
-					<li><a href="">OM</a></li>
-					<li><a href="#kaffevelger">KAFFEVELGER</a></li>	
-					<li><a href="">VELVÆRE</a></li>														
-				</ul>
+				
+					<a href="">INTRO</a>
+					<a href="">OM</a>
+					<a href="#kaffevelger">KAFFEVELGER</a>
+					<a href="">VELVÆRE</a>													
+				
 			</nav>
 			<section class="blockWrap" id="bak0" data-speed="100" data-type="background">
 				<div class="block0 block">
