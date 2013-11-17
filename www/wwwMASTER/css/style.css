@@ -53,7 +53,7 @@ nav a {
     margin-left:15px;
     color:white;
     display: inline;
-    width: 80px;
+    width: auto;
     float:left;
 }
 #arrow
@@ -94,7 +94,9 @@ nav a {
 p, h3 {
     /*background-color: rgba(255,255,255,0.4);*/
 }
-
+.clearh3 {
+    clear:left;
+}
   .block {
     width:100%;
     float:left;

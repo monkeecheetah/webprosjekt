@@ -41,7 +41,7 @@
 						<p>Det treffer venner over en kopp</p>
 						<p>Man tar en kopp med kolleger</p>
 						<h3>Men hva er kaffe?</h3>
-						<p>Er det en bønne?
+						<p class="clearh3">Er det en bønne?
 						<p>En frukt?</p>
 						<p>Et bær?</p>
 						<p>Et frø?</p>
@@ -51,7 +51,7 @@
 						<p>Arabicatrærene, som vokser i tørt klima, høyt oppe</p>
 						<p>Robustatrærene, som er mer robuste og vokser i tørt klima, i lavlandet</p>
 						<h3>Fra bønne til kopp</h3>
-						<p>Fruktene høstes</p>
+						<p class="clearh3">Fruktene høstes</p>
 						<p>Frøene tas ut</p>
 						<p>Tørkes</p>
 						<p>Sorteres</p>
