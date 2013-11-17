@@ -48,12 +48,13 @@ nav a {
     text-decoration:none;
     padding-top:10px;
     padding-bottom:10px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
     margin-left:15px;
     color:white;
     display: inline;
     width: 80px;
+    float:left;
 }
 #arrow
 {
