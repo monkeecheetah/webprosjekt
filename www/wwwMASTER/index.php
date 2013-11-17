@@ -75,13 +75,13 @@
 						<p>I dag drikker vi 3-4 kopper om dagen hver</p>
 						<p>Det blir noe sånn som 1200 kopper i året</p>
 						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året</p>
-						<p><a href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+						<p><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 						<p>Ifølge New York Times er Oslo for kaffe det San Sebastian er for mat <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p>Og anbefaler særlig</p>
-						<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
-						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
-						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
-						<p><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
+						<p><a class="kilde normalSize" href="http://www.fuglen.no/">Fuglen</a></p>
+						<p><a class="kilde normalSize" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
+						<p><a class="kilde normalSize" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
+						<p><a class="kilde normalSize" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
 						<p>Og mange flere</p>
 						<q>Now Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q>
 					</div>
