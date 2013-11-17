@@ -1,13 +1,14 @@
-$(document).ready(function(){
-	// Cache the Window object
-		blockFade();
 	function blockFade(){ 
-	 $('#arrow').fadeTo(1000,1, function(){
+	 $('#arrow').fadeTo(1000,0.9, function(){
 	 	$(this).fadeTo(1000,0, function(){
 	 		blockFade();
 	 	});
 	 })
 	};
+
+$(document).ready(function(){
+	// Cache the Window object
+		blockFade();
 	$window = $(window);
 	$('section[data-type="background"]').each(function(){
     	var $bgobj = $(this); // assigning the object
@@ -30,20 +31,28 @@ $(document).ready(function(){
 	tiles = $("#intro h3, #intro p").fadeTo(0,0);
 		counter = 20;
 	   $("#intro h3, #intro p").each(function(){
+	   		if($(this).is("h3")) {
+	   			counter = 0;
+	   		}
 	   		$(this).css('margin-left', counter+'px');
 	   		counter += 20;
 	   	});
 
 
-	}); // end of Document on ready
-	$(window).scroll(function(d,h) {
-	    tiles.each(function(i) {
-	        a = $(this).offset().top + $(this).height();
-	        b = $(window).scrollTop() + $(window).height();
-	        if (a < b) $(this).fadeTo(3000,1);
-	    });
 
-
+}); // end of Document on ready
+$(window).scroll(function(d,h) {
+    tiles.each(function(i) {
+    	//console.log(i);
+        a = $(this).offset().top + $(this).height();
+        b = $(window).scrollTop() + $(window).height();
+        if (a < b) {
+        	$(this).fadeTo(2000,1,function(){
+        		console.log($("#intro").index(this));
+        	});
+        }
+	});
+}); // end of life (as we know it)
 
 	// pikk = $("#kaffetilnorge p").fadeTo(0,1);
 	// 	teller = 20;
@@ -82,8 +91,6 @@ $(document).ready(function(){
 
 
 
-
-}); // end of life (as we know it)
 
 
 
