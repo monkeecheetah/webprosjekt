@@ -52,7 +52,8 @@ nav a {
     padding-right: 5%;
     margin-left:15px;
     color:white;
-    display: block;
+    display: inline;
+    width: 80px;
 }
 #arrow
 {
