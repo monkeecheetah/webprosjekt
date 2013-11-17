@@ -32,7 +32,7 @@ nav {
     width:100%;
     z-index:9999;
     background-color: #493D26;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 nav ul, nav li {
     
@@ -48,6 +48,7 @@ nav li a {
     text-decoration:none;
     padding-top:10px;
     padding-bottom:10px;
+    padding-left: 5%;
     padding-right: 5%;
     margin-left:15px;
     color:white;
