@@ -4,15 +4,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
+    	<meta charset="utf-8">		
 		<title>Kaffe - en kjærlighetshistorie</title>
-		
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/kaffevelgerstyle.css">
 		<script src="external_code/jquery.js"></script>
 		<script src="js/script.js"></script>
 		<script src="js/kaffescript.js"></script>
-    	<meta charset="utf-8">
 	</head>
 	<body>
 
@@ -37,26 +36,33 @@
 				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
-						<p>Det man starter dagen med</p>
-						<p>Det treffer venner over en kopp</p>
-						<p>Man tar en kopp med kolleger</p>
-						<h3>Men hva er kaffe?</h3>
-						<p class="clearh3">Er det en bønne?
-						<p>En frukt?</p>
-						<p>Et bær?</p>
-						<p>Et frø?</p>
+						<h3>Kaffe er</h3>
+						<p class="clearh3">Det man starter dagen med</p>
+						<p>Det venner møtes over</p>
+						<p>Det som får deg gjennom arbeidsdagen</p>
+						<h3>Men hva er kaffe egentlig?</h3>
+<!--						<p class="clearh3">Er det ikke en bønne?</p>
+						<p>Fra en frukt?</p>
+						<p>Eller et bær?</p>
+						<p>Og det er frøet?</p>
 						<p>Det er frøet i frukten som blir til kaffe</p>
-						<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a class="kilde" href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
-						<p>Den høstles fra de to vanligste kaffetrærene</p>
-						<p>Arabicatrærene, som vokser i tørt klima, høyt oppe</p>
-						<p>Robustatrærene, som er mer robuste og vokser i tørt klima, i lavlandet</p>
+						<p>Det sies at frukten har et klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a class="kilde" href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+-->
+						<p class="clearh3">Kaffe kommer fra en frukt</p>
+						<p>Som høstes fra et kaffetre</p>
+						<p>De to vanligste kaffetrærene er</p>
+						<p>Arabicatrærene, vokser i tørt klima, høyt i fjellet</p>
+						<p>Arabica gir visstnok den beste kaffen og er den vi drikker mest av i Norge</p>
+						<p>Robustatrærene, er mer robuste og vokser i tørt klima, i lavlandet</p>
+						<p>Det er frøet i frukten som blir kaffe</p>
+						<p>Som vi på folkemunne kaller kaffebønner</p>
 						<h3>Fra bønne til kopp</h3>
 						<p class="clearh3">Fruktene høstes</p>
 						<p>Frøene tas ut</p>
 						<p>Tørkes</p>
 						<p>Sorteres</p>
-						<p>Og sendes i 60kg sekker verden rundt</p>
-						<p>Det er den 2. mest (lovlige) omsatte varen i verden etter olje</p>
+						<p>Og sendes i jutesekker på 60kg, verden rundt</p>
+						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje</p>
 					</div>
 				</div>
 			</section>
@@ -66,24 +72,27 @@
 			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
-						<h3>Enn veien til Norge da</h3>
-						<p>Norge fikk kaffe på 1600 tallet</p>
+						<h3>Veien til Norge</h3>
+						<p>Kaffen kom til Norge på 1600 tallet</p>
 						<p>Det første dokumenterte spor etter kaffe i Christiania finner vi i et skifte etter overtollbetjent Nicolay Flygl fra 1694. Her nevnes: 1 kofi potte og kiel av blich, verds 2 ort.</p>
 						<p>På den tiden en luksusvare, for rikfolket</p>
 						<p>I dag drikkes det av alle sosiale lag</p>
-						<p>Men det har vært e gradvis klassereise</p>
+						<p>Det har vært en gradvis klassereise</p>
 						<p>I dag drikker vi 3-4 kopper om dagen hver</p>
-						<p>Det blir noe sånn som 1200 kopper i året</p>
-						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året</p>
+						<p>Så du drikker omtrent 1200 kopper i året</p>
+						<p>Og nordmenn drikker totalt over 4 000 000 000 kopper i året</p>
 						<p><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
-						<p>Ifølge New York Times er Oslo for kaffe det San Sebastian er for mat <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
-						<p>Og anbefaler særlig</p>
-						<p><a class="kilde normalSize" href="http://www.fuglen.no/">Fuglen</a></p>
-						<p><a class="kilde normalSize" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
-						<p><a class="kilde normalSize" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
-						<p><a class="kilde normalSize" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
-						<p>Og mange flere</p>
-						<q>Now Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q>
+						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+<!--						<p>Ifølge New York Times er Oslo for kaffe det San Sebastian er for mat</p> -->
+						<p>New York Times anbefaler disse kaffebarene i Oslo</p>
+						<ul id="kaffeplasser">
+						<li><a class="normalSize" href="http://www.fuglen.no/">Fuglen</a></li>
+						<li><a class="normalSize" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></li>
+						<li><a class="normalSize" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></li>
+						<li><a class="normalSize" href="http://timwendelboe.no/">Tim Wendelboe</a></li>
+						<li>Og mange flere</li>
+						</ul>
+
 					</div>
 				</div>
 			</section>
@@ -122,21 +131,22 @@
 						<p>Da kan kaffen hjelpe deg med å øke yteevnen med så mye som 10% </p>
 						<p><a class="kilde" href="http://www.forskning.no/artikler/2006/mai/1148455804.23">Kilde</a></p>
 
-						<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
-						<p>Ettefulgt av Finland.</p>
+						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
+						<p>Rett bak Finland.</p>
 						<p>Topp 10 listen er som følger</p>
-						<ol>
-							<li>Finland</li>
-							<li>Norge</li>
-							<li>Danmark</li>
-							<li>Nederland</li>
-							<li>Sverige</li>
-							<li>Sveits</li>
-							<li>Beliga</li>
-							<li>Tyskland</li>
-							<li>Canda</li>
-							<li>Estland</li>
+						<ol id="kaffeKonsum">
+							<li data-consume="12.0">Finland (12.0 kg)</li>
+							<li data-consume="9.6">Norge (9.6 kg)</li>
+							<li data-consume="8.9">Danmark (8.9 kg)</li>
+							<li data-consume="8.2">Nederland (8.2 kg)</li>
+							<li data-consume="8.0">Sverige (8.0 kg)</li>
+							<li data-consume="7.7">Sveits (7.7 kg)</li>
+							<li data-consume="7.6">Beliga (7.6 kg)</li>
+							<li data-consume="6.5">Tyskland (6.5 kg)</li>
+							<li data-consume="6.1">Canada (6.1 kg)</li>
+							<li data-consume="6.0">Estland (6.0 kg)</li>
 						</ol>
+						<p>Kg per person per år (2006-2007)</p>
 						<p><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
 					</div>
 				</div>
@@ -191,15 +201,15 @@
 						<p>Mørkbrent kaffe gir mer søthet og bitterhet</p>
 						<p>Mørkbrenning kan også være et triks for å skjule dårlig kaffekvalitet</p>
 						<p>Lysbrent gir mer koffein, syrlighet og fruktigere smak</p>
-						<p><a href="http://www.kaffe.no/kaffen-kommer-til-norge/">Kilde</a></p>
+						<p><a class="kilde" href="http://www.kaffe.no/kaffen-kommer-til-norge/">Kilde</a></p>
 						<p>Så kvernes kaffen</p>
-						<p>Enten hos kaffehuset</p>
-						<p>Eller kverner du bønnene selv?</p>
+						<p>Hos kaffeimportøren</p>
+						<p>Eller kverner du kanskje bønnene selv?</p>
 					</div>
 				</div>
 			</section>
 
-			<section class="blockWrap" = id="kaffeV">
+			<section class="blockWrap" id="kaffeV">
 				<div id="kaffevelger">
 					<?php include('pages/kaffevelger.php'); ?>
 				</div>
@@ -259,10 +269,10 @@
 				<div class="block9 block">
 							<div id="prodland" class="content">
 								<h3>Etiopia</h3>
-								<p>Etiopa. Hvor kaffe kom fra, og fortsatt kommer fra</p>
+								<p>Etiopa. Hvor kaffen først kom fra, og fortsatt kommer fra</p>
 								<p>Er i dag det 5. mest produserende landet</p>
-								<p>Topp 10 er forøvrig</p>
 								<p>1/3 av kaffen kommer faktisk fra Brasil.</p>
+								<p>Topp 10 er forøvrig</p>
 								<ol>
 									<li>Brazil</li>
 									<li>Vietnam</li>
@@ -310,9 +320,9 @@
 						<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
 						<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
 						<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
-						<p>For å dekke verdens behov må kaffen bli dyrere</p>
 						<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
-						<p>Dette for at vi alle skal kunne nyte en kopp kaffe i framtiden også</p>
+						<p>For å dekke det kommende behovet for kaffe må den bli dyrere</p>
+						<p>Så vi kan nyte vår kaffe i framtiden også</p>
 						<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
 						<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
 						<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>

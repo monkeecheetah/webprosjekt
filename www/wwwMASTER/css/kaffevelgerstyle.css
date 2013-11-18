@@ -12,7 +12,7 @@ color:#fff;
 	width:20%;
 }
 #kaffevelger input[type="radio"]:checked + label { 
-    background:pink !important;
+    background:red !important;
 }
 input[type="radio"] {
     display:none;
@@ -38,6 +38,9 @@ input[type="radio"] {
 #maskinliste {
     float:left;
     width:75%;
+}
+#maskinliste li:nth-child(4n+5) {
+    clear:left;
 }
 #kaffeForm label {
     margin-top:10px;

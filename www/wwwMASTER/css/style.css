@@ -27,12 +27,17 @@
  *                                                                   
  *______________________________________________________________________________________                                                                 
  */
+
+h1,h2,h3,h4,h5,h6,p,li,a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 nav {
     position:fixed;
     width:100%;
     z-index:9999;
-    background-color: black;
-    opacity: 0.7;
+    background-color: rgba(0,0,0,0.4);
+    opacity: 1;
 }
 nav ul, nav li {
     
@@ -69,10 +74,21 @@ nav a:hover {
     padding-left:5px;
     padding-right:5px;
 }
+#kaffeplasser {
+    list-style:none;
+    text-align:left; 
+}
+.normalSize {
+    font-size:14px;
+    color:#fff;
+    background-color:#000;
+    padding-left:5px;
+    padding-right:5px;
+}
 #arrow
 {
-    position: fixed;
-    bottom: 20%;
+    position: absolute;
+    bottom: 19%;
     left: 50%;
     width: 20px;
     height: 15px;
@@ -195,6 +211,7 @@ body{
 
 /*OPPRINNELSE*/
 #oppdagelsen{
+
     text-align: center;
     width:80%;
     margin-left: auto;
@@ -202,6 +219,7 @@ body{
 }
 
 #oppdagelsen h3{
+    background-color:rgba(249, 198, 79, 0.1);
     margin-top: 15%;
     margin-bottom: 5%;
     padding-bottom: 3%;
@@ -210,7 +228,9 @@ body{
     border-bottom-style: solid;
     border-bottom-width: 1px;
 }
-
+#oppdagelsen p {
+        background-color:rgba(249, 198, 79, 0.1);
+}
 
 
 
@@ -234,7 +254,7 @@ body{
     /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
 }
 #hvordankaffen h3{
-    margin-top: 15;
+    margin-top: 10%;
     padding-bottom: 1%;
     letter-spacing: 8px;
     font-size: 350%;
@@ -269,8 +289,23 @@ body{
     border-bottom-width: 1px;
     color: white;
 }
-
-
+#kaffeKonsum {
+    background-color:rgba(255,255,255,0.4);
+    display:block;
+    width:80%;
+    float:left;
+    margin-left:10%;
+}
+#kaffeKonsum li {
+    margin-top:2px;
+    padding-top:5px;
+    padding-bottom:5px;
+    float: left;
+    clear: left;
+    background-color: #fff;
+    width: 100%;
+    text-align: left;
+}
 
 /*KOFFEIN*/
 
@@ -354,6 +389,13 @@ body{
     max-width: 1920px; 
     position: relative; 
     background-size: cover !important;
+}
+
+.sitat {
+    clear:left;
+    float:left;
+    background-color:rgba(255,255,255,0.4);
+    padding:20px;
 }
 
 /***

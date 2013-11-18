@@ -17,6 +17,10 @@ $(document).ready(function(){
 		displayCoffee();
 	});		
 	$('#showAll').change(function(){
+		$('#kaffevelger input[name=tid]:radio').prop('checked', false);
+		$('#kaffevelger input[name=okonomi]:radio').prop('checked', false);
+		$('#kaffevelger input[name=egeninnsats]:radio').prop('checked', false);
+		$('#kaffevelger input[name=bryr]:radio').prop('checked', false);
 		displayCoffee();
 	});
 });
