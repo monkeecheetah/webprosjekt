@@ -138,22 +138,23 @@
 						<p>Og siden kaffe stammer fra frukt</p>
 						<p>Kan vi da si at det er en av de fem om dagen?</p>
 
-						<p id="kaffetoppen">Norge er forøvrig nummer 2 på kaffetoppen</p>
-						<p>Ettefulgt av Finland.</p>
+						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
+						<p>Rett bak Finland.</p>
 						<p>Topp 10 listen er som følger</p>
-						<ol>
-							<li>Finland</li>
-							<li>Norge</li>
-							<li>Danmark</li>
-							<li>Nederland</li>
-							<li>Sverige</li>
-							<li>Sveits</li>
-							<li>Beliga</li>
-							<li>Tyskland</li>
-							<li>Canda</li>
-							<li>Estland</li>
+						<ol id="kaffeKonsum" class="toppListe">
+							<li data-consume="12.0">Finland (12.0 kg)</li>
+							<li data-consume="9.6">Norge (9.6 kg)</li>
+							<li data-consume="8.9">Danmark (8.9 kg)</li>
+							<li data-consume="8.2">Nederland (8.2 kg)</li>
+							<li data-consume="8.0">Sverige (8.0 kg)</li>
+							<li data-consume="7.7">Sveits (7.7 kg)</li>
+							<li data-consume="7.6">Belgia (7.6 kg)</li>
+							<li data-consume="6.5">Tyskland (6.5 kg)</li>
+							<li data-consume="6.1">Canada (6.1 kg)</li>
+							<li data-consume="6.0">Estland (6.0 kg)</li>
 						</ol>
-						<p><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
+						<p>Kg per person per år (2006-2007)</p>
+						<p class="linkP"><a class="kilde" href="http://www.worldmapper.org/posters/worldmapper_1038_coffee_consumption_ver2.pdf">[Kilde]</a></p>
 					</div>
 				</div>
 			</section>

@@ -204,8 +204,8 @@ body{
 }
 #kaffetilnorge h3{
     margin-top: 15%;
-    margin-bottom: 5%;
-    font-size: 400%;
+    margin-bottom: 10%;
+    font-size: 430%;
     font-weight: bold;
     padding-bottom: 3%;
     letter-spacing: 20px;
@@ -214,7 +214,7 @@ body{
     color: white;
 }
 #kaffetilnorge p{
-      font-size: 250%;
+      font-size: 200%;
 }
 
 
@@ -234,7 +234,7 @@ body{
 #oppdagelsen h3{
     background-color:rgba(249, 198, 79, 0.1);
     margin-top: 15%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
     padding-bottom: 3%;
     font-size: 380%;
     font-weight: bold;
@@ -243,7 +243,6 @@ body{
     border-bottom-width: 1px;
 }
 #oppdagelsen p {
-        background-color:rgba(249, 198, 79, 0.1);
         color: black;
 }
 
@@ -263,7 +262,6 @@ body{
 
    /*  background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
      font-size: 350%;
-     font-weight: bold;
      color:white;
      margin-top: 10%;
      margin-bottom: 10%;
@@ -275,6 +273,7 @@ body{
     padding-bottom: 1%;
     letter-spacing: 8px;
     font-size: 350%;
+    font-weight: bold;
     color: white;
     border-bottom-style: solid;
     border-bottom-width: 1px;
