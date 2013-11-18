@@ -89,7 +89,7 @@ nav a:hover {
     margin: 0;
     color: white;  
     float:left;
-    margin-top: 30%;
+    margin-top: 20%;
     margin-left: 7%;
  }
 .block0 h2
@@ -130,7 +130,7 @@ body{
     background-color: red;
 }
 .content{
-    margin-bottom: 10%;
+    padding-bottom: 5%;
 }
 
 .content p{

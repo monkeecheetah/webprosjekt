@@ -46,7 +46,7 @@
 						<p>Et bær?</p>
 						<p>Et frø?</p>
 						<p>Det er frøet i frukten som blir til kaffe</p>
-						<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
+						<p>Frukten sies at har klissete fruktkjøtt med en smak av vannmelon, rosenvann og hibiskus <a class="kilde" href="http://drinks.seriouseats.com/2011/02/what-does-a-coffee-cherry-tastes-like.html">[Kilde]</a></p>
 						<p>Den høstles fra de to vanligste kaffetrærene</p>
 						<p>Arabicatrærene, som vokser i tørt klima, høyt oppe</p>
 						<p>Robustatrærene, som er mer robuste og vokser i tørt klima, i lavlandet</p>
@@ -98,8 +98,8 @@
 						<p>Det vi vet derimot</p>
 						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
 						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
-						<p><a href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
-						<p><a href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
+						<p><a class="kilde" href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
+						<p><a class="kilde" href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 					</div>
 				</div>	
 			</section>
@@ -143,7 +143,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak5" data-speed="1500" data-type="background">
 				<div class="block5 block">
 					<div id="koffein" class="content">
 						<h3>Koffeinen</h3>
@@ -157,8 +157,8 @@
 						<p>Og siden kaffe stammer fra frukt</p>
 						<p>Kan vi da si at det er en av de fem om dagen?</p>
 						<p>Kaffe er 60% av antioksidant inntaket på den norske befolkningen</p>
-						<p><a href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
-						<p><a href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
+						<p><a class="kilde" href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
+						<p><a class="kilde" href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
 					</div>
 				</div>
 			</section>
@@ -188,9 +188,10 @@
 						<p>Når kaffe eksporteres er den lysegrønn nesten hvit</p>
 						<p>Så brennes den i Norge</p>
 						<p>Brenningen avgjør mye av smaken</p>
-						<p>Mye brent gir XXXX</p>
-						<p>Lite brent XXX</p>
-						<p>Og det kan legges til aroma</p>
+						<p>Mørkbrent kaffe gir mer søthet og bitterhet</p>
+						<p>Mørkbrenning kan også være et triks for å skjule dårlig kaffekvalitet</p>
+						<p>Lysbrent gir mer koffein, syrlighet og fruktigere smak</p>
+						<p><a href="http://www.kaffe.no/kaffen-kommer-til-norge/">Kilde</a></p>
 						<p>Så kvernes kaffen</p>
 						<p>Enten hos kaffehuset</p>
 						<p>Eller kverner du bønnene selv?</p>
@@ -214,7 +215,7 @@
 						<p>En kopp kaffe inneholder opptil 200mg koffein</p>
 						<p>Energidrikker? Ca. 80mg. </p>
 						<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola</p>
-						<p><a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
+						<p><a class="kilde" href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
 						<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
 						<p>Nyt kaffen din</p>
 						<p>Du har glede av den</p>
@@ -311,6 +312,7 @@
 						<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
 						<p>For å dekke verdens behov må kaffen bli dyrere</p>
 						<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
+						<p>Dette for at vi alle skal kunne nyte en kopp kaffe i framtiden også</p>
 						<p><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
 						<p><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
 						<p><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>

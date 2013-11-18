@@ -5,54 +5,78 @@
 	 	});
 	 })
 	};
-
+vinduBredde = $( window ).width();
 $(document).ready(function(){
 	// Cache the Window object
+	
+	if(vinduBredde > 900) {
 		blockFade();
-	$window = $(window);
-	$('section[data-type="background"]').each(function(){
-    	var $bgobj = $(this); // assigning the object
-                    
-    	$(window).scroll(function() {
-                    
-		// Scroll the background at var speed
-		// the yPos is a negative value because we're scrolling it UP!								
-			var yPos = -($window.scrollTop() / $bgobj.data('speed')); 
-		
-		// Put together our final background position
-			var coords = '100% '+ yPos + 'px';
+	
+		$window = $(window);
+		$('section[data-type="background"]').each(function(){
+	    	var $bgobj = $(this); // assigning the object
+	                    
+	    	$(window).scroll(function() {
+	                    
+			// Scroll the background at var speed
+			// the yPos is a negative value because we're scrolling it UP!								
+				var yPos = -($window.scrollTop() / $bgobj.data('speed')); 
+			
+			// Put together our final background position
+				var coords = '100% '+ yPos + 'px';
 
-		// Move the background
-			$bgobj.css({ backgroundPosition: coords });
-	}); // window scroll Ends
-});	
+			// Move the background
+				$bgobj.css({ backgroundPosition: coords });
+			}); // window scroll Ends
+		});	
 
 
-	tiles = $("#intro h3, #intro p").fadeTo(0,0);
-		counter = 20;
-	   $("#intro h3, #intro p").each(function(){
-	   		if($(this).is("h3")) {
-	   			counter = 0;
-	   		}
-	   		$(this).css('margin-left', counter+'px');
-	   		counter += 20;
-	   	});
-
+		tiles = $("#intro h3, #intro p").fadeTo(0,0);
+			counter = 20;
+		   $("#intro h3, #intro p").each(function(){
+		   		if($(this).is("h3")) {
+		   			counter = 0;
+		   		}
+		   		$(this).css('margin-left', counter+'px');
+		   		counter += 20;
+		   	});
+}
 
 
 }); // end of Document on ready
+
+$(window).scroll(function () {
+   $('#intro p, #intro h3').each(function () { // <---loop the divs id starts with #box 
+      if (($(this).offset().top - $(window).scrollTop()) < 200) { //<---mark the $(this).offset().top of current object
+          $(this).stop().fadeTo(1000, 0); //<----fadeOut the current obj
+      } else {
+          $(this).stop().fadeTo(2000, 1); //<----fadeIn the current obj
+      }
+   });
+});
+
+
+/*
 $(window).scroll(function(d,h) {
-    tiles.each(function(i) {
-    	//console.log(i);
-        a = $(this).offset().top + $(this).height();
-        b = $(window).scrollTop() + $(window).height();
-        if (a < b) {
-        	$(this).fadeTo(2000,1,function(){
-        		console.log($("#intro").index(this));
-        	});
-        }
-	});
+	if(vinduBredde > 900) {	
+	    tiles.each(function(i) {
+	        a = $(this).offset().top + $(this).height();
+	        b = $(window).scrollTop() + $(window).height();
+	        console.log($("#intro").children().index(this));
+	        if (a < b) {
+
+	        	$(this).fadeTo(2000,1,function(){
+	        		console.log(this);
+	        		console.log($("#intro").children().index(this));
+	        		var indeks = $("#intro").children().index(this);
+	        	});
+	        }
+		});
+	}
 }); // end of life (as we know it)
+*/
+
+
 
 	// pikk = $("#kaffetilnorge p").fadeTo(0,1);
 	// 	teller = 20;
