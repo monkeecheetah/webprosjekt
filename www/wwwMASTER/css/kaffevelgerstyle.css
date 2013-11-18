@@ -37,7 +37,8 @@ input[type="radio"] {
 }
 #maskinliste {
     float:left;
-    width:75%;
+    width: 95%;
+    padding-left: 0;
 }
 #maskinliste li:nth-child(4n+5) {
     clear:left;
@@ -47,4 +48,18 @@ input[type="radio"] {
 }
 #maskinliste li p, #maskinliste li h3 {
     color:#000;
+}
+@media all and (max-width: 480px) { 
+    #kaffeForm {
+        float:left;
+        width:90%;
+        margin-left:5%;
+    }
+    .tilbWrap {
+        width:45%;
+        margin-left:5%;
+    }
+    #maskinliste li:nth-child(2n+3) {
+        clear:left;
+    }
 }

@@ -28,7 +28,7 @@
 					<h1>KAFFE</h1> 
 					<h2>- en kjærlighetshistorie</h2>
 				</div>
-				<span id="arrow">&darr;</span>
+				<p id="arrow">&darr;</p>
 			</section>
 
 
@@ -141,7 +141,7 @@
 							<li data-consume="8.2">Nederland (8.2 kg)</li>
 							<li data-consume="8.0">Sverige (8.0 kg)</li>
 							<li data-consume="7.7">Sveits (7.7 kg)</li>
-							<li data-consume="7.6">Beliga (7.6 kg)</li>
+							<li data-consume="7.6">Belgia (7.6 kg)</li>
 							<li data-consume="6.5">Tyskland (6.5 kg)</li>
 							<li data-consume="6.1">Canada (6.1 kg)</li>
 							<li data-consume="6.0">Estland (6.0 kg)</li>
@@ -285,7 +285,9 @@
 									<li data-production="3500000">Peru (3,500,000 sekker)</li>
 									<li data-production="2700000">Honduras (2,700,000 sekker)</li>
 								</ol>
+								<p>Antall sekker på 60kg per år</p>
 								<p class="linkP"><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
+
 								<p>Har du forresten prøvd cà phê đá?</p>
 								<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
 								<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
