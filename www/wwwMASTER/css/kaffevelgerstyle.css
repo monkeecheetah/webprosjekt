@@ -2,6 +2,8 @@
 display: inline-block;
 background-color:#000;
 color:#fff;
+padding:2%;
+border-radius:2px;
 }
 .tilbWrap {
 	float:left;
