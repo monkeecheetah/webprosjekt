@@ -92,33 +92,24 @@
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
 						<h3>-HVORDAN TAR DU KAFFEN?-</h3>
-						<p>Svart?</p>
-						<p>Med melk?</p>
-						<p>Som latte?</p>
-						<p>Fra lokale kaffebaren?</p>
-						<p>Har du en kopp kaffe nå?</p>
-						<p>Ikke? Hent en nå, jeg venterher så lenge</p>
-						<p>Ordnet?</p>
-						<p>Smaker den ikke godt?</p>
-						<p>Det sies at lukten av kaffe i seg selv har en helsebringende effekt</p>
-						<p>Lukten av velvære</p>
-						<p>Har du prøvd en red eye - filterkaffe med en shot espresso</p>
-						<p>Viatnemesisk iskaffe?</p>
-						<p>Og hvordan lager du den?</p>
-						<p>En kapsel?</p>
-						<p>Fra Moccamaster?</p>
-						<p>Presskanne?</p>
-						<p>Tilberedt med en chemex?</p>
-						<p>Slow-drip - som tar 12 timer</p>
-						<p>Når kaffe eksporteres er den lysegrønn nesten hvit</p>
-						<p>Så brennes den i Norge</p>
-						<p>Brenningen avgjør mye av smaken</p>
-						<p>Mye brent gir XXXX</p>
-						<p>Lite brent XXX</p>
-						<p>Og det kan legges til aroma</p>
-						<p>Så kvernes kaffen</p>
-						<p>Enten hos kaffehuset</p>
-						<p>Eller kverner du bønnene selv?</p>
+						<p>svart? / </p>
+						<p>med melk? / </p>
+						<p>Fra lokale kaffebaren? / </p>
+						<p>melkeskum? / </p>
+						<p>Har du prøvd en red eye? - filterkaffe med en shot espresso / </p>
+						<p>Viatnemesisk iskaffe? / </p>
+						<p>kapsel? / </p>
+						<p>moccamaster? / </p>
+						<p>selvkværnet? / </p>
+						<p>pulverkaffe? / </p>
+						<p>aeropress? /</p>
+						<p>mokkakanne? / </p>
+						<p>vakumkolbe? / </p>
+						<p>presskanne? / </p>
+						<p>chemex? / </p>
+						<p>Slow-drip - som tar 12 timer / </p>
+						<p>mørkbrent? / </p>
+						<p>lysbrent? / </p>
 					</div>
 				</div>
 			</section>
@@ -146,7 +137,7 @@
 						<p>Og siden kaffe stammer fra frukt</p>
 						<p>Kan vi da si at det er en av de fem om dagen?</p>
 
-						<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
+						<p id="kaffetoppen">Norge er forøvrig nummer 2 på kaffetoppen</p>
 						<p>Ettefulgt av Finland.</p>
 						<p>Topp 10 listen er som følger</p>
 						<ol>

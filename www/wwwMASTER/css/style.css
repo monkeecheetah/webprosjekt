@@ -31,7 +31,12 @@
 h1,h2,h3,h4,h5,h6,p,li,a {
     font-family: sans-serif;
     font-weight:100;
+<<<<<<< HEAD
 
+=======
+    color:#fff;
+    /*background-color:rgba(255,255,255,0.2); /Dette kan vi ikke ha som fellesregel, det er for mange unntak. */
+>>>>>>> 0d56755f09af99894bdca198b31bf7ea1fa256fc
 }
 
 nav {
@@ -184,12 +189,18 @@ body{
 }
 
 
+#intro p{
+    color: black;
+}
+
+
 
 
 
 
 /*Norge*/
 #kaffetilnorge{
+  
     text-align: center;
     width:80%;
     margin-left: auto;
@@ -205,6 +216,9 @@ body{
     border-bottom-width: 1px;
     color: white;
 }
+#kaffetilnorge p{
+      color: black;
+}
 
 
 
@@ -217,6 +231,7 @@ body{
     width:80%;
     margin-left: auto;
     margin-right: auto;
+    color:black;
 }
 
 #oppdagelsen h3{
@@ -231,6 +246,7 @@ body{
 }
 #oppdagelsen p {
         background-color:rgba(249, 198, 79, 0.1);
+        color: black;
 }
 
 
@@ -248,10 +264,11 @@ body{
 #hvordankaffen p{
 
    /*  background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
-     font-size: 250%;
+     font-size: 350%;
      color:white;
      margin-top: 10%;
      margin-bottom: 10%;
+     display: inline;
     /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
 }
 #hvordankaffen h3{
@@ -273,6 +290,11 @@ body{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+
+}
+#kaffetoppen{
+    font-weight: bold;
+    font-size: 280%;
 
 }
 #helse a {
@@ -379,7 +401,11 @@ body{
     background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
 }
 #bak4{
+<<<<<<< HEAD
     background: url(images/background/full/5882139013_7c6d68b520_o_dus.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+=======
+    background: url(images/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+>>>>>>> 0d56755f09af99894bdca198b31bf7ea1fa256fc
 }
 #bak5{
     background: url(images/background/full/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
