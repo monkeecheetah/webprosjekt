@@ -35,9 +35,12 @@ input[type="radio"] {
     float:left;
     width:20%;
 }
+#kaffeForm h3 {
+    color:#000;
+}
 #maskinliste {
     float:left;
-    width: 95%;
+    width: 80%;
     padding-left: 0;
 }
 #maskinliste li:nth-child(4n+5) {
