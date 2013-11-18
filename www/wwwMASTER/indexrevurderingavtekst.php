@@ -43,17 +43,17 @@
 						<p class="clearh3">Kaffe kommer fra en frukt</p>
 						<p>Som høstes fra et kaffetre</p>
 						<p>De to vanligste kaffetrærene er</p>
-						<p>Arabicatrærene, vokser i tørt klima, høyt i fjellet</p>
-						<p>Arabica gir visstnok den beste kaffen og er den vi drikker mest av i Norge</p>
-						<p>Robustatrærene, er mer robuste og vokser i tørt klima, i lavlandet</p>
+						<p><strong>Arabicatrærene</strong>, vokser i tørt klima, høyt i fjellet</p>
+						<p><strong>Arabica</strong> gir visstnok den beste kaffen og er den vi drikker mest av i Norge</p>
+						<p><strong>Robustatrærene</strong>, er mer robuste og vokser i tørt klima, i lavlandet</p>
 						<p>Det er frøet i frukten som blir kaffe</p>
-						<p>Som vi på folkemunne kaller kaffebønner</p>
+						<p>Som vi på folkemunne kaller <em>kaffebønner</em></p>
 						<h3>Fra bønne til kopp</h3>
 						<p class="clearh3">Fruktene høstes</p>
 						<p>Frøene tas ut</p>
 						<p>Tørkes</p>
 						<p>Sorteres</p>
-						<p>Og sendes i jutesekker på 60kg, verden rundt</p>
+						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt</p>
 						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje</p>
 					</div>
 				</div>
@@ -70,7 +70,7 @@
 						<p>I dag drikker vi 3-4 kopper om dagen hver</p>
 						<p>Det blir noe sånn som 1200 kopper i året</p>
 						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året(WOH!)><a href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
-						<p>Ifølge New York Times er Oslo en kjempebra kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+						<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p>De syns du burde besøke disse stedene:</p>
 						<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
@@ -140,12 +140,12 @@
 						<p>2?</p>
 						<p>3?</p>
 						<p>5?</p>
-						<p>Godt, for er du på den 5. koppen, så har du senket mulighetene for diabetes type 2 med 50%!</p>
+						<p>Godt, for er du på den 5. koppen, så har du <strong>senket</strong> mulighetene for diabetes type 2 med <strong>50%!</strong></p>
 						<div id="helseinfo">
 							<ul>
-								<li>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</li>
+								<li>Du har <strong>senket</strong> sjansen for å få en masse hjerte-og karsykdommer!</li>
 								<li>Du utvikler demens senere enn andre!</li>
-								<li>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</li>
+								<li>Og mer kaffe du drikker, jo <strong>mindre</strong> sjanse for parkinson!</li>
 								<li>Og siden kaffe stammer fra frukt</li>
 								<li>Kan vi da si at det er en av de fem om dagen?</li>
 							</ul>
@@ -178,7 +178,7 @@
 					<div id="koffein" class="content">
 						<h3>KOFFEIN</h3>
 						<p>Ikke bare er den oppkvikkende</p>
-						<p>Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein</p>
+						<p>Den <strong>hjelper deg</strong> å stimulere galleblærefunksjonen og kan forebygge gallestein</p>
 						<p>Rekorden på mest kaffe på kortest tid</p>
 						<p>- er 82 kopper på 100 timer</p>
 						<p>Og om du er du redd for å drikke for mye kaffe?</p>
