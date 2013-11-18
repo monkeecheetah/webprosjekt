@@ -29,7 +29,10 @@
  */
 
 h1,h2,h3,h4,h5,h6,p,li,a {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    font-weight:100;
+    color:#fff;
+    background-color:rgba(255,255,255,0.2);    
 }
 
 nav {
@@ -274,14 +277,31 @@ body{
     text-align: center;
 
 }
-#helse p{
-    font-size: 250%;
-    padding:2px;
-    margin-top: 10%;
-    margin-bottom: 10%;
-    color: white;
+#helse a {
+
 }
+#helse .countDown {
+    float: left;
+    margin-left: 45%;
+}
+
+#helse p {
+    clear:left;
+    font-weight:100;
+    font-family:sans-serif;
+    font-size:250%;
+    padding:2px;
+    margin-top:10%;
+    margin-bottom:10%;
+    color:#fff;
+}
+
+#helse p:not(.linkP) {
+    background-color: rgba(0,0,0,0.5);    
+}
+
 #helse h3{
+    background-color: rgba(0,0,0,0.5);
     font-size: 500%;
     letter-spacing: 20px;
     padding-bottom: 3%;
@@ -289,22 +309,24 @@ body{
     border-bottom-width: 1px;
     color: white;
 }
-#kaffeKonsum {
+.toppListe {
     background-color:rgba(255,255,255,0.4);
     display:block;
     width:80%;
     float:left;
     margin-left:10%;
 }
-#kaffeKonsum li {
+.toppListe li {
     margin-top:2px;
     padding-top:5px;
+    padding-left:5px;
     padding-bottom:5px;
     float: left;
     clear: left;
     background-color: #fff;
     width: 100%;
     text-align: left;
+    color:#000;
 }
 
 /*KOFFEIN*/
@@ -328,7 +350,11 @@ body{
     color: white;
 }
 
+/* PRODLAND */
 
+#prodland p {
+    clear:left;
+}
 
 /***
  *      ____    _   _       _               

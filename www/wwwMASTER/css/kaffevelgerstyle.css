@@ -44,5 +44,7 @@ input[type="radio"] {
 }
 #kaffeForm label {
     margin-top:10px;
-
+}
+#maskinliste li p, #maskinliste li h3 {
+    color:#000;
 }

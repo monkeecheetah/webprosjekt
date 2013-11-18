@@ -27,7 +27,7 @@ $(document).ready(function(){
 		});	
 	}
 
-	introFade = $("#intro h3, #intro p,#helse h3, #helse p").fadeTo(0,0);
+/*	introFade = $("#intro h3, #intro p,#helse h3, #helse p").fadeTo(0,0);
 		counter = 20;
 	   $("#intro h3, #intro p,#helse h3, #helse p").each(function(){
 	   		if($(this).is("h3")) {
@@ -36,21 +36,36 @@ $(document).ready(function(){
 	   		$(this).css('margin-left', counter+'px');
 	   		counter += 20;
 	   	});
+*/	   	
 	   kaffeKonsum();
+	   kaffeProduksjon();
 }); // end of Document on ready
 
 function kaffeKonsum(){
 	liBredde = $("#kaffeKonsum li").width();
-	antallTonn = new Array();
+	antallKg = new Array();
 	$("#kaffeKonsum li").each(function(){
-			antallTonn.push(parseFloat($(this).attr('data-consume')));
+			antallKg.push(parseFloat($(this).attr('data-consume')));
 	});	
-	$("#kaffeKonsum li").each(function(){
+	$("#kaffeKonsum.toppListe li").each(function(){
 		konsum = parseFloat($(this).attr('data-consume'));		
-		newWidth = (konsum/	Math.max.apply(Math, antallTonn))*liBredde;
+		newWidth = ((konsum/	Math.max.apply(Math, antallKg))*liBredde)-5;
 		$(this).css("width", newWidth+"px");
 	});
 }
+function kaffeProduksjon(){
+	liBredde = $("#kaffeProduksjon li").width();
+	antallTonn = new Array();
+	$("#kaffeProduksjon li").each(function(){
+			antallTonn.push(parseFloat($(this).attr('data-production')));
+	});	
+	$("#kaffeProduksjon.toppListe li").each(function(){
+		konsum = parseFloat($(this).attr('data-production'));		
+		newWidth = ((konsum/	Math.max.apply(Math, antallTonn))*liBredde)-5;
+		$(this).css("width", newWidth+"px");
+	});
+}
+
 
 function blockFade(){ 
  $('#arrow').fadeTo(1000,0.9, function(){
@@ -72,7 +87,7 @@ $(window).scroll(function () {
 });
 */
 
-
+/*
 $(window).scroll(function(d,h) {
 	if(vinduBredde > 900) {	
 	    introFade.each(function(i) {
@@ -90,7 +105,7 @@ $(window).scroll(function(d,h) {
 		});
 	}
 }); // end of life (as we know it)
-
+*/
 
 
 
