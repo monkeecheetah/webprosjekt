@@ -40,7 +40,7 @@ input[type="radio"] {
 #kaffeForm h3 {
     color:#000;
     font-family:'Fjalla One', sans-serif;
-    font-size: 110%;
+    font-size: 200%;
 
 
 }
@@ -62,7 +62,7 @@ input[type="radio"] {
 
 #maskinliste h3{
     font-family:'Fjalla One', sans-serif;
-    font-size: 110%;
+    font-size: 200%;
 }
 @media all and (max-width: 480px) { 
     #kaffeForm {
