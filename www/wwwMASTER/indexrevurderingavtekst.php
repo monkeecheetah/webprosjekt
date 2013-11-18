@@ -35,7 +35,7 @@
 				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
-						<h3>-HVA ER KAFFE?-</h3>
+						<h3>HVA ER KAFFE?</h3>
 						<p>Er det en bønne?
 						<p>En frukt?</p>
 						<p>Et bær?</p>
@@ -54,7 +54,7 @@
 			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
-						<h3>-KAFFE TIL NORGE?-</h3>
+						<h3>KAFFE TIL NORGE?</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>
 						<p>Og da var det en luksusvare, for rikfolket</p>
 						<p>I dag drikkes det heldigvis av alle sosiale lag</p>
@@ -74,7 +74,7 @@
 			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
 				<div class="block3 block">
 					<div id="oppdagelsen" class="content">
-						<h3>-KAFFEN KOM FRA-</h3>
+						<h3>KAFFEN KOM FRA</h3>
 						<p>Det finnes to veldig kjente anekdoter</p>
 						<p>gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter</p>
 						<p>Munken som oppdaget</p>
@@ -91,7 +91,7 @@
 			<section class="blockWrap" id="bak4" data-speed="100" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
-						<h3>-HVORDAN TAR DU KAFFEN?-</h3>
+						<h3>HVORDAN TAR DU KAFFEN?</h3>
 						<p>svart? / </p>
 						<p>med melk? / </p>
 						<p>Fra lokale kaffebaren? / </p>
@@ -124,7 +124,7 @@
 			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
 				<div class="block5 block">
 					<div id="helse" class="content">
-						<h3>-FORRESTEN-</h3>
+						<h3>FORRESTEN</h3>
 						<p>Hvor mange kopper har du drukket i dag?</p>
 						<p>1?</p>
 						<p>2?</p>
@@ -161,7 +161,7 @@
 			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
 				<div class="block6 block">
 					<div id="koffein" class="content">
-						<h3>-KOFFEIN-</h3>
+						<h3>KOFFEIN</h3>
 						<p>Ikke bare er den oppkvikkende</p>
 						<p>Den hjelper deg å stimulere galleblærefunksjonen og kan forebygge gallestein</p>
 						<p>Rekorden på mest kaffe på kortest tid</p>

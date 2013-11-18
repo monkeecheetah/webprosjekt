@@ -62,7 +62,7 @@ nav a {
     color:#fff;
     display: inline;
     width: auto;
-    float:left;
+    float:right;
 }
 nav a:hover {
     background-color:#fff;
