@@ -106,26 +106,24 @@
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
 						<h3>HVORDAN TAR DU KAFFEN?</h3>
-						<div id="sirkel">
-							<p>svart / </p>
-							<p>med melk / </p>
-							<p>Fra lokale kaffebaren / </p>
-							<p>melkeskum / </p>
-							<p>Har du prøvd en red eye - filterkaffe med en shot espresso / </p>
-							<p>Viatnemesisk iskaffe / </p>
-							<p>kapsel / </p>
-							<p>moccamaster / </p>
-							<p>selvkværnet / </p>
-							<p>pulverkaffe / </p>
-							<p>aeropress /</p>
-							<p>mokkakanne / </p>
-							<p>vakumkolbe / </p>
-							<p>presskanne / </p>
-							<p>chemex / </p>
-							<p>Slow-drip - som tar 12 timer / </p>
-							<p>mørkbrent / </p>
-							<p>lysbrent / </p>
-						</div>
+						<p>svart / </p>
+						<p>med melk / </p>
+						<p>Fra lokale kaffebaren / </p>
+						<p>melkeskum / </p>
+						<p>Har du prøvd en red eye - filterkaffe med en shot espresso / </p>
+						<p>Viatnemesisk iskaffe / </p>
+						<p>kapsel / </p>
+						<p>moccamaster / </p>
+						<p>selvkværnet / </p>
+						<p>pulverkaffe / </p>
+						<p>aeropress /</p>
+						<p>mokkakanne / </p>
+						<p>vakumkolbe / </p>
+						<p>presskanne / </p>
+						<p>chemex / </p>
+						<p>Slow-drip - som tar 12 timer / </p>
+						<p>mørkbrent / </p>
+						<p>lysbrent / </p>
 					</div>
 				</div>
 			</section>
