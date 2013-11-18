@@ -146,8 +146,8 @@
 								<li>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</li>
 								<li>Du utvikler demens senere enn andre!</li>
 								<li>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</li>
-								<li>Og siden kaffe stammer fra frukt</p>
-								<li>Kan vi da si at det er en av de fem om dagen?</p>
+								<li>Og siden kaffe stammer fra frukt</li>
+								<li>Kan vi da si at det er en av de fem om dagen?</li>
 							</ul>
 						</div>
 
