@@ -130,7 +130,7 @@
 
 			<section class="blockWrap" id="kaffeV">
 				<div id="kaffevelger">
-					<h3>KAFFEVELGER</h3>
+					<h3 id="kaffevelgerheader">KAFFEVELGER</h3>
 					<?php include('pages/kaffevelger.php'); ?>
 				</div>
 			</section>

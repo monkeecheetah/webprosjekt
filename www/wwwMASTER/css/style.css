@@ -286,14 +286,15 @@ body{
 
 #kaffevelger{
     margin-left: 5%;
+    margin-right: 5%;
 
 }
-#kaffevelger h3{
+#kaffevelgerheader h3{
     margin-top: 10%;
-    padding-bottom: 3%;
+    padding-bottom: 1%;
     letter-spacing: 8px;
     font-size: 800%;
-    margin-bottom:5%;
+    margin-bottom:3%;
     color: black;
     font-family:'Fjalla One', sans-serif;
     text-align: center;
