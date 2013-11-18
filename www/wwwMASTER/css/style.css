@@ -102,8 +102,8 @@ nav a:hover {
 .block0 h1
  {
     font-family:'Fjalla One', sans-serif;
-    letter-spacing: 10px;
-    font-size: 900%;
+    letter-spacing: 20px;
+    font-size: 1200%;
     margin: 0;
     color: white;  
     float:left;
@@ -112,10 +112,10 @@ nav a:hover {
  }
 .block0 h2
 {
-    font-family: Verdana, Geneva, sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     letter-spacing: 6px;
-    font-size: 100%;
-    margin-left: 10%;
+    font-size: 300%;
+    margin-left: 20%;
     color: white;
     margin-right: 90%;
     float:left;
