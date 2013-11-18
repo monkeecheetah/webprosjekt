@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6,p,li,a {
     font-family: sans-serif;
     font-weight:100;
     color:#fff;
-    background-color:rgba(255,255,255,0.2);    
+    /*background-color:rgba(255,255,255,0.2); /Dette kan vi ikke ha som fellesregel, det er for mange unntak. */
 }
 
 nav {
@@ -175,6 +175,7 @@ body{
 #intro{
     width:50%;
     margin-left: 5%;
+    color: black;
 }
 #intro h3{
     font-size: 300%;
@@ -192,6 +193,7 @@ body{
 
 /*Norge*/
 #kaffetilnorge{
+    color: black;
     text-align: center;
     width:80%;
     margin-left: auto;
@@ -219,6 +221,7 @@ body{
     width:80%;
     margin-left: auto;
     margin-right: auto;
+    color:black;
 }
 
 #oppdagelsen h3{
@@ -276,6 +279,11 @@ body{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+
+}
+#kaffetoppen{
+    font-weight: bold;
+    font-size: 280%;
 
 }
 #helse a {

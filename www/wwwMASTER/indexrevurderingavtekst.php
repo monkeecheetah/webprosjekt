@@ -137,7 +137,7 @@
 						<p>Og siden kaffe stammer fra frukt</p>
 						<p>Kan vi da si at det er en av de fem om dagen?</p>
 
-						<h3>Norge er forøvrig nummer 2 på kaffetoppen</h3>
+						<p id="kaffetoppen">Norge er forøvrig nummer 2 på kaffetoppen</p>
 						<p>Ettefulgt av Finland.</p>
 						<p>Topp 10 listen er som følger</p>
 						<ol>
