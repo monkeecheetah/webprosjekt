@@ -32,11 +32,15 @@ input[type="radio"] {
     background-color:#bbb;
 }
 #kaffeForm {
+
     float:left;
     width:20%;
 }
 #kaffeForm h3 {
     color:#000;
+    font-family:'Fjalla One', sans-serif;
+    font-size: 200%;
+
 }
 #maskinliste {
     float:left;
@@ -48,9 +52,15 @@ input[type="radio"] {
 }
 #kaffeForm label {
     margin-top:10px;
+    font-family:Arial;
 }
 #maskinliste li p, #maskinliste li h3 {
     color:#000;
+}
+
+#maskinliste h3{
+    font-family:'Fjalla One', sans-serif;
+    font-size: 200%;
 }
 @media all and (max-width: 480px) { 
     #kaffeForm {
