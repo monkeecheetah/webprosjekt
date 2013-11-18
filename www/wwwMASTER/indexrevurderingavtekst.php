@@ -142,11 +142,13 @@
 						<p>5?</p>
 						<p>Godt, for er du på den 5. koppen, så har du senket mulighetene for diabetes type 2 med 50%!</p>
 						<div id="helseinfo">
-							<p>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</p>
-							<p>Du utvikler demens senere enn andre!</p>
-							<p>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</p>
-							<p>Og siden kaffe stammer fra frukt</p>
-							<p>Kan vi da si at det er en av de fem om dagen?</p>
+							<ul>
+								<li>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</li>
+								<li>Du utvikler demens senere enn andre!</li>
+								<li>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</li>
+								<li>Og siden kaffe stammer fra frukt</p>
+								<li>Kan vi da si at det er en av de fem om dagen?</p>
+							</ul>
 						</div>
 
 						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
