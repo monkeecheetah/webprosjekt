@@ -62,6 +62,7 @@
 						<p>Det blir noe sånn som 1200 kopper i året</p>
 						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året(WOH!)><a href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 						<p>Ifølge New York Times er Oslo en kjempebra kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p>De syns du burde besøke disse stedene:</p>
 						<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
