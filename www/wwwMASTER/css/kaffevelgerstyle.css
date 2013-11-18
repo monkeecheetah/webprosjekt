@@ -7,6 +7,7 @@ color:#fff;
 	float:left;
 	width:22%;
     display:block;
+    font-family:Arial;
 }
 .kaffeTilbBilde {
 	width:20%;
@@ -39,7 +40,7 @@ input[type="radio"] {
 #kaffeForm h3 {
     color:#000;
     font-family:'Fjalla One', sans-serif;
-    font-size: 10%;
+    font-size: 110%;
 
 
 }
@@ -61,7 +62,7 @@ input[type="radio"] {
 
 #maskinliste h3{
     font-family:'Fjalla One', sans-serif;
-    font-size: 10%;
+    font-size: 110%;
 }
 @media all and (max-width: 480px) { 
     #kaffeForm {
