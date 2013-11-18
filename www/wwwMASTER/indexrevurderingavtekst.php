@@ -35,17 +35,26 @@
 				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
-						<h3>HVA ER KAFFE?</h3>
-						<p>Er det en bønne?
-						<p>En frukt?</p>
-						<p>Et bær?</p>
-						<p>Et frø?</p>
-						<p>FRØ er riktig, kaffebønner er egentlig frø!</p>
-						<p>Den høstles fra de to vanligste kaffetrærene</p>
-						<p>Arabicatrærene og robustatrærene</p>
-						<p>Arabicatrærene plantes rundt om kring i hele verden, ikke bare i arabien.</p>
-						<p>Frøene fra trærene sorteres og tørkes</p>
-						<p>Så sendes de til Norge!<p>
+					<h3>Kaffe er</h3>
+						<p class="clearh3">Det man starter dagen med</p>
+						<p>Det venner møtes over</p>
+						<p>Det som får deg gjennom arbeidsdagen</p>
+						<h3>Men hva er kaffe egentlig?</h3>
+						<p class="clearh3">Kaffe kommer fra en frukt</p>
+						<p>Som høstes fra et kaffetre</p>
+						<p>De to vanligste kaffetrærene er</p>
+						<p>Arabicatrærene, vokser i tørt klima, høyt i fjellet</p>
+						<p>Arabica gir visstnok den beste kaffen og er den vi drikker mest av i Norge</p>
+						<p>Robustatrærene, er mer robuste og vokser i tørt klima, i lavlandet</p>
+						<p>Det er frøet i frukten som blir kaffe</p>
+						<p>Som vi på folkemunne kaller kaffebønner</p>
+						<h3>Fra bønne til kopp</h3>
+						<p class="clearh3">Fruktene høstes</p>
+						<p>Frøene tas ut</p>
+						<p>Tørkes</p>
+						<p>Sorteres</p>
+						<p>Og sendes i jutesekker på 60kg, verden rundt</p>
+						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje</p>
 					</div>
 				</div>
 			</section>
@@ -132,11 +141,13 @@
 						<p>3?</p>
 						<p>5?</p>
 						<p>Godt, for er du på den 5. koppen, så har du senket mulighetene for diabetes type 2 med 50%!</p>
-						<p>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</p>
-						<p>Du utvikler demens senere enn andre!</p>
-						<p>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</p>
-						<p>Og siden kaffe stammer fra frukt</p>
-						<p>Kan vi da si at det er en av de fem om dagen?</p>
+						<div id="helseinfo">
+							<p>Du har senket sjansen for å få en masse hjerte og kar sykdommer!</p>
+							<p>Du utvikler demens senere enn andre!</p>
+							<p>Og mer kaffe du drikker, jo mindre sjanse for parkinson!</p>
+							<p>Og siden kaffe stammer fra frukt</p>
+							<p>Kan vi da si at det er en av de fem om dagen?</p>
+						</div>
 
 						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
 						<p>Rett bak Finland.</p>
