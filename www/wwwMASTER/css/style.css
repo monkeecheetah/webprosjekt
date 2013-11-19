@@ -297,11 +297,14 @@ body{
 
 }
 #kaffevelgerheader{
-    margin-top: 7%;
-    padding-bottom: 1%;
+   
     letter-spacing: 8px;
-    font-size: 800%;
+    font-size: 1000%;
     margin-bottom:3%;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1%;
     color: black;
     font-family:'Fjalla One', sans-serif;
     text-align: center;
