@@ -3,6 +3,7 @@ display: inline-block;
 background-color:#000;
 color:#fff;
 padding:2%;
+margin: 2%;
 border-radius:2px;
 }
 .tilbWrap {
@@ -12,7 +13,7 @@ border-radius:2px;
     font-family:Arial;
 }
 .kaffeTilbBilde {
-	width:20%;
+	width:50%;
 }
 #kaffevelger input[type="radio"]:checked + label { 
     background:red !important;
