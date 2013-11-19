@@ -203,22 +203,24 @@
 				<div class="block7 block">
 					<div id="merkoffein" class="content">
 						<h3>FØLER DU DEG KVIKK?</h3>
-						<p>Selvfølgelig gjør du det</p>
-						<p>For du hentet kaffe sant?</p>
-						<p>Koffeinen tas opp nesten umiddelbart</p>
-						<p>En kopp kaffe inneholder opptil 200mg koffein</p>
-						<p>Energidrikker? Ca. 80mg. </p>
-						<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola(<a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a>)</p>
-						<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
-						<p>Nyt kaffen din!</p>
-						<p>Du har glede av den</p>
-						<p>Mentalt</p>
-						<p>Og fysisk</p>
-						<p>Nyter du en bit sjokolade til kaffen din?</p>
-						<p>Den inneholder også koffein</p>
-						<p>Og smertestillende kan også inneholde koffein</p>
-						<p>Gjør de det er de inntil 40% mer effektive</p>
-						<p>og kan hjelpe kroppen til å ta det opp raskere</p>
+						<div id ="MKinnhold">
+							<p>Selvfølgelig gjør du det</p>
+							<p>For du hentet kaffe sant?</p>
+							<p>Koffeinen tas opp nesten umiddelbart</p>
+							<p>En kopp kaffe inneholder opptil 200mg koffein</p>
+							<p>Energidrikker? Ca. 80mg. </p>
+							<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola(<a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a>)</p>
+							<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
+							<p>Nyt kaffen din!</p>
+							<p>Du har glede av den</p>
+							<p>Mentalt</p>
+							<p>Og fysisk</p>
+							<p>Nyter du en bit sjokolade til kaffen din?</p>
+							<p>Den inneholder også koffein</p>
+							<p>Og smertestillende kan også inneholde koffein</p>
+							<p>Gjør de det er de inntil 40% mer effektive</p>
+							<p>og kan hjelpe kroppen til å ta det opp raskere</p>
+						</div>
 					</div>
 				</div>
 			</section>

@@ -423,6 +423,7 @@ body{
     float:left;
     margin-left: 5%;
 
+
 }
 
 
@@ -435,24 +436,30 @@ body{
     font-size: 550%;
     font-weight: bold;
     border-bottom-style: solid;
-    border-bottom-width: 1px;
+    border-bottom-width: 3px;
 
 }
 #merkoffein p{
     color:black;
 }
 
+#MKinnhold{
+    padding: 3%;
+    border-radius: 10px;
+    background-color:rgba(255,255,255,0.4);
+}
+
 
 
 /*KAFFE _ SMAK PÅ ORDET*/
 
-#kaffeordet{
+#ordetkaffe{
     width: 80%;
     margin-left: 5%;
 
 }
 
-#kaffeordet h3{
+#ordetkaffe h3{
     margin-top: 5%;
     padding-bottom: 3%;
     letter-spacing: 8px;
@@ -463,7 +470,7 @@ body{
 
 }
 
-#kaffeordet p{
+#ordetkaffe p{
 
 }
 
@@ -491,11 +498,15 @@ body{
 /*ANSVAR*/
 
 #kaffeansvar{
+    padding:3%;
+    border-radius: 10px;
+    background-color:rgba(255,255,255,0.4);
     width: 80%;
     margin-left: 5%;
 }
 
 #kaffeansvar h3{
+    color: black;
     margin-top: 5%;
     padding-bottom: 3%;
     letter-spacing: 8px;
@@ -506,6 +517,7 @@ body{
 }
 
 #kaffeansvar p{
+    color: black;
     
 }
 
