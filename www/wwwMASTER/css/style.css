@@ -429,7 +429,6 @@ body{
  */
 
 #bak0{
-    /*height: 780px;*/
     background: url(images/background/full/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 }    
 #bak1{
@@ -444,7 +443,6 @@ body{
 #bak4{
     background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
 }
-
 #bak5{
     background: url(images/background/full/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
