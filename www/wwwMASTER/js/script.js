@@ -27,7 +27,7 @@ $(document).ready(function(){
 		});	
 	}
 
-/*	introFade = $("#intro h3, #intro p,#helse h3, #helse p").fadeTo(0,0);
+	introFade = $("#intro h3, #intro p,#helse h3, #helse p").fadeTo(0,0);
 		counter = 20;
 	   $("#intro h3, #intro p,#helse h3, #helse p").each(function(){
 	   		if($(this).is("h3")) {
@@ -35,8 +35,7 @@ $(document).ready(function(){
 	   		}
 	   		$(this).css('margin-left', counter+'px');
 	   		counter += 20;
-	   	});
-*/	   	
+	   	});	   	
 	   kaffeKonsum();
 	   kaffeProduksjon();
 }); // end of Document on ready
@@ -75,7 +74,7 @@ function blockFade(){
  })
 };
 
-/*
+
 $(window).scroll(function () {
    $('#intro p, #intro h3').each(function () { // <---loop the divs id starts with #box 
       if (($(this).offset().top - $(window).scrollTop()) < 200) { //<---mark the $(this).offset().top of current object
@@ -85,7 +84,7 @@ $(window).scroll(function () {
       }
    });
 });
-*/
+
 
 /*
 $(window).scroll(function(d,h) {
