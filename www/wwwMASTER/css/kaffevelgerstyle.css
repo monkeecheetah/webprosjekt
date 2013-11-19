@@ -12,12 +12,14 @@ border-radius:2px;
     display:block;
     font-family:Arial;
     margin:1%;
+    border-right-style: solid;
+    border-right-width: 1px;
 }
 .kaffeTilbBilde {
 	width:50%;
 }
 .tilbText{
-    border-radius: 2px;
+    border-radius: 5px;
     background-color: rgba(255,255,255,0.4);
 }
 #kaffevelger input[type="radio"]:checked + label { 
@@ -82,6 +84,8 @@ input[type="radio"] {
 #maskinliste h3{
     font-family:'Fjalla One', sans-serif;
     font-size: 200%;
+    margin-bottom: 3%;
+
 }
 @media all and (max-width: 480px) { 
     #kaffeForm {
