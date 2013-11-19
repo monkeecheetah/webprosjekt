@@ -288,6 +288,7 @@ body{
     margin-left: 2%;
     margin-right: 2%;
     margin-bottom: 5%;
+    background-color: rgba(255,255,255,0.7);
 
 }
 #kaffevelgerheader{
@@ -437,6 +438,10 @@ body{
 }
 #bak4{
     background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+}
+
+#kaffeV{
+    background: url(images/background/full/5882139013_7c6d68b520_o_dus) 100% 0 no-repeat fixed;
 }
 #bak5{
     background: url(images/background/full/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
