@@ -26,7 +26,7 @@
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
-	height:140px; 
+	/*height:140px; */
 	text-indent:-9999px;
 	background-size:cover; 
 }
@@ -100,7 +100,7 @@
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
-	height:140px; 
+	/*height:140px; */
 	text-indent:-9999px;
 	background-size:cover; 
 }
