@@ -18,10 +18,10 @@
 
 			<nav>
 				<ul>
-					<li><a href="">INTRO</a></li>
-					<li><a href="">OM</a></li>
+					<li><a href="#intro">INTRO</a></li>
+					<li><a href="#kaffetilnorge">OM</a></li>
 					<li><a href="#kaffevelger">KAFFEVELGER</a></li>	
-					<li><a href="">KOFFEIN</a></li>														
+					<li><a href="#koffein">KOFFEIN</a></li>														
 				</ul>
 			</nav>
 			<section class="blockWrap" id="bak0" data-speed="100" data-type="background">
