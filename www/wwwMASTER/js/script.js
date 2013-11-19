@@ -87,6 +87,8 @@ $(window).scroll(function () {
 });
 */
 
+
+// Scroll listener - hvor er man - hva skal sammenliknes med hva osv
 	$(window).scroll(function(){
 		scrollPos = $(window).scrollTop();
 		console.log("CurrPos "+$(window).scrollTop());
@@ -105,21 +107,24 @@ $(window).scroll(function () {
 		})
 	});
 
-	function fadeAni(inputElements) {
-		console.log(toUse);
-		console.log("it runs fadeAni" );
-//		console.log($(inputElements).children().children());
-	}
 
+// fadeanimasjonen
+	function fadeAni(inputElements) {
+		$(inputElements).children().each(function(){
+			elX = $(inputElements).position().top;
+
+			$(this).children().children().each(function(){
+				if((elX + $(this).position().top) > $(window).scrollTop()){
+					$(this).fadeTo(1000,1);
+				}
+			});
+		});
+	}
+// Opprette array med alle blokkene. Er det egentlig nødvendig?
   $(window).load( function () { 
   	elementsArray = new Array;
   	$('.block').each(function(){
   		elementsArray.push(this);
-  		//console.log($(this));
-//  		$(this)
-//  		$(this).children().children().each(function(){
-//  			console.log($(this).html() +" "+$(this).position().top);
-//  		});
   	});
   });
 
