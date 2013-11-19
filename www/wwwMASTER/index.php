@@ -131,6 +131,7 @@
 			<section class="blockWrap" id="kaffeV">
 					<div id="kaffevelger">
 						<h3 id="kaffevelgerheader">KAFFEVELGER</h3>
+						<p id="KVbeskrivelse"><em>Kaffevelgeren beregner hvilken type kaffe som passer deg best akkurat nå!</em></p>
 						<?php include('pages/kaffevelger.php'); ?>
 					</div>
 			</section>
