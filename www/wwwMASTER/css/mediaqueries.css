@@ -1,6 +1,6 @@
-@media all and (max-width: 900px) and (min-width:480px) { 
+@media all and (max-width: 980px) and (min-width:480px) { 
 	nav a {
-		font-size:10%;
+		font-size:100%;
 		letter-spacing: 0px;
 	}
 	.block0 h1 {
