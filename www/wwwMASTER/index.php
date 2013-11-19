@@ -228,7 +228,7 @@
 			<section class="blockWrap" id="bak8" data-speed="100" data-type="background">
 				<div class="block8 block">
 		 			<div id="ordetkaffe" class="content">
-		 				<h3>Kaffe - kaffe. Smak på ordet</h3>
+		 				<h3>Kaffe - Smak på ordet</h3>
 		 				<p>Hvor kommer det fra?</p>
 		 				<p>Første gang dokumentert er fra 1598 på italiensk, caffe</p>
 		 				<p>Som igjen er fra tyrkisk kahve</p>

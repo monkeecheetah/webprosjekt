@@ -420,9 +420,7 @@ body{
 /*MER KOFFEIN*/
 #merkoffein{
     width: 80%;
-    float:left;
     margin-left: 5%;
-    float:left;
     width: 70%;
     margin-left: auto;
     margin-right: auto;
@@ -432,6 +430,7 @@ body{
 
 
 #merkoffein h3{
+    text-align: center;
     color: black;
     margin-top: 0%;
     padding-top: 5%;
@@ -460,9 +459,8 @@ body{
 #ordetkaffe{
     width: 80%;
     margin-left: 5%;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
-    float:left;
     width: 70%;
     margin-left: auto;
     margin-right: auto;
