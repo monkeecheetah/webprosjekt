@@ -462,13 +462,15 @@ body{
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
     width: 70%;
-    margin-left: 10%;
+    margin-left:5%;
+    margin-top:5%;
     margin-bottom: 5%;
     float: left;
 
 }
 
 #ordetkaffe h3{
+    text-align: center;
     width: 80%;
     margin-top: 5%;
     padding-bottom: 3%;
@@ -502,6 +504,13 @@ body{
 
 #prodland p {
     clear:left;
+}
+
+#prodlandinnhold{
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 20px;
+    margin-bottom: 5%;
+
 }
 
 
