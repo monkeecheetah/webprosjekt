@@ -4,7 +4,7 @@ background-color:#000;
 color:#fff;
 padding:2%;
 margin: 2%;
-border-radius:2px;
+border-radius:5px;
 }
 .tilbWrap {
 	float:left;
@@ -41,7 +41,7 @@ input[type="radio"] {
     background-color:#bbb;
 }
 #kaffeForm {
-    background-color:#9F703A;
+    background-color:#8E6B23;
     float:left;
     width:20%;
     border-radius: 2%;
@@ -65,7 +65,7 @@ input[type="radio"] {
     padding-left: 2%;
     margin-top: 2%;
     margin-bottom: 3%;
-    background-color:#9F703A;
+    background-color:#8E6B23;
     border-radius: 2%;
 }
 #maskinliste li:nth-child(4n+5) {
