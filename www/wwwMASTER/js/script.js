@@ -35,8 +35,8 @@ $(document).ready(function(){
 	   		}
 	   		$(this).css('margin-left', counter+'px');
 	   		counter += 20;
-	   	});
-*/
+	   	});*/
+
 	   kaffeKonsum();
 	   kaffeProduksjon();
 }); // end of Document on ready
@@ -87,6 +87,42 @@ $(window).scroll(function () {
 });
 */
 
+	$(window).scroll(function(){
+		scrollPos = $(window).scrollTop();
+		console.log("CurrPos "+$(window).scrollTop());
+		previous = 0;
+		current = 0;
+		next = 0;
+		toUse = 0;
+
+		$(elementsArray).each(function(){
+			elementPos  = $(this).parent().position().top;
+//			console.log($(this).scrollTop());
+			toUse = $(this).parent();			
+			if(scrollPos > $(this).parent().position().top && toUse.parent().position().top < $(this).parent().position().top) {
+				fadeAni(toUse);
+			}
+		})
+	});
+
+	function fadeAni(inputElements) {
+		console.log(toUse);
+		console.log("it runs fadeAni" );
+//		console.log($(inputElements).children().children());
+	}
+
+  $(window).load( function () { 
+  	elementsArray = new Array;
+  	$('.block').each(function(){
+  		elementsArray.push(this);
+  		//console.log($(this));
+//  		$(this)
+//  		$(this).children().children().each(function(){
+//  			console.log($(this).html() +" "+$(this).position().top);
+//  		});
+  	});
+  });
+
 /*
 $(window).scroll(function(d,h) {
 	if(vinduBredde > 900) {	
@@ -104,7 +140,7 @@ $(window).scroll(function(d,h) {
 	        }
 		});
 	}
-}); // end of life (as we know it)
+}); 
 */
 
 
