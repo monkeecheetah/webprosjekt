@@ -458,21 +458,22 @@ body{
 
 #ordetkaffe{
     text-align: center;
-    width: 80%;
+    width: 70%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
     width: 70%;
     margin-left:5%;
     margin-top:5%;
     margin-bottom: 5%;
-    float: left;
 
 }
 
 #ordetkaffe h3{
-    text-align: center;
+    
     width: 80%;
     margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
     padding-bottom: 3%;
     letter-spacing: 8px;
     font-size: 550%;
@@ -488,6 +489,7 @@ body{
 
 /* PRODLAND */
 #prodland{
+
     width: 80%;
     margin-left: 5%;
 }
@@ -507,6 +509,7 @@ body{
 }
 
 #prodlandinnhold{
+    padding: 3%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
     margin-bottom: 5%;

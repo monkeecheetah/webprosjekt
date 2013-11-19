@@ -300,6 +300,8 @@
 				</div>
 			</section>
 			<section class="blockWrap" id="bak12" data-speed="100" data-type="background">
+				<h3>Footer</h3>
+				<p>HER MÅ VI HA NOE</p>
 
 			</section>
 
