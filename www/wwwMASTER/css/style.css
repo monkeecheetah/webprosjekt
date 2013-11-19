@@ -417,10 +417,96 @@ body{
     color: white;
 }
 
+/*MER KOFFEIN*/
+#merkoffein{
+    width: 80%;
+    float:left;
+    margin-left: 5%;
+
+}
+
+
+#merkoffein h3{
+    color: black;
+    margin-top: 0%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    letter-spacing: 8px;
+    font-size: 550%;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+
+}
+#merkoffein p{
+    color:black;
+}
+
+
+
+/*KAFFE _ SMAK PÅ ORDET*/
+
+#kaffeordet{
+    width: 80%;
+    margin-left: 5%;
+
+}
+
+#kaffeordet h3{
+    margin-top: 5%;
+    padding-bottom: 3%;
+    letter-spacing: 8px;
+    font-size: 550%;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+
+}
+
+#kaffeordet p{
+
+}
+
 /* PRODLAND */
+#prodland{
+    width: 80%;
+    margin-left: 5%;
+}
+#prodland h3{
+    margin-top: 5%;
+    padding-bottom: 3%;
+    letter-spacing: 8px;
+    font-size: 550%;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+
+}
 
 #prodland p {
     clear:left;
+}
+
+
+/*ANSVAR*/
+
+#kaffeansvar{
+    width: 80%;
+    margin-left: 5%;
+}
+
+#kaffeansvar h3{
+    margin-top: 5%;
+    padding-bottom: 3%;
+    letter-spacing: 8px;
+    font-size: 550%;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+#kaffeansvar p{
+    
 }
 
 /***

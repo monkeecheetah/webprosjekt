@@ -202,7 +202,7 @@
 			<section class="blockWrap" id="bak7" data-speed="100" data-type="background">
 				<div class="block7 block">
 					<div id="merkoffein" class="content">
-						<h3>FØLER DU DEG KVIKK</h3>
+						<h3>FØLER DU DEG KVIKK?</h3>
 						<p>Selvfølgelig gjør du det</p>
 						<p>For du hentet kaffe sant?</p>
 						<p>Koffeinen tas opp nesten umiddelbart</p>
@@ -274,22 +274,10 @@
 			</section>
 
 
+
+
 			<section class="blockWrap" id="bak10" data-speed="100" data-type="background">
 				<div class="block10 block">
-					<div id="kaffeogsamfunn" class="content">
-						<h3>Kaffe og samfunn</h3>
-						<p>Kaffe er i dag en del av samfunnet</p>
-						<p>Kaffe er overalt der vi ferdes</p>
-						<p>Man møter venner over en kopp kaffe</p>
-						<p>Det er aldri et møte uten kaffe</p>
-						<p>Man har kirkekaffe</p>
-					</div>
-				</div>
-			</section>
-
-
-			<section class="blockWrap" id="bak11" data-speed="100" data-type="background">
-				<div class="block11 block">
 					<div id="kaffeansvar" class="content">
 						<h3>Fra kaffen såes i jorda</h3>	
 						<p>- til den er i din kopp</p>
