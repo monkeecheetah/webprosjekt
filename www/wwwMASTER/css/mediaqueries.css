@@ -18,16 +18,18 @@
 		margin-top:60px;
 		font-size:100%;
 	}
+	.block0 h2 {
+		font-size:60%;
+	}
 
 	.blockWrap {
 
 
 
-	background-position:50% 50%; 
+	background-position:100% 100%; 
 	background-repeat:no-repeat; 
 	display:block; 
-	/*height:140px; */
-	/*text-indent:-9999px;*/
+
 	background-size:cover; 
 }
 
@@ -97,7 +99,7 @@
 	.blockWrap {
 
 
-	background-position:50% 50%; 
+	background-position:100% 100%;
 	background-repeat:no-repeat; 
 	display:block; 
 	/*height:140px; */
