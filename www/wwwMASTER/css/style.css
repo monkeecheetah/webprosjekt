@@ -306,6 +306,7 @@ body{
     margin-right: auto;
     padding-bottom: 1%;
     color: black;
+    display: inline;
     font-family:'Fjalla One', sans-serif;
     text-align: center;
     border-bottom-style: solid;
