@@ -15,11 +15,11 @@
 	<label for="oko3">FEIT</label>
 	<h3>Hvor mye arbeid vil du legge i kaffen?</h3>
 	<input type="radio" name="egeninnsats" id="egen1" value="1.0">			
-	<label for="egen1">Minst mulig</label>
+	<label for="egen1">MINST MULIG</label>
 	<input type="radio" name="egeninnsats" id="egen2" value="2.0">
-	<label for="egen2">Jeg kan løfte enfinger </label>
+	<label for="egen2">LITT </label>
 	<input type="radio" name="egeninnsats" id="egen3" value="3.0">
-	<label for="egen3">Mye!</label>
+	<label for="egen3">MYE!</label>
 <!--			<h3>Jeg vil påvirke prosessen</h3>
 	<input type="radio" name="pavirke" id="pros1" value="p1" checked>			
 	<label for="pros1">Ja</label>

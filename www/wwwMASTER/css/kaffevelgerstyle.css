@@ -39,7 +39,8 @@ input[type="radio"] {
     background-color:#077ff7;
     float:left;
     width:20%;
-    border-radius: 5%;
+    border-radius: 2%;
+    margin-right: 2%;
 }
 #kaffeForm h3 {
     color:#000;
@@ -53,7 +54,7 @@ input[type="radio"] {
     width: 80%;
     padding-left: 0;
     background-color:#077ff7;
-    border-radius: 5%;
+    border-radius: 2%;
 }
 #maskinliste li:nth-child(4n+5) {
     clear:left;
