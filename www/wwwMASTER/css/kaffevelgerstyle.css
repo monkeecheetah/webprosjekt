@@ -12,11 +12,9 @@ border-radius:2px;
     display:block;
     font-family:Arial;
     margin:1%;
-    border-right-style: solid;
-    border-right-width: 1px;
 }
 .kaffeTilbBilde {
-	width:50%;
+	width:80%;
 }
 .tilbText{
     border-radius: 5px;
@@ -43,7 +41,7 @@ input[type="radio"] {
     background-color:#bbb;
 }
 #kaffeForm {
-    background-color:#855E42;
+    background-color:#9F703A;
     float:left;
     width:20%;
     border-radius: 2%;
@@ -67,7 +65,7 @@ input[type="radio"] {
     padding-left: 2%;
     margin-top: 2%;
     margin-bottom: 3%;
-    background-color:#855E42;
+    background-color:#9F703A;
     border-radius: 2%;
 }
 #maskinliste li:nth-child(4n+5) {
