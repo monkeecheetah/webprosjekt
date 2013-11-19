@@ -422,6 +422,10 @@ body{
     width: 80%;
     float:left;
     margin-left: 5%;
+    float:left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 
 
 }
@@ -445,7 +449,7 @@ body{
 
 #MKinnhold{
     padding: 3%;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color:rgba(255,255,255,0.4);
 }
 
@@ -456,6 +460,12 @@ body{
 #ordetkaffe{
     width: 80%;
     margin-left: 5%;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 20px;
+    float:left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -497,17 +507,21 @@ body{
 
 /*ANSVAR*/
 
-#kaffeansvar{
+    #kaffeansvar{
+    margin-top: 5%;
+    margin-bottom: 5%;
     padding:3%;
-    border-radius: 10px;
-    background-color:rgba(255,255,255,0.4);
-    width: 80%;
-    margin-left: 5%;
+    border-radius: 20px;
+    background-color:rgba(255,255,255,0.6);
+    float:left;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #kaffeansvar h3{
     color: black;
-    margin-top: 5%;
+    margin-top: 2%;
     padding-bottom: 3%;
     letter-spacing: 8px;
     font-size: 550%;
@@ -518,6 +532,7 @@ body{
 
 #kaffeansvar p{
     color: black;
+    font-size: 200%;
     
 }
 
