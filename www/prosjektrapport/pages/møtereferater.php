@@ -173,7 +173,24 @@
 					<li>Forslag til problemstilling for nettstedet</li>
 					<li>ta med aeropress og bønner</li>
 				</ul>
+	<h2><ul>Fredag 25.10.2013</ul></h2>
 		
+		<h3>Mål for dagens møte:</h3>
+		 	<p>Finne overordnet problemstilling</p>
+		<h3>Problemstilling:</h3>
+			<p><strong>Kan vi ved hjelp av en nettsides virkemidler inspirere en kaffedrikkers forhold til kaffe?</strong></p>
+		<h3>Målgruppe:</h3>
+			<p>de som ikke har et bevisst forhold til kaffe<br>
+				Hvorfor like kaffe? Bruke humor og lett språk for å lokkeleseren til å bli mer glad i kaffe.<br>
+				Inspirere halvengasjerte kaffedrikkere til å utforske nye måter å drikke kaffe på.</br>
+				Passe på at ikke nettsiden blir ovenifra og ned</br>
+				Ikke for kaffegeeks. Hjelpe alle til å sette bedre pris påkaffe.<br>
+				Nettsieden er for alle i Norge. Enkle grep for bedre kaffe.
+			</p>
+			<p>God regel: Hvis det er naturlig å linke til det vi skriver om, så link.</p>
+
+	
+
 
 
 
