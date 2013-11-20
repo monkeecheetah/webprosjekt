@@ -8,16 +8,19 @@
 					<li>At alle drar lasset sammen.</li>
 					<li>At alle får bidratt med det de kan, samt blir utfordret på ny teknologier.</li>
 				</ul>
-			<li>Ambisjonsnivå</li>
-				<ul><li>Karakter A</li></ul>
-			<li>Strategi fo godt resultat:</li>
-				<ul><li>Å bruke det vi har lært i pensum kombinert med presentasjon av et tema som motiverer alle til jevnt og godt arbeid.</li></ul>
-			<li>Hvem kan hva:</li>
-				<ul><li>Kristoffer kan definitivt mest, og resten av gruppen er komfortable med html, css og litt javascript/php. Osen er flink med photoshop.</li></ul>
-			<li>Plan til neste møte:</li>
-				<ul><li>Tenke hvilken tema vi ønsker å lage oppgave om. Hva vil du jobbe med? Hva vil du ikke jobbe med?</li></ul>
-			<li>Fellers interesser:</li>
-				<ul><li>Musikk, kunst og kaffe</li></ul>
+			<li>Ambisjonsnivå: Karakter A</li>
+			<li>Strategi for godt resultat:<br>
+				Å bruke det vi har lært i pensum kombinert med presentasjon av et tema som motiverer alle til jevnt og godt arbeid.
+			</li>
+			<li>Hvem kan hva:<br>
+				Kristoffer kan definitivt mest, og resten av gruppen er komfortable med html, css og litt javascript/php. Osen er flink med photoshop.
+			</li>
+			<li>Plan til neste møte:</br>
+				Tenke hvilken tema vi ønsker å lage oppgave om. Hva vil du jobbe med? Hva vil du ikke jobbe med?
+			</li>
+			<li>Fellers interesser:</br>
+				Musikk, kunst og kaffe
+			</li>
 		</ul>
 
 	<h3>Torsdag 24.10.2013</h3>
