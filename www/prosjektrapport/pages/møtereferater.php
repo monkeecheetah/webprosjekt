@@ -4,7 +4,7 @@
 			<li>Møttes for første gang, ble kjent.</li>
 			<li>Oprettet gruppe på facebook, mappe på drive og repository på github.</li>
 			<li>Forventningsavklaring:<br>
-				- At alle drar lasset sammen.
+				- At alle drar lasset sammen.<br>
 				- At alle får bidratt med det de kan, samt blir utfordret på ny teknologier.
 			</li>
 			<li>Ambisjonsnivå: Karakter A</li>
@@ -14,10 +14,10 @@
 			<li>Hvem kan hva:<br>
 				- Kristoffer kan definitivt mest, og resten av gruppen er komfortable med html, css og litt javascript/php. Osen er flink med photoshop.
 			</li>
-			<li>Plan til neste møte:</br>
+			<li>Plan til neste møte:<br>
 				- Tenke hvilken tema vi ønsker å lage oppgave om. Hva vil du jobbe med? Hva vil du ikke jobbe med?
 			</li>
-			<li>Fellers interesser:</br>
+			<li>Fellers interesser:<br>
 				- Musikk, kunst og kaffe
 			</li>
 		</ul>
