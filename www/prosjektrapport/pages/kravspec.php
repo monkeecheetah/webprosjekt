@@ -1,6 +1,5 @@
 <article>
-			<h1>Kravspesifikasjon for gruppe 29</h1>
-			<p class="linkClass"><a href="forprosjekt.html">Forprosjekt</a></p>
+			<h1>Kravspesifikasjon</h1>
 			<h2>Problemstilling</h2>
 			<h3>Kan vi ved hjelp av en nettsides virkemidler inspirere en kaffedrikkers forhold til kaffe?</h3>
 			<h2>Målgruppe:</h2>

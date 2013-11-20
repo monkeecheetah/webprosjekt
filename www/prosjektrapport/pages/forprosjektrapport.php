@@ -1,6 +1,6 @@
 <article>
 		<header>
-			<h1>Forprosjektrapport, gruppe 29 </h1>
+			<h1>Forprosjektrapport</h1>
 			<h2>- en nettside om kaffe</h2>
 		</header>
 
