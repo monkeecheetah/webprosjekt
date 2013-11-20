@@ -56,7 +56,7 @@ nav{
 	font-family: Arial;
 	font-size: 120%;
 }
-#content a:link, a:visited{
+#content a{
 	font-family: Arial;
 	font-size: 120%;
 	text-decoration: none;
