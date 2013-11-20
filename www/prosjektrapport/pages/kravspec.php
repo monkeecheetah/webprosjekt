@@ -1,5 +1,3 @@
-<h1>kravspesifikasjoner</h1>
-
 <article>
 			<h1>Kravspesifikasjon for gruppe 29</h1>
 			<p class="linkClass"><a href="forprosjekt.html">Forprosjekt</a></p>

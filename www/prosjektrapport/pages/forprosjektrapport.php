@@ -1,5 +1,3 @@
-<h1>Forprosjektrapport</h1>
-
 <article>
 		<header>
 			<h1>Forprosjektrapport, gruppe 29 </h1>
