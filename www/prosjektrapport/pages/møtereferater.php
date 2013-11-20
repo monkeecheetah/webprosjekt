@@ -26,14 +26,10 @@
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
 			<li>Brukte følgende demokratisk prosess for å stemme frem temaet for webprosjektet.</li>
 				<ol>
-					<li>Bli kjent med tema.</li>
-					<li>Bryte ned innhold.</li>
-					<li>Gjøre om til HTML</li>
-					<li>Gjøre interaktivt.</li>
-					<li>Ekstern til å gi vurdering.</li>
-					<li>Vurderer hva som skal gjøres.</li>
-					<li>2-6 igjen.</li>
+					<li>Samle alle temaer fra braindump i felles drive-dokument</li>
+					<li>Stemme på tema ved å sette stjerner, alle har fem stjerner til rådighet.</li>
 				</ol>
+
 			<li>De aller første idéene etter braindumpen så slik ut:</li>
 				<ul>
 					<li>Bahamas jul nettside</li>
@@ -58,6 +54,95 @@
 					nettside for skole</li>
 					<li>bilforrettning, pressentere biler</li>
 				</ul>
+			<li></li>
+			<li>Etter første avstemningen fikk følgende foslag flest stjerner</li>
+				<ul>
+					<li>*****Nerdeside om kaffe(Kanskjevi kan selge kaffe?)</li>
+					<li>**Ukjent naturfenomen: vi kan vise at vi kan sette oss inn i nye fagområder, det kan være spennende og gi rom for kunstenirsk, visuell tilnærming</li>
+					<li>**Spillende nettside</li>
+					<li>Studentenes kokebok</li>
+					<li>**Nettbutikk - Produkpresentasjon - Vise fram et produkt på en kreativ måte.</li>
+					<li>**Nettsted med nyhetsfeed(nettavis, magasin, musikknettside), vanskelig, må oppdateres hele tiden</li>
+					<li>**nettside for treningsenter, hvor man kan reservere treningstimer, saler, baner, kjøpe medlemskort</li>
+					<li>*Reise inn i skrekkfilmens verden</li>
+					<li>Lær å kode java</li>
+				</ul>	
+			<li></li>
+			
+
+
+
+
+
+
+
+
+
 		</ul>
+
+<!-- Derertter tok vi de fire mest populære temaene og brainstormet de:
+
+Kaffe:
+- Top 10, mest koffein, hva gir deg mest kick? mest ytelse?
+- Mat som gir energi og overskudd
+- Presentere kaffens historie - Gir rom for mye kreativitet (interaktivt)
+- Rate lokale kafeer, lokalisere på kart - legge inn kommentar
+- Hva kan spises til kaffen, tilbehør på globalt basis. kulturelle kaffeforskjeller
+- Håndbrygg, v60 - introduksjon til dette
+- Top 10 billig måte for å få i seg BRA kaffe
+- Intervju med den typiske kaffedrikker
+- fakta om koffein, hvor mye før du dør? ++;
+
+Spillende nettside:
+- Oppdag et tema i gamingformat
+- Få poeng for å oppdage
+- Quiz
+- Tetris aktig
+- Snake
+- Plattformspill
+- Få vite mer om et tema med å få nok poeng
+- Belønne for å utforske (eastereggs ++)
+- Ha et konkret tema
+- Ikke ha et konkret tema
+- Uvanlig oppsett
+- Interaktiv by (1001hjem.no)
+- Trigge utforskning
+
+Studentens kokebok:
+- oppskrifter
+- tipsogtriks og råd
+- hvordan gjøre det billig
+- Hjelp til å sette opp budsjett
+- Matkalkulator
+- “Jeg har kylling, hva kan jeg lage?”
+- Tilbudsjeger
+- Tidsberegner (hvor lang tid har du på å lage mat)
+- take-away alternativer
+- matlagingsteknikker som kan “trigge kreativitet”
+- billig utstyr (hvor får gode og billige panner osv)
+- matregler
+
+Nettbutikk:
+- Presentre produkt - interaktivt
+- fungerende nettbutikk, Kjøp funksjon
+- eye tracking, hva trigger kjøpslysten, (vite hvilken målgruppe vi snakker til)
+- Hvilken informasjon om produktet er avgjørende om det interessant.
+
+ -->
+
+
+
+
+	<ol>
+					<li>Bli kjent med tema.</li>
+					<li>Bryte ned innhold.</li>
+					<li>Gjøre om til HTML</li>
+					<li>Gjøre interaktivt.</li>
+					<li>Ekstern til å gi vurdering.</li>
+					<li>Vurderer hva som skal gjøres.</li>
+					<li>2-6 igjen.</li>
+				</ol>
+
+
 
 
