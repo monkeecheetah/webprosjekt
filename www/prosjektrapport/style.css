@@ -1,5 +1,5 @@
 body{
-	background-color: #f6f6f6;
+	background-color: #A88B61;
 }
 
 #headerheader{
@@ -68,7 +68,7 @@ nav{
 	color: black;
 }
 
-#content div{
+#content section{
 	margin-bottom: 8%;
 }
 .navlink{
