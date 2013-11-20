@@ -27,6 +27,13 @@ body{
 	width: 30%;
 
 }
+nav{
+	background-color: #151515;
+	float:left;
+	width: 20%;
+	font-family: Arial;
+	font-size: 200%;
+}
 
 
 
@@ -55,20 +62,12 @@ body{
 	text-decoration: none;
 	color: black;
 }
+.navlink{
+	text-decoration: none;
+	color:white;
+}
 }
 table td{
 	padding: 2px;
 }
 
-nav{
-	background-color: #151515;
-	float:left;
-	width: 20%;
-	font-family: Arial;
-	font-size: 200%;
-}
-
-nav a:link, a:visited{
-	text-decoration: none;
-	color:white;
-}
