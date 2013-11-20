@@ -1,4 +1,6 @@
 <form id="kaffeForm">
+	<input id="showAll" checked type="checkbox" name="showAll" value="all">
+	<label for="showAll">Vis alle bryggemetodene</label>
 	<h3>Hvor god tid har du?</h3>			
 	<input type="radio" name="tid" id="tid1" value="1.0">
 	<label for="tid1">DÅRLIG</label>
@@ -32,8 +34,7 @@
 	<input type="radio" name="bryr" id="bryr2" value="b2">
 	<label for="bryr2">NEI</label>
 	<br>
-	<input id="showAll" checked type="checkbox" name="showAll" value="all">
-	<label for="showAll">Vis alle bryggemetodene</label>
+
 </form>
 
 <ul id="maskinliste">

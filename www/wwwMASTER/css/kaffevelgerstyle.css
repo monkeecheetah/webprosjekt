@@ -21,10 +21,19 @@ border-radius:5px;
     border-radius: 5px;
     background-color: rgba(255,255,255,0.4);
 }
-#kaffevelger input[type="radio"]:checked + label { 
+#kaffevelger input[type="radio"]:checked + label, #showAll:checked + label  { 
     background:red !important;
 }
-input[type="radio"] {
+#showAll + label{
+    font-size: 105%;
+    font-weight: bold;
+    width: 80%;
+    margin-left: 0px;
+}
+label#showAll  {
+    font-size:220%;
+}
+input[type="radio"], input[type="checkbox"] {
     display:none;
 }
 .kaffe {
@@ -86,7 +95,7 @@ input[type="radio"] {
     margin-bottom: 3%;
 
 }
-@media all and (max-width: 480px) { 
+@media all and (max-width: 900px) { 
     #kaffeForm {
         float:left;
         width:90%;
@@ -106,9 +115,12 @@ input[type="radio"] {
         background:none;
     }
     #maskinliste {
-        float:right;
+        float:left;
         margin-left: 5%;
         width:90%;
+    }
+    #showAll + label{ 
+        width:auto;
     }
     #maskinliste h3 {
         font-size:16px;
