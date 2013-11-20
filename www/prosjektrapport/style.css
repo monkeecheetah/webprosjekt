@@ -28,18 +28,7 @@ body{
 
 }
 
-nav{
-	background-color: #151515;
-	float:left;
-	width: 20%;
-	font-family: Arial;
-	font-size: 200%;
-}
 
-nav a{
-	text-decoration: none;
-	color:white;
-}
 
 #bilder{
 	float:right;
@@ -61,10 +50,25 @@ nav a{
 	font-size: 120%;
 }
 #content a:link, a:visited{
+	font-family: Arial;
+	font-size: 120%;
 	text-decoration: none;
 	color: black;
 }
 }
 table td{
 	padding: 2px;
+}
+
+nav{
+	background-color: #151515;
+	float:left;
+	width: 20%;
+	font-family: Arial;
+	font-size: 200%;
+}
+
+nav a{
+	text-decoration: none;
+	color:white;
 }
