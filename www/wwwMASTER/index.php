@@ -34,7 +34,6 @@
 
 
 			<section class="blockWrap" id="bak1" data-speed="100" data-type="background">
-				<span id="over1" data-speed="2" data-type="over"></span>
 				<div class="block1 block">
 					<div id="intro" class="content">
 						<h3>Kaffe er</h3>
@@ -179,7 +178,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak6" data-speed="1500" data-type="background">
+			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
 				<div class="block6 block">
 					<div id="koffein" class="content">
 						<h3>KOFFEIN</h3>
