@@ -59,7 +59,7 @@
 					nettside for skole</li>
 					<li>bilforrettning, pressentere biler</li>
 				</ul>
-			<br>
+			
 			<h4>Etter første avstemningen fikk følgende foslag flest stjerner</h4>
 				<ul>
 					<li>*****Nerdeside om kaffe(Kanskjevi kan selge kaffe?)</li>
@@ -72,22 +72,27 @@
 					<li>*Reise inn i skrekkfilmens verden</li>
 					<li>Lær å kode java</li>
 				</ul>	
-			<br>
+			
 			<h4>Derertter tok vi de fire mest populære temaene og brainstormet de:</h4>
-				<ul>
-					<li><strong>Kaffe:</strong></li>
-						<ul>
-							<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
-							<li>Mat som gir energi og overskudd</li>
-							<li>Presentere kaffens historie - Gir rom for mye kreativitet (interaktivt)</li>
-							<li>Rate lokale kafeer, lokalisere på kart - legge inn kommentar</li>
-							<li>Hva kan spises til kaffen, tilbehør på globalt basis. kulturelle kaffeforskjeller</li>
-							<li>Håndbrygg, v60 - introduksjon til dette</li>
-							<li>Top 10 billig måte for å få i seg BRA kaffe</li>
-							<li>Intervju med den typiske kaffedrikker</li>
-							<li>fakta om koffein, hvor mye før du dør?</li>
-						</ul>
-						<br>
+				
+				<h6><strong>Kaffe:</strong></h6>
+					<ul>
+						<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
+						<li>Mat som gir energi og overskudd</li>
+						<li>Presentere kaffens historie - Gir rom for mye kreativitet (interaktivt)</li>
+						<li>Rate lokale kafeer, lokalisere på kart - legge inn kommentar</li>
+						<li>Hva kan spises til kaffen, tilbehør på globalt basis. kulturelle kaffeforskjeller</li>
+						<li>Håndbrygg, v60 - introduksjon til dette</li>
+						<li>Top 10 billig måte for å få i seg BRA kaffe</li>
+						<li>Intervju med den typiske kaffedrikker</li>
+						<li>fakta om koffein, hvor mye før du dør?</li>
+					</ul>
+						
+
+
+
+
+
 					<li><strong>Spillende nettside:</strong></li>
 						<ul>
 							<li>Oppdag et tema i gamingformat</li>
