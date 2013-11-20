@@ -82,6 +82,7 @@
 							<li>Intervju med den typiske kaffedrikker</li>
 							<li>fakta om koffein, hvor mye før du dør?</li>
 						</ul>
+						<br>
 					<li><strong>Spillende nettside:</strong></li>
 						<ul>
 							<li>Oppdag et tema i gamingformat</li>
@@ -97,6 +98,7 @@
 							<li>Interaktiv by (1001hjem.no)</li>
 							<li>Trigge utforskning</li>
 						</ul>
+						<br>
 					<li><strong>Studentened kokebok:</strong></li>
 						<ul>
 							<li>Oppskrifter</li>
@@ -112,6 +114,7 @@
 							<li>billig utstyr (hvor får gode og billige panner osv)</li>
 							<li>Matregler</li>
 						</ul>
+						<br>
 					<li><strong>Nettbutikk:</strong></li>
 						<ul>
 							<li>resentre produkt - interaktivt</li>
@@ -119,12 +122,15 @@
 							<li>eye tracking, hva trigger kjøpslysten, (vite hvilken målgruppe vi snakker til)</li>
 							<li>Hvilken informasjon om produktet er avgjørende om det interessant.</li>
 						</ul>
+						<br>
 				</ul>
+				<br>
 			<li>
 				Etter en siste avstemning, fant vi at <strong>KAFFE</strong> skulle bli vårt tema for dette webprosjektet. 
 				Ut fra vår felles lidenskap for kaffe, skal vi altså lage en ukritisk fanside til kaffe. 
 				Videre brainstorming resulterte i følgende:
 			</li>
+			<br>
 				<ul>
 					<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
 					<li>Mat som gir energi og overskudd</li>
@@ -147,9 +153,64 @@
 					<li>Funfacts om kaffe</li>
 					<li>Studentrelatert kaffedrikking -> massse koffein</li>
 				</ul>
+				<br>
+
+			<li>Teknologier:</li>
+				<ul>
+					<li>Etter valg av tema, fant vi ut at alle ønsker å benytte seg av teknologien Parallax scrolling til kaffesiden.
+					 Vi ble inspirert til å lage en spennende bakgrunn med flotte illustrasjoner/animasjoner da vi så eksempler på 
+					 nettsider som bruker denne teknologien. Tanken er at endringer i bakgrunnen skal lokke leseren til å utforske 
+					 mest mulig av innholdet på nettsiden ved hjelp av parallax scrolling.</li>
+
+				</ul>
+			<li>Arbeidsmetode:</li>
+				<ul>
+					<li>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>HVA ER GNATTER??</strong> som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</li>
+				</ul>
+
 
 
 		</ul> <!-- main liste -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
