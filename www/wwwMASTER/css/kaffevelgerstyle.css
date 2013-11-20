@@ -12,14 +12,15 @@ border-radius:5px;
     display:block;
     font-family:Arial;
     margin:1%;
+    background-color: rgba(255,255,255,0.4);
+    border-radius: 5px;
+    padding: 3px;    
 }
 .kaffeTilbBilde {
 	width:80%;
 }
 .tilbText{
-    padding: 2%;
     border-radius: 5px;
-    background-color: rgba(255,255,255,0.4);
 }
 #kaffevelger input[type="radio"]:checked + label, #showAll:checked + label  { 
     background:red !important;

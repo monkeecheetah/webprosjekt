@@ -24,7 +24,7 @@
 					<li><a href="#koffein">KOFFEIN</a></li>														
 				</ul>
 			</nav>
-			<section class="blockWrap" id="bak0" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak0" data-speed="20000" data-type="background">
 				<div class="block0 block">
 					<h1>KAFFE</h1> 
 					<h2>- en kjærlighetshistorie</h2>
@@ -33,7 +33,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak1" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak1" data-speed="20000" data-type="background">
 				<div class="block1 block">
 					<div id="intro" class="content">
 						<h3>Kaffe er</h3>
@@ -62,7 +62,7 @@
 
 
 
-			<section class="blockWrap" id="bak2" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
 						<h3>KAFFE TIL NORGE?</h3>
@@ -85,7 +85,7 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak3" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
 				<div class="block3 block">
 					<div id="oppdagelsen" class="content">
 						<h3>KAFFEN KOM FRA</h3>
@@ -101,7 +101,7 @@
 				</div>	
 			</section>
 
-			<section class="blockWrap" id="bak4" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak4" data-speed="20000" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
 						<h3>HVORDAN TAR DU KAFFEN?</h3>
@@ -136,7 +136,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak5" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak5" data-speed="20000" data-type="background">
 				<div class="block5 block">
 					<div id="helse" class="content">
 						<h3>FORRESTEN</h3>
@@ -178,7 +178,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak6" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak6" data-speed="20000" data-type="background">
 				<div class="block6 block">
 					<div id="koffein" class="content">
 						<h3>KOFFEIN</h3>
@@ -199,7 +199,7 @@
 
 			
 
-			<section class="blockWrap" id="bak7" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak7" data-speed="20000" data-type="background">
 				<div class="block7 block">
 					<div id="merkoffein" class="content">
 						<h3>FØLER DU DEG KVIKK?</h3>
@@ -225,7 +225,7 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak8" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak8" data-speed="20000" data-type="background">
 				<div class="block8 block">
 		 			<div id="ordetkaffe" class="content">
 		 				<h3>Kaffe - Smak på ordet</h3>
@@ -243,7 +243,7 @@
 			</section>
 
 
-			<section class="blockWrap" id="bak9" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak9" data-speed="20000" data-type="background">
 				<div class="block9 block">
 							<div id="prodland" class="content">
 								<h3>Etiopia</h3>
@@ -280,7 +280,7 @@
 
 
 
-			<section class="blockWrap" id="bak10" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak10" data-speed="20000" data-type="background">
 				<div class="block10 block">
 					<div id="kaffeansvar" class="content">
 						<h3>Fra kaffen såes i jorda</h3>	
@@ -300,7 +300,7 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak11" data-speed="100" data-type="background">
+			<section class="blockWrap" id="bak11" data-speed="20000" data-type="background">
 				<footer>
 				<h3>Footer</h3>
 				<p>HER MÅ VI HA NOE</p>
