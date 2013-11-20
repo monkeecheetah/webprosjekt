@@ -45,20 +45,18 @@
 	<li><a href="dynamikk"> 5.2Dynamikk</a></li>
 </ul>
 
+
 <a href="#evaluering">6. Evaluering</a>
 <ul>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
+	<li><a href="evalueringScrum">6.1 Arbeidsmetode</a></li>
+	<li><a href="evalueringTeknologi">6.2 Teknologi</a></li>
 </ul>
+
 
 <a href="#refleksjon">7. Refleksjon</a>
 <ul>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
+	<li><a href="refSam">7.1 Sammarbeid</a></li>
+	<li><a href="refSlutt">7.2 Sluttprodukt</a></li>
 </ul>
 
 <a href="#koklusjon">8. Koklusjon</a>
@@ -205,7 +203,7 @@
 	<h2>5. Valg</h2>
 	<div id="wcag">
 		<h3>5.1 WCAG</h3>
-		<p>wcag? what the fuck is wcag?</p>
+		<p>wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
 	</div>
 
 	<div id="dynamikk">
@@ -226,6 +224,20 @@
 
 <section id="evaluering">
 	<h2>6. Evaluering</h2>
+	
+	<div id="evalueringScrum">
+		<h3>Arbeidsmetode</h3>
+		<p>Hvordan funket scrum og alt sånt? hva har vi fulgt og hva har vi gått bort i fra og HVORFOR?</p>
+	</div>
+
+	<div id="evalueringTeknologi">
+		<h3>Teknologiske valg</h3>
+		<p>Hvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
+		 i Jquerie? Hvordan har det funket å produsere egene bilder?</p>
+	</div>
+
+	<div>
+	</div>
 	Evaluering(av metode, valg, teknologier, 
 </section>
 
@@ -236,6 +248,18 @@
 
 <section id="refleksjon">
 	<h2>7. Refleksjon</h2>
+	<div>
+		<h3 id="refSam">7.1 Samarbeid</h3>
+		<p>Hvordan har vi samarbeidet? Hvordan har ansvarsfordelingen fungert. </p>
+	</div>
+
+	<div id="refSlutt">
+		<h3>7.2 Sluttprodukt</h3>
+		<p>Hvor fornøyd er vi med sluttproduktet? Samsvarer det med ambisjonsnivået?</p>
+	</div>
+
+	<div>
+	</div>
 	Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt, 
 </section>
 
@@ -246,6 +270,16 @@
 
 <section id="konklusjon">
 	<h2>8. Konklusjon</h2>
+
+	<div>
+		<h3>Hva har funket?</h3>
+		<p></p>
+	</div>
+
+	<div>
+		<h3>Hva har vi lært?</h3>
+		<p>Hva sitter vi igjen med? lært noe om gruppearbeid? lært nye språk? lært å tegne på tegnebrett? christer har funnet seg selv. Lært noe om hva som funker på en nettside og hva som ikke funker?</p>
+	</div>
 	Konklusjoner(hva funket/hva funket ikke, hva har vi lært, hva sitter vi igjen med
 
 
