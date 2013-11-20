@@ -9,7 +9,7 @@
 
 	<body>
 		<header>
-			<h1>GRUPPE 29</h1>
+			<h1 id ="header">GRUPPE 29</h1>
 		</header>
 		
 		<nav>
