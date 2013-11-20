@@ -1,7 +1,8 @@
 header{
+	font-size: 300%;
 	height: 20%;
-	border-style: solid;
-	border-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
 }
 
 nav{
@@ -9,17 +10,16 @@ nav{
 	width: 20%;
 	border-style: solid;
 	border-width: 2px;
+	border-radius: 15px;
+	font-size: 150%;
+
 }
 
 #bilder{
 	float:right;
 	width: 25%;
-	border-style: solid;
-	border-width: 2px;
 }
 #content{
-	width: 55%;
-	border-style: solid;
-	border-width: 2px;
+	width: 50%;
 	float: left;
 }
