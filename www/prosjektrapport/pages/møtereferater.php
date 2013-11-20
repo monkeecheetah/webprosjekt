@@ -28,6 +28,9 @@
 				<ol>
 					<li>Samle alle temaer fra braindump i felles drive-dokument</li>
 					<li>Stemme på tema ved å sette stjerner, alle har fem stjerner til rådighet.</li>
+					<li>Gjenta stemmeprosess på mest populære temaer.</li>
+					<li>Brainstorme de fire mest populære temaene.</li>
+					<li>Stemme fram hovedtema.</li>
 				</ol>
 
 			<li>De aller første idéene etter braindumpen så slik ut:</li>
@@ -165,49 +168,26 @@
 				</ul>
 			<li>Arbeidsmetode:</li>
 				<ul>
-					<li>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>HVA ER GNATTER??</strong> som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</li>
+					<li>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>WHAT THE FAKK IS GNATTER??</strong> som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</li>
+						<ol>
+						<li>Bli kjent med tema.</li>
+						<li>Bryte ned innhold.</li>
+						<li>Gjøre om til HTML</li>
+						<li>Gjøre interaktivt.</li>
+						<li>Ekstern til å gi vurdering.</li>
+						<li>Vurderer hva som skal gjøres.</li>
+						<li>2-6 igjen.</li>
+					</ol>
+
 				</ul>
-
-
-
+			<li>Til neste møte:</li>
+				<ul>
+					<li>Finne overskrifter som man vil ha med på nettsiden</li>
+					<li>Finne minst FEM inspirerende nettsteder (kaffe og/eller layoutmessig) </li>
+					<li>Forslag til problemstilling for nettstedet</li>
+					<li>ta med aeropress og bønner</li>
+				</ul>
 		</ul> <!-- main liste -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
