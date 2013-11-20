@@ -3,23 +3,22 @@
 		<ul>
 			<li>Møttes for første gang, ble kjent.</li>
 			<li>Oprettet gruppe på facebook, mappe på drive og repository på github.</li>
-			<li>Forventningsavklaring:</li>
-				<ul>
-					<li>At alle drar lasset sammen.</li>
-					<li>At alle får bidratt med det de kan, samt blir utfordret på ny teknologier.</li>
-				</ul>
+			<li>Forventningsavklaring:<br>
+				- At alle drar lasset sammen.
+				- At alle får bidratt med det de kan, samt blir utfordret på ny teknologier.
+			</li>
 			<li>Ambisjonsnivå: Karakter A</li>
 			<li>Strategi for godt resultat:<br>
-				Å bruke det vi har lært i pensum kombinert med presentasjon av et tema som motiverer alle til jevnt og godt arbeid.
+				- Å bruke det vi har lært i pensum kombinert med presentasjon av et tema som motiverer alle til jevnt og godt arbeid.
 			</li>
 			<li>Hvem kan hva:<br>
-				Kristoffer kan definitivt mest, og resten av gruppen er komfortable med html, css og litt javascript/php. Osen er flink med photoshop.
+				- Kristoffer kan definitivt mest, og resten av gruppen er komfortable med html, css og litt javascript/php. Osen er flink med photoshop.
 			</li>
 			<li>Plan til neste møte:</br>
-				Tenke hvilken tema vi ønsker å lage oppgave om. Hva vil du jobbe med? Hva vil du ikke jobbe med?
+				- Tenke hvilken tema vi ønsker å lage oppgave om. Hva vil du jobbe med? Hva vil du ikke jobbe med?
 			</li>
 			<li>Fellers interesser:</br>
-				Musikk, kunst og kaffe
+				- Musikk, kunst og kaffe
 			</li>
 		</ul>
 
