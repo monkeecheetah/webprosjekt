@@ -46,13 +46,19 @@
 	<h3>Innledning</h3>
 
 	<div id="problemstilling">
-
+		<h2>Problemstilling</h2>
+		<p><em>Kan vi ved hjelp av en nettsides virkemidler inspirere en kaffedrikkers forhold til kaffe?</em></p>
 	</div>
 
 	<div id="mål">
+		<h2>Mål</h2>
 	</div>
 
 	<div id="abisjonsnivå">
+		<p>På første møte ble det klart alt alle hadde et høyt ambisjonsnivå for prosjektet.
+		Vi bestemte oss for at resulatet vårt skulle være godt nok til å få en A. På spørreundersøkelsen
+		pre-gruppeinndeling hadde alle krysset av på å sette av 8 timer i uken til prosjektet.
+		Vi endte opp med å bruke vesentlig mer tid på prosjektet.</p>
 	</div>
 </section>
 
@@ -61,15 +67,31 @@
 <section id="rammer">
 	<h3>Rammer</h3>
 	<div id ="teknologi">
+		<h2>Teknologi</h2>
 	</div>
 
 	<div id="målgruppe">
+		<h2>Målgruppe</h2>
+		<p><em>Typisk norsk kaffedrikker som bare ikke enda vet at han/hun ønsker å lære mer om kaffe.</em></p>
 	</div>
 
 	<div id="arbeidsmetode">
+		<h2>Arbeidsmetode</h2>
+		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
+		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
+		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
+		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p>
 	</div>
 
 	<div id="roller">
+		<h2>Roller</h2>
+		<ul>
+			<li>Kristoffer Osen: Gruppeleder</li>
+			<li>Hege Grostad: Innhold- og designansvarlig</li>
+			<li>Kristoffer Johansen: Scriptsjef</li>
+			<li>Christer Bang: Ansvar for parallax-funksjon</li>
+		</ul>
 	</div>
 </section>
 
