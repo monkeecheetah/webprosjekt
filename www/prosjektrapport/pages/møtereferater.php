@@ -75,7 +75,7 @@
 			
 			<h3>Derertter tok vi de fire mest populære temaene og brainstormet de:</h3>
 				
-				<h5><strong>Kaffe:</strong></h5>
+				<h4><strong>Kaffe:</strong></h4>
 					<ul>
 						<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
 						<li>Mat som gir energi og overskudd</li>
@@ -89,7 +89,7 @@
 					</ul>
 						
 
-					<h5><strong>Spillende nettside:</strong></h5>
+					<h4><strong>Spillende nettside:</strong></h4>
 						<ul>
 							<li>Oppdag et tema i gamingformat</li>
 							<li>Få poeng for å oppdage riktig</li>
@@ -106,7 +106,7 @@
 						</ul>
 
 						
-					<h5><strong>Studentened kokebok:</strong></h5>
+					<h4><strong>Studentened kokebok:</strong></h4>
 						<ul>
 							<li>Oppskrifter</li>
 							<li>Tips og triks og råd</li>
@@ -125,7 +125,7 @@
 
 
 
-					<h5><strong>Nettbutikk:</strong></h5>
+					<h4><strong>Nettbutikk:</strong></h4>
 						<ul>
 							<li>resentre produkt - interaktivt</li>
 							<li>fungerende nettbutikk, Kjøp funksjon</li>
@@ -139,7 +139,7 @@
 				Etter en siste avstemning, fant vi at <strong>KAFFE</strong> skulle bli vårt tema for dette webprosjektet. 
 				Ut fra vår felles lidenskap for kaffe, skal vi altså lage en ukritisk fanside til kaffe. 
 				Videre brainstorming resulterte i følgende:
-			</strong></p>
+			</p>
 			
 
 				<ul>
