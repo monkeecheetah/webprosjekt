@@ -93,9 +93,32 @@ input[type="radio"] {
     }
     .tilbWrap {
         width:45%;
-        margin-left:5%;
     }
     #maskinliste li:nth-child(2n+3) {
         clear:left;
+    }
+    #maskinliste li {
+        border-radius: 5px;
+        background-color:rgba(255,255,255,0.4)
+    }
+    .tilbWrap p {
+        background:none;
+    }
+    #maskinliste {
+        float:right;
+        margin-left: 5%;
+        width:90%;
+    }
+    #maskinliste h3 {
+        font-size:16px;
+    }
+    #maskinliste p {
+        font-size:14px
+    }
+    #maskinliste p {
+        padding:4px;
+    }
+    #maskinliste img {
+        width:100%;
     }
 }
