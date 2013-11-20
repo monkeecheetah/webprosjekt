@@ -68,7 +68,7 @@
 					<li>Lær å kode java</li>
 				</ul>	
 			<br>
-			<li>Derertter tok vi de tre mest populære temaene og brainstormet de:</li>
+			<li>Derertter tok vi de fire mest populære temaene og brainstormet de:</li>
 				<ul>
 					<li><strong>Kaffe:</strong></li>
 						<ul>
@@ -119,10 +119,34 @@
 							<li>eye tracking, hva trigger kjøpslysten, (vite hvilken målgruppe vi snakker til)</li>
 							<li>Hvilken informasjon om produktet er avgjørende om det interessant.</li>
 						</ul>
-
-
 				</ul>
-			
+			<li>
+				Etter en siste avstemning, fant vi at <strong>KAFFE</strong> skulle bli vårt tema for dette webprosjektet. 
+				Ut fra vår felles lidenskap for kaffe, skal vi altså lage en ukritisk fanside til kaffe. 
+				Videre brainstorming resulterte i følgende:
+			</li>
+				<ul>
+					<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
+					<li>Mat som gir energi og overskudd</li>
+					<li>Presentere kaffens historie - Gir rom for mye kreativitet (interaktivt)</li>
+					<li>Rate lokale kafeer, lokalisere på kart - legge inn kommentar</li>
+					<li>Hva kan spises til kaffen, tilbehør på globalt basis. kulturelle kaffeforskjeller</li>
+					<li>Håndbrygg, v60 - introduksjon til dette</li>
+					<li>Top 10 billig måte for å få i seg BRA kaffe</li>
+					<li>Intervju med den typiske kaffedrikker</li>
+					<li>fakta om koffein, hvor mye før du dør?</li>
+					<li>Kaffe er nam nam !!</li>
+					<li>Fairtrade</li>
+					<li>Trykk her for å lukte</li>
+					<li>Velgbar atmosfærelyd, følelsen av å være på kaffebar</li>
+					<li>http://www.kaffefryd.no/</li>
+					<li>Vi presenterer hver vår favorittkaffe</li>
+					<li>ra kaffebønne til kaffekopp </li>
+					<li>Bønner</li>
+					<li>Tilberedning</li>
+					<li>Funfacts om kaffe</li>
+					<li>Studentrelatert kaffedrikking -> massse koffein</li>
+				</ul>
 
 
 		</ul> <!-- main liste -->
