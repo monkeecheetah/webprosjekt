@@ -25,7 +25,51 @@
 		</nav>
 
 		<div id="content">
-			phpincludeshit
+				<?
+					if(!empty($_GET['page']))
+					{
+						if($_GET['page']==1)
+						{
+							INCLUDE "hoved.php";
+						}
+						else if($_GET['page']==2)
+						{
+							INCLUDE "gruppedynamikk.php";
+						}
+						else if($_GET['page']==3)
+						{
+							INCLUDE "forprosjektrapport.php";
+						}
+						else if($_GET['page']==4)
+						{
+							INCLUDE "kravspec.php";
+						}
+						else if($_GET['page']==5)
+						{
+							INCLUDE "milepælsplan.php";
+						}
+						else if($_GET['page']==6)
+						{
+							INCLUDE "møtereferater.php";
+						}
+						else if($_GET['page']==7)
+						{
+							INCLUDE "sluttrapport.php";
+						}
+						else if($_GET['page']==8)
+						{
+							INCLUDE "vedlegg.php";
+						}
+						else
+						{
+							INCLUDE "finnerikke.php";
+						}
+					}
+					else
+					{
+						INCLUDE "hoved.php";
+					}
+				?>
 		</div>
 
 		<div id= "bilder">
