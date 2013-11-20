@@ -14,14 +14,14 @@
 		
 		<nav>
 			<ul>
-				<li><a href="index.php?page=1" id="navlink">Hoved</a></li>
-				<li><a href="index.php?page=2" id="navlink">Gruppedynamikk</a></li>
-				<li><a href="index.php?page=3" id="navlink">Forprosjektrapport</a></li>
-				<li><a href="index.php?page=4" id="navlink">Kravspesifikasjoner</a></li>
-				<li><a href="index.php?page=5" id="navlink">Milepælsplan</li>
-				<li><a href="index.php?page=6" id="navlink">Møtereferater</a></li>
-				<li><a href="index.php?page=7" id="navlink">Sluttrapport</a></li>
-				<li><a href="index.php?page=8" id="navlink">Vedlegg</a></li>
+				<li><a href="index.php?page=1" class="navlink">Hoved</a></li>
+				<li><a href="index.php?page=2" class="navlink">Gruppedynamikk</a></li>
+				<li><a href="index.php?page=3" class="navlink">Forprosjektrapport</a></li>
+				<li><a href="index.php?page=4" class="navlink">Kravspesifikasjoner</a></li>
+				<li><a href="index.php?page=5" class="navlink">Milepælsplan</li>
+				<li><a href="index.php?page=6" class="navlink">Møtereferater</a></li>
+				<li><a href="index.php?page=7" class="navlink">Sluttrapport</a></li>
+				<li><a href="index.php?page=8" class="navlink">Vedlegg</a></li>
 			</ul>
 		</nav>
 
