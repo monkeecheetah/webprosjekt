@@ -6,7 +6,10 @@ header{
 	background-color: #151515;
 	padding-top: 5%;
 	padding-bottom: 5%;
+	margin-bottom: 3%;
 	height: 20%;
+
+
 }
 
 #header{
@@ -17,16 +20,19 @@ header{
 	text-align: center;
 	margin-bottom: 0%;
 	margin-top: 0%;
-	padding-bottom: 2%;
+	margin-left: auto;
+	margin-right: auto;
 	border-bottom-style: solid;
 	border-bottom-width: 3px;
+	width: 30%;
+
 }
 
 nav{
 	float:left;
 	width: 20%;
 	border-style: solid;
-	border-width: 2px;
+	border-width: 4px;
 	border-radius: 15px;
 	font-family: Arial;
 	font-size: 200%;
