@@ -97,14 +97,13 @@ $(window).scroll(function () {
 		next = 0;
 		toUse = 0;
 
-		$(elementsArray).each(function(){
-			elementPos  = $(this).parent().position().top;
-//			console.log($(this).scrollTop());
-			toUse = $(this).parent();			
-			if(scrollPos > $(this).parent().position().top && toUse.parent().position().top < $(this).parent().position().top) {
+		if(scrollPos > $(this).parent().position().top && toUse.parent().position().top < $(this).parent().position().top) {
+			if(toUse != old) {
 				fadeAni(toUse);
+				old = toUse;
 			}
-		})
+		}
+
 	});
 
 
@@ -125,6 +124,12 @@ $(window).scroll(function () {
   	elementsArray = new Array;
   	$('.block').each(function(){
   		elementsArray.push(this);
+  		$(elementsArray).each(function(){
+			elementPos  = $(this).parent().position().top; // elementPos er bare en liste med alle .blocks
+			old = "";
+			toUse = $(this).parent(); 
+			console.log(toUse); // skriver ut det samme som elementPos
+		});
   	});
   });
 
