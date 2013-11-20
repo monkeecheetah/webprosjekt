@@ -68,7 +68,7 @@ nav{
 	font-size: 200%;
 }
 
-nav a{
+nav a:link, a:visited{
 	text-decoration: none;
 	color:white;
 }
