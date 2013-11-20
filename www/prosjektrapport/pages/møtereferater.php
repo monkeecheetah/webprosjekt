@@ -173,7 +173,8 @@
 					<li>Forslag til problemstilling for nettstedet</li>
 					<li>ta med aeropress og bønner</li>
 				</ul>
-	<h2><ul>Fredag 25.10.2013</ul></h2>
+
+	<h2><u>Fredag 25.10.2013</u></h2>
 		
 		<h3>Mål for dagens møte:</h3>
 		 	<p>Finne overordnet problemstilling</p>
