@@ -135,6 +135,9 @@
 
 <section id="prosessen">
 	<h2>3. Utviklingsprosessen</h2>
+
+
+
 	Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,
 
 </section>
@@ -142,6 +145,29 @@
 
 <section id="resultat">
 	<h2>4. Resultat</h2>
+	<div>
+		<h3>Presentasjon av nettsiden</h3>
+		<p>Forklare sidens grunnprinsipp og forklare nettsiden side for side</p>
+	</div>
+
+	<div>
+		<h3>Scrollefunksjon</h3>
+		<p>Forklare hvordan vi har laget scrollingen</p>
+	</div>
+
+	<div>
+		<h3>Kaffevelger</h3>
+		<p>Forklare hvordan kaffevelgeren funker</p>
+	</div>
+
+	<div>
+		<h3>Bilder</h3>
+		
+	</div>
+
+	<div>
+		<h3>Design</h3>
+	</div>
 	Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, 
 </section>
 
