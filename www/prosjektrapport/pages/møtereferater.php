@@ -26,16 +26,16 @@
 		<ul>
 			<li>Gikk kjapt gjennom forrige møtereferat</li>
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
-			<li>Brukte følgende demokratisk prosess for å stemme frem temaet for webprosjektet.</li>
-				<li><ol>
-					<li>Samle alle temaer fra braindump i felles drive-dokument</li>
-					<li>Stemme på tema ved å sette stjerner, alle har fem stjerner til rådighet.</li>
-					<li>Gjenta stemmeprosess på mest populære temaer.</li>
-					<li>Brainstorme de fire mest populære temaene.</li>
-					<li>Stemme fram hovedtema.</li>
-				</ol></li>
+			<li>Brukte følgende demokratisk prosess for å stemme frem temaet for webprosjektet.<br>
+				1. Samle alle temaer fra braindump i felles drive-dokument<br>
+				2. Stemme på tema ved å sette stjerner, alle har fem stjerner til rådighet.<br>
+				3. Gjenta stemmeprosess på mest populære temaer.<br>
+				4. Brainstorme de fire mest populære temaene.<br>
+				5. Stemme fram hovedtema.
+			</li>
+		</ul>
 
-			<li>De aller første idéene etter braindumpen så slik ut:</li>
+			<h4>De aller første idéene etter braindumpen så slik ut:</h4>
 				<ul>
 					<li>Bahamas jul nettside</li>
 					<li>Interaktiv nettsted</li>
@@ -60,7 +60,7 @@
 					<li>bilforrettning, pressentere biler</li>
 				</ul>
 			<br>
-			<li>Etter første avstemningen fikk følgende foslag flest stjerner</li>
+			<h4>Etter første avstemningen fikk følgende foslag flest stjerner</h4>
 				<ul>
 					<li>*****Nerdeside om kaffe(Kanskjevi kan selge kaffe?)</li>
 					<li>**Ukjent naturfenomen: vi kan vise at vi kan sette oss inn i nye fagområder, det kan være spennende og gi rom for kunstenirsk, visuell tilnærming</li>
@@ -73,7 +73,7 @@
 					<li>Lær å kode java</li>
 				</ul>	
 			<br>
-			<li>Derertter tok vi de fire mest populære temaene og brainstormet de:</li>
+			<h4>Derertter tok vi de fire mest populære temaene og brainstormet de:</h4>
 				<ul>
 					<li><strong>Kaffe:</strong></li>
 						<ul>
