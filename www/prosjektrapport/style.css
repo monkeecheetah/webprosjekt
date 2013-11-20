@@ -32,7 +32,7 @@ nav{
 	float:left;
 	width: 20%;
 	font-family: Arial;
-	font-size: 200%;
+	font-size: 150%;
 }
 
 
@@ -66,6 +66,10 @@ nav{
 	font-size: 120%;
 	text-decoration: none;
 	color: black;
+}
+
+#content div{
+	margin-bottom: 8%;
 }
 .navlink{
 	text-decoration: none;
