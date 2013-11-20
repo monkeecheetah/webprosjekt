@@ -1,5 +1,5 @@
 <h1>Møtereferat</h1>
-	<h3>Onsdag 23.10.2013</h3>
+	<h2>Onsdag 23.10.2013</h2>
 		<ul>
 			<li>Møttes for første gang, ble kjent.</li>
 			<li>Oprettet gruppe på facebook, mappe på drive og repository på github.</li>
@@ -22,7 +22,7 @@
 			</li>
 		</ul>
 
-	<h3>Torsdag 24.10.2013</h3>
+	<h2>Torsdag 24.10.2013</h2>
 		<ul>
 			<li>Gikk kjapt gjennom forrige møtereferat</li>
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
@@ -35,7 +35,7 @@
 			</li>
 		</ul>
 
-			<h4>De aller første idéene etter braindumpen så slik ut:</h4>
+			<h3>De aller første idéene etter braindumpen så slik ut:</h3>
 				<ul>
 					<li>Bahamas jul nettside</li>
 					<li>Interaktiv nettsted</li>
@@ -60,7 +60,7 @@
 					<li>bilforrettning, pressentere biler</li>
 				</ul>
 			
-			<h4>Etter første avstemningen fikk følgende foslag flest stjerner</h4>
+			<h3>Etter første avstemningen fikk følgende foslag flest stjerner</h3>
 				<ul>
 					<li>*****Nerdeside om kaffe(Kanskjevi kan selge kaffe?)</li>
 					<li>**Ukjent naturfenomen: vi kan vise at vi kan sette oss inn i nye fagområder, det kan være spennende og gi rom for kunstenirsk, visuell tilnærming</li>
@@ -73,7 +73,7 @@
 					<li>Lær å kode java</li>
 				</ul>	
 			
-			<h4>Derertter tok vi de fire mest populære temaene og brainstormet de:</h4>
+			<h3>Derertter tok vi de fire mest populære temaene og brainstormet de:</h3>
 				
 				<h5><strong>Kaffe:</strong></h5>
 					<ul>
@@ -166,7 +166,7 @@
 				</ul>
 				
 
-			<h4>Teknologier:</h4>
+			<h3>Teknologier:</h3>
 				<ul>
 					<li>Etter valg av tema, fant vi ut at alle ønsker å benytte seg av teknologien Parallax scrolling til kaffesiden.
 					 Vi ble inspirert til å lage en spennende bakgrunn med flotte illustrasjoner/animasjoner da vi så eksempler på 
@@ -174,10 +174,10 @@
 					 mest mulig av innholdet på nettsiden ved hjelp av parallax scrolling.</li>
 
 				</ul>
-			<h4>Arbeidsmetode:</h4>
-				<p>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>WHAT THE FAKK IS GNATTER??</strong><br>
+			<h3>Arbeidsmetode:</h3>
+				<p>Tar utgangspunkt i scrum og bruker google drive og gnatter<br>
 				som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</p>
-						<ol>
+					<ol>
 						<li>Bli kjent med tema.</li>
 						<li>Bryte ned innhold.</li>
 						<li>Gjøre om til HTML</li>
@@ -187,8 +187,8 @@
 						<li>2-6 igjen.</li>
 					</ol>
 
-				</ul>
-			<h4>Til neste møte:</h4>
+				
+			<h3>Til neste møte:</h3>
 				<ul>
 					<li>Finne overskrifter som man vil ha med på nettsiden</li>
 					<li>Finne minst FEM inspirerende nettsteder (kaffe og/eller layoutmessig) </li>
