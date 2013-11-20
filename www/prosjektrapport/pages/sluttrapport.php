@@ -41,37 +41,32 @@
 
 <a href="#valg">5. Valg</a>
 <ul>
-	<li><a href="wcag">5.1 WCAG</a></li>
-	<li><a href="dynamikk"> 5.2Dynamikk</a></li>
+	<li><a href="#wcag">5.1 WCAG</a></li>
+	<li><a href="#dynamikk"> 5.2Dynamikk</a></li>
 </ul>
 
 
 <a href="#evaluering">6. Evaluering</a>
 <ul>
-	<li><a href="evalueringScrum">6.1 Arbeidsmetode</a></li>
-	<li><a href="evalueringTeknologi">6.2 Teknologi</a></li>
+	<li><a href="#evalueringScrum">6.1 Arbeidsmetode</a></li>
+	<li><a href="#evalueringTeknologi">6.2 Teknologi</a></li>
 </ul>
 
 
 <a href="#refleksjon">7. Refleksjon</a>
 <ul>
-	<li><a href="refSam">7.1 Sammarbeid</a></li>
-	<li><a href="refSlutt">7.2 Sluttprodukt</a></li>
+	<li><a href="#refSam">7.1 Sammarbeid</a></li>
+	<li><a href="#refSlutt">7.2 Sluttprodukt</a></li>
 </ul>
 
 <a href="#koklusjon">8. Koklusjon</a>
 <ul>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
+	<li><a href="#funky">8.1 Hva har funket?</a></li>
+	<li><a href="#læring">8.2 Hva har vi lært?</a></li>
 </ul>
 
 <a href="#vedlegg">9. Litteraturhenvisning og andre ting(vet ikke om vi trenger denne)</a>
 <ul>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
-	<li><a href="">underpunkt</a></li>
 	<li><a href="">underpunkt</a></li>
 </ul>
 
@@ -271,12 +266,12 @@
 <section id="konklusjon">
 	<h2>8. Konklusjon</h2>
 
-	<div>
+	<div id="funky">
 		<h3>Hva har funket?</h3>
 		<p></p>
 	</div>
 
-	<div>
+	<div id="læring">
 		<h3>Hva har vi lært?</h3>
 		<p>Hva sitter vi igjen med? lært noe om gruppearbeid? lært nye språk? lært å tegne på tegnebrett? christer har funnet seg selv. Lært noe om hva som funker på en nettside og hva som ikke funker?</p>
 	</div>
