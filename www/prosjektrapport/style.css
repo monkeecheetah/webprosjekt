@@ -52,13 +52,17 @@ nav a{
 	padding-top: 0%;
 }
 
-#content h1,h2,h3,a{
+#content h1,h2,h3{
 	font-family: Arial;
 	font-size: 150%;
 }
 #content p{
 	font-family: Arial;
 	font-size: 120%;
+}
+#content a:link, a:visited{
+	text-decoration: none;
+	color: black;
 }
 }
 table td{
