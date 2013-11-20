@@ -4,7 +4,7 @@
 <p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
 Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
 Bildene av norsk fjord, afrikansk steppelandskap og de forsjellige tilbredningsmetodene er tegnet av Hege Grostad. </p>
-<table>
+<table border="1">
 	<tr> 
 		<th>Tittel</th>
 		<th>Eier</th>
