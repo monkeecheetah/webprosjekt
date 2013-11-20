@@ -27,13 +27,13 @@
 			<li>Gikk kjapt gjennom forrige møtereferat</li>
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
 			<li>Brukte følgende demokratisk prosess for å stemme frem temaet for webprosjektet.</li>
-				<ol>
+				<li><ol>
 					<li>Samle alle temaer fra braindump i felles drive-dokument</li>
 					<li>Stemme på tema ved å sette stjerner, alle har fem stjerner til rådighet.</li>
 					<li>Gjenta stemmeprosess på mest populære temaer.</li>
 					<li>Brainstorme de fire mest populære temaene.</li>
 					<li>Stemme fram hovedtema.</li>
-				</ol>
+				</ol></li>
 
 			<li>De aller første idéene etter braindumpen så slik ut:</li>
 				<ul>
