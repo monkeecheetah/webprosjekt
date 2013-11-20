@@ -1,5 +1,5 @@
 <h1>Møtereferat</h1>
-	<h2>Onsdag 23.10.2013</h2>
+	<h2><u>Onsdag 23.10.2013</u></h2>
 		<ul>
 			<li>Møttes for første gang, ble kjent.</li>
 			<li>Oprettet gruppe på facebook, mappe på drive og repository på github.</li>
@@ -22,7 +22,7 @@
 			</li>
 		</ul>
 
-	<h2>Torsdag 24.10.2013</h2>
+	<h2><u>Torsdag 24.10.2013</u></h2>
 		<ul>
 			<li>Gikk kjapt gjennom forrige møtereferat</li>
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
@@ -34,7 +34,6 @@
 				5. Stemme fram hovedtema.
 			</li>
 		</ul>
-
 			<h3>De aller første idéene etter braindumpen så slik ut:</h3>
 				<ul>
 					<li>Bahamas jul nettside</li>
@@ -59,7 +58,6 @@
 					nettside for skole</li>
 					<li>bilforrettning, pressentere biler</li>
 				</ul>
-			
 			<h3>Etter første avstemningen fikk følgende foslag flest stjerner</h3>
 				<ul>
 					<li>*****Nerdeside om kaffe(Kanskjevi kan selge kaffe?)</li>
@@ -72,9 +70,7 @@
 					<li>*Reise inn i skrekkfilmens verden</li>
 					<li>Lær å kode java</li>
 				</ul>	
-			
-			<h3>Derertter tok vi de fire mest populære temaene og brainstormet de:</h3>
-				
+			<h3>Derertter tok vi de fire mest populære temaene og brainstormet de:</h3>				
 				<h4><strong>Kaffe:</strong></h4>
 					<ul>
 						<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
@@ -86,62 +82,49 @@
 						<li>Top 10 billig måte for å få i seg BRA kaffe</li>
 						<li>Intervju med den typiske kaffedrikker</li>
 						<li>fakta om koffein, hvor mye før du dør?</li>
+					</ul>						
+				<h4><strong>Spillende nettside:</strong></h4>
+					<ul>
+						<li>Oppdag et tema i gamingformat</li>
+						<li>Få poeng for å oppdage riktig</li>
+						<li>Quiz</li>
+						<li>Tetris aktig</li>
+						<li>Snake</li>
+						<li>Plattformspill</li>
+						<li>Få vite mer om et tema med å få nok poeng</li>
+						<li>Belønne for å utforske (eastereggs ++)</li>
+						<li>Ikke ha et konkret teema</li>
+						<li>Uvanlig oppsett</li>
+						<li>Interaktiv by (1001hjem.no)</li>
+						<li>Trigge utforskning</li>
 					</ul>
-						
-
-					<h4><strong>Spillende nettside:</strong></h4>
-						<ul>
-							<li>Oppdag et tema i gamingformat</li>
-							<li>Få poeng for å oppdage riktig</li>
-							<li>Quiz</li>
-							<li>Tetris aktig</li>
-							<li>Snake</li>
-							<li>Plattformspill</li>
-							<li>Få vite mer om et tema med å få nok poeng</li>
-							<li>Belønne for å utforske (eastereggs ++)</li>
-							<li>Ikke ha et konkret teema</li>
-							<li>Uvanlig oppsett</li>
-							<li>Interaktiv by (1001hjem.no)</li>
-							<li>Trigge utforskning</li>
-						</ul>
-
-						
-					<h4><strong>Studentened kokebok:</strong></h4>
-						<ul>
-							<li>Oppskrifter</li>
-							<li>Tips og triks og råd</li>
-							<li>Hvordan gjøre det billig</li>
-							<li>Hjelp til å sette opp budsjett</li>
-							<li>Matkalkulator</li>
-							<li>“Jeg har kylling, hva kan jeg lage?”</li>
-							<li>Tilbudsjeger</li>
-							<li>Tidsberegner (hvor lang tid har du på å lage mat)</li>
-							<li>take-away alternativer</li>
-							<li>matlagingsteknikker som kan “trigge kreativitet”</li>
-							<li>billig utstyr (hvor får gode og billige panner osv)</li>
-							<li>Matregler</li>
-						</ul>
-						
-
-
-
-					<h4><strong>Nettbutikk:</strong></h4>
-						<ul>
-							<li>resentre produkt - interaktivt</li>
-							<li>fungerende nettbutikk, Kjøp funksjon</li>
-							<li>eye tracking, hva trigger kjøpslysten, (vite hvilken målgruppe vi snakker til)</li>
-							<li>Hvilken informasjon om produktet er avgjørende om det interessant.</li>
-						</ul>
-						
-
-				
-			<p><strong></strong>
+				<h4><strong>Studentened kokebok:</strong></h4>
+					<ul>
+						<li>Oppskrifter</li>
+						<li>Tips og triks og råd</li>
+						<li>Hvordan gjøre det billig</li>
+						<li>Hjelp til å sette opp budsjett</li>
+						<li>Matkalkulator</li>
+						<li>“Jeg har kylling, hva kan jeg lage?”</li>
+						<li>Tilbudsjeger</li>
+						<li>Tidsberegner (hvor lang tid har du på å lage mat)</li>
+						<li>take-away alternativer</li>
+						<li>matlagingsteknikker som kan “trigge kreativitet”</li>
+						<li>billig utstyr (hvor får gode og billige panner osv)</li>
+						<li>Matregler</li>
+					</ul>
+				<h4><strong>Nettbutikk:</strong></h4>
+					<ul>
+						<li>resentre produkt - interaktivt</li>
+						<li>fungerende nettbutikk, Kjøp funksjon</li>
+						<li>eye tracking, hva trigger kjøpslysten, (vite hvilken målgruppe vi snakker til)</li>
+						<li>Hvilken informasjon om produktet er avgjørende om det interessant.</li>
+					</ul>	
+			<p>
 				Etter en siste avstemning, fant vi at <strong>KAFFE</strong> skulle bli vårt tema for dette webprosjektet. 
 				Ut fra vår felles lidenskap for kaffe, skal vi altså lage en ukritisk fanside til kaffe. 
 				Videre brainstorming resulterte i følgende:
 			</p>
-			
-
 				<ul>
 					<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
 					<li>Mat som gir energi og overskudd</li>
@@ -164,16 +147,13 @@
 					<li>Funfacts om kaffe</li>
 					<li>Studentrelatert kaffedrikking -> massse koffein</li>
 				</ul>
-				
-
 			<h3>Teknologier:</h3>
-				<ul>
-					<li>Etter valg av tema, fant vi ut at alle ønsker å benytte seg av teknologien Parallax scrolling til kaffesiden.
+				<p>
+					Etter valg av tema, fant vi ut at alle ønsker å benytte seg av teknologien Parallax scrolling til kaffesiden.
 					 Vi ble inspirert til å lage en spennende bakgrunn med flotte illustrasjoner/animasjoner da vi så eksempler på 
 					 nettsider som bruker denne teknologien. Tanken er at endringer i bakgrunnen skal lokke leseren til å utforske 
-					 mest mulig av innholdet på nettsiden ved hjelp av parallax scrolling.</li>
-
-				</ul>
+					 mest mulig av innholdet på nettsiden ved hjelp av parallax scrolling.
+				</p>
 			<h3>Arbeidsmetode:</h3>
 				<p>Tar utgangspunkt i scrum og bruker google drive og gnatter<br>
 				som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</p>
@@ -186,8 +166,6 @@
 						<li>Vurderer hva som skal gjøres.</li>
 						<li>2-6 igjen.</li>
 					</ol>
-
-				
 			<h3>Til neste møte:</h3>
 				<ul>
 					<li>Finne overskrifter som man vil ha med på nettsiden</li>
