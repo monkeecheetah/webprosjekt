@@ -135,12 +135,12 @@
 						
 
 				
-			<h5>
+			<p><strong></strong>
 				Etter en siste avstemning, fant vi at <strong>KAFFE</strong> skulle bli vårt tema for dette webprosjektet. 
 				Ut fra vår felles lidenskap for kaffe, skal vi altså lage en ukritisk fanside til kaffe. 
 				Videre brainstorming resulterte i følgende:
-			</h5>
-			<
+			</strong></p>
+			
 
 				<ul>
 					<li>Top 10, mest koffein, hva gir deg mest kick? mest ytelse?</li>
@@ -175,8 +175,8 @@
 
 				</ul>
 			<h4>Arbeidsmetode:</h4>
-				<ul>
-					<li>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>WHAT THE FAKK IS GNATTER??</strong> som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</li>
+				<p>Tar utgangspunkt i scrum og bruker google drive og gnatter <strong>WHAT THE FAKK IS GNATTER??</strong><br>
+				som verktøy til rapporter, innhold etc. Github bruker vi for å dele kode.</p>
 						<ol>
 						<li>Bli kjent med tema.</li>
 						<li>Bryte ned innhold.</li>
