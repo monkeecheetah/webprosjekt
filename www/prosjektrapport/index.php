@@ -4,11 +4,12 @@
 		<title>Prosjektrapport</title>
 		<meta charset="utf-8">	
 		<link rel="stylesheet" type="text/css" title="Standard" href="style.css">
+		<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
 	</head>
 
 	<body>
 		<header>
-			<h1>Prosjektrapport for gruppe 29</h1>
+			<h1>GRUPPE 29</h1>
 		</header>
 		
 		<nav>
