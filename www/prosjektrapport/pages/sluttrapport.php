@@ -1,7 +1,7 @@
 <h1>Sluttrapport</h1>
 
 
-<h3>Innhold</h3>
+<h2>Innhold</h2>
 <a href="#innledning">1. Innledning</a>
 <ul>
 	<li><a href="#problemstilling">1.1 Problemstilling</a></li>
