@@ -67,7 +67,7 @@
 					}
 					else
 					{
-						INCLUDE "hoved.php";
+						INCLUDE "pages/hoved.php";
 					}
 				?>
 		</div>
