@@ -69,7 +69,10 @@ nav{
 }
 
 #content section{
-	margin-bottom: 15%;
+	margin-bottom: 7%;
+	padding-bottom: 8%;
+	border-bottom-style: solid;
+	border-bottom-width:3px;
 }
 .navlink{
 	text-decoration: none;

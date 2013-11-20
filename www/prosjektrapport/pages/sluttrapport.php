@@ -159,8 +159,7 @@
 
 
 
-	Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,
-
+	<p>Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,<
 </section>
 
 
@@ -196,7 +195,7 @@
 		<h3>4.6 Responsivt design</h3>
 		<p>Hva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
 	</div>
-	Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, 
+	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, </p>
 </section>
 
 
@@ -216,7 +215,7 @@
 			å lese og brukers nysjerrighet skal trigges og han/hun/den skal bli INSPIRERT til å drikke mer kaffe!!! </p>
 	</div>
 
-	Valg (hovedsakelig anngående WCAG, begrunnelse for scrollefunksjon og sideoppbyggning samt layout.)
+	<p>Valg (hovedsakelig anngående WCAG, begrunnelse for scrollefunksjon og sideoppbyggning samt layout.)</p>
 
 </section>
 
