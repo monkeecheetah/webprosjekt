@@ -51,15 +51,15 @@ nav a{
 	padding:3%;
 	padding-top: 0%;
 }
-#content p, li{
-	font-family: Arial;
-	font-size: 120%;
-}
-#content ul,h2,h3{
+
+#content h1,h2,h3,a{
 	font-family: Arial;
 	font-size: 150%;
 }
-
+#content p{
+	font-family: Arial;
+	font-size: 120%;
+}
 }
 table td{
 	padding: 2px;
