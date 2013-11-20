@@ -30,39 +30,39 @@
 					{
 						if($_GET['page']==1)
 						{
-							INCLUDE "hoved.php";
+							INCLUDE "pages/hoved.php";
 						}
 						else if($_GET['page']==2)
 						{
-							INCLUDE "gruppedynamikk.php";
+							INCLUDE "pages/gruppedynamikk.php";
 						}
 						else if($_GET['page']==3)
 						{
-							INCLUDE "forprosjektrapport.php";
+							INCLUDE "pages/forprosjektrapport.php";
 						}
 						else if($_GET['page']==4)
 						{
-							INCLUDE "kravspec.php";
+							INCLUDE "pages/kravspec.php";
 						}
 						else if($_GET['page']==5)
 						{
-							INCLUDE "milepælsplan.php";
+							INCLUDE "pages/milepælsplan.php";
 						}
 						else if($_GET['page']==6)
 						{
-							INCLUDE "møtereferater.php";
+							INCLUDE "pages/møtereferater.php";
 						}
 						else if($_GET['page']==7)
 						{
-							INCLUDE "sluttrapport.php";
+							INCLUDE "pages/sluttrapport.php";
 						}
 						else if($_GET['page']==8)
 						{
-							INCLUDE "vedlegg.php";
+							INCLUDE "pages/vedlegg.php";
 						}
 						else
 						{
-							INCLUDE "finnerikke.php";
+							INCLUDE "pages/finnerikke.php";
 						}
 					}
 					else
