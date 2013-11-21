@@ -173,7 +173,8 @@
 		<h3>4.3 Kaffevelger</h3>
 		<p>Forklare hvordan kaffevelgeren funker</p>
 	</div>
-	<img src="images/merga.jpg" alt="oversiktsbilde" id="oversiktsbilde">
+
+	
 	<div id="design">
 		<h3>4.4 Design</h3>
 		<p>Vi har valgt å holde oss på en stilren linje når det gjelder designet på siden. Hovedsaklig gjør vi

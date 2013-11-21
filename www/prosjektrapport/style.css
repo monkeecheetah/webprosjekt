@@ -85,6 +85,9 @@ nav{
 	font-family: Arial;
 	font-size: 110%;
 }
+#content{
+	padding-bottom: 4%;
+}
 #content section{
 	margin-bottom: 7%;
 	padding-bottom: 8%;
@@ -102,6 +105,6 @@ table td{
 
 #oversiktsbilde{
 	float:right;
-	
+
 }
 
