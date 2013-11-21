@@ -80,8 +80,6 @@
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
 						<p><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
-						</ul>
-
 					</div>
 				</div>
 			</section>

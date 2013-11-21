@@ -89,50 +89,51 @@ $(window).scroll(function () {
 
 
 // Scroll listener - hvor er man - hva skal sammenliknes med hva osv
-	$(window).scroll(function(){
-		scrollPos = $(window).scrollTop();
-		console.log("CurrPos "+$(window).scrollTop());
-		previous = 0;
-		current = 0;
-		next = 0;
-		toUse = 0;
+$(window).scroll(function(){
+	scrollPos = $(window).scrollTop();
+	console.log("CurrPos "+$(window).scrollTop());
+	previous = 0;
+	current = 0;
+	next = 0;
+	toUse = 0;
+	scrollFunc();
+});
 
+
+// fadeanimasjonen
+function fadeAni(inputElements) {
+	$(inputElements).children().each(function(){
+		elX = $(inputElements).position().top;
+		console.log(this);
+		$(this).children().children().each(function(){
+			if((elX + $(this).position().top) > $(window).scrollTop()){
+				$(this).fadeTo(1000,1);
+			}
+		});
+	});
+}
+// Opprette array med alle blokkene. Er det egentlig nødvendig?
+$(window).load( function () { 
+	elementsArray = new Array;
+	$('.block').each(function(){
+		elementsArray.push(this);
+	});
+});
+
+function scrollFunc() {
+	$(elementsArray).each(function(){
+		elementPos  = $(this).parent().position().top; // elementPos er bare en liste med alle .blocks
+		toUse = $(this).parent();  // skriver ut det samme som elementPos bare selve elementene
+		old = 0;
 		if(scrollPos > $(this).parent().position().top && toUse.parent().position().top < $(this).parent().position().top) {
 			if(toUse != old) {
+				console.log(toUse);
 				fadeAni(toUse);
 				old = toUse;
 			}
 		}
-
 	});
-
-
-// fadeanimasjonen
-	function fadeAni(inputElements) {
-		$(inputElements).children().each(function(){
-			elX = $(inputElements).position().top;
-
-			$(this).children().children().each(function(){
-				if((elX + $(this).position().top) > $(window).scrollTop()){
-					$(this).fadeTo(1000,1);
-				}
-			});
-		});
-	}
-// Opprette array med alle blokkene. Er det egentlig nødvendig?
-  $(window).load( function () { 
-  	elementsArray = new Array;
-  	$('.block').each(function(){
-  		elementsArray.push(this);
-  		$(elementsArray).each(function(){
-			elementPos  = $(this).parent().position().top; // elementPos er bare en liste med alle .blocks
-			old = "";
-			toUse = $(this).parent(); 
-			console.log(toUse); // skriver ut det samme som elementPos
-		});
-  	});
-  });
-
+}
 /*
 $(window).scroll(function(d,h) {
 	if(vinduBredde > 900) {	
