@@ -9,7 +9,8 @@ $(document).keydown(function(e){
     if(e.keyCode === konami_keys[konami_index++]){
         if(konami_index === konami_keys.length){
             $(document).unbind('keydown', arguments.callee);
-        	console.log("Du er dust");
+        //	$('html').html("")
+        	window.location="gameLoader.php";
         }
     }else{
         konami_index = 0;
