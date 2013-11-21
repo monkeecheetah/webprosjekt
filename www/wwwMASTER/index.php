@@ -11,7 +11,7 @@
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/kaffevelgerstyle.css">
 		<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
-		<script src="external_code/jquery.js"></script>
+		<script src="external_code/jquery-1.10.2.min.js"></script>
 		<script src="js/script.js"></script>
 		<script src="js/kaffescript.js"></script>
 	</head>
