@@ -34,7 +34,7 @@
 	<li><a href="#scroll">4.2 Scrollefunksjon</a></li>
 	<li><a href="#kaffevelger">4.3 Kaffevelger</a></li>
 	<li><a href="#design">4.4 Design</a></li>
-	<li><a href="#bilder">4.5 Bilder</a></li>
+	<li><a href="#bildene">4.5 Bilder</a></li>
 	<li><a href="#responsivt">4.6 Responsivt design</a></li>
 
 </ul>
@@ -185,7 +185,7 @@
 	</div>
 
 
-	<div id="bilder">
+	<div id="bildene">
 		<h3>4.5 Bilder</h3>
 		<p>Bakgrunnsbildene vi har valgt er funnet på Flickr.com sitt område for bilder med Creative Commons-lisens.
 		 Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en 
