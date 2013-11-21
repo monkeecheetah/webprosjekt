@@ -217,6 +217,19 @@
 	<h2>5. Valg</h2>
 	<div id="wcag">
 		<h3>5.1 WCAG</h3>
+		<p>Å prioritere wcag ble tidlig klart for oss at var noe vi ikke ville fokusere på. Imidlertidig har vi fulgt HTML-standarder og
+		derfor godkjennes siden vår når vi sjekker den opp mot VCAG nivå AAA.</p>
+		<p>
+   		<a href="http://achecker.ca/checker/index.php?uri=referer&gid=WCAG2-AAA">
+      	<img src="http://achecker.ca/images/icon_W2_aaa.jpg" alt="WCAG 2.0 (Level AAA)" height="32" width="102" />
+    	</a>
+ 		</p>
+		<p>Et punkt i WCAG-retningslinjene vi har gjort grep for å rette oss etter er punkt 1.4.<br>
+			<em>1.4 Mulig å skille fra hverandre.</em><br>
+			Vi har tatt grep for å skape kontrast mellom tekst og bakgrunn. Der bakgrunnsbilder har for mange detaljer og stjeler for mye fokus
+			har vi plassert tekst i svakt gjennomsiktige bokser over bildet. Bakgrunnsfargen på boksen er den samme som den forstyrrende fargen 
+			og teksten er selvsagt den motsatte(gjelder svart/hvit-forholdene).
+		 </p>
 		<p>OSEN wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
 	</div>
 
