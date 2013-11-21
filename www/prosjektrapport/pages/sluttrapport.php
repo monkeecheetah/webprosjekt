@@ -175,12 +175,25 @@
 
 	<div id="design">
 		<h3>4.4 Design</h3>
-		<p>Generelt om konsept(enkle, stilrene bilder, tekst over. Fortelle hvordan vi har valgt å legge tekst, fargevalg, font og tekststørrelse. </p>
+		<p>Vi har valgt å holde oss på en stilren linje når det gjelder designet på siden. Hovedsaklig gjør vi
+		 dette ved å holde tekst og bakgrunnsbilder enkle. Bakgrunnsbildene har enkle motiver og teksten, bortsett 
+		 fra overskrifter, har fonten Arial, som har lite dekorasjoner. På overskrifter har vi valgt å bruke en font 
+		 fra Google Fonts vi følte ville passe med resten av designet på siden. Den er enkel på samme måte som Arial
+		 men litt høyere og slankere. På de bakgrunnsbildene med klare motiver er teksten plassert over den delen av bildet hvor 
+		 motivet ikke ligger. På de bakgrunnsbildene med mer tekstur-orienterte motiver er teksten plassert i bolker med 
+		 bakgrunnsfarge for å skape kontrast. </p>
 	</div>
+
 
 	<div id="bilder">
 		<h3>4.5 Bilder</h3>
-		<p>Fortelle om bildene vi har valg, hvorfor de er valgt og hva vi har gjort med de. Litt om hege sine bilder</p>
+		<p>Bakgrunnsbildene vi har valgt er funnet på Flickr.com sitt område for bilder med Creative Commons-lisens.
+		 Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en 
+		 del forskjellige typer CC-lisens som blandt annet hindrer bildene i å bli brukt i komersielle formål. Vi bruker bare 
+		 med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt 
+		 enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med klare motiver
+		 har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over(gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken).
+		 RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
 	</div>
 
 
