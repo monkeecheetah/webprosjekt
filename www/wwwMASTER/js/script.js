@@ -2,7 +2,7 @@
 vinduBredde = $( window ).width();
 
 
-jQuery(function($){
+$(function($){
 var konami_keys = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
 var konami_index = 0;
 $(document).keydown(function(e){
