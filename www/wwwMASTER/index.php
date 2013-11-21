@@ -5,7 +5,7 @@
 <html>
 	<head>
     	<meta charset="utf-8">
-    	<meta name="viewport" content="width=device-width; initial-scale=1.0">		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
 		<title>Kaffe - en kjærlighetshistorie</title>
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
