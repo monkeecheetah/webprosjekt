@@ -122,7 +122,7 @@ nav a:hover {
     padding-bottom: 15%;
 }
 .block1 h3, .block1 p, .block2 h3, .block2 p {
-    opacity:0;
+    opacity:1;
 }
 p, h3 {
     /*background-color: rgba(255,255,255,0.4);*/
