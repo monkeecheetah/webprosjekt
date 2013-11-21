@@ -89,6 +89,7 @@ $(window).scroll(function () {
 
 
 // Scroll listener - hvor er man - hva skal sammenliknes med hva osv
+/*
 $(window).scroll(function(){
 	scrollPos = $(window).scrollTop();
 	console.log("CurrPos "+$(window).scrollTop());
@@ -134,6 +135,7 @@ function scrollFunc() {
 		}
 	});
 }
+*/
 /*
 $(window).scroll(function(d,h) {
 	if(vinduBredde > 900) {	
