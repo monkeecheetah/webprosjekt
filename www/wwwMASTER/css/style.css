@@ -167,6 +167,14 @@ body{
 }
 
 
+.fade{
+    z-index: 3;
+    width: 10%;
+    background-color: white;
+    opacity: 0.3;
+    bottom:1px;
+}
+
 
 
 

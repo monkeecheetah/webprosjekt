@@ -59,6 +59,8 @@
 						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje</p>
 					</div>
 				</div>
+				<div class="fade">
+				</div>
 			</section>
 
 
