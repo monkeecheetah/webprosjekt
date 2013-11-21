@@ -98,6 +98,7 @@
 	<h2>2. Rammer</h2>
 	<div id ="teknologi">
 		<h3>2.1 Teknologi</h3>
+		<p>KRISTOFFER</p>
 	</div>
 
 	<div id="målgruppe">
@@ -137,12 +138,13 @@
 
 	<div id="teknologiskutvikling">
 		<h3>3.2 Teknologisk utvikling</h3>
-		<p>Grundig forklaring av hvorfor ikke jarallax funket, hvordan vi løste problemet og hva vi byttet jarallax for.</p>
+		<p> CHRISTER Grundig forklaring av hvorfor ikke jarallax funket, hvordan vi løste problemet og hva vi byttet jarallax for.</p>
 	</div>
 
 	<div id="tegning">
 		<h3>3.3 Produksjon av bilder</h3>
-		<p>Hvordan var det å tegne bilder, Hege?</p>
+
+		<p>HEGE Hvordan var det å tegne bilder, Hege?</p>
 	</div>
 
 	<div>
@@ -152,7 +154,7 @@
 
 
 
-	<p>Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,<
+	<p>Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,</p>
 </section>
 
 
@@ -160,21 +162,23 @@
 	<h2>4. Resultat</h2>
 	<div id="presentasjon">
 		<h3>4.1 Presentasjon av nettsiden</h3>
-		<p>Nettsiden er bygget opp</p>
-		<p>Forklare sidens grunnprinsipp og forklare nettsiden side for side</p>
+		<p>Vi ville bygge opp nettsiden slik at vi holdt på lytterens interesse så lenge som mulig. Derfor valgte vi å
+		lage en lang side framfor å lage flere undersider. Den er delt opp i bolker med forskjellig innhold og hver bolk 
+		har sitt eget bakgrunnsbilde. Rekkefølgen på bolkene er bestemt for å få best mulig dramaturgi. Siden begynner med
+		en rekke innledende tekster, brytes opp av applikasjonen Kaffevelger og  med bolker som inneholder tyngre
+		faktainformasjon.</p>
 	</div>
 
 	<div id="scroll">
 		<h3>4.2 Scrollefunksjon</h3>
-		<p>Forklare hvordan vi har laget scrollingen</p>
+		<p> CHRISTER Forklare hvordan vi har laget scrollingen</p>
 	</div>
 
 	<div id="kaffevelger">
 		<h3>4.3 Kaffevelger</h3>
-		<p>Forklare hvordan kaffevelgeren funker</p>
+		<p> KRISTOFFER Forklare hvordan kaffevelgeren funker</p>
 	</div>
 
-	
 	<div id="design">
 		<h3>4.4 Design</h3>
 		<p>Vi har valgt å holde oss på en stilren linje når det gjelder designet på siden. Hovedsaklig gjør vi
@@ -195,13 +199,13 @@
 		 med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt 
 		 enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med klare motiver
 		 har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over(gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken).
-		 RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
+		 <br>HEGE<br>RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
 	</div>
 
 
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
-		<p>Hva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
+		<p> CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
 	</div>
 	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, </p>
 </section>
@@ -213,7 +217,7 @@
 	<h2>5. Valg</h2>
 	<div id="wcag">
 		<h3>5.1 WCAG</h3>
-		<p>wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
+		<p>OSEN wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
 	</div>
 
 	<div id="dynamikk">
@@ -242,7 +246,7 @@
 
 	<div id="evalueringTeknologi">
 		<h3>Teknologiske valg</h3>
-		<p>Hvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
+		<p>CHRISTER/KRISTOFFERHvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
 		 i Jquerie? Hvordan har det funket å produsere egene bilder?</p>
 	</div>
 
