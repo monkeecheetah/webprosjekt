@@ -160,6 +160,7 @@
 	<h2>4. Resultat</h2>
 	<div id="presentasjon">
 		<h3>4.1 Presentasjon av nettsiden</h3>
+		<p>Nettsiden er bygget opp</p>
 		<p>Forklare sidens grunnprinsipp og forklare nettsiden side for side</p>
 	</div>
 
@@ -172,7 +173,7 @@
 		<h3>4.3 Kaffevelger</h3>
 		<p>Forklare hvordan kaffevelgeren funker</p>
 	</div>
-
+	<img src="images/merga.jpg" alt="oversiktsbilde" id="oversiktsbilde">
 	<div id="design">
 		<h3>4.4 Design</h3>
 		<p>Vi har valgt å holde oss på en stilren linje når det gjelder designet på siden. Hovedsaklig gjør vi
