@@ -70,9 +70,9 @@
 						<p>Norge fikk kaffe på 1600 tallet</p>
 						<p>Og da var det en luksusvare, for rikfolket</p>
 						<p>I dag drikkes det heldigvis av alle sosiale lag</p>
-						<p>I dag drikker vi 3-4 kopper om dagen hver</p>
-						<p>Det blir noe sånn som 1200 kopper i året</p>
-						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året(WOH!)><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+						<p>Nordmenn drikker 3-4 kopper om dagen hver</p>
+						<p>Som blir ca 1200 kopper i året</p>
+						<p>Og totalt mer enn 4 000 000 000 kopper i året><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 						<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p>De syns du burde besøke disse stedene:</p>
@@ -381,19 +381,13 @@
 										<li data-production="2700000">Honduras (2,700,000)</li>
 									</ol>
 									<p class="linkP"><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
-
 									<p>Har du forresten prøvd cà phê đá?</p>
 									<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
 									<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
 								</div>	
 						</div>
 				</div>
-				
 			</section>
-
-
-
-
 			<section class="blockWrap" id="bak10" data-speed="20000" data-type="background">
 				<div class="block10 block">
 					<div id="kaffeansvar" class="content">
