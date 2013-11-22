@@ -108,18 +108,11 @@
 
 	<div id="arbeidsmetode">
 		<h3>2.3 Arbeidsmetode</h3>
-<!--		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
+		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
 		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
 		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
-		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p> -->
-		<p>I forprosjektet skrev vi: "En blanding av scrumteknikker og prototyping." Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
-		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
-		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
-		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
-		Vi blir å bruke prototyping for utvikling av brukergrensesnitt."
-		Vi har ikke vært særlig bevisste på bruken av scrum. Vi har heller sett på hva slags typer arbeidsoppgaver som trengs å gjøres, fordele mellom hverandre og være flinke til å gi hverandre hjemmelekser og følge opp hverandre om noen trenger hjelp og sitt fast med noe. Vi har fulgt milepælene og brukte møtereferatene aktivt i starten for å følge opp hjemmelekser og være strukturerte i starten. Etterhvert har det blitt mer at vi har hatt konkrete prosjekter vi har jobbet med hver for oss og så hjulpet hverandre.
-		</p>
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p>		
 	</div>
 
 	<div id="roller">
@@ -271,7 +264,12 @@
 	
 	<div id="evalueringScrum">
 		<h3>Arbeidsmetode</h3>
-		<p>Hvordan funket scrum og alt sånt? hva har vi fulgt og hva har vi gått bort i fra og HVORFOR?</p>
+		<p>I forprosjektet skrev vi: "En blanding av scrumteknikker og prototyping." Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
+		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
+		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
+		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt."
+		Vi har ikke vært særlig bevisste på bruken av scrum. Vi har heller sett på hva slags typer arbeidsoppgaver som trengs å gjøres, fordele mellom hverandre og være flinke til å gi hverandre hjemmelekser og følge opp hverandre om noen trenger hjelp og sitt fast med noe. Vi har fulgt milepælene og brukte møtereferatene aktivt i starten for å følge opp hjemmelekser og være strukturerte i starten. Etterhvert har det blitt mer at vi har hatt konkrete prosjekter vi har jobbet med hver for oss og så hjulpet hverandre.</p>
 	</div>
 
 	<div id="evalueringTeknologi">
