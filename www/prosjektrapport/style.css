@@ -41,6 +41,10 @@ nav{
 	float:right;
 	width: 20%;
 }
+.fig{
+	width: 80%;
+	height: 80%;
+}
 #content{
 	width: 50%;
 	float: left;
