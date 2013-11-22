@@ -98,7 +98,7 @@
 	<h2>2. Rammer</h2>
 	<div id ="teknologi">
 		<h3>2.1 Teknologi</h3>
-		<p>KRISTOFFER</p>
+		<p>Vi har brukt HTML, CSS og jQuery. I følge kravspesifikasjonen skulle vi også bruke PHP for å organisere sidene. Det gikk vi bort fra da vi så det ble mer uoversiktlig enn et dokument med all teskten.</p>
 	</div>
 
 	<div id="målgruppe">
@@ -232,7 +232,7 @@
 	</div>
 	<div id="easteregg">
 		<h3>4.7 Easteregget</h3>
-		<p>Vi gikk for å lage et spill. En enkel pacman klone som blir aktivert ved hjelp av konami-koden. En spillkode for å starte et spill virker helt naturlig. Spillet krever at man samler 20 bønner med kaffekoppen. Når man har oppnådd 20 poeng blir siden erstattet med en video av hvordan en kopp Aeropress lages. Om det ikke er støtte for H.264 i nettleseren blir det lastet en Youtube video istendenfor og evt. en tekst med beskrivelse av videoen om man ikke kan laste inn det heller.</p>
+		<p>Vi gikk for å lage et spill som easteregg. En enkel pacman klone som blir aktivert ved hjelp av konami-koden. En spillkode for å starte et spill virker helt naturlig. Spillet krever at man samler 20 bønner med kaffekoppen. Når man har oppnådd 20 poeng blir siden erstattet med en video av hvordan en kopp Aeropress lages. Om det ikke er støtte for H.264 i nettleseren blir det lastet en Youtube video istendenfor og evt. en tekst med beskrivelse av videoen om man ikke kan laste inn det heller. Kaffebønnen er free domain og hentet <a href="http://openclipart.org/detail/174080/coffe-beans-by-jarda-174080" target="_blank">her</a> Så er den manipulert med bilde av Alfred vi har lånt fra HiOA <a href="http://www.hioa.no/Person?id=alfreb">sine sider.</a> Vi har ikke spurt om lov men siden det er et easteregg og derfor mer skjult, tok vi sjansen på at det ikke er så nøye og kan går under fair use/satire. Spillmekanikken er basert på kode ene på gruppa har skrevet før og hentet collision funksjonen en <a href="http://jsfiddle.net/itechnology/XKJKD/" target="_blank">JSFiddle</a></p>
 	</div>	
 	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunnsbilder, </p>
 </section>
@@ -244,7 +244,7 @@
 	<h2>5. Valg</h2>
 	<div id="wcag">
 		<h3>5.1 WCAG</h3>
-		<p>Vi valgte ikke å fokusere på WCAG for å øke tilgjengligheten på siden utover å følge HTML standarder. Det vil være tilstrekkelig. Siden godkjennes vår mot WCAG nivå AAA.</p>
+		<p>Vi valgte ikke å fokusere på WCAG utover å følge HTML standarder. Det vil i de fleste tilfeller være tilstrekkelig. Siden vår godkjennes mot WCAG nivå AAA.</p>
 		<p>
    		<a href="http://achecker.ca/checker/index.php?uri=referer&gid=WCAG2-AAA">
       	<img src="http://achecker.ca/images/icon_W2_aaa.jpg" alt="WCAG 2.0 (Level AAA)" height="32" width="102" />
@@ -257,6 +257,8 @@
 			og teksten er selvsagt den motsatte(gjelder svart/hvit-forholdene).
 		 </p>
 		<p>OSEN wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
+		<h3>5.2 Lynx-testen</h3>
+		<p>Alt innhold kan leses med Lynx. Kaffevelgeren presenteres med ren tekst over mulige tilberedningsmetoder uten mulighet for å filtrere ut i forhold til preferanser. Dette fordi at skjemaer som behandles med jQuery ikke er fungerer med Lynx.</p>
 	</div>
 
 	<div id="dynamikk">
