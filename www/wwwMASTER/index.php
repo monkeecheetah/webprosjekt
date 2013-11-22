@@ -488,6 +488,8 @@
 							<td>8112875566_653aab9940_o.jpg</td>
 						</tr>
 					</table>
+
+					<p>© Copyleft Hioa 2013</p>
 				</footer>
 			</section>
 	</body>
