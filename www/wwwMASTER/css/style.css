@@ -118,7 +118,7 @@ body{
 footer{
     text-align: center;
     background-color: #151515;
-    margin-top-top:3%;
+    padding-top:3%;
     padding-bottom: 3%;
 }
 footer h2,h3,p,td,th{
@@ -161,7 +161,7 @@ footer table{
  {
     font-family:'Fjalla One', sans-serif;
     letter-spacing: 20px;
-    font-size: 1000%;
+    font-size: 850%;
     margin: 0;
     color: white;  
     float:left;
@@ -172,7 +172,7 @@ footer table{
 {
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: 6px;
-    font-size:250%;
+    font-size:200%;
     margin-left: 20%;
     color: white;
     margin-right: 90%;
@@ -289,7 +289,7 @@ footer table{
 }
 #kaffevelgerheader{
 
-    font-size: 900%;
+    font-size: 700%;
     margin-bottom:3%;
     margin-top: 7%;
     margin-left: auto;
@@ -557,12 +557,6 @@ footer table{
 }
 #bak10{
     background: url(images/background/full/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  /*putesekk*/
-}
-#bak11{
-    background: url(images/background/full/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
-}
-#bak12{
-    background: url(images/background/full/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  
 }
 
 .blockWrap {
