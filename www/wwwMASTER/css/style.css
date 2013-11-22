@@ -531,10 +531,20 @@ footer table{
     background: url(images/background/full/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 }
 #bak2{
-    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
+background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+}
+#bak15{
+/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
+background: url(images/norgetopp.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+}
+#bak16{
+/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
+background: url(images/etiopia.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak3{
-    background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
+/*    background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
+background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak4{
     background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/

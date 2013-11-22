@@ -61,7 +61,11 @@
 				</div>
 			</section>
 
-
+			<section class="blockWrap" id="bak15" data-speed="400" data-type="background">
+				<div class="block15 block">
+					<div id="pynteblokk" class="filler"></div>
+				</div>
+			</section>
 
 			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
 				<div class="block2 block">
@@ -100,7 +104,11 @@
 					</div>
 				</div>	
 			</section>
-
+			<section class="blockWrap" id="bak16" data-speed="400" data-type="background">
+				<div class="block16 block">
+					<div id="pynteblokk" class="filler"></div>
+				</div>
+			</section>
 			<section class="blockWrap" id="bak4" data-speed="20000" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">

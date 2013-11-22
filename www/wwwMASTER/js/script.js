@@ -15,6 +15,8 @@ $(document).keydown(function(e){
 });
 });
 $(document).ready(function(){
+	$('#bak15').css('height', $(document).width()/1.81+'px');
+	$('#bak16').css('height', $(document).width()/1.7472+'px');
 	if(vinduBredde > 900) {
 		blockFade();
 		$window = $(window);
