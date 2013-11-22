@@ -74,20 +74,20 @@
 		</div>
 
 		<div id= "bilder">
-			<figure class="fig">
-				<img src="images/kristoffer.jpg" alt="Kristoffer">
+			<figure>
+				<img class="bild" src="images/kristoffer.jpg" alt="Kristoffer">
 				<figcaption>Kristoffer Johansen</figcaption>
 			</figure>
-			<figure class="fig">
-				<img src="images/hege.jpg" alt="Hege">
+			<figure>
+				<img class="bild" src="images/hege.jpg" alt="Hege">
 				<figcaption>Hege Grostad</figcaption>
 			</figure>
-			<figure class="fig">
-				<img src="images/christer.jpg" alt="Christer">
+			<figure>
+				<img class="bild" src="images/christer.jpg" alt="Christer">
 				<figcaption>Christer Bang</figcaption>
 			</figure>
-			<figure class="fig">
-				<img src="images/osen.jpg" alt="Kristoffer">
+			<figure>
+				<img class="bild" src="images/osen.jpg" alt="Kristoffer">
 				<figcaption>Kristoffer Osen</figcaption>
 			</figure>
 		</div> 
