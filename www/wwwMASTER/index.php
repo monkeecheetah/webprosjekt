@@ -128,9 +128,126 @@
 
 			<section class="blockWrap" id="kaffeV">
 					<div id="kaffevelger">
-						<h3 id="kaffevelgerheader">KAFFEVELGER</h3>
-						<p id="KVbeskrivelse"><em>Kaffevelgeren beregner hvilken type kaffe som passer deg best akkurat nå!</em></p>
-						<?php include('pages/kaffevelger.php'); ?>
+						<ul id="maskinliste">
+						        <li class="tilbWrap">
+						            <h3>Kaffetrakter</h3><img class="kaffeTilbBilde" src=
+						            "images/Kaffetrakter300.png">
+
+						            <p class="tilbText">Det tar ca. 10 minutter, og kaffen koster så
+						            mye eller lite som du selv ønsker. Trakteren gjør mesteparten av
+						            jobben for deg. Alt avhenger av hvilken trakter du har og hvilken
+						            bønnetype du kjøper</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Presskanne</h3><img class="kaffeTilbBilde" src=
+						            "images/Presskanne300.png">
+
+						            <p class="tilbText">Presskanne tar tiden et oppkok av vann og hvor
+						            lenge du ønsker at du skal la den trekke. Du har relativt god
+						            kontroll på smaken og styrer selv de fleste prosesser under
+						            bryggingen</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Mokkakanne</h3><img class="kaffeTilbBilde" src=
+						            "images/Mokkakanne300.png">
+
+						            <p class="tilbText">Kaffe fra en Mokkakanne er god og fyldig. Den
+						            krever litt innsats, spesielt hvis du kverner bønner selv.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Vakuum-kolbe</h3><img class="kaffeTilbBilde" src=
+						            "images/Gass300.png">
+
+						            <p class="tilbText">Ser kjempekult ut! Krever ikke mer innsats enn
+						            å ta den av og på platen, fysikken gjør resten av jobben, men
+						            bruker litt tid.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Kokekaffe</h3><img class="kaffeTilbBilde" src=
+						            "images/Kokekaffe300.png">
+
+						            <p class="tilbText">Kok opp vann og kaffe, hell i kopp, superenkelt
+						            og raskt!(Gjennomsnittlig alder på bruker er 80)</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Aeropress</h3><img class="kaffeTilbBilde" src=
+						            "images/Aeropress300.png">
+
+						            <p class="tilbText">Aeropress gir deg muligheten til full kontroll
+						            og jo mer du tar kontrollen selv jo mer blir resultatet som du selv
+						            ønsker. Om du kverner bønnense selv, har funnet perfekte
+						            vanntemperaturen og hvilken kaffetype som gir deg kaffen du
+						            ønsker.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Espressomaskin</h3><img class="kaffeTilbBilde" src=
+						            "images/Espressomaskin300.png">
+
+						            <p class="tilbText">Det finnes manuelle, halv og helautomatiske
+						            espressomaskiner. Noen gir deg mye kontroll, mens andre gir deg
+						            null kontroll over sluttresultatet. Likhetstrekket er at de lager
+						            en kopp om gangen, litt dyre i innkjøp, relativt billige i drift og
+						            gir en mye kraftigere kaffe enn en f.eks. trakter.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Pulverkaffe</h3><img class="kaffeTilbBilde" src=
+						            "images/Pulverkaffe300.png">
+
+						            <p class="tilbText">Det er billig. Og svart. Kaffe? Knapt.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Kapselmaskin</h3><img class="kaffeTilbBilde" src=
+						            "images/Kapsel300.png">
+
+						            <p class="tilbText">Sett inn kapsel, trykk på knapp og få den
+						            kaffedrikk du ønsker. Kaffen er ferdig så det er bare å stole på
+						            leverandøren.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Cafékaffe</h3><img class="kaffeTilbBilde" src=
+						            "images/Cafe300.png">
+
+						            <p class="tilbText">Du kan få akkurat den kaffedrikk du ønsker. Om
+						            du vet hva du vil ha kan du virkelig fråtse i kaffehimmel! (og tar
+						            deg råda til det) Om du ikke vet hva du vil ha kan du få gode
+						            anbefalinger</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Chemex</h3><img class="kaffeTilbBilde" src=
+						            "images/Chemex300.png">
+
+						            <p class="tilbText">Den tøffeste håndbryggeren! Den er designet på
+						            40tallet og har siden vært et ikon for moderne industridesign.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Slow drip</h3><img class="kaffeTilbBilde" src=
+						            "images/SlowDrip300.png">
+
+						            <p class="tilbText">Finnes mange varianter. En type tar 14timer og
+						            gir en god iskaffe. Om du har tid.</p>
+						        </li>
+
+						        <li class="tilbWrap">
+						            <h3>Håndbrygget</h3><img class="kaffeTilbBilde" src=
+						            "images/haandbrygg300.png">
+
+						            <p class="tilbText">Full kontroll over alle kjemiske prosesser!
+						            Brygg med filter og dripper og bestem selv smak, fylde og andre
+						            kvaliteter ved å variere vannmenge, tepratur, tekketid, osv</p>
+						        </li>
+						    </ul>						
+						<?php // include('pages/kaffevelger.php'); ?>
 					</div>
 			</section>
 

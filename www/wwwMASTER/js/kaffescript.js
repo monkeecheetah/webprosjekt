@@ -63,7 +63,7 @@ function displayCoffee() {
 				$('#maskinliste').append("<li class='tilbWrap'><h3>"+this.name+"</h3><img class='kaffeTilbBilde' src='images/"+this.img+"'><p class='tilbText'>"+ this.om +"</p></li>");
 				numM =1;
 			} else if((thisT >= tid-tidsPara && thisT <= tid+tidsPara || tid == 0.0 || thisT == 0.0)  && (thisO >= penger-tidsPara && thisO <= penger+tidsPara || penger == 0.0 || thisO == 0.0 ) && (this.b == bryr || bryr == 0.0) && (thisE >= egeninnsats-tidsPara && thisE <= egeninnsats+tidsPara || egeninnsats == 0.0 || thisE == 0.0)){
-				$('#maskinliste').append("<li class='tilbWrap'><h3>"+this.name+"</h3><img class='kaffeTilbBilde' src='images/"+this.img+"'><p class='tilbText'>"+ this.om +"</p></li>");
+				$('#maskinliste').append("<li class='tilbWrap'><h3>"+this.name+"</h3><img alt='Tegning av "+this.name+"' class='kaffeTilbBilde' src='images/"+this.img+"'><p class='tilbText'>"+ this.om +"</p></li>");
 				numM++;
 			}
 		});

@@ -1,3 +1,5 @@
+<h3 id="kaffevelgerheader">KAFFEVELGER</h3>
+<p id="KVbeskrivelse"><em>Kaffevelgeren beregner hvilken type kaffe som passer deg best akkurat nå!</em></p>
 <form id="kaffeForm">
 	<input id="showAll" checked type="checkbox" name="showAll" value="all">
 	<label for="showAll">Vis alle bryggemetodene</label>

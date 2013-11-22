@@ -146,6 +146,7 @@
 		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold vi skulle ha med.</p>
 		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
+
 	</div>
 
 	<div id="teknologiskutvikling">
@@ -155,12 +156,12 @@
 
 	<div id="tegning">
 		<h3>3.3 Produksjon av bilder</h3>
-
 		<p>HEGE Hvordan var det å tegne bilder, Hege?</p>
 	</div>
 
 	<div>
-		<h3></h3>
+		<h3>Hva gjør en god parallax side?</h3>
+		<p>Store bakgrunnsbilder, enkel brutt opp tekst. Nesten som oneliners. En kontinuerlig historie ispedd interaktivitet å nettstedet opplever vi som suksessfaktorer for å få et godt nettsted.</p>
 	</div>
 
 
@@ -215,14 +216,16 @@
 		 har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over(gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken).
 		 <br>HEGE<br>RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
 	</div>
-
-
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
 		<p> CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
 		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre ta hensyn til alle typer størrelser på skjermer. Størrelser er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal vises bedre på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde på mobile enheter og gjøre siden mer brukervennlig ved at den laster lettere.</p>
 	</div>
-	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, </p>
+	<div id="easteregg">
+		<h3>4.7 Easteregget</h3>
+		<p>Vi gikk for å lage et spill. En enkel pacman klone som blir aktivert ved hjelp av konami-koden. En spillkode for å starte et spill virker helt naturlig. Spillet krever at man samler 20 bønner med kaffekoppen. Når man har oppnådd 20 poeng blir siden erstattet med en video av hvordan en kopp Aeropress lages. Om det ikke er støtte for H.264 i nettleseren blir det lastet en Youtube video istendenfor og evt. en tekst med beskrivelse av videoen om man ikke kan laste inn det heller.</p>
+	</div>	
+	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunnsbilder, </p>
 </section>
 
 
