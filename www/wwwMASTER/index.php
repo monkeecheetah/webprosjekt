@@ -409,10 +409,9 @@
 				</div>
 			</section>
 
+			<section class="blockWrap" id="bak11" data-speed="20000" data-type="background">
 				<footer>
 					<h2>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer osen</h2>
-				
-
 					<h3>Bildebank</h3>
 					<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
 					Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
@@ -489,10 +488,7 @@
 							<td>8112875566_653aab9940_o.jpg</td>
 						</tr>
 					</table>
-
-
 				</footer>
-	
-
+			</section>
 	</body>
 </html>
