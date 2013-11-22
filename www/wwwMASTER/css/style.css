@@ -427,7 +427,8 @@ body{
 /* PRODLAND */
 #prodland{
     width: 80%;
-    margin-left: 5%;
+    margin-right: 5%;
+    float: right;
 }
 #prodland h3{
     margin-top: 5%;
@@ -439,6 +440,7 @@ body{
     clear:left;
 }
 #prodlandinnhold{
+
     padding: 3%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;

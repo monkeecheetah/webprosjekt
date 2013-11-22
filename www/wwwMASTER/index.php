@@ -245,7 +245,7 @@
 			<section class="blockWrap" id="bak9" data-speed="20000" data-type="background">
 				<div class="block9 block">
 							<div id="prodland" class="content">
-								<h3>Etiopia</h3>
+								<h3>Produksjonsland</h3>
 								<div id="prodlandinnhold">
 									<p>Etiopa. Hvor kaffen først kom fra, og fortsatt kommer fra</p>
 									<p>Er i dag det 5. mest produserende landet</p>
