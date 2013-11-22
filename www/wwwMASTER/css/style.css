@@ -274,6 +274,10 @@ body{
     color: black;
     width:80%;
     text-align: center;
+    letter-spacing: 8px;
+    font-family:'Fjalla One', sans-serif;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
 }
 #KVbeskrivelse{
     text-align: center;
