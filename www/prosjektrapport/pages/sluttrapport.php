@@ -112,7 +112,7 @@
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
 		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
 		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
-		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p>		
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p>
 	</div>
 
 	<div id="roller">
@@ -146,7 +146,7 @@
 		 <h4>3.1.6 Teknologiutvikling... vente litt dette er neste nivå</h4>
 		 <p></p>
 		 <h4>Raffinering av innhold</h4>
-		 <p>Tekst og overskrifter gikk gjennom mange prosesser. Vi hadde veldig mye fakta vi ønsket å fortelle. Dette ble skrevet om og kortere mange ganger så man kunne sitte igjen med de mest interessante og relevante faktaene. 
+		 <p>Tekst og overskrifter gikk gjennom mange prosesser. Vi hadde veldig mye fakta vi ønsket å fortelle. Dette ble skrevet om og kortere mange ganger så man kunne sitte igjen med de mest interessante og relevante faktaene.
 	</div>
 
 	<div id="teknologiskutvikling">
@@ -156,7 +156,7 @@
 		<p>For å få til dette fant vi raskt ut av vi ville prøve å få til en 'parralax' funksjon på siden. Parallax er forskyvningen, eller forskjell i  posisjonen av et objekt sett langs to forskjellige synsvinkler. Overført til denne sammenheng betyr det at bakgrunn og innhold beveges med forskjellig hastighet og/eller retning.</p>
 		<p>Jarralax er et javascript bibliotek som skal gjøre det enkelt å få til denne effekten. Vi valgte derfor å prøve ut dette og fikk det whitelistet. Biblioteket fungerte til en viss grad, etter mye konfigurering. Vi fikk til noen spennende funksjoner, f.eks at bakgrunnen bevegde seg mye tregere enn teksten, samtidig som det var overliggende bilder som beveget seg i motsatt retning med en helt annen hastighet.</p>
 		<p>Etter hvert som vi utvidet siden med mer innhold viste det seg imedlertid at vi mistet kontrollen over funksjonen. Det ble vanskelig å beregne hvor de forskjellige visuelle elementene skulle starte og hvordan hastigheten skulle beregnes. Etter en mer grundig undersøkelse av koden i biblioteket fant vi ut at det ikke var optimalisert for vårt bruksområde. Hovedgrunnen til dette er at vi ville ha en sammenhengende nettside, hvor alt innhold befinner seg på en og samme side, med forskjellige bakgrunnsbilder. Jarralax fungerer best når det brukes på en mindre side, med bare to eller tre bakgrunnsbilder. Vi fant også at biblioteket var utdatert og bygget på et eldre jQuery bibliotek. Vi valgte derfor å skrote hele Jarralax biblioteket og ta oppgaven i egne hender.</p>
-		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den hastigheten vi ønsket. Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette ikke var avgjørende for inntrykket vil ville gi.</p>	
+		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den hastigheten vi ønsket. Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette ikke var avgjørende for inntrykket vil ville gi.</p>
 	</div>
 
 	<div id="tegning">
@@ -185,7 +185,7 @@
 	<div id="presentasjon">
 		<h3>4.1 Presentasjon av nettsiden</h3>
 		<p>Vi ville bygge opp nettsiden slik at vi holdt på lytterens interesse så lenge som mulig. Derfor valgte vi å
-		lage en lang side framfor å lage flere undersider. Den er delt opp i bolker med forskjellig innhold og hver bolk 
+		lage en lang side framfor å lage flere undersider. Den er delt opp i bolker med forskjellig innhold og hver bolk
 		har sitt eget bakgrunnsbilde. Rekkefølgen på bolkene er bestemt for å få best mulig dramaturgi. Siden begynner med
 		en rekke innledende tekster, brytes opp av applikasjonen Kaffevelger og  med bolker som inneholder tyngre
 		faktainformasjon.</p>
@@ -206,12 +206,12 @@
 	<div id="design">
 		<h3>4.4 Design</h3>
 		<p>Vi har valgt å holde oss på en stilren linje når det gjelder designet på siden. Hovedsaklig gjør vi
-		 dette ved å holde tekst og bakgrunnsbilder enkle. Bakgrunnsbildene har enkle motiver og teksten, bortsett 
-		 fra overskrifter, har fonten Arial, som har lite dekorasjoner. På overskrifter har vi valgt å bruke en font 
+		 dette ved å holde tekst og bakgrunnsbilder enkle. Bakgrunnsbildene har enkle motiver og teksten, bortsett
+		 fra overskrifter, har fonten Arial, som har lite dekorasjoner. På overskrifter har vi valgt å bruke en font
 		 fra Google Fonts vi følte ville passe med resten av designet på siden. Den er enkel på samme måte som Arial
-		 men litt høyere og slankere. På de bakgrunnsbildene med klare motiver er teksten plassert over den delen av bildet hvor 
-		 motivet ikke ligger. På de bakgrunnsbildene med mer tekstur-orienterte motiver er teksten plassert i bolker med 
-		 bakgrunnsfarge for å skape kontrast. </p>
+		 men litt høyere og slankere. På de bakgrunnsbildene med klare motiver er teksten plassert over den delen av bildet hvor
+		 motivet ikke ligger. På de bakgrunnsbildene med mer tekstur-orienterte motiver er teksten plassert i bolker med
+		 bakgrunnsfarge for å skape kontrast. skriver noe. </p>
 		 <p>Siden vårt tema var kaffe, og intensjonen var å motivere leseren til å bli mere glad i sin kaffe, så mente vi at det var viktig med en nettside som var visuelt innbydende og varm. Vi fant ut at det kanskje ville se mer hjemmekoselig ut hvis vi hadde med noen illustrasjoner på siden, i stedet for bare fotografier. Dessuten skulle kaffevelgeren inneholde en god del bilder av ulike tilberedningsmetoder, og vi tenkte at den ville gi et bedre inntrykk om vi kunne lage bilder som hadde samme stil. Videre fant vi ut at det kunne bli fint å tegne to landskapsbilder for å motivere leseren til å lese om kaffehistorien i Norge og verdenshistorien. Som nevnt ellers i rapporten, så ønsket vi å bruke parallax-teknologien aktivt til å pirre leserens nysgjerrighet ved hjelp av flotte bilder</p>
 		<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men en gruppemedlem var spesielt interessert i å lære å dette og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet Wacom Intuos Pro. Teknikken kalles digital painting og er lært ved å se en serie videoer på nettsiden <a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”. Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andrerelevante funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
 		<img src="">
@@ -221,9 +221,9 @@
 	<div id="bildene">
 		<h3>4.5 Bilder</h3>
 		<p>Bakgrunnsbildene vi har valgt er funnet på Flickr.com sitt område for bilder med Creative Commons-lisens.
-		 Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en 
-		 del forskjellige typer CC-lisens som blandt annet hindrer bildene i å bli brukt i komersielle formål. Vi bruker bare 
-		 med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt 
+		 Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en
+		 del forskjellige typer CC-lisens som blandt annet hindrer bildene i å bli brukt i komersielle formål. Vi bruker bare
+		 med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt
 		 enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med klare motiver
 		 har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over(gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken).
 		 <br>HEGE<br>RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
@@ -236,7 +236,7 @@
 	<div id="easteregg">
 		<h3>4.7 Easteregget</h3>
 		<p>Vi gikk for å lage et spill som easteregg. En enkel pacman klone som blir aktivert ved hjelp av konami-koden. En spillkode for å starte et spill virker helt naturlig. Spillet krever at man samler 20 bønner med kaffekoppen. Når man har oppnådd 20 poeng blir siden erstattet med en video av hvordan en kopp Aeropress lages. Om det ikke er støtte for H.264 i nettleseren blir det lastet en Youtube video istendenfor og evt. en tekst med beskrivelse av videoen om man ikke kan laste inn det heller. Kaffebønnen er free domain og hentet <a href="http://openclipart.org/detail/174080/coffe-beans-by-jarda-174080" target="_blank">her</a> Så er den manipulert med bilde av Alfred vi har lånt fra HiOA <a href="http://www.hioa.no/Person?id=alfreb">sine sider.</a> Vi har ikke spurt om lov men siden det er et easteregg og derfor mer skjult, tok vi sjansen på at det ikke er så nøye og kan går under fair use/satire. Spillmekanikken er basert på kode ene på gruppa har skrevet før og hentet collision funksjonen en <a href="http://jsfiddle.net/itechnology/XKJKD/" target="_blank">JSFiddle</a></p>
-	</div>	
+	</div>
 	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunnsbilder, </p>
 </section>
 
@@ -256,7 +256,7 @@
 		<p>Et punkt i WCAG-retningslinjene vi har gjort grep for å rette oss etter er punkt 1.4.<br>
 			<em>1.4 Mulig å skille fra hverandre.</em><br>
 			Vi har tatt grep for å skape kontrast mellom tekst og bakgrunn. Der bakgrunnsbilder har for mange detaljer og stjeler for mye fokus
-			har vi plassert tekst i svakt gjennomsiktige bokser over bildet. Bakgrunnsfargen på boksen er den samme som den forstyrrende fargen 
+			har vi plassert tekst i svakt gjennomsiktige bokser over bildet. Bakgrunnsfargen på boksen er den samme som den forstyrrende fargen
 			og teksten er selvsagt den motsatte(gjelder svart/hvit-forholdene).
 		 </p>
 		<p>OSEN wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
@@ -266,8 +266,8 @@
 
 	<div id="dynamikk">
 		<h3>5.2 Dynamikk</h3>
-		<p>Begrunne hvorfor siden er bygd opp som den er. Hvorfor har vi fet scrollefunksjon? 
-			Hvorfor fancy bilder? Hvorfor enkel layout? JOOOO fordi, siden skal være spennende 
+		<p>Begrunne hvorfor siden er bygd opp som den er. Hvorfor har vi fet scrollefunksjon?
+			Hvorfor fancy bilder? Hvorfor enkel layout? JOOOO fordi, siden skal være spennende
 			å lese og brukers nysjerrighet skal trigges og han/hun/den skal bli INSPIRERT til å drikke mer kaffe!!! </p>
 	</div>
 
@@ -282,7 +282,7 @@
 
 <section id="evaluering">
 	<h2>6. Evaluering</h2>
-	
+
 	<div id="evalueringScrum">
 		<h3>Arbeidsmetode</h3>
 		<p>I forprosjektet skrev vi: "En blanding av scrumteknikker og prototyping." Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
@@ -301,7 +301,7 @@
 
 	<div>
 	</div>
-	Evaluering(av metode, valg, teknologier, 
+	Evaluering(av metode, valg, teknologier,
 </section>
 
 
@@ -326,7 +326,7 @@
 	</div>
 	<div>
 	</div>
-	Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt, 
+	Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt,
 </section>
 
 
@@ -364,12 +364,12 @@
 
 innhold
 Innledning(mye det samme som info om gruppen)
-Forord(ide, bakgrunn, 
-Rammer(teknologier,scrum, målgruppe, mål med nettside, hvilken metode valgte vi, ambinisjonsnivåer, 
+Forord(ide, bakgrunn,
+Rammer(teknologier,scrum, målgruppe, mål med nettside, hvilken metode valgte vi, ambinisjonsnivåer,
 Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,
-Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, 
+Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder,
 Valg (hovedsakelig anngående WCAG, begrunnelse for scrollefunksjon og sideoppbyggning samt layout.)
-Evaluering(av metode, valg, teknologier, 
-Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt, 
-Konklusjoner(hva funket/hva funket ikke, 
+Evaluering(av metode, valg, teknologier,
+Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt,
+Konklusjoner(hva funket/hva funket ikke,
 Litteraturhenvisninger og begrepsforklaringer ???
