@@ -72,7 +72,7 @@
 						<p>I dag drikkes det heldigvis av alle sosiale lag</p>
 						<p>I dag drikker vi 3-4 kopper om dagen hver</p>
 						<p>Det blir noe sånn som 1200 kopper i året</p>
-						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året(WOH!)><a href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+						<p>Det blir noe sånn som mer enn 4 000 000 000 kopper i året(WOH!)><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 						<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 						<p>De syns du burde besøke disse stedene:</p>
@@ -94,8 +94,8 @@
 						<p>Det vi vet derimot</p>
 						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
 						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
-						<p><a href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
-						<p><a href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
+						<p><a class="kilde" href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
+						<p><a class="kilde" href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 					</div>
 				</div>	
 			</section>
@@ -325,7 +325,7 @@
 							<p>Koffeinen tas opp nesten umiddelbart</p>
 							<p>En kopp kaffe inneholder opptil 200mg koffein</p>
 							<p>Energidrikker? Ca. 80mg. </p>
-							<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola(<a href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a>)</p>
+							<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola <a class="kilde" href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
 							<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
 							<p>Nyt kaffen din!</p>
 							<p>Du har glede av den</p>
