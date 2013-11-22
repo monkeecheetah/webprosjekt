@@ -263,7 +263,6 @@
 										<li data-production="3500000">Peru (3,500,000)</li>
 										<li data-production="2700000">Honduras (2,700,000)</li>
 									</ol>
-									<p>Antall sekker på 60kg per år</p>
 									<p class="linkP"><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
 
 									<p>Har du forresten prøvd cà phê đá?</p>
