@@ -115,6 +115,13 @@ body{
     margin:0 0 0 0;
     padding:0 0 0 0;
 }
+footer{
+    background-color: #151515;
+}
+footer h2,h3,p,td{
+    color: white;
+
+}
 
 
 

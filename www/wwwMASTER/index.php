@@ -409,9 +409,8 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak11" data-speed="20000" data-type="background">
 				<footer>
-					<h3>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer osen</h3>
+					<h2>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer osen</h2>
 				
 
 					<h3>Bildebank</h3>
@@ -489,18 +488,11 @@
 							<td><a href="http://www.flickr.com/photos/48224373@N04/8112875566/">link</a></td>
 							<td>8112875566_653aab9940_o.jpg</td>
 						</tr>
-
-						<tr> 
-							<td></td>
-							<td></td>
-							<td></td>
-							<td></td>
-						</tr>
 					</table>
 
 
 				</footer>
-			</section>
+	
 
 	</body>
 </html>
