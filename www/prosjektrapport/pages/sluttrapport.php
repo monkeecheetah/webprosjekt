@@ -4,70 +4,70 @@
 <h2>Innhold</h2>
 <a href="#innledning">1. Innledning</a>
 <ul>
-	<li><a href="#problemstilling">1.1 Problemstilling</a></li>
-	<li><a href="#mål">1.2 Mål</a></li>
-	<li><a href="#ambisjonsnivå">1.3 Ambisjonsnivå</a></li>
+	<li><a class="underpunkt" href="#problemstilling">1.1 Problemstilling</a></li>
+	<li><a class="underpunkt" href="#mål">1.2 Mål</a></li>
+	<li><a class="underpunkt" href="#ambisjonsnivå">1.3 Ambisjonsnivå</a></li>
 </ul>
 
 
 <a href="#rammer">2. Rammer</a>
 <ul>
-	<li><a href="#teknologi">2.1 Teknologi</a></li>
-	<li><a href="#målgruppe">2.2 Målgruppe</a></li>
-	<li><a href="#arbeidsmetode">2.3 Arbeidsmetode</a></li>
-	<li><a href="#roller">2.4 Roller</a></li>
+	<li><a class="underpunkt" href="#teknologi">2.1 Teknologi</a></li>
+	<li><a class="underpunkt" href="#målgruppe">2.2 Målgruppe</a></li>
+	<li><a class="underpunkt" href="#arbeidsmetode">2.3 Arbeidsmetode</a></li>
+	<li><a class="underpunkt" href="#roller">2.4 Roller</a></li>
 </ul>
 
 
 <a href="#prosessen">3. Utviklingsprosess</a>
 <ul>
-	<li><a href="#stegforsteg">3.1 Steg for steg</a></li>
-	<li><a href="#teknologiskutvikling">3.2 Teknologisk utvikling</a></li>
-	<li><a href="#tegning">3.3 Produksjon av egne bilder</a></li>
+	<li><a class="underpunkt" href="#stegforsteg">3.1 Steg for steg</a></li>
+	<li><a class="underpunkt" href="#teknologiskutvikling">3.2 Teknologisk utvikling</a></li>
+	<li><a class="underpunkt" href="#tegning">3.3 Produksjon av egne bilder</a></li>
 </ul>
 
 
 
 <a href="#resultat">4. Resultat</a>
 <ul>
-	<li><a href="#presentasjon">4.1 Presentasjon av nettside</a></li>
-	<li><a href="#scroll">4.2 Scrollefunksjon</a></li>
-	<li><a href="#kaffevelger">4.3 Kaffevelger</a></li>
-	<li><a href="#design">4.4 Design</a></li>
-	<li><a href="#bildene">4.5 Bilder</a></li>
-	<li><a href="#responsivt">4.6 Responsivt design</a></li>
+	<li><a class="underpunkt" href="#presentasjon">4.1 Presentasjon av nettside</a></li>
+	<li><a class="underpunkt" href="#scroll">4.2 Scrollefunksjon</a></li>
+	<li><a class="underpunkt" href="#kaffevelger">4.3 Kaffevelger</a></li>
+	<li><a class="underpunkt" href="#design">4.4 Design</a></li>
+	<li><a class="underpunkt" href="#bildene">4.5 Bilder</a></li>
+	<li><a class="underpunkt" href="#responsivt">4.6 Responsivt design</a></li>
 
 </ul>
 
 <a href="#valg">5. Valg</a>
 <ul>
-	<li><a href="#wcag">5.1 WCAG</a></li>
-	<li><a href="#dynamikk"> 5.2Dynamikk</a></li>
+	<li><a class="underpunkt" href="#wcag">5.1 WCAG</a></li>
+	<li><a class="underpunkt" href="#dynamikk"> 5.2Dynamikk</a></li>
 </ul>
 
 
 <a href="#evaluering">6. Evaluering</a>
 <ul>
-	<li><a href="#evalueringScrum">6.1 Arbeidsmetode</a></li>
-	<li><a href="#evalueringTeknologi">6.2 Teknologi</a></li>
+	<li><a class="underpunkt" href="#evalueringScrum">6.1 Arbeidsmetode</a></li>
+	<li><a class="underpunkt" href="#evalueringTeknologi">6.2 Teknologi</a></li>
 </ul>
 
 
 <a href="#refleksjon">7. Refleksjon</a>
 <ul>
-	<li><a href="#refSam">7.1 Sammarbeid</a></li>
-	<li><a href="#refSlutt">7.2 Sluttprodukt</a></li>
+	<li><a class="underpunkt" href="#refSam">7.1 Sammarbeid</a></li>
+	<li><a class="underpunkt" href="#refSlutt">7.2 Sluttprodukt</a></li>
 </ul>
 
 <a href="#koklusjon">8. Koklusjon</a>
 <ul>
-	<li><a href="#funky">8.1 Hva har funket?</a></li>
-	<li><a href="#læring">8.2 Hva har vi lært?</a></li>
+	<li><a class="underpunkt" href="#funky">8.1 Hva har funket?</a></li>
+	<li><a class="underpunkt" href="#læring">8.2 Hva har vi lært?</a></li>
 </ul>
 
 <a href="#vedlegg">9. Litteraturhenvisning og andre ting(vet ikke om vi trenger denne)</a>
 <ul>
-	<li><a href="">underpunkt</a></li>
+	<li><a class="underpunkt" href="">underpunkt</a></li>
 </ul>
 
 
