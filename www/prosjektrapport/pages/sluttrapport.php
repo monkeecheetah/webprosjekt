@@ -132,6 +132,10 @@
 
 	<div id="steg">
 		<h3>3.1 Steg for steg</h3>
+		<h4>3.1.1 Forventningsavklaring</h4>
+		<p>Første møte ble startet med en forventningsavklaring. Alle fortalte hvilke forventninger de hadde til prosjektet, hvor mye tid de regnet med å bruke, hvilket nivå vi skulle legge oss på, hva vi forventet av oss selv og hverandre.</p>
+		<h4>3.1.2 Valg av tema</h4>
+		<p>For at alle skulle være motiverte for å jobbe med prosjektet ble vi enige om at vi måtte være enige om tema og noe alle hadde lyst til å jobbe med. For å komme fram til dette benyttet vi oss av kreative teknikker for å valg av tema. Først en braindump hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med. Så tok vi parvis og videreutviklet ideene før vi tok en ny avstemming hvor vi satt igjen med kaffeside. </p>
 		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
 	</div>
@@ -177,6 +181,8 @@
 	<div id="kaffevelger">
 		<h3>4.3 Kaffevelger</h3>
 		<p> KRISTOFFER Forklare hvordan kaffevelgeren funker</p>
+		<p>Kaffevelgeren består av skjemaelementer med radioknapper og checkboxes. All informasjon om tilberedningsmetodene er lagret i JSON fil. jQuery tar seg av sorteringen ut fra verdiene som blir satt med radioknappene. Sorteringen fungerer slik at verdt valg har en verdi og de sammenliknes med verdiene hver metode har. Det ble lagt til slingringsmonn fordi under testing opplevde vi at noen av mulighetene nesten aldri dukket opp, så med slingringsmonn blir det flere resultater.</p>
+		<p>Koden ble skrevet mye fra egen erfaring med jQuery og oppslag i jQuery sitt bibliotek kombinert med å studere mange forskjellige eksempler</p>
 	</div>
 
 	<div id="design">

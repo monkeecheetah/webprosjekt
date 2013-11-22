@@ -54,7 +54,6 @@ function poengSjekk(antPoeng) {
     }
 }
 $(function(){
-//    $(".left").animate($(".right").position());
 counter = 0;
     $("#mrbean1").collide("#kaffekopp", function($left, $right){
         $('#mrbean1').css('display', 'none');

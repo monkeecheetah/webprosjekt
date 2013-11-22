@@ -1,0 +1,136 @@
+scrollgraveyard
+
+/*
+	introFade = $("#intro h3, #intro p,#helse h3, #helse p").fadeTo(0,0);
+		counter = 20;
+	   $("#intro h3, #intro p,#helse h3, #helse p").each(function(){
+	   		if($(this).is("h3")) {
+	   			counter = 0;
+	   		}
+	   		$(this).css('margin-left', counter+'px');
+	   		counter += 20;
+	   	});*/
+
+/*
+
+$(window).scroll(function () {
+   $('#intro p, #intro h3, #helse h3, #helse p').each(function () { // <---loop the divs id starts with #box 
+      if (($(this).offset().top - $(window).scrollTop()) < 200) { //<---mark the $(this).offset().top of current object
+          $(this).stop().fadeTo(1000, 0); //<----fadeOut the current obj
+      } else {
+          $(this).stop().fadeTo(1000, 1); //<----fadeIn the current obj
+      }
+   });
+});
+*/
+
+
+// Scroll listener - hvor er man - hva skal sammenliknes med hva osv
+/*
+$(window).scroll(function(){
+	scrollPos = $(window).scrollTop();
+	console.log("CurrPos "+$(window).scrollTop());
+	previous = 0;
+	current = 0;
+	next = 0;
+	toUse = 0;
+	scrollFunc();
+});
+
+
+// fadeanimasjonen
+function fadeAni(inputElements) {
+	$(inputElements).children().each(function(){
+		elX = $(inputElements).position().top;
+		console.log(this);
+		$(this).children().children().each(function(){
+			if((elX + $(this).position().top) > $(window).scrollTop()){
+				$(this).fadeTo(1000,1);
+			}
+		});
+	});
+}
+// Opprette array med alle blokkene. Er det egentlig nødvendig?
+$(window).load( function () { 
+	elementsArray = new Array;
+	$('.block').each(function(){
+		elementsArray.push(this);
+	});
+});
+
+function scrollFunc() {
+	$(elementsArray).each(function(){
+		elementPos  = $(this).parent().position().top; // elementPos er bare en liste med alle .blocks
+		toUse = $(this).parent();  // skriver ut det samme som elementPos bare selve elementene
+		old = 0;
+		if(scrollPos > $(this).parent().position().top && toUse.parent().position().top < $(this).parent().position().top) {
+			if(toUse != old) {
+				console.log(toUse);
+				fadeAni(toUse);
+				old = toUse;
+			}
+		}
+	});
+}
+*/
+/*
+$(window).scroll(function(d,h) {
+	if(vinduBredde > 900) {	
+	    introFade.each(function(i) {
+	        a = $(this).offset().top + $(this).height();
+	        b = $(window).scrollTop() + $(window).height();
+	        console.log($("#intro").children().index(this));
+	        if (a < b) {
+
+	        	$(this).fadeTo(2000,1,function(){
+	        		console.log(this);
+	        		console.log($("#intro").children().index(this));
+	        		var indeks = $("#intro").children().index(this);
+	        	});
+	        }
+		});
+	}
+}); 
+*/
+
+
+
+	// pikk = $("#kaffetilnorge p").fadeTo(0,1);
+	// 	teller = 20;
+	// 	$("kaffetilnorge p").each(function()
+	// 	{
+	// 		$(this).css('margin-left', teller + 'px');
+	// 		teller += 10;
+	// 	});
+	// $(window).scroll(function(d,h))
+	// {
+	// 	pikk.each(function(i)
+	// 	{
+	// 		pa
+	// 	}
+	// 		)
+	// }
+
+
+	// tiles = $("#kaffetilnorge h3, #kaffetilnorge p").fadeTo(0,0);
+	// 	counter = 20;
+	//    $("#kaffetilnorge h3, #kaffetilnorge p").each(function(){
+	//    		$(this).css('margin-left', counter+'px');
+	//    		counter += 20;
+	//    	});
+
+
+	// }); // end of Document on ready
+	// $(window).scroll(function(d,h) {
+	//     tiles.each(function(i) {
+	//         a = $(this).offset().top + $(this).height();
+	//         b = $(window).scrollTop() + $(window).height();
+	//         if (a < b) $(this).fadeTo(3000,1);
+	//     });
+
+
+
+
+
+
+
