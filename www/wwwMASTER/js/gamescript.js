@@ -32,14 +32,14 @@ $.fn.collide = function($selector, $callback){
     }
 }
 $(document).ready(function(){
-    $('#wrapper').css('height', $(document).height()+'px').css('width', $(document).width()+'px');
+    $('#wrapper').css('height', $(document).height()-100+'px').css('width', $(document).width()-100+'px');
     height = $('#wrapper').height();
     width = $('#wrapper').width();
     $('.beanman').each(function(){
         do {
             nWidth = Math.floor((Math.random()*(width)));
             nHeight = Math.floor((Math.random()*(height)));        
-        } while((nHeight < 100 && nWidth < 60) && nWidth > (width - 80) && nHeight > (height - 100));
+        } while((nHeight < 100 && nWidth < 60) && nWidth > (width - 60) && nHeight > (height - 100));
             $(this).css('left', nWidth+'px').css('top', nHeight+'px');
     });
 });
