@@ -28,12 +28,7 @@
  *______________________________________________________________________________________                                                                 
  */
 
-h1,h2,h3,h4,h5,h6,p,li,a {
-    font-family: sans-serif;
-    font-weight:100;
-    color:#fff;
-    /*background-color:rgba(255,255,255,0.2); /Dette kan vi ikke ha som fellesregel, det er for mange unntak. */
-}
+
 
 nav {
     position:fixed;
@@ -99,6 +94,54 @@ nav a:hover {
     font-size: 50px;
 }
 
+
+.block1 h3, .block1 p, .block2 h3, .block2 p {
+    opacity:1;
+}
+
+.clearh3 {
+    clear:left;
+}
+.block {
+    width:100%;
+    float:left;
+    height:90%;
+    margin-top:0%;
+    overflow:auto;
+}
+
+
+body{
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+
+
+
+/*GENERELLE REGLER FOR TEKST*/
+.content p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 130%;
+    letter-spacing: 3px;
+    color:white;
+ 
+}
+.content h3{
+    letter-spacing: 8px;
+    font-family:'Fjalla One', sans-serif;
+    color:white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+
+
+
+
+/*************************PLASSERING AV TEKST**************************/
+
+
+/*OVERSKRIFT*/
 .block0 h1
  {
     font-family:'Fjalla One', sans-serif;
@@ -121,56 +164,8 @@ nav a:hover {
     float:left;
     padding-bottom: 15%;
 }
-.block1 h3, .block1 p, .block2 h3, .block2 p {
-    opacity:1;
-}
-p, h3 {
-    /*background-color: rgba(255,255,255,0.4);*/
-}
-.clearh3 {
-    clear:left;
-}
-  .block {
-    width:100%;
-    float:left;
-    height:90%;
-    margin-top:0%;
-    overflow:auto;
-}
 
 
-body{
-    margin:0 0 0 0;
-    padding:0 0 0 0;
-}
-
-#header
-{
-    border: solid;
-    background-color: red;
-}
-.content{
-    padding-bottom: 5%;
-}
-
-.content p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 130%;
-    letter-spacing: 3px;
- 
-}
-.content h3{
-    letter-spacing: 7px;
-    margin-top: 25%;
-    font-family:'Fjalla One', sans-serif;
-    font-size: 200%;
-}
-
-
-
-
-
-/*************************PLASSERING AV TEKST**************************/
 
 /*Gultkaffebønnebilde*/
 #intro{
@@ -182,8 +177,6 @@ body{
     font-size: 250%;
     margin-top:20%;
     margin-bottom: 5%;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
     float: left;
 }
 
@@ -213,10 +206,6 @@ body{
     font-size: 500%;
     font-weight: bold;
     padding-bottom: 3%;
-    letter-spacing: 20px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    color: white;
 }
 
 
@@ -230,17 +219,14 @@ body{
     margin-right: auto;
     color:black;
 }
-
 #oppdagelsen h3{
     margin-top: 15%;
     margin-bottom: 10%;
     padding-bottom: 3%;
     font-size: 500%;
     font-weight: bold;
-    letter-spacing: 20px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
 }
+
 
 
 /*HVORDANTARDUKAFFEN*/
@@ -253,23 +239,16 @@ body{
 }
 #hvordankaffen p{
 
-   /*  background-color:rgba(255,255,255,0.4);/*Dette funket ikke. hvordan kan vi kun sette bakgrunnsfarge bak teksten?*/
      font-size: 200%;
-     color:white;
      margin-top: 10%;
      margin-bottom: 10%;
      display: inline;
-    /* line-height:500%; /*Setning for setning? eller blir dette for langt?*/
 }
 #hvordankaffen h3{
     margin-top: 10%;
     padding-bottom: 3%;
-    letter-spacing: 8px;
     font-size: 550%;
     font-weight: bold;
-    color: white;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
 }
 
 
@@ -280,17 +259,12 @@ body{
     margin-left: 2%;
     margin-right: 2%;
     margin-bottom: 5%;
-    
-
 }
-
 #kaffeV{
     background-color: #734A12;
-
 }
 #kaffevelgerheader{
-   
-    letter-spacing: 8px;
+
     font-size: 900%;
     margin-bottom:3%;
     margin-top: 7%;
@@ -299,12 +273,8 @@ body{
     padding-bottom: 1%;
     color: black;
     width:80%;
-    font-family:'Fjalla One', sans-serif;
     text-align: center;
-    border-bottom-style: solid;
-    border-bottom-width: 2px;
 }
-
 #KVbeskrivelse{
     text-align: center;
     font-size: 120%;
@@ -329,9 +299,6 @@ body{
     padding:1px;
 }
 
-#helse a {
-
-}
 #helse .countDown {
     float: left;
     margin-left: 45%;
@@ -340,11 +307,9 @@ body{
 #helse p {
     clear:left;
     font-weight:100;
-    font-family:sans-serif;
     padding:2px;
     margin-top:10%;
     margin-bottom:10%;
-    color:#fff;
 }
 
 #helseinfo li{
@@ -365,9 +330,6 @@ body{
     font-size: 800%;
     letter-spacing: 20px;
     padding-bottom: 3%;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    color: white;
 }
 .toppListe {
     background-color:rgba(255,255,255,0.4);
@@ -389,8 +351,9 @@ body{
     color:#000;
 }
 
-/*KOFFEIN*/
 
+
+/*KOFFEIN*/
 #koffein{
     width:45%;
     float: left;
@@ -399,47 +362,35 @@ body{
 #koffein p{
     margin-top: 10%;
     margin-bottom: 10%;
-    color: white;
 }
 #koffein h3{
     font-size: 700%;
     font-weight: bold;
     letter-spacing: 20px;
     padding-bottom: 3%;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    color: white;
 }
+
+
 
 /*MER KOFFEIN*/
 #merkoffein{
-    width: 80%;
     margin-left: 5%;
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-
-
 }
-
-
 #merkoffein h3{
     text-align: center;
     color: black;
     margin-top: 0%;
     padding-top: 5%;
     padding-bottom: 3%;
-    letter-spacing: 8px;
     font-size: 550%;
     font-weight: bold;
-    border-bottom-style: solid;
-    border-bottom-width: 3px;
-
 }
 #merkoffein p{
     color:black;
 }
-
 #MKinnhold{
     padding: 3%;
     border-radius: 20px;
@@ -449,7 +400,6 @@ body{
 
 
 /*KAFFE _ SMAK PÅ ORDET*/
-
 #ordetkaffe{
     text-align: center;
     width: 70%;
@@ -459,9 +409,7 @@ body{
     margin-left:5%;
     margin-top:5%;
     margin-bottom: 5%;
-
 }
-
 #ordetkaffe h3{
     
     width: 80%;
@@ -470,51 +418,37 @@ body{
     margin-left: auto;
     padding-top: 5%;
     padding-bottom: 3%;
-    letter-spacing: 8px;
     font-size: 550%;
     font-weight: bold;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-
 }
 
-#ordetkaffe p{
 
-}
 
 /* PRODLAND */
 #prodland{
-
     width: 80%;
     margin-left: 5%;
 }
 #prodland h3{
     margin-top: 5%;
     padding-bottom: 3%;
-    letter-spacing: 8px;
     font-size: 550%;
     font-weight: bold;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-
 }
-
 #prodland p {
     clear:left;
 }
-
 #prodlandinnhold{
     padding: 3%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
     margin-bottom: 5%;
-
 }
 
 
 /*ANSVAR*/
 
-    #kaffeansvar{
+#kaffeansvar{
     margin-top: 5%;
     margin-bottom: 5%;
     padding:3%;
@@ -530,13 +464,9 @@ body{
     color: black;
     margin-top: 2%;
     padding-bottom: 3%;
-    letter-spacing: 8px;
     font-size: 400%;
     font-weight: bold;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
 }
-
 #kaffeansvar p{
     color: black;
 }
