@@ -144,7 +144,13 @@
 
 	<div id="teknologiskutvikling">
 		<h3>3.2 Teknologisk utvikling</h3>
-		<p> CHRISTER Grundig forklaring av hvorfor ikke jarallax funket, hvordan vi løste problemet og hva vi byttet jarallax for.</p>
+		<p> Vi ville ha en spennende og levende nettside som trigger nysjerrighet hos brukeren. Ta brukeren med på en fortelling, som gjør at informasjonen vi formidler oppleves som interresant og lettfordøylig.</p>
+		<p>For å få til dette fant vi raskt ut av vi ville prøve å få til en 'parralax' funksjon på siden. Parallax er forskyvningen, eller forskjell i  posisjonen av et objekt sett langs to forskjellige synsvinkler. Overført til denne sammenheng betyr det at bakgrunn og innhold beveges med forskjellig hastighet og/eller retning.</p>
+		<p>Jarralax er et javascript bibliotek som skal gjøre det enkelt å få til denne effekten. Vi valgte derfor å prøve ut dette og fikk det whitelistet. Biblioteket fungerte til en viss grad, etter mye konfigurering. Vi fikk til noen spennende funksjoner, f.eks at bakgrunnen bevegde seg mye tregere enn teksten, samtidig som det var overliggende bilder som beveget seg i motsatt retning med en helt annen hastighet.</p>
+		<p>Etter hvert som vi utvidet siden med mer innhold viste det seg imedlertid at vi mistet kontrollen over funksjonen. Det ble vanskelig å beregne hvor de forskjellige visuelle elementene skulle starte og hvordan hastigheten skulle beregnes. Etter en mer grundig undersøkelse av koden i biblioteket fant vi ut at det ikke var optimalisert for vårt bruksområde. Hovedgrunnen til dette er at vi ville ha en sammenhengende nettside, hvor alt innhold befinner seg på en og samme side, med forskjellige bakgrunnsbilder. Jarralax fungerer best når det brukes på en mindre side, med bare to eller tre bakgrunnsbilder. Vi fant også at biblioteket var utdatert og bygget på et eldre jQuery bibliotek. Vi valgte derfor å skrote hele Jarralax biblioteket og ta oppgaven i egne hender.</p>
+		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den hastigheten vi ønsket.
+		Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette ikke var avgjørende for inntrykket vil ville gi.</p>
+
 	</div>
 
 	<div id="tegning">
@@ -181,7 +187,12 @@
 
 	<div id="scroll">
 		<h3>4.2 Scrollefunksjon</h3>
-		<p> CHRISTER Forklare hvordan vi har laget scrollingen</p>
+		<p>Funksjonen snakker til alle bakgrunnsobjektene med en spesifikk datatype.
+		Legger så til en annen funksjon .scroll() inne i hvert element som starter i det brukeren begynner å scrolle.
+		For å finne ut hvor mye brukeren har scrollet opp deles hastigheten (som er satt for hvert element med egen data-tag) med ($window.scrollTop() som gir oss avstånd fra toppen av siden. Vi setter den negativ verdi, fordi vi vil flytte bakrunnen i motsatt retning av det brukeren scroller.
+		Setter så variabler for x, y posisjon, med y posisjon lik utregningen ovenfor og x posisjonen i forhold til dette. 
+		Summen av dette brukes i en egen variabel som angir posisjonen bakgrunnen skal ha ved å stadig endre backgroundPosition tagen i css.</p>
+
 	</div>
 
 	<div id="kaffevelger">
