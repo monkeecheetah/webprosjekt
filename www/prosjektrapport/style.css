@@ -4,17 +4,17 @@ body{
 
 #headerheader{
 	background-color: #151515;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 4%;
+	padding-bottom: 4%;
 	margin-bottom: 1%;
-	height: 20%;
+	height: 17%;
 
 
 }
 
 #header{
 	color:white;
-	font-size: 600%;
+	font-size: 500%;
 	height: 20%;
 	font-family: 'Fjalla One', sans-serif;
 	text-align: center;
