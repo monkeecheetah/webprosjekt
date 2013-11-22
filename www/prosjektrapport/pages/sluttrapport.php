@@ -108,11 +108,18 @@
 
 	<div id="arbeidsmetode">
 		<h3>2.3 Arbeidsmetode</h3>
-		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
+<!--		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
 		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
 		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
-		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p>
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt.</p> -->
+		<p>I forprosjektet skrev vi: "En blanding av scrumteknikker og prototyping." Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
+		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
+		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
+		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
+		Vi blir å bruke prototyping for utvikling av brukergrensesnitt."
+		Vi har ikke vært særlig bevisste på bruken av scrum. Vi har heller sett på hva slags typer arbeidsoppgaver som trengs å gjøres, fordele mellom hverandre og være flinke til å gi hverandre hjemmelekser og følge opp hverandre om noen trenger hjelp og sitt fast med noe. Vi har fulgt milepælene og brukte møtereferatene aktivt i starten for å følge opp hjemmelekser og være strukturerte i starten. Etterhvert har det blitt mer at vi har hatt konkrete prosjekter vi har jobbet med hver for oss og så hjulpet hverandre.
+		</p>
 	</div>
 
 	<div id="roller">
@@ -136,6 +143,7 @@
 		<p>Første møte ble startet med en forventningsavklaring. Alle fortalte hvilke forventninger de hadde til prosjektet, hvor mye tid de regnet med å bruke, hvilket nivå vi skulle legge oss på, hva vi forventet av oss selv og hverandre.</p>
 		<h4>3.1.2 Valg av tema</h4>
 		<p>For at alle skulle være motiverte for å jobbe med prosjektet ble vi enige om at vi måtte være enige om tema og noe alle hadde lyst til å jobbe med. For å komme fram til dette benyttet vi oss av kreative teknikker for å valg av tema. Først en braindump hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med. Så tok vi parvis og videreutviklet ideene før vi tok en ny avstemming hvor vi satt igjen med kaffeside. </p>
+		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold vi skulle ha med.</p>
 		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
 	</div>
@@ -212,6 +220,7 @@
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
 		<p> CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
+		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre ta hensyn til alle typer størrelser på skjermer. Størrelser er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal vises bedre på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde på mobile enheter og gjøre siden mer brukervennlig ved at den laster lettere.</p>
 	</div>
 	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder, </p>
 </section>
@@ -223,8 +232,7 @@
 	<h2>5. Valg</h2>
 	<div id="wcag">
 		<h3>5.1 WCAG</h3>
-		<p>Å prioritere wcag ble tidlig klart for oss at var noe vi ikke ville fokusere på. Imidlertidig har vi fulgt HTML-standarder og
-		derfor godkjennes siden vår når vi sjekker den opp mot VCAG nivå AAA.</p>
+		<p>Vi valgte ikke å fokusere på WCAG for å øke tilgjengligheten på siden utover å følge HTML standarder. Det vil være tilstrekkelig. Siden godkjennes vår mot WCAG nivå AAA.</p>
 		<p>
    		<a href="http://achecker.ca/checker/index.php?uri=referer&gid=WCAG2-AAA">
       	<img src="http://achecker.ca/images/icon_W2_aaa.jpg" alt="WCAG 2.0 (Level AAA)" height="32" width="102" />
@@ -290,7 +298,10 @@
 		<h3>7.2 Sluttprodukt</h3>
 		<p>Hvor fornøyd er vi med sluttproduktet? Samsvarer det med ambisjonsnivået?</p>
 	</div>
-
+	<div id="utvidelse">
+		<h3>7.3 Utvidelse av nettstedet</h3>
+		<p>Det er mange ting man kunne utviklet videre her. Man kan rendyrke kaffevelgeren og fått den til å hjelpe med flere ting som valg av kaffebønner og brenningsgrad. Siden kan ha flere parallax elementer og interaktive funksjoner. Easteregget kan også utvikles til et eget spill. En annen mulighet er å gjøre siden noe kommersiell med sponsede lenker på hvor man kan kjøpe kaffe og kaffeutstyr. En tredje mulighet kunne vært å finne en kaffebar i nærheten basert på lokasjon.</p>
+	</div>
 	<div>
 	</div>
 	Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt, 
