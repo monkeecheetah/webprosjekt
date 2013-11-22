@@ -385,7 +385,6 @@
 									<p>Har du forresten prøvd cà phê đá?</p>
 									<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
 									<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
-									<p>Apropos, whisky. Hadde vært gøy å koblet whisky og kaffe. Det må vi få til.</p>
 								</div>	
 						</div>
 				</div>
