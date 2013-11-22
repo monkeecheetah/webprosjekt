@@ -423,7 +423,6 @@ body{
     clear:left;
 }
 #prodlandinnhold{
-    text-align: center;
     padding: 3%;
     background-color: rgba(0,0,0,0.6);
     border-radius: 20px;
@@ -435,6 +434,7 @@ body{
     width:90%;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom: 3%;
 }
 .toppListe li {
     margin-top:2px;

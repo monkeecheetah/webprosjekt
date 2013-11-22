@@ -250,18 +250,18 @@
 									<p>Etiopa. Hvor kaffen først kom fra, og fortsatt kommer fra</p>
 									<p>Er i dag det 5. mest produserende landet</p>
 									<p>1/3 av kaffen kommer faktisk fra Brasil.</p>
-									<p>Topp 10 er forøvrig</p>
+									<p>Topp 10 målt i antall produserte sekker er:</p>
 									<ol id="kaffeProduksjon" class="toppListe">
-										<li data-production="42512000">Brazil (42,512,000 sekker)</li>
-										<li data-production="15000000">Vietnam (15,000,000 sekker)</li>
-										<li data-production="11600000">Elfenbenskysten (11,600,000 sekker)</li>
-										<li data-production="6850000">Indonesia (6,850,000 sekker)</li>
-										<li data-production="6500000">Etiopia (6,500,000 sekker)</li>
-										<li data-production="5005000">India (5,005,000 sekker)</li>
-										<li data-production="4500000">Mexico (4,500,000 sekker)</li>
-										<li data-production="4000000">Guatemala (4,000,000 sekker)</li>
-										<li data-production="3500000">Peru (3,500,000 sekker)</li>
-										<li data-production="2700000">Honduras (2,700,000 sekker)</li>
+										<li data-production="42512000">Brazil (42,512,000)</li>
+										<li data-production="15000000">Vietnam (15,000,000)</li>
+										<li data-production="11600000">Elfenbenskysten (11,600,000)</li>
+										<li data-production="6850000">Indonesia (6,850,000)</li>
+										<li data-production="6500000">Etiopia (6,500,000)</li>
+										<li data-production="5005000">India (5,005,000)</li>
+										<li data-production="4500000">Mexico (4,500,000)</li>
+										<li data-production="4000000">Guatemala (4,000,000)</li>
+										<li data-production="3500000">Peru (3,500,000)</li>
+										<li data-production="2700000">Honduras (2,700,000)</li>
 									</ol>
 									<p>Antall sekker på 60kg per år</p>
 									<p class="linkP"><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
