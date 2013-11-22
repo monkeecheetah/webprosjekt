@@ -193,7 +193,7 @@
 
 	<div id="scroll">
 		<h3>4.2 Scrollefunksjon</h3>
-		<p>Funksjonen snakker til alle bakgrunnsobjektene med en spesifikk datatype. Legger så til en annen funksjon .scroll() inne i hvert element som starter i det brukeren begynner å scrolle. For å finne ut hvor mye brukeren har scrollet opp deles hastigheten (som er satt for hvert element med egen data-tag) med ($window.scrollTop() som gir oss avstånd fra toppen av siden. Vi setter den negativ verdi, fordi vi vil flytte bakrunnen i motsatt retning av det brukeren scroller. Setter så variabler for x, y posisjon, med y posisjon lik utregningen ovenfor og x posisjonen i forhold til dette. Summen av dette brukes i en egen variabel som angir posisjonen bakgrunnen skal ha ved å stadig endre backgroundPosition tagen i css.</p>
+		<p>Funksjonen snakker til alle bakgrunnsobjektene med et attributt som heter data-type. Legger så til en annen funksjon .scroll() inne i hvert element som starter i det brukeren begynner å scrolle. For å finne ut hvor mye brukeren har scrollet opp deles hastigheten (som er satt for hvert element med egen data-tag) med ($window.scrollTop() som gir oss avstand fra toppen av siden. Vi setter den negativ verdi, fordi vi vil flytte bakrunnen i motsatt retning av det brukeren scroller. Setter så variabler for x, y posisjon, med y posisjon lik utregningen ovenfor og x posisjonen i forhold til dette. Summen av dette brukes i en egen variabel som angir posisjonen bakgrunnen skal ha ved å stadig endre backgroundPosition tagen i css.</p>
 	</div>
 
 	<div id="kaffevelger">
