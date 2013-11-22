@@ -155,7 +155,7 @@ body{
 
 .content p{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 170%;
+    font-size: 130%;
     letter-spacing: 3px;
  
 }
@@ -179,7 +179,7 @@ body{
 }
 #intro h3{
     color: black;
-    font-size: 300%;
+    font-size: 250%;
     margin-top:20%;
     margin-bottom: 5%;
     border-bottom-style: solid;
@@ -210,7 +210,7 @@ body{
     padding-top: 15%;
     margin-top: 0%;
     margin-bottom: 10%;
-    font-size: 600%;
+    font-size: 500%;
     font-weight: bold;
     padding-bottom: 3%;
     letter-spacing: 20px;
@@ -218,11 +218,6 @@ body{
     border-bottom-width: 1px;
     color: white;
 }
-#kaffetilnorge p{
-      font-size: 170%;
-}
-
-
 
 
 
@@ -240,19 +235,12 @@ body{
     margin-top: 15%;
     margin-bottom: 10%;
     padding-bottom: 3%;
-    font-size: 600%;
+    font-size: 500%;
     font-weight: bold;
     letter-spacing: 20px;
     border-bottom-style: solid;
     border-bottom-width: 1px;
 }
-#oppdagelsen p {
-       font-size: 170%;
-}
-
-
-
-
 
 
 /*HVORDANTARDUKAFFEN*/
@@ -353,7 +341,6 @@ body{
     clear:left;
     font-weight:100;
     font-family:sans-serif;
-    font-size:170%;
     padding:2px;
     margin-top:10%;
     margin-bottom:10%;
