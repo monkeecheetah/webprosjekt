@@ -133,24 +133,30 @@
 	<div id="steg">
 		<h3>3.1 Steg for steg</h3>
 		<h4>3.1.1 Forventningsavklaring</h4>
-		<p>Første møte ble startet med en forventningsavklaring. Alle fortalte hvilke forventninger de hadde til prosjektet, hvor mye tid de regnet med å bruke, hvilket nivå vi skulle legge oss på, hva vi forventet av oss selv og hverandre.</p>
+		<p>Det første møtet ble startet med en forventningsavklaring. Alle fortalte hvilke forventninger de hadde til prosjektet, hvilket kunnskapsnivå de var på,  hvor mye tid de regnet med å bruke, hvilket ambisjonsnivå vi skulle legge oss på, hva vi forventet av oss selv og hverandre. På den måten skulle vi bli bedre kjent med hverandre og hvilke forventninger vi har til prosjektet</p>
 		<h4>3.1.2 Valg av tema</h4>
 		<p>For at alle skulle være motiverte for å jobbe med prosjektet ble vi enige om at vi måtte være enige om tema og noe alle hadde lyst til å jobbe med. For å komme fram til dette benyttet vi oss av kreative teknikker for å valg av tema. Først en braindump hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med. Så tok vi parvis og videreutviklet ideene før vi tok en ny avstemming hvor vi satt igjen med kaffeside. </p>
 		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold vi skulle ha med.</p>
 		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
-
+		 <h4>3.1.4 Faktainnsamling</h4>
+		 <p>De første dagene brukte vi på å bryte ned temaet "kaffe" og "parallax". Samle mye informasjon som vi tror vil være interessant å ha med og som vi selv ville lest om. I tillegg letet vi etter inspirasjon på andre parallax sider for å se hva andre gjør og hva vi synes var bra. Når vi hadde samlet inn nok fakta begynte vi å bryte det ned til overskrifter til nettsiden. Lange faktatekster ble kokt ned til enkle setninger.</p>
+		 <h4>3.1.5 Fra fakta til innhold</h4>
+		 <p>Vi begynte ikke å kode før vi hadde funnet innholdet som passet med hverandre og kunne skape en historie, en rød tråd som kunne fortelle det vi ønsket å formidle til brukeren. ville ha med. På den måten kunne vi heller tilpasse nettstedet til innholdet og fortelle en historie på den måten. Det motsatte ville vært og startet på et skjelett og det vi så for oss av temaer og prøvd å tilpasse innholdet til skjelettet. Da kunne man sittet igjen med at nettstedet ikke føltes planlagt.</p>
+		 <h4>3.1.6 Teknologiutvikling... vente litt dette er neste nivå</h4>
+		 <p></p>
+		 <h4>Raffinering av innhold</h4>
+		 <p>Tekst og overskrifter gikk gjennom mange prosesser. Vi hadde veldig mye fakta vi ønsket å fortelle. Dette ble skrevet om og kortere mange ganger så man kunne sitte igjen med de mest interessante og relevante faktaene. 
 	</div>
 
 	<div id="teknologiskutvikling">
 		<h3>3.2 Teknologisk utvikling</h3>
 		<p> Vi ville ha en spennende og levende nettside som trigger nysjerrighet hos brukeren. Ta brukeren med på en fortelling, som gjør at informasjonen vi formidler oppleves som interresant og lettfordøylig.</p>
+		<p> Vi ville ha en spennende og levende nettside som trigger nysjerrighet hos brukeren. Ta brukeren med på en fortelling, som gjør at informasjonen vi formidler oppleves som interresant og lettfordøylig.</p>
 		<p>For å få til dette fant vi raskt ut av vi ville prøve å få til en 'parralax' funksjon på siden. Parallax er forskyvningen, eller forskjell i  posisjonen av et objekt sett langs to forskjellige synsvinkler. Overført til denne sammenheng betyr det at bakgrunn og innhold beveges med forskjellig hastighet og/eller retning.</p>
 		<p>Jarralax er et javascript bibliotek som skal gjøre det enkelt å få til denne effekten. Vi valgte derfor å prøve ut dette og fikk det whitelistet. Biblioteket fungerte til en viss grad, etter mye konfigurering. Vi fikk til noen spennende funksjoner, f.eks at bakgrunnen bevegde seg mye tregere enn teksten, samtidig som det var overliggende bilder som beveget seg i motsatt retning med en helt annen hastighet.</p>
 		<p>Etter hvert som vi utvidet siden med mer innhold viste det seg imedlertid at vi mistet kontrollen over funksjonen. Det ble vanskelig å beregne hvor de forskjellige visuelle elementene skulle starte og hvordan hastigheten skulle beregnes. Etter en mer grundig undersøkelse av koden i biblioteket fant vi ut at det ikke var optimalisert for vårt bruksområde. Hovedgrunnen til dette er at vi ville ha en sammenhengende nettside, hvor alt innhold befinner seg på en og samme side, med forskjellige bakgrunnsbilder. Jarralax fungerer best når det brukes på en mindre side, med bare to eller tre bakgrunnsbilder. Vi fant også at biblioteket var utdatert og bygget på et eldre jQuery bibliotek. Vi valgte derfor å skrote hele Jarralax biblioteket og ta oppgaven i egne hender.</p>
-		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den hastigheten vi ønsket.
-		Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette ikke var avgjørende for inntrykket vil ville gi.</p>
-
+		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den hastigheten vi ønsket. Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette ikke var avgjørende for inntrykket vil ville gi.</p>	
 	</div>
 
 	<div id="tegning">
@@ -187,12 +193,7 @@
 
 	<div id="scroll">
 		<h3>4.2 Scrollefunksjon</h3>
-		<p>Funksjonen snakker til alle bakgrunnsobjektene med en spesifikk datatype.
-		Legger så til en annen funksjon .scroll() inne i hvert element som starter i det brukeren begynner å scrolle.
-		For å finne ut hvor mye brukeren har scrollet opp deles hastigheten (som er satt for hvert element med egen data-tag) med ($window.scrollTop() som gir oss avstånd fra toppen av siden. Vi setter den negativ verdi, fordi vi vil flytte bakrunnen i motsatt retning av det brukeren scroller.
-		Setter så variabler for x, y posisjon, med y posisjon lik utregningen ovenfor og x posisjonen i forhold til dette. 
-		Summen av dette brukes i en egen variabel som angir posisjonen bakgrunnen skal ha ved å stadig endre backgroundPosition tagen i css.</p>
-
+		<p>Funksjonen snakker til alle bakgrunnsobjektene med en spesifikk datatype. Legger så til en annen funksjon .scroll() inne i hvert element som starter i det brukeren begynner å scrolle. For å finne ut hvor mye brukeren har scrollet opp deles hastigheten (som er satt for hvert element med egen data-tag) med ($window.scrollTop() som gir oss avstånd fra toppen av siden. Vi setter den negativ verdi, fordi vi vil flytte bakrunnen i motsatt retning av det brukeren scroller. Setter så variabler for x, y posisjon, med y posisjon lik utregningen ovenfor og x posisjonen i forhold til dette. Summen av dette brukes i en egen variabel som angir posisjonen bakgrunnen skal ha ved å stadig endre backgroundPosition tagen i css.</p>
 	</div>
 
 	<div id="kaffevelger">
