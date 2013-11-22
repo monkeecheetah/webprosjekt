@@ -88,9 +88,10 @@
 				<div class="block3 block">
 					<div id="oppdagelsen" class="content">
 						<h3>KAFFEN KOM FRA</h3>
-						<p>Det finnes to veldig kjente anekdoter</p>
-						<p>gjeteren som oppdaget at geitene hans ikke sov om natta etter å spist noen frukter</p>
-						<p>Munken som oppdaget</p>
+						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
+						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto at fort at effekten kom fra de røde fruktene på en liten busk.</p>
+						<p>Han spiste bærene og merket selv energien han fikk av de. Han løp til det nærmeste klosteret for å vise fram de guddommelige bærene til munkene</p>
+						<p>I klosteret ble han ikke godt mottatt og munkene hæv bærene på bålet. Legenden sier at lukten av de brente bærene fikk munkene til å ta bære av ilden og legge dem i vann. Så drakk de vanne og drikken kaffe ble til</p>
 						<p>Det vi vet derimot</p>
 						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
 						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
