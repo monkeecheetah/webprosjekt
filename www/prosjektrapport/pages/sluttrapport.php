@@ -157,6 +157,10 @@
 		<p>Store bakgrunnsbilder, enkel brutt opp tekst. Nesten som oneliners. En kontinuerlig historie ispedd interaktivitet å nettstedet opplever vi som suksessfaktorer for å få et godt nettsted.</p>
 	</div>
 
+	<div>
+		<h3>Opphavsrett</h3>
+		<p>Vi ble enige på et tidlig stadie og respektere opphavsrett forhold til bilder og vise til kilder for tekst så langt det lar seg gjøre. Dette fordi det vil bli krevd i det ordentlige arbeidsliv.</p>
+	</div>
 
 
 
