@@ -212,6 +212,9 @@
 		 men litt høyere og slankere. På de bakgrunnsbildene med klare motiver er teksten plassert over den delen av bildet hvor 
 		 motivet ikke ligger. På de bakgrunnsbildene med mer tekstur-orienterte motiver er teksten plassert i bolker med 
 		 bakgrunnsfarge for å skape kontrast. </p>
+		 <p>Siden vårt tema var kaffe, og intensjonen var å motivere leseren til å bli mere glad i sin kaffe, så mente vi at det var viktig med en nettside som var visuelt innbydende og varm. Vi fant ut at det kanskje ville se mer hjemmekoselig ut hvis vi hadde med noen illustrasjoner på siden, i stedet for bare fotografier. Dessuten skulle kaffevelgeren inneholde en god del bilder av ulike tilberedningsmetoder, og vi tenkte at den ville gi et bedre inntrykk om vi kunne lage bilder som hadde samme stil. Videre fant vi ut at det kunne bli fint å tegne to landskapsbilder for å motivere leseren til å lese om kaffehistorien i Norge og verdenshistorien. Som nevnt ellers i rapporten, så ønsket vi å bruke parallax-teknologien aktivt til å pirre leserens nysgjerrighet ved hjelp av flotte bilder</p>
+		<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men en gruppemedlem var spesielt interessert i å lære å dette og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet Wacom Intuos Pro. Teknikken kalles digital painting og er lært ved å se en serie videoer på nettsiden <a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”. Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andrerelevante funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
+		<img src="">
 	</div>
 
 
@@ -228,7 +231,7 @@
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
 		<p> CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
-		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre ta hensyn til alle typer størrelser på skjermer. Størrelser er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal vises bedre på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde på mobile enheter og gjøre siden mer brukervennlig ved at den laster lettere.</p>
+		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre tatt hensyn til alle typer størrelser på skjermer. Størrelser er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal tilpasses på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde på mobile enheter og gjøre siden mer brukervennlig ved at den laster lettere.</p>
 	</div>
 	<div id="easteregg">
 		<h3>4.7 Easteregget</h3>
