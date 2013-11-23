@@ -81,7 +81,7 @@
 
 	<div id="abisjonsnivå">
 		<h3>1.2 Ambisjonsnivå</h3>
-		<p>På første møte ble det klart alt alle hadde et høyt ambisjonsnivå for prosjektet.
+		<p>På første møte ble det klart at alle hadde et høyt ambisjonsnivå for prosjektet.
 		Vi bestemte oss for at resulatet skulle være godt nok til å få en A, i tillegg til at vi hadde ulike ønsker
 		om å lære mer om forskjellige teknologier som php og javascript. På spørreundersøkelsen
 		"pre-gruppeinndeling" hadde vi krysset av på å sette av 8-15 timer i uken til prosjektet.
@@ -129,7 +129,7 @@
 		<h3>2.4 Arbeidsmetode</h3>
 		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
-		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
+		I tillegg skal vi høy møtefrekvens og hver gang diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
 		og fordeles arbeidsoppgaver. Møtereferatene fra forrige møte gjennomgås i starten på hvert møte for å sjekke om vi er i rute.
 		Vi bruker prototyping for utvikling av brukergrensesnitt.</p>
 	</div>
@@ -356,7 +356,7 @@
 	<h2>6. Evaluering</h2>
 
 	<div id="evalueringScrum">
-		<h3>Arbeidsmetode</h3>
+		<h3>6.1 Arbeidsmetode</h3>
 		<p>I forprosjektet skrev vi: "En blanding av scrumteknikker og prototyping." Scrum virker ikke veldig egnet for et såpass lite prosjekt
 		med så få medlemmer.
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
@@ -370,7 +370,7 @@
 	</div>
 
 	<div id="evalueringTeknologi">
-		<h3>Teknologiske valg</h3
+		<h3>6.2 Teknologiske valg</h3
 
 		<p>De teknologiske valgene vi har gjort underveis i prosjektet har fungert bra. Vi valgte og gå bort fra Jarralax biblioteket,
 		som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen 
@@ -420,14 +420,14 @@
 	<h2>8. Konklusjon</h2>
 
 	<div id="funky">
-		<h3>Har vi løst problemstillingen?</h3>
+		<h3>8.1 Har vi løst problemstillingen?</h3>
 		<p>Vi føler at vi har løst problemstillingen og vi opplever at vi har nådd målet vårt med å lage en nettside hvor brukeren blir nysjerrig og får lyst til å utforske.
 			Vi har brukt spennende teknologi til framstille informasjon på nettsiden og bygd opp siden så det skal bli lettest mulig for bruker ta til seg innholdet.
 			</p>
 	</div>
 
 	<div id="læring">
-		<h3>Hva har vi lært?</h3>
+		<h3>8.2 Hva har vi lært?</h3>
 		<p>Alle har hatt forsjellige områder de har fokusert på og som som de har lært mer om. Den mest dramatiske utviklingen er nok likevel
 		å finne hos Hege som har brukt mye tid på å produsere egne bilder. Ellers har alle lært mer om hva som funker og hva som ikke funker 
 		på en nettside. Dette har også vært noen av oss sine første ordentlige erfaringer med Javascript og eksterne Javascriptbiblioteker. </p>
