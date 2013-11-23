@@ -61,15 +61,35 @@
 				</div>
 			</section>
 
-			<section class="blockWrap" id="bak15" data-speed="400" data-type="background">
+<!-- 			<section class="blockWrap" id="bak15" data-speed="400" data-type="background">
 				<div class="block15 block">
 					<div id="pynteblokk" class="filler"></div>
-				</div>
+				</div> -->
 			</section>
 
 			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
+						<div id="photo"> <img src="css/images/norgetopp.jpg">
+							<div id="caption">  
+						<h3>KAFFE TIL NORGE?</h3>
+						<p>Norge fikk kaffe på 1600 tallet</p>
+						<p>Og da var det en luksusvare, for rikfolket</p>
+						<p>I dag drikkes det heldigvis av alle sosiale lag</p>
+						<p>Nordmenn drikker 3-4 kopper om dagen hver</p>
+						<p>Som blir ca 1200 kopper i året</p>
+						<p>Og totalt mer enn 4 000 000 000 kopper i året><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+						<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+						<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+						<p>De syns du burde besøke disse stedene:</p>
+							</div>
+						</div>	
+
+
+						<img src="css/images/bakgrunn.jpg">
+						<img src="css/images/etiopia.jpg">
+
+
 						<h3>KAFFE TIL NORGE?</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>
 						<p>Og da var det en luksusvare, for rikfolket</p>
@@ -84,6 +104,7 @@
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
 						<p><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
+
 					</div>
 				</div>
 			</section>
@@ -91,6 +112,7 @@
 			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
 				<div class="block3 block">
 					<div id="oppdagelsen" class="content">
+
 						<h3>KAFFEN KOM FRA</h3>
 						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
 						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto at fort at effekten kom fra de røde fruktene på en liten busk.</p>
@@ -104,11 +126,11 @@
 					</div>
 				</div>	
 			</section>
-			<section class="blockWrap" id="bak16" data-speed="400" data-type="background">
+<!-- 			<section class="blockWrap" id="bak16" data-speed="400" data-type="background">
 				<div class="block16 block">
 					<div id="pynteblokk" class="filler"></div>
 				</div>
-			</section>
+			</section> -->
 			<section class="blockWrap" id="bak4" data-speed="20000" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
