@@ -172,7 +172,7 @@
 		 faktatekster ble kokt ned til enkle setninger.</p>
 		 <h4>3.1.5 Fra fakta til innhold</h4>
 		 <p>Vi begynte ikke å kode før vi hadde funnet innholdet som passet med hverandre og kunne skape en historie, en rød tråd som
-		 kunne fortelle det vi ønsket å formidle til brukeren. ville ha med. På den måten kunne vi heller tilpasse nettstedet til
+		 kunne fortelle det vi ønsket å formidle til brukeren. På den måten kunne vi heller tilpasse nettstedet til
 		 innholdet og fortelle en historie på den måten. Det motsatte ville vært og startet på et skjelett og det vi så for oss av
 		 temaer og prøvd å tilpasse innholdet til skjelettet. Da kunne man sittet igjen med at nettstedet ikke føltes planlagt.</p>
 		 <h4>3.1.6 Teknologiutvikling... vente litt dette er neste nivå</h4>
@@ -207,7 +207,12 @@
 
 	<div id="tegning">
 		<h3>3.3 Produksjon av bilder</h3>
-		<p></p>
+		<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men en gruppemedlem var spesielt interessert i å lære å dette
+		og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet
+		Wacom Intuos Pro. Teknikken kalles digital painting og er lært ved å se en serie videoer på nettsiden
+		<a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”.
+		Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andre relevante
+		funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
 	</div>
 
 	<div>
@@ -272,12 +277,7 @@
 		som hadde samme stil. Videre fant vi ut at det kunne bli fint å tegne to landskapsbilder for å motivere leseren til å
 		lese om kaffehistorien i Norge og verdenshistorien. Som nevnt ellers i rapporten, så ønsket vi å bruke parallax-teknologien
 		aktivt til å pirre leserens nysgjerrighet ved hjelp av flotte bilder.</p>
-		<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men en gruppemedlem var spesielt interessert i å lære å dette
-		og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet
-		Wacom Intuos Pro. Teknikken kalles digital painting og er lært ved å se en serie videoer på nettsiden
-		<a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”.
-		Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andrerelevante
-		funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
+		<p></p>
 		<img src="">
 	</div>
 
