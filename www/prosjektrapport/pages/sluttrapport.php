@@ -102,7 +102,7 @@
 		<h3>2.x Samarbeidsverktøyer</h3>
 		<p>Vi har benyttet oss av tre asynkrone verktøyer for samarbeid. De har hatt hvert sitt nytteområde.</p>
 		<h4>Facebook</h4>
-		<p>Omtrent det første vi gjorde var å opprette en Facebook-gruppe. Denne har vi brukt for å kjapt kunne dele informasjon om møtetidspunkter og dele lenker. Vi har også brukt den til å dele inspirasjonslenker og spørre om hjelp og status hos hverandre</p>		
+		<p>Omtrent det første vi gjorde var å opprette en Facebook-gruppe. Denne har vi brukt for å kjapt kunne dele informasjon om møtetidspunkter og dele lenker. Vi har også brukt den til å dele inspirasjonslenker og spørre om hjelp og status hos hverandre</p>
 		<h4>Google Drive</h4>
 		<p>Vi brukte Google Drive for å dele tekstdokumenter og bilder. Dette var nyttig for fort komme i gang med et verktøy som er lett å lære</p>
 		<h4>GitHub</h4>
@@ -207,7 +207,7 @@
 
 	<div id="tegning">
 		<h3>3.3 Produksjon av bilder</h3>
-		<p>HEGE Hvordan var det å tegne bilder, Hege?</p>
+		<p></p>
 	</div>
 
 	<div>
@@ -289,13 +289,12 @@
 		del forskjellige typer CC-lisens som blandt annet hindrer bildene i å bli brukt i komersielle formål. Vi bruker bare
 		med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt
 		enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med
-		klare motiver har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over(gjelder spesielt de to øverste bildene.
-		Se link til orginalbilde i bildebanken).
-		<br>HEGE<br>RELEVANT TEKST OM HEGE SINE BILDER!!! </p>
+		klare motiver har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over (gjelder spesielt de to øverste bildene.
+		Se link til orginalbilde i bildebanken). Bildene som er tegnet, er tegnet på frihånd og tilpasset dets formål.</p>
 	</div>
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
-		<p> CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
+		<p>CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
 		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre tatt hensyn til alle typer størrelser på skjermer. Størrelser
 		er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal
 		tilpasses på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde
