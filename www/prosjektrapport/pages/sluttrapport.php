@@ -401,7 +401,11 @@
 
 	<div id="refSlutt">
 		<h3>7.2 Sluttprodukt</h3>
-		<p>Hvor fornøyd er vi med sluttproduktet? Samsvarer det med ambisjonsnivået?</p>
+		<p>Samsvarer sluttproduktet med abisjonsnivået? Vi hadde høye ambisjoner da vi startet prosjektet. Vi ville lage en nettside med avansert scrollefunksjon
+		som skulle være spennende for bruker å utforske. Vi har måtte forkaste en del idéer om hvordan parallaxen skulle fungere, men endte opp med et resultat som
+		ikke ligger langt fra det vi opprinnelig hadde sett for oss. Det vi har måtte forkaste er de mer "fancy" parallax-idéene vi hadde, for eksempel objekter, 
+		annet enn tekst som bevegde seg i forsjellig hastighet fra bakgrunnen, tekst som fader inn og ut når man scroller nedover og andre småting. Det produktet vi sitter igjen med er forsatt bygd på de samme grunnprinsippene som vi startet med, men vi har ikke klart å implimentere alle funksjonene vi ønsket. Derimot 
+		veier det opp, for oss, at vi har løst problemene vi hadde med eksterne bibliotet ved å skrive egen kode.</p>
 	</div>
 	<div id="utvidelse">
 		<h3>7.3 Utvidelse av nettstedet</h3>
