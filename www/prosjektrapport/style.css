@@ -103,7 +103,10 @@ nav{
 }
 
 #innledning{
-	margin-top: 20%;
+	border-top-style: solid;
+	border-top-width:1px;
+	margin-top: 10%;
+	padding-top:10%;
 }
 .navlink{
 	text-decoration: none;
