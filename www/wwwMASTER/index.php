@@ -63,12 +63,8 @@
 
 			<section class="blockWrap" id="bak15" data-speed="400" data-type="background">
 				<div class="block15 block">
-					<div id="pynteblokk" class="filler"></div>
-				</div>
-			</section>
-
-			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
-				<div class="block2 block">
+					<div id="pynteblokk" class="filler"></div>					
+					<div id="forgrunn" class="filler"></div>
 					<div id="kaffetilnorge" class="content">
 						<h3>KAFFE TIL NORGE?</h3>
 						<p>Norge fikk kaffe på 1600 tallet</p>
@@ -85,6 +81,11 @@
 						<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
 						<p><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
 					</div>
+				</div>
+			</section>
+
+			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
+				<div class="block2 block">
 				</div>
 			</section>
 
