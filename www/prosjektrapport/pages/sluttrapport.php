@@ -12,6 +12,7 @@
 <a class="punkt" href="#rammer">2. Rammer</a>
 <ul>
 	<li><a class="underpunkt" href="#teknologi">2.1 Teknologi</a></li>
+	<li><a class="underpunkt" href="#samverk">2.2 Sammarbeidsverktøy</a></li>
 	<li><a class="underpunkt" href="#målgruppe">2.2 Målgruppe</a></li>
 	<li><a class="underpunkt" href="#arbeidsmetode">2.3 Arbeidsmetode</a></li>
 	<li><a class="underpunkt" href="#roller">2.4 Roller</a></li>
@@ -82,7 +83,7 @@
 	<div id="abisjonsnivå">
 		<h3>1.2 Ambisjonsnivå</h3>
 		<p>På første møte ble det klart alt alle hadde et høyt ambisjonsnivå for prosjektet.
-		Vi bestemte oss for at resulatet vårt skulle være godt nok til å få en A, i tillegg til at vi hadde ulike ønsker
+		Vi bestemte oss for at resulatet skulle være godt nok til å få en A, i tillegg til at vi hadde ulike ønsker
 		om å lære mer om forskjellige teknologier som php og javascript. På spørreundersøkelsen
 		"pre-gruppeinndeling" hadde vi krysset av på å sette av 8-15 timer i uken til prosjektet.
 		Vi endte opp med å bruke vesentlig mer tid på prosjektet.</p>
@@ -98,8 +99,8 @@
 		<p>Vi har brukt HTML, CSS og jQuery. I følge kravspesifikasjonen skulle vi også bruke PHP for å organisere sidene. Det gikk vi bort
 		fra da vi så det ble mer uoversiktlig enn et dokument med all teksten.</p>
 	</div>
-	<div id="samarbeidsverktoyer">
-		<h3>2.x Samarbeidsverktøyer</h3>
+	<div id="samverk">
+		<h3>2.2 Samarbeidsverktøyer</h3>
 		<p>Vi har benyttet oss av tre asynkrone verktøyer for samarbeid. De har hatt hvert sitt nytteområde.</p>
 		<h4>Facebook</h4>
 		<p>Omtrent det første vi gjorde var å opprette en Facebook-gruppe. Denne har vi brukt for å kjapt kunne dele informasjon om møtetidspunkter og dele lenker. Vi har også brukt den til å dele inspirasjonslenker og spørre om hjelp og status hos hverandre</p>
@@ -109,7 +110,7 @@
 		<p>Vi har brukt GitHub for versjonshåndtering og samle all kode. Ved hjelp av en hook så har web-delen blitt synket mot skoleserveren så det alltid har vært den nyeste versjonen på nett. Hooken ble gjort ved hjelp av medstudenten Matias Hermanrud Fjeld.</p>
 	</div>
 	<div id="målgruppe">
-		<h3>2.2 Målgruppe</h3>
+		<h3>2.3 Målgruppe</h3>
 		<p>Målgruppen for prosjektet vårt er rett og slett alle og enhver. Vi ønsker at både de som interesserer seg for kaffe, samt de
 		som ikke drikker kaffe, skal bli henholdsvis mer interessert i å drikke kaffe eller nyte sin kaffe bedre ved å besøke nettsiden. Vi anså dette som
 		en større og mer spennende utfordring enn å avgrense oss til en utvalgt gruppe. Vi vurderte nemlig flere ulike målgrupper:
@@ -125,7 +126,7 @@
 	</div>
 
 	<div id="arbeidsmetode">
-		<h3>2.3 Arbeidsmetode</h3>
+		<h3>2.4 Arbeidsmetode</h3>
 		<p>En blanding av scrumteknikker og prototyping. Scrum virker ikke veldig egnet for et såpass lite prosjekt med så få medlemmer.
 		Særlig siden ingen av oss har erfaring med det fra før av. Men vi tar med oss sykluser fra scrum og bruker de som milepæler.
 		I tillegg skal vi høy møtefrekvens hvor vi møtes og diskuterer utfordringer og staker ut veien videre hvor det skrives møtereferater
@@ -134,8 +135,8 @@
 	</div>
 
 	<div id="roller">
-		<h3>2.4 Gruppestruktur</h3>
-		<h4>2.4.1 Rollefordeling</h4>
+		<h3>2.5 Gruppestruktur</h3>
+		<h4>2.5.1 Rollefordeling</h4>
 		<ul>
 			<li>Kristoffer Osen: Gruppeleder</li>
 			<li>Hege Grostad: Innhold- og designansvarlig</li>
@@ -159,7 +160,7 @@
 		oss selv og hverandre. På den måten skulle vi bli bedre kjent med hverandre og avklare hvilke forventninger vi hadde til prosjektet</p>
 		<h4>3.1.2 Valg av tema</h4>
 		<p>For at alle skulle være motiverte til å jobbe med prosjektet, ble vi enige om at vi måtte finne et spennende og lystbetont
-		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en braindump
+		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en<a href="index.php?page=6#braindump">braindump</a> 
 		hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med.
 		Deretter arbeidet vi parvis der vi videreutviklet valgte ideer før vi tok en ny avstemming hvor vi til slutt satt igjen med temaet kaffe. </p>
 		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold
@@ -172,9 +173,9 @@
 		 faktatekster ble kokt ned til enkle setninger.</p>
 		 <h4>3.1.5 Fra fakta til innhold</h4>
 		 <p>Vi begynte ikke å kode før vi hadde funnet innholdet som passet med hverandre og kunne skape en historie, en rød tråd som
-		 kunne fortelle det vi ønsket å formidle til brukeren. På den måten kunne vi heller tilpasse nettstedet til
+		 kunne fortelle det vi ønsket å formidle til brukeren. Slik kunne vi heller tilpasse nettstedet til
 		 innholdet og fortelle en historie på den måten. Det motsatte ville vært og startet på et skjelett og det vi så for oss av
-		 temaer og prøvd å tilpasse innholdet til skjelettet. Da kunne man sittet igjen med at nettstedet ikke føltes planlagt.</p>
+		 temaer og prøvd å tilpasse innholdet til skjelettet. Da kunne man sittet igjen med et inntrykk at nettstedet ikke føltes planlagt.</p>
 		 <h4>3.1.6 Teknologiutvikling... vente litt dette er neste nivå</h4>
 		 <p></p>
 		 <h4>Raffinering av innhold</h4>
@@ -287,14 +288,13 @@
 		<p>Bakgrunnsbildene vi har valgt er funnet på Flickr.com sitt område for bilder med Creative Commons-lisens.
 		Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en
 		del forskjellige typer CC-lisens som blandt annet hindrer bildene i å bli brukt i komersielle formål. Vi bruker bare
-		med de mest tilgjengelige lisenene for å være sikker. Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt
+		med de mest tilgjengelige lisenene for å være sikker.<a href="index.php?page=8">Oversikt over bildene vi har brukt.</a> Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt
 		enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med
 		klare motiver har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over (gjelder spesielt de to øverste bildene.
 		Se link til orginalbilde i bildebanken). Bildene som er tegnet, er tegnet på frihånd og tilpasset dets formål.</p>
 	</div>
 	<div id="responsivt">
 		<h3>4.6 Responsivt design</h3>
-		<p>CHRISTER/KRISTOFFERHva har vi gjort for at nettsiden skal funke på alle sjermer, i alle browsere</p>
 		<p>Responsive/responsible design. Vi har så godt det lar seg gjøre tatt hensyn til alle typer størrelser på skjermer. Størrelser
 		er i minst mulig grad oppgitt i piksler og heller brukt prosent. Vi har benyttet oss av media queries for at innholdet skal
 		tilpasses på små skjermer. Bilder er laget i to eller tre størrelser, alt etter behov på siden. Dette for å spare minne og båndbredde
@@ -372,11 +372,14 @@
 	</div>
 
 	<div id="evalueringTeknologi">
-		<h3>Teknologiske valg</h3>
-		<p>CHRISTER/KRISTOFFERHvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
-		 i Jquerie? Hvordan har det funket å produsere egene bilder?</p>
+		<h3>Teknologiske valg</h3
 
-		 <p>De teknologiske valgene vi har gjort underveis i prosjektet har fungert bra. Vi valgte og gå bort fra Jarralax biblioteket, som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen tidligere enn vi gjorde, med tanke på «tapt» arbeidskraft. På den annen side så fikk vi innblikk og forståelse i hvordan denne effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og ble motivert til å sette oss bedre inn i språket. Resultatet vi endte opp med er mye bedre enn det vi kunne fått til med Jarralax. Samtidig er det mer gøy å bruke egen kode framfor et ferdig bibliotek.</p>
+		<p>De teknologiske valgene vi har gjort underveis i prosjektet har fungert bra. Vi valgte og gå bort fra Jarralax biblioteket,
+		som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen 
+		tidligere enn vi gjorde, med tanke på «tapt» arbeidskraft. På den annen side så fikk vi innblikk og forståelse i hvordan denne
+		effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og 
+		ble motivert til å sette oss bedre inn i språket. Resultatet vi endte opp med er mye bedre enn det vi kunne fått til med Jarralax.
+	    Samtidig er det mer gøy å bruke egen kode framfor et ferdig bibliotek.</p>
 
 
 
