@@ -82,7 +82,11 @@
 							<p>Og totalt mer enn 4 000 000 000 kopper i året><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 							<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
-							<p id="triggerElement">De syns du burde besøke disse stedene:</p>
+							<p>De syns du burde besøke disse stedene:</p>
+							<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
+							<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
+							<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
+							<p id="triggerElement"><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
 						</div>						
 					</div>
 
@@ -90,12 +94,9 @@
 			</section>
 
 			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
-				
-						<img src="css/images/bakgrunn.jpg">
-						<img src="css/images/etiopia.jpg">
-
 				<div class="block3 block">
-					<div id="oppdagelsen" class="content">
+					<div id="photo2"></div>
+					<div id="oppdagelsen">
 
 						<h3>KAFFEN KOM FRA</h3>
 						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
