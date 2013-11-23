@@ -499,7 +499,7 @@
 						</tr>
 					</table>
 
-					<p>© Copyleft Hioa 2013</p>
+					<p>© Copymachine Hioa 2013</p>
 				</footer>
 			</section>
 	</body>
