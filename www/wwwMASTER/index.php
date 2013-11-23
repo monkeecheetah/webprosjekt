@@ -79,7 +79,7 @@
 							<p>I dag drikkes det heldigvis av alle sosiale lag</p>
 							<p>Nordmenn drikker 3-4 kopper om dagen hver</p>
 							<p>Som blir ca 1200 kopper i året</p>
-							<p>Og totalt mer enn 4 000 000 000 kopper i året><a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+							<p>Og totalt mer enn 4 000 000 000 kopper i året<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 							<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p>De syns du burde besøke disse stedene:</p>
@@ -315,9 +315,8 @@
 						<p>- er 82 kopper på 100 timer</p>
 						<p>Og om du er du redd for å drikke for mye kaffe?</p>
 						<p>Vit at det skal 100 kopper til for å drepe deg</p>
-						
-						<p><a href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
-						<p><a href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
+						<p class="linkP"><a class="kilde" href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
+						<p class="linkP"><a class="kilde" href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
 					</div>
 				</div>
 			</section>
@@ -362,7 +361,7 @@
 		 				<p>Som igjen er avledet fra det arabiske ordet qahwah (kaffe). </p>
 		 				<p>Det siste skal etter sigende bety vin, </p>
 		 				<p>Mer sannsynlig har det sin opprinnelse fra den etiopiske regionen Kaffa, et tradisjonelt område for kaffeproduksjon.</p>
-		 				<p>Og ordet café - ja du har alltid antatt det riktige. Det sxtammer fra ordet kaffe <a class="kilde" href="http://snl.no/kaf%C3%A9">[Kilde]</a></p>
+		 				<p>Og ordet café - ja du har alltid antatt det riktige. Det stammer fra ordet kaffe <a class="kilde" href="http://snl.no/kaf%C3%A9">[Kilde]</a></p>
 						<p>Kaffe er forøvrig kalt buno i Etiopia</p>
 		 				<p class="linkP"><a class="kilde"  href="http://www.etymonline.com/index.php?search=coffee&amp;searchmode=none">[Kilde]</a></p>
 					</div>

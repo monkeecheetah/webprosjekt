@@ -17,6 +17,7 @@ $(document).keydown(function(e){
 
 
 $(window).on('scroll', function() {
+	$()
 	currPos = $(window).scrollTop();
 	bak2Pos = $('#bak2').position().top;
 	triggerPos = $('#triggerElement').position().top;
@@ -32,13 +33,13 @@ $(window).on('scroll', function() {
 });
 
 $(document).ready(function(){
-	console.log($('#caption').height());
-	winH = $(window).height();
-	$('#caption2').css('margin-top', $('#photo2').position().top+200+'px');
-	$('#photo').height((winH+800)+'px');
-	$('#bak15').css('height', $(document).width()/1.81+'px');
-	$('#bak16').css('height', $(document).width()/1.7472+'px');
-	if(vinduBredde > 900) {
+	if(vinduBredde > 980) {
+		console.log($('#caption').height());
+		winH = $(window).height();
+		$('#caption2').css('margin-top', $('#photo2').position().top+200+'px');
+		$('#photo').height((winH+800)+'px');
+		$('#bak15').css('height', $(document).width()/1.81+'px');
+		$('#bak16').css('height', $(document).width()/1.7472+'px');
 		blockFade();
 		$window = $(window);
 		$('section[data-type="background"]').each(function(){

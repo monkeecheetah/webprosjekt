@@ -21,6 +21,14 @@
 		font-size:180%;
 		letter-spacing: 5px;		
 	}
+	#caption2 {
+		width:100%;
+		margin-left:0%;
+	}
+	#caption2 h3, #caption2 p {
+		width:90%;
+		margin-left:5%;
+	}
 	.content p, #kaffetilnorge p, #oppdagelsen p, #hvordankaffen p, #helse p, #koffein p, #kaffeansvar p {
 		font-size:110%;
 	}	
@@ -44,7 +52,11 @@
 
 	#prodland {
 		width:70%;
-		margin-right:2%;
+		margin-left:25%;
+	}
+	#helseinfo li {
+		font-size:120%;
+		padding:2%;
 	}
 	td {
 		width:auto;
@@ -56,7 +68,7 @@
 	    background: url(images/background/900/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 	}
 	#bak2{
-	    background: url(images/background/900/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+/*	    background: url(images/background/900/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 	}
 	#bak3{
 	    background: url(images/background/900/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
@@ -101,6 +113,30 @@
  *                                                  
  */
 @media all and (max-width: 480px) {
+
+	q {
+		font-size:60%;
+	}
+
+	#photo, #photo2 {
+		background:none;
+	}
+	#caption {
+		width:90%;
+		margin-left:0;
+	}
+	#caption2 {
+		width:100%;
+		margin-left:0;
+	}
+	#caption2 h3 {
+		font-size:180%;
+	}
+	#caption2 p {
+		float:left;
+		width:90%;
+		margin-left:5%;
+	}
 	nav a {
 		font-size:10px;
     letter-spacing: 0px;
@@ -209,7 +245,7 @@
 	    background: url(images/background/480/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 	}
 	#bak2{
-	    background: url(images/background/480/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+	    /*background: url(images/background/480/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 	}
 	#bak3{
 	    background: url(images/background/480/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
