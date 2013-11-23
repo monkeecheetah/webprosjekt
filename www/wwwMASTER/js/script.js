@@ -17,19 +17,20 @@ $(document).keydown(function(e){
 
 
 $(window).on('scroll', function() {
-	$()
-	currPos = $(window).scrollTop();
-	bak2Pos = $('#bak2').position().top;
-	triggerPos = $('#triggerElement').position().top;
-    if(currPos >= (bak2Pos+triggerPos)) {
-        //do stuff
-		captionH = $('#caption').height();
-        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px');
-        $('#caption').css('visibility', 'hidden');
-        console.log("Du lukter promp");
-    } else {
-        $('#caption').css('visibility', 'visible');    	
-    }
+	if(vinduBredde > 980) {	
+		currPos = $(window).scrollTop();
+		bak2Pos = $('#bak2').position().top;
+		triggerPos = $('#triggerElement').position().top;
+	    if(currPos >= (bak2Pos+triggerPos)) {
+	        //do stuff
+			captionH = $('#caption').height();
+	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px');
+	        $('#caption').css('visibility', 'hidden');
+	        console.log("Du lukter promp");
+	    } else {
+	        $('#caption').css('visibility', 'visible');    	
+	    }
+	}
 });
 
 $(document).ready(function(){
