@@ -110,7 +110,18 @@
 	</div>
 	<div id="målgruppe">
 		<h3>2.2 Målgruppe</h3>
-		<p><em>Typisk norsk kaffedrikker som bare ikke enda vet at han/hun ønsker å lære mer om kaffe.</em></p>
+		<p>Målgruppen for prosjektet vårt er rett og slett alle og enhver. Vi ønsker at både de som interesserer seg for kaffe, samt de
+		som ikke drikker kaffe, skal bli henholdsvis mer interessert i å drikke kaffe eller nyte sin kaffe bedre ved å besøke nettsiden. Vi anså dette som
+		en større og mer spennende utfordring enn å avgrense oss til en utvalgt gruppe. Vi vurderte nemlig flere ulike målgrupper:
+		Kaffenerder, fattige studenter og de kaffe-uinteresserte. Det morsomme med en nerdeside, hadde vært at vi utelukkende kunne ha fokusert
+		på detaljerte kuriositeter innen kaffeverdenen. Vi fant ut at slike kaffenerdesider finnes fra før, og tenkte at vi sannsynligvis ikke kom til å
+		rekke å overgå disse sidene i løpet av tiden vi hadde til rådighet. Sosialt sett, hadde det vært artig å lage en kaffeside til våre medstudenter.
+		Da kunne vi ha undersøkt for eksempel hvor i byen kaffen er best og billigst, og generelt hatt et økonomisk perspektiv på nettsiden.
+		Til slutt så kunne vi ha valgt å fokusere på alle som verken interesserer seg for kaffe eller som drikker kaffe i det hele tatt.
+		Fordi vi mener jo at alle hadde blitt lykkeligere og verden hadde vært et blitt sted dersom absolutt alle drakk kaffe. Derfor
+		konkluderte vi til slutt med at nettsiden skal nå ut til alle, slik at de som allerede drikker kaffe, får lyst på mer og bedre kaffe,
+		og at de som ikke drikker kaffe skulle få lyst til å begynne å drikke kaffe. Dessuten ga denne vide tilnærmingen oss mulighet til å
+		fortelle om alt det vi synes er interessant og gøy med kaffe.</p>
 	</div>
 
 	<div id="arbeidsmetode">
@@ -333,7 +344,7 @@
 		<h3>5.2 Dynamikk</h3>
 		<p>Nettsiden er bygd opp som den er for å løse problemstillingen vår. Scrollefunksjonen, bildevalgene, konseptet med å
 			ha alt innhold på en side er alle valg vi har tatt for å gjøre nettsiden spennede å utforske. Teksten er enkel og stykket
-			opp for at informasjonen skal være lett å ta inn og at bruker ikke skal gå lei. Vi har redigert bildene til å gi plass til 
+			opp for at informasjonen skal være lett å ta inn og at bruker ikke skal gå lei. Vi har redigert bildene til å gi plass til
 			teksten slik at det føles at tekste og bilde hører sammen. Vi har valgt å ta ganske drastiske valg for å gjøre nettsiden
 			interessant og for å trigge brukers nyskerrighet og lyst til å drikke kaffe.</p>
 	</div>
