@@ -2,7 +2,7 @@
 
 
 <h2>Innhold</h2>
-<a href="#innledning">1. Innledning</a>
+<a class="punkt" href="#innledning">1. Innledning</a>
 <ul>
 	<li><a class="underpunkt" href="#problemstilling">1.1 Problemstilling</a></li>
 	<li><a class="underpunkt" href="#mål">1.2 Mål</a></li>
@@ -10,7 +10,7 @@
 </ul>
 
 
-<a href="#rammer">2. Rammer</a>
+<a class="punkt" href="#rammer">2. Rammer</a>
 <ul>
 	<li><a class="underpunkt" href="#teknologi">2.1 Teknologi</a></li>
 	<li><a class="underpunkt" href="#målgruppe">2.2 Målgruppe</a></li>
@@ -19,7 +19,7 @@
 </ul>
 
 
-<a href="#prosessen">3. Utviklingsprosess</a>
+<a class="punkt" href="#prosessen">3. Utviklingsprosess</a>
 <ul>
 	<li><a class="underpunkt" href="#stegforsteg">3.1 Steg for steg</a></li>
 	<li><a class="underpunkt" href="#teknologiskutvikling">3.2 Teknologisk utvikling</a></li>
@@ -28,7 +28,7 @@
 
 
 
-<a href="#resultat">4. Resultat</a>
+<a class="punkt" href="#resultat">4. Resultat</a>
 <ul>
 	<li><a class="underpunkt" href="#presentasjon">4.1 Presentasjon av nettside</a></li>
 	<li><a class="underpunkt" href="#scroll">4.2 Scrollefunksjon</a></li>
@@ -39,33 +39,33 @@
 
 </ul>
 
-<a href="#valg">5. Valg</a>
+<a class="punkt" href="#valg">5. Valg</a>
 <ul>
 	<li><a class="underpunkt" href="#wcag">5.1 WCAG</a></li>
 	<li><a class="underpunkt" href="#dynamikk"> 5.2Dynamikk</a></li>
 </ul>
 
 
-<a href="#evaluering">6. Evaluering</a>
+<a class="punkt" href="#evaluering">6. Evaluering</a>
 <ul>
 	<li><a class="underpunkt" href="#evalueringScrum">6.1 Arbeidsmetode</a></li>
 	<li><a class="underpunkt" href="#evalueringTeknologi">6.2 Teknologi</a></li>
 </ul>
 
 
-<a href="#refleksjon">7. Refleksjon</a>
+<a class="punkt" href="#refleksjon">7. Refleksjon</a>
 <ul>
 	<li><a class="underpunkt" href="#refSam">7.1 Sammarbeid</a></li>
 	<li><a class="underpunkt" href="#refSlutt">7.2 Sluttprodukt</a></li>
 </ul>
 
-<a href="#koklusjon">8. Koklusjon</a>
+<a class="punkt" href="#koklusjon">8. Koklusjon</a>
 <ul>
 	<li><a class="underpunkt" href="#funky">8.1 Hva har funket?</a></li>
 	<li><a class="underpunkt" href="#læring">8.2 Hva har vi lært?</a></li>
 </ul>
 
-<a href="#vedlegg">9. Litteraturhenvisning og andre ting(vet ikke om vi trenger denne)</a>
+<a class="punkt" href="#vedlegg">9. Litteraturhenvisning og andre ting(vet ikke om vi trenger denne)</a>
 <ul>
 	<li><a class="underpunkt" href="">underpunkt</a></li>
 </ul>
