@@ -13,6 +13,17 @@
 		font-size:100%;
 		letter-spacing: 0px;
 	}
+	.content h3, #oppdagelsen h3, #kaffetilnorge h3, #hvordankaffen h3, #helse h3, #koffein h3, #merkoffein h3, #ordetkaffe h3, #kaffeansvar h3 {
+		font-size:400%;
+		letter-spacing: 5px;
+	}
+	#prodland h3 {
+		font-size:180%;
+		letter-spacing: 5px;		
+	}
+	.content p, #kaffetilnorge p, #oppdagelsen p, #hvordankaffen p, #helse p, #koffein p, #kaffeansvar p {
+		font-size:110%;
+	}	
 	.block0 h1 {
 		margin-left:30px;
 		margin-top:19%;
@@ -31,6 +42,13 @@
 		font-size: 400%;
 	}
 
+	#prodland {
+		width:70%;
+		margin-right:2%;
+	}
+	td {
+		width:auto;
+	}
 	#bak0{
 	    background: url(images/background/900/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 	}    
