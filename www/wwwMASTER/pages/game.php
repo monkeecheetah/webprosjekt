@@ -3,8 +3,6 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/gamestyle.css">
 		<title>Spill</title>
-		<script charset="utf-8" src="external_code/jquery.js"></script>
-	   <script charset="utf-8" src="js/gamescript.js"></script>
     </head>
 	<body>
         <div id="wrapper">
