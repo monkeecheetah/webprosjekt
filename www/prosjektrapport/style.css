@@ -101,6 +101,10 @@ nav{
 	border-bottom-style: solid;
 	border-bottom-width:1px;
 }
+
+#innledning{
+	margin-top: 5%;
+}
 .navlink{
 	text-decoration: none;
 	color:white;

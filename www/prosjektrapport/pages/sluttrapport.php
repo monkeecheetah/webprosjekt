@@ -61,14 +61,13 @@
 
 <a class="punkt" href="#koklusjon">8. Koklusjon</a>
 <ul>
-	<li><a class="underpunkt" href="#funky">8.1 Hva har funket?</a></li>
+	<li><a class="underpunkt" href="#funky">8.1 Har vi løst problemstillingen?</a></li>
 	<li><a class="underpunkt" href="#læring">8.2 Hva har vi lært?</a></li>
 </ul>
 
-<a class="punkt" href="#vedlegg">9. Litteraturhenvisning og andre ting(vet ikke om vi trenger denne)</a>
-<ul>
-	<li><a class="underpunkt" href="">underpunkt</a></li>
-</ul>
+<a class="punkt" href="#vedlegg">9. Kilder</a>
+
+
 
 
 <section id="innledning">
@@ -89,6 +88,7 @@
 		Vi endte opp med å bruke vesentlig mer tid på prosjektet.</p>
 	</div>
 </section>
+
 
 
 
@@ -147,6 +147,8 @@
 		<p>Selv om vi hadde roller valgte vi fra starten av å ha en flat og demokratisk gruppestruktur. Dette så alle skulle få delta og si sin mening om innhold og utseende. Ved hjelp av de kreative teknikkene sørget vi for at vi jobbet mot samme mål men med frihet til å tenke selv hvordan vi ønsket å løse dette.</p>
 	</div>
 </section>
+
+
 
 
 <section id="prosessen">
@@ -228,6 +230,7 @@
 		seg gjøre. Dette fordi det vil bli krevd i det ordentlige arbeidsliv.</p>
 	</div>
 </section>
+
 
 
 <section id="resultat">
@@ -315,7 +318,6 @@
 
 
 
-
 <section id="valg">
 	<h2>5. Valg</h2>
 	<div id="wcag">
@@ -350,9 +352,6 @@
 
 
 
-
-
-
 <section id="evaluering">
 	<h2>6. Evaluering</h2>
 
@@ -379,16 +378,8 @@
 		effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og 
 		ble motivert til å sette oss bedre inn i språket. Resultatet vi endte opp med er mye bedre enn det vi kunne fått til med Jarralax.
 	    Samtidig er det mer gøy å bruke egen kode framfor et ferdig bibliotek.</p>
-
-
-
-
-
 	</div>
 </section>
-
-
-
 
 
 
@@ -429,7 +420,7 @@
 	<h2>8. Konklusjon</h2>
 
 	<div id="funky">
-		<h3>Hva har funket?</h3>
+		<h3>Har vi løst problemstillingen?</h3>
 		<p></p>
 	</div>
 
@@ -443,7 +434,7 @@
 
 
 <section id="vedlegg">
-	<h2>9. Litteraturhenvisninger og begrepsforklaringer</h2>
+	<h2>9. Kilder</h2>
 
 	<h3>Bildebank</h3>
 	<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
