@@ -96,9 +96,18 @@
 	<div id ="teknologi">
 		<h3>2.1 Teknologi</h3>
 		<p>Vi har brukt HTML, CSS og jQuery. I følge kravspesifikasjonen skulle vi også bruke PHP for å organisere sidene. Det gikk vi bort
-		fra da vi så det ble mer uoversiktlig enn et dokument med all teskten.</p>
+		fra da vi så det ble mer uoversiktlig enn et dokument med all teksten.</p>
 	</div>
-
+	<div id="samarbeidsverktoyer">
+		<h3>2.x Samarbeidsverktøyer</h3>
+		<p>Vi har benyttet oss av tre asynkrone verktøyer for samarbeid. De har hatt hvert sitt nytteområde.</p>
+		<h4>Facebook</h4>
+		<p>Omtrent det første vi gjorde var å opprette en Facebook-gruppe. Denne har vi brukt for å kjapt kunne dele informasjon om møtetidspunkter og dele lenker. Vi har også brukt den til å dele inspirasjonslenker og spørre om hjelp og status hos hverandre</p>		
+		<h4>Google Drive</h4>
+		<p>Vi brukte Google Drive for å dele tekstdokumenter og bilder. Dette var nyttig for fort komme i gang med et verktøy som er lett å lære</p>
+		<h4>GitHub</h4>
+		<p>Vi har brukt GitHub for versjonshåndtering og samle all kode. Ved hjelp av en hook så har web-delen blitt synket mot skoleserveren så det alltid har vært den nyeste versjonen på nett. Hooken ble gjort ved hjelp av medstudenten Matias Hermanrud Fjeld.</p>
+	</div>
 	<div id="målgruppe">
 		<h3>2.2 Målgruppe</h3>
 		<p><em>Typisk norsk kaffedrikker som bare ikke enda vet at han/hun ønsker å lære mer om kaffe.</em></p>
@@ -114,13 +123,16 @@
 	</div>
 
 	<div id="roller">
-		<h3>2.4 Roller</h3>
+		<h3>2.4 Gruppestruktur</h3>
+		<h4>2.4.1 Rollefordeling</h4>
 		<ul>
 			<li>Kristoffer Osen: Gruppeleder</li>
 			<li>Hege Grostad: Innhold- og designansvarlig</li>
 			<li>Kristoffer Johansen: Scriptsjef</li>
 			<li>Christer Bang: Ansvar for parallax-funksjon</li>
 		</ul>
+		<h4>2.4.2 Gruppesamarbeid</h4>
+		<p>Selv om vi hadde roller valgte vi fra starten av å ha en flat og demokratisk gruppestruktur. Dette så alle skulle få delta og si sin mening om innhold og utseende. Ved hjelp av de kreative teknikkene sørget vi for at vi jobbet mot samme mål men med frihet til å tenke selv hvordan vi ønsket å løse dette.</p>
 	</div>
 </section>
 
@@ -144,9 +156,8 @@
 		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
 		 <h4>3.1.4 Faktainnsamling</h4>
-		 <p>De første dagene brukte vi på å bryte ned temaet "kaffe" og "parallax". Samle mye informasjon som vi tror vil være interessant
-		 å ha med og som vi selv ville lest om. I tillegg letet vi etter inspirasjon på andre parallax sider for å se hva andre gjør og
-		 hva vi synes var bra. Når vi hadde samlet inn nok fakta begynte vi å bryte det ned til overskrifter til nettsiden. Lange
+		 <p>De første dagene brukte vi på å bryte ned temaet "kaffe" og "parallax". Vi delte kaffe inn i fire hovedtemaer som vi ville fordype oss i og fordelte det på hvert gruppemedlem. Disse temaene var "Generelt om kaffe", "Kaffe i Norge", "Kaffe og helse" og "Tilberedning av kaffe". På den måten fikk alle noe og gjøre og vi ville ikke finne den samme informasjonen. Underveis kunne vi også samle "funfacts" som vi kunne bruke som krydder på siden. I tillegg letet vi etter inspirasjon på andre parallax sider for å se hva andre gjør og
+		 hva vi synes var bra. Når vi hadde samlet inn nok fakta om temaene begynte vi å bryte det ned til nye underoverskrifter til nettsiden. Lange
 		 faktatekster ble kokt ned til enkle setninger.</p>
 		 <h4>3.1.5 Fra fakta til innhold</h4>
 		 <p>Vi begynte ikke å kode før vi hadde funnet innholdet som passet med hverandre og kunne skape en historie, en rød tråd som
@@ -367,6 +378,8 @@
 	<div>
 		<h3 id="refSam">7.1 Samarbeid</h3>
 		<p>Hvordan har vi samarbeidet? Hvordan har ansvarsfordelingen fungert. </p>
+		<p>I starten var vi veldig strukturerte og skrev møtereferater, ga hjemmelekser med oppfølging på at de ble gjort. Etterhvert ble dette noe løsere etterhvert som vi fant våre oppgaver å løse og vi så at vi gikk mot samme mål.</p>
+		<p>Gruppeleder har hatt hovedansvaret for at vi skulle komme i mål, men vi har alle bidratt med å spørre om hjelp, hjelpe hverandre og kjøre statussjekker. for at vi skulle fordele oppgaver og gi hver</p>
 	</div>
 
 	<div id="refSlutt">

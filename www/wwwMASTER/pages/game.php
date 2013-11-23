@@ -1,6 +1,8 @@
 <html>
 	<head>
 		<meta charset="utf-8">
+        <script src="external_code/jquery.js"></script>
+        <script src="js/gamescript.js"></script>
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/gamestyle.css">
 		<title>Spill</title>
     </head>
