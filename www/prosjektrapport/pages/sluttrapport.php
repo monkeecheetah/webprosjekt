@@ -157,7 +157,7 @@
 		 <p></p>
 		 <h4>Raffinering av innhold</h4>
 		 <p>Tekst og overskrifter gikk gjennom mange prosesser. Vi hadde veldig mye fakta vi ønsket å fortelle. Dette ble skrevet om og
-		 kortere mange ganger så man kunne sitte igjen med de mest interessante og relevante faktaene.
+		 kortere mange ganger så man kunne sitte igjen med de mest interessante og relevante faktaene.</p>
 	</div>
 
 	<div id="teknologiskutvikling">
@@ -199,10 +199,6 @@
 		<p>Vi ble enige på et tidlig stadie og respektere opphavsrett forhold til bilder og vise til kilder for tekst så langt det lar
 		seg gjøre. Dette fordi det vil bli krevd i det ordentlige arbeidsliv.</p>
 	</div>
-
-
-
-	<p>Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,</p>
 </section>
 
 
@@ -295,8 +291,6 @@
 		Spillmekanikken er basert på kode ene på gruppa har skrevet før og hentet collision funksjonen en
 		<a href="http://jsfiddle.net/itechnology/XKJKD/" target="_blank">JSFiddle</a></p>
 	</div>
-	<p>Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode), produksjon
-	av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunnsbilder, </p>
 </section>
 
 
@@ -319,7 +313,6 @@
 			for mye fokus har vi plassert tekst i svakt gjennomsiktige bokser over bildet. Bakgrunnsfargen på boksen er den samme
 			som den forstyrrende fargen og teksten er selvsagt den motsatte(gjelder svart/hvit-forholdene).
 		 </p>
-		<p>OSEN wcag? what the fuck is wcag? Hvorfor har vi ikke fulgt wcag?</p>
 		<h3>5.2 Lynx-testen</h3>
 		<p>Alt innhold kan leses med Lynx. Kaffevelgeren presenteres med ren tekst over mulige tilberedningsmetoder uten mulighet
 		for å filtrere ut i forhold til preferanser. Dette fordi at skjemaer som behandles med jQuery ikke er fungerer med Lynx.</p>
@@ -327,13 +320,13 @@
 
 	<div id="dynamikk">
 		<h3>5.2 Dynamikk</h3>
-		<p>Begrunne hvorfor siden er bygd opp som den er. Hvorfor har vi fet scrollefunksjon?
-			Hvorfor fancy bilder? Hvorfor enkel layout? JOOOO fordi, siden skal være spennende
-			å lese og brukers nysjerrighet skal trigges og han/hun/den skal bli INSPIRERT til å drikke mer kaffe!!! </p>
+
+		<p>Nettsiden er bygd opp som den er for å løse problemstillingen vår. Scrollefunksjonen, bildevalgene, konseptet med å
+			ha alt innhold på en side er alle valg vi har tatt for å gjøre nettsiden spennede å utforske. Teksten er enkel og stykket
+			opp for at informasjonen skal være lett å ta inn og at bruker ikke skal gå lei. Vi har redigert bildene til å gi plass til 
+			teksten slik at det føles at tekste og bilde hører sammen. Vi har valgt å ta ganske drastiske valg for å gjøre nettsiden
+			interessant og for å trigge brukers nyskerrighet og lyst til å drikke kaffe.</p>
 	</div>
-
-	<p>Valg (hovedsakelig anngående WCAG, begrunnelse for scrollefunksjon og sideoppbyggning samt layout.)</p>
-
 </section>
 
 
@@ -363,10 +356,6 @@
 		<p>CHRISTER/KRISTOFFERHvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
 		 i Jquerie? Hvordan har det funket å produsere egene bilder?</p>
 	</div>
-
-	<div>
-	</div>
-	Evaluering(av metode, valg, teknologier,
 </section>
 
 
@@ -392,9 +381,6 @@
 		også utvikles til et eget spill. En annen mulighet er å gjøre siden noe kommersiell med sponsede lenker på hvor man kan kjøpe
 		kaffe og kaffeutstyr. En tredje mulighet kunne vært å finne en kaffebar i nærheten basert på lokasjon.</p>
 	</div>
-	<div>
-	</div>
-	Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt,
 </section>
 
 
@@ -416,8 +402,6 @@
 		Lært noe om hva som funker på en nettside og hva som ikke funker?</p>
 	</div>
 	Konklusjoner(hva funket/hva funket ikke, hva har vi lært, hva sitter vi igjen med
-
-
 </section>
 
 
