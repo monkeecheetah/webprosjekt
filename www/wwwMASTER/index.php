@@ -98,7 +98,7 @@
 					<div id="photo2"></div>
 					<div id="caption2">
 
-						<h3>KAFFEN KOM FRA</h3>
+						<h3>GJETEREN</h3>
 						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
 						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto at fort at effekten kom fra de røde fruktene på en liten busk.</p>
 						<p>Han spiste bærene og merket selv energien han fikk av de. Han løp til det nærmeste klosteret for å vise fram de guddommelige bærene til munkene</p>
