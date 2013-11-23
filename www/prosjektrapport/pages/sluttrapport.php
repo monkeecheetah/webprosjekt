@@ -160,7 +160,7 @@
 		oss selv og hverandre. På den måten skulle vi bli bedre kjent med hverandre og avklare hvilke forventninger vi hadde til prosjektet</p>
 		<h4>3.1.2 Valg av tema</h4>
 		<p>For at alle skulle være motiverte til å jobbe med prosjektet, ble vi enige om at vi måtte finne et spennende og lystbetont
-		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en<a href="index.php?page=6#braindump">braindump</a> 
+		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en <a href="index.php?page=6#braindump">braindump</a> 
 		hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med.
 		Deretter arbeidet vi parvis der vi videreutviklet valgte ideer før vi tok en ny avstemming hvor vi til slutt satt igjen med temaet kaffe. </p>
 		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold
@@ -253,7 +253,6 @@
 
 	<div id="kaffevelger">
 		<h3>4.3 Kaffevelger</h3>
-		<p>KRISTOFFER Forklare hvordan kaffevelgeren funker</p>
 		<p>Kaffevelgeren består av skjemaelementer med radioknapper og checkboxes. All informasjon om tilberedningsmetodene er lagret
 		i JSON fil. jQuery tar seg av sorteringen ut fra verdiene som blir satt med radioknappene. Sorteringen fungerer slik at verdt
 		valg har en verdi og de sammenliknes med verdiene hver metode har. Det ble lagt til slingringsmonn fordi under testing
@@ -446,20 +445,3 @@
 	Litteraturhenvisninger og begrepsforklaringer ???
 
 </section>
-
-
-
-
-
-innhold
-Innledning(mye det samme som info om gruppen)
-Forord(ide, bakgrunn,
-Rammer(teknologier,scrum, målgruppe, mål med nettside, hvilken metode valgte vi, ambinisjonsnivåer,
-Utviklingsprosess(detaljert om metode, vendepunkter, valg, ansvar, forkasting av teknologi, hvilken kaffe har vi drukket,
-Presentasjon av resultat(Beskrivelse av oppbyggning, scrollefuksjon og  fadin og kaffevelgeren(Beskrivelse av Jquerykode),
-produksjon av egne bilder, beskrivelse av design, plassering av tekst, font, bakgrunsbilder,
-Valg (hovedsakelig anngående WCAG, begrunnelse for scrollefunksjon og sideoppbyggning samt layout.)
-Evaluering(av metode, valg, teknologier,
-Refleksjon (rundt ansvar, samarbeid, ambisjonsnivå, sluttprodukt,
-Konklusjoner(hva funket/hva funket ikke,
-Litteraturhenvisninger og begrepsforklaringer ???
