@@ -22,7 +22,7 @@
 			</li>
 		</ul>
 
-	<h2><u>Torsdag 24.10.2013</u></h2>
+	<h2 id="braindump"><u>Torsdag 24.10.2013</u></h2>
 		<ul>
 			<li>Gikk kjapt gjennom forrige møtereferat</li>
 			<li>Utførte en "braindump" for å finne hvilker temaer vi interesserer oss for.</li>
