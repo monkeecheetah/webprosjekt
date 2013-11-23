@@ -436,6 +436,12 @@
 <section id="vedlegg">
 	<h2>9. Kilder</h2>
 
+	<h3>Parallax-biblioteket:</h3>
+	<a href="http://www.jarallax.com/">Jarallax</a>
+
+	<h3>Digital tutors:</h3>
+	<a href="www.digitaltutors.com">www.digitaltutors.com</a>
+	
 	<h3>Bildebank</h3>
 	<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
 	Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
