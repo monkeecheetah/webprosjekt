@@ -17,7 +17,7 @@ $(document).keydown(function(e){
 
 
 $(window).on('scroll', function() {
-	if(vinduBredde > 980) {	
+	if(vinduBredde > 1024) {	
 		currPos = $(window).scrollTop();
 		bak2Pos = $('#bak2').position().top;
 		triggerPos = $('#triggerElement').position().top;
@@ -34,7 +34,7 @@ $(window).on('scroll', function() {
 });
 
 $(document).ready(function(){
-	if(vinduBredde > 980) {
+	if(vinduBredde > 1024) {
 		console.log($('#caption').height());
 		winH = $(window).height();
 		$('#caption2').css('margin-top', $('#photo2').position().top+200+'px');
