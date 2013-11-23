@@ -5,7 +5,7 @@
 <a class="punkt" href="#innledning">1. Innledning</a>
 <ul>
 	<li><a class="underpunkt" href="#problemstilling">1.1 Problemstilling</a></li>
-	<li><a class="underpunkt" href="#ambisjonsnivå">1.3 Ambisjonsnivå</a></li>
+	<li><a class="underpunkt" href="#ambisjonsnivå">1.2 Ambisjonsnivå</a></li>
 </ul>
 
 
@@ -80,7 +80,7 @@
 
 
 	<div id="abisjonsnivå">
-		<h3>1.3 Ambisjonsnivå</h3>
+		<h3>1.2 Ambisjonsnivå</h3>
 		<p>På første møte ble det klart alt alle hadde et høyt ambisjonsnivå for prosjektet.
 		Vi bestemte oss for at resulatet vårt skulle være godt nok til å få en A, i tillegg til at vi hadde ulike ønsker
 		om å lære mer om forskjellige teknologier som php og javascript. På spørreundersøkelsen
