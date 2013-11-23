@@ -534,6 +534,7 @@ footer table{
     margin-bottom: 5%;
 }
 .toppListe {
+    float:left;
     background-color:rgba(255,255,255,0.4);
     display:block;
     width:90%;
@@ -561,7 +562,7 @@ footer table{
     margin-bottom: 5%;
     padding:3%;
     border-radius: 20px;
-    background-color:rgba(255,255,255,0.6);
+    background-color:rgba(0,0,0,0.6);
     text-align: center;
     width: 70%;
     margin-left: auto;
@@ -569,7 +570,7 @@ footer table{
 }
 
 #kaffeansvar h3{
-    color: black;
+    color: white;
     margin-top: 2%;
     padding-bottom: 3%;
     font-size: 400%;
