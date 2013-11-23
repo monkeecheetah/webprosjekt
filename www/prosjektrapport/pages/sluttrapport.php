@@ -375,6 +375,13 @@
 		<h3>Teknologiske valg</h3>
 		<p>CHRISTER/KRISTOFFERHvilke teknologiske valg funket? jarallax funket ikke. Kaffevelger funker. hvordan har det vært å skrive
 		 i Jquerie? Hvordan har det funket å produsere egene bilder?</p>
+
+		 <p>De teknologiske valgene vi har gjort underveis i prosjektet har fungert bra. Vi valgte og gå bort fra Jarralax biblioteket, som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen tidligere enn vi gjorde, med tanke på «tapt» arbeidskraft. På den annen side så fikk vi innblikk og forståelse i hvordan denne effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og ble motivert til å sette oss bedre inn i språket. Resultatet vi endte opp med er mye bedre enn det vi kunne fått til med Jarralax. Samtidig er det mer gøy å bruke egen kode framfor et ferdig bibliotek.</p>
+
+
+
+
+
 	</div>
 </section>
 
