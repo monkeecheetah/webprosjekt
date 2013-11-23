@@ -23,7 +23,7 @@ $(window).on('scroll', function() {
     if(currPos >= (bak2Pos+triggerPos)) {
         //do stuff
 		captionH = $('#caption').height();
-        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px');
+        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px');
         $('#caption').css('visibility', 'hidden');
         console.log("Du lukter promp");
     } else {

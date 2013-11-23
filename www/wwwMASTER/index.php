@@ -89,12 +89,12 @@
 							<p id="triggerElement"><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
 						</div>						
 					</div>
-
-				</div>
+					<div id="filler"></div>
+<!--				</div>
 			</section>
 
-			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
-				<div class="block3 block">
+			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background"> 
+				<div class="block3 block"> -->
 					<div id="photo2"></div>
 					<div id="oppdagelsen">
 
@@ -110,11 +110,6 @@
 						<p><a class="kilde" href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 					</div>
 				</div>	
-			</section>
- 			<section class="blockWrap" id="bak16" data-speed="400" data-type="background">
-				<div class="block16 block">
-					<div id="pynteblokk" class="filler"></div>
-				</div>
 			</section>
 			<section class="blockWrap" id="bak4" data-speed="20000" data-type="background">
 				<div class="block4 block">

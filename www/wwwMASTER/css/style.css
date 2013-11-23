@@ -53,12 +53,37 @@
 #photo img {
     width:100%;
 }
+#photo2 {
+    position:relative;
+    display: inline-block;
+    float: left;
+    background-image: url(images/background/full/etiopiautenhimmel.png);
+    background-position-x: 100%;
+    background-position-y: 0px;
+    background-repeat:no-repeat;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: fixed;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size:cover;
+    height:1500px;
+    width:100%;
+    padding-top:500px;
+    z-index:99;
+}
+
 #pynteblokk {
     background-image: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed;;
 
 }
-
-#caption{
+#filler {
+    height:500px;
+    width:100%;
+    background-color:#1085f9;    
+}
+#caption, #caption2{
  background-color:#1085f9;
  z-index:1;
     width:100%;
@@ -68,7 +93,7 @@
     /*padding-left: 40%;*/
     overflow: auto;
 }
-#caption p {
+#caption p, #caption2 p{
     clear:left;
 }
 
@@ -586,7 +611,7 @@ footer table{
 /*background: url(images/etiopia.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/*/
 }
 #bak3{
-    background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken
+ /*   background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken
 /*background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak4{
