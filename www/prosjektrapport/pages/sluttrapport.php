@@ -421,15 +421,17 @@
 
 	<div id="funky">
 		<h3>Har vi løst problemstillingen?</h3>
-		<p></p>
+		<p>Vi føler at vi har løst problemstillingen og vi opplever at vi har nådd målet vårt med å lage en nettside hvor brukeren blir nysjerrig og får lyst til å utforske.
+			Vi har brukt spennende teknologi til framstille informasjon på nettsiden og bygd opp siden så det skal bli lettest mulig for bruker ta til seg innholdet.
+			</p>
 	</div>
 
 	<div id="læring">
 		<h3>Hva har vi lært?</h3>
-		<p>Hva sitter vi igjen med? lært noe om gruppearbeid? lært nye språk? lært å tegne på tegnebrett? christer har funnet seg selv.
-		Lært noe om hva som funker på en nettside og hva som ikke funker?</p>
-	</div>
-	Konklusjoner(hva funket/hva funket ikke, hva har vi lært, hva sitter vi igjen med
+		<p>Alle har hatt forsjellige områder de har fokusert på og som som de har lært mer om. Den mest dramatiske utviklingen er nok likevel
+		å finne hos Hege som har brukt mye tid på å produsere egne bilder. Ellers har alle lært mer om hva som funker og hva som ikke funker 
+		på en nettside. Dette har også vært noen av oss sine første ordentlige erfaringer med Javascript og eksterne Javascriptbiblioteker. </p>
+	</div>n
 </section>
 
 
@@ -441,7 +443,7 @@
 
 	<h3>Digital tutors:</h3>
 	<a href="www.digitaltutors.com">www.digitaltutors.com</a>
-	
+
 	<h3>Bildebank</h3>
 	<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
 	Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
