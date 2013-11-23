@@ -96,7 +96,7 @@
 			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background"> 
 				<div class="block3 block"> -->
 					<div id="photo2"></div>
-					<div id="oppdagelsen">
+					<div id="caption2">
 
 						<h3>KAFFEN KOM FRA</h3>
 						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
