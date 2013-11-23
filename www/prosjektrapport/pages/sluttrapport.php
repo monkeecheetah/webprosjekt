@@ -398,6 +398,12 @@
 		<h3 id="refSam">7.1 Samarbeid</h3>
 		<p>Hvordan har vi samarbeidet? Hvordan har ansvarsfordelingen fungert. </p>
 		<p>I starten var vi veldig strukturerte og skrev møtereferater, ga hjemmelekser med oppfølging på at de ble gjort. Etterhvert ble dette noe løsere etterhvert som vi fant våre oppgaver å løse og vi så at vi gikk mot samme mål.</p>
+		<p>Vi har også hatt tendenser til å være for fokusert på egne arbeidsoppgaver. Når vi først har sittet lenge og jobbet har vi alle merket 
+		at vi har havnet litt i vår engen verden. Dette har resultert i at et stykke arbeid er gjort flere ganger, av flere personer uten at de i mellom seg 
+		har vært klar over hva de andre har jobbet med. Dette har ikke vært spesielt ødeleggende for noen av oss, men vi har reflektert litt over det i ettertid.
+		Problemet mener vi vi enkelt kunne ha løst ved å være enda klarere med hverandre. Det har ofte skjedd at noen har begynnt å jobbe med noe uten å si ifra til de 
+		andre på gruppen. Hadde vi fulgt Scrum enda mer slavisk og hatt flere møter hvor vi fortalte hvor vi var og hva vi jobbet med kunne vi unngått slike situasjoner.
+		</p>
 		<p>Gruppeleder har hatt hovedansvaret for at vi skulle komme i mål, men vi har alle bidratt med å spørre om hjelp, hjelpe hverandre og kjøre statussjekker. for at vi skulle fordele oppgaver og gi hver</p>
 	</div>
 
