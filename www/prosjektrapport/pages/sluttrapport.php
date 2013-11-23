@@ -5,7 +5,6 @@
 <a class="punkt" href="#innledning">1. Innledning</a>
 <ul>
 	<li><a class="underpunkt" href="#problemstilling">1.1 Problemstilling</a></li>
-	<li><a class="underpunkt" href="#mål">1.2 Mål</a></li>
 	<li><a class="underpunkt" href="#ambisjonsnivå">1.3 Ambisjonsnivå</a></li>
 </ul>
 
@@ -79,9 +78,6 @@
 		<p><em>Kan vi ved hjelp av en nettsides virkemidler inspirere en kaffedrikkers forhold til kaffe?</em></p>
 	</div>
 
-	<div id="mål">
-		<h3>1.2 Mål</h3>
-	</div>
 
 	<div id="abisjonsnivå">
 		<h3>1.3 Ambisjonsnivå</h3>
