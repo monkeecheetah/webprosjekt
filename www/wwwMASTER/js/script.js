@@ -15,9 +15,6 @@ $(document).keydown(function(e){
 });
 });
 $(document).ready(function(){
-
-	$('#forgrunn').css('width', $(document).width()/1.81+'px');
-	$('#bak16').css('width', $(document).width()/1.7472+'px');
 	$('#bak15').css('height', $(document).width()/1.81+'px');
 	$('#bak16').css('height', $(document).width()/1.7472+'px');
 	if(vinduBredde > 900) {

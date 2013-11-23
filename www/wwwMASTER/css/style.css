@@ -204,12 +204,10 @@ footer table{
 
 
 
-#forgrunn {
-    z-index:9999;
-}
+
 /*Norge*/
 #kaffetilnorge{
-    z-index:999;
+  
     text-align: center;
     width:80%;
     margin-left: auto;
@@ -536,11 +534,9 @@ footer table{
 /*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
 background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
-#forgrunn {
+#bak15{
 /*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
-background: url(images/background/full/norgetopp.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
-position:absolute;
-height:100%;
+background: url(images/norgetopp.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak16{
 /*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
