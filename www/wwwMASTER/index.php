@@ -39,12 +39,12 @@
 					<div id="intro" class="content">
 						<br>
 						<p class="clearh3"><i>Kaffe er symbolet på kjærligheten.<br>
-						Man elsker den brun, blond og sort, men alltid – varm.<br>
-						– Ukjent</i></p>
-						<p><i>Kaffe skal være varm som helvete, svart som djevelen, ren som en engel og søt som kjærligheten.<br>
-					    -Charles-Maurice de Talleyrand-Périgord</i></p>
-					    <p><i>Kaffen må i sannhet være en langsomt virkende gift, for jeg er åttifire og ennå ikke død.<br>
-						-Francois De voltaire</i></p>
+						Man elsker den brun, blond og sort, men alltid – varm.</i><br>
+						  - Ukjent</p>
+						<p><i>Kaffe skal være varm som helvete, svart som djevelen, ren som en engel og søt som kjærligheten.</i><br>
+					      - Charles-Maurice de Talleyrand-Périgord</p>
+					    <p><i>Kaffe var som en drøm og et eventyr for Isak, en regnbue!</i><br>
+						  - Knut Hamsun</p>
 						<h3>Hva er kaffe?</h3>
 						<p class="clearh3">Kaffe kommer fra en frukt...</p>
 						<p>Som høstes fra et kaffetre...</p>
@@ -53,7 +53,7 @@
 						og er den vi drikker mest av i Norge.</p>
 						<p><strong>Robustatrærene</strong> er mer robuste og vokser i tørt klima, i lavlandet.</p>
 						<p>Kaffebønner er egentlig små frø som kommer fra frukten på kaffetreet.
-						<p>Det er frøet i frukten som blir til kaffen koser oss med.</p>
+						<p>Det er frøet i frukten som blir til kaffen vi koser oss med.</p>
 						<h3>Fra bønne til kopp.</h3>
 						<p class="clearh3">Fruktene høstes...</p>
 						<p>Frøene tas ut...</p>
