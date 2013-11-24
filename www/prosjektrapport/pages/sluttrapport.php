@@ -162,12 +162,12 @@
 		oss selv og hverandre. På den måten skulle vi bli bedre kjent med hverandre og avklare hvilke forventninger vi hadde til prosjektet</p>
 		<h4>3.1.2 Valg av tema</h4>
 		<p>For at alle skulle være motiverte til å jobbe med prosjektet, ble vi enige om at vi måtte finne et spennende og lystbetont
-		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en <a href="index.php?page=6#braindump">braindump</a> 
+		tema som alle hadde lyst til å jobbe med. For å komme fram til dette temaet, benyttet vi oss av kreative teknikker for å valg av tema. Først en <a href="index.php?page=6#braindump">braindump</a>
 		hvor vi hver for oss skrev ned alle ideer, fra løse til mer konkrete. Så stemte vi fram noen temaene vi ønsket å jobbe mer med.
 		Deretter arbeidet vi parvis der vi videreutviklet valgte ideer før vi tok en ny avstemming hvor vi til slutt satt igjen med temaet kaffe. </p>
 		<p>Etter vi hadde valgt tema brukte vi kreative teknikker for å finne ut hvilken type side vi ønsket å lage og hva slags innhold
 		den skulle ha.</p>
-		<p>Forklaring av prosessen ved hjelp av milepæler(Går vekk fra jarallax, finner substitutt,
+		<p>Forklaring av prosessen ved hjelp av milepæler (Går vekk fra jarallax, finner substitutt,
 		 design tar form, utviklig av innhold og dramaturgi, finn eksempler i møtereferater)</p>
 		 <h4>3.1.4 Faktainnsamling</h4>
 		 <p>De første dagene brukte vi på å bryte ned temaet "kaffe" og "parallax". Vi delte kaffe inn i fire hovedtemaer som vi ville fordype oss i og fordelte det på hvert gruppemedlem. Disse temaene var "Generelt om kaffe", "Kaffe i Norge", "Kaffe og helse" og "Tilberedning av kaffe". På den måten fikk alle noe og gjøre og vi ville ikke finne den samme informasjonen. Underveis kunne vi også samle "funfacts" som vi kunne bruke som krydder på siden. I tillegg letet vi etter inspirasjon på andre parallax sider for å se hva andre gjør og
@@ -189,19 +189,19 @@
 		<h3>3.2 Teknologisk utvikling</h3>
 		<p> Vi ville ha en spennende og levende nettside som trigger nysjerrighet hos brukeren. Ta brukeren med på en fortelling, som gjør
 		at informasjonen vi formidler oppleves som interresant og lettfordøylig.</p>
-		<p>For å få til dette fant vi raskt ut av vi ville prøve å få til en 'parralax' funksjon på siden. Parallax er forskyvningen,
-		eller forskjell i  posisjonen av et objekt sett langs to forskjellige synsvinkler. Overført til denne sammenheng betyr det at
+		<p>For å få til dette fant vi raskt ut av at vi ville prøve å få til en parralax-funksjon på siden. Parallax er forskyvningen,
+		eller forskjell i posisjonen av et objekt sett langs to forskjellige synsvinkler. Overført til denne sammenheng betyr det at
 		bakgrunn og innhold beveges med forskjellig hastighet og/eller retning.</p>
-		<p>Jarralax er et javascript bibliotek som skal gjøre det enkelt å få til denne effekten. Vi valgte derfor å prøve ut dette og
-		fikk det whitelistet. Biblioteket fungerte til en viss grad, etter mye konfigurering. Vi fikk til noen spennende funksjoner,
-		f.eks at bakgrunnen bevegde seg mye tregere enn teksten, samtidig som det var overliggende bilder som beveget seg i motsatt
+		<p>Jarralax er et javascript-bibliotek som skal gjøre det enkelt å få til denne effekten. Vi valgte derfor å prøve ut dette og
+		fikk det whitelistet. Biblioteket fungerte til en viss grad, dog etter mye konfigurering. Vi fikk til noen spennende funksjoner,
+		for eksempel at bakgrunnen bevegde seg mye tregere enn teksten, samtidig som det var overliggende bilder som beveget seg i motsatt
 		retning med en helt annen hastighet.</p>
-		<p>Etter hvert som vi utvidet siden med mer innhold viste det seg imedlertid at vi mistet kontrollen over funksjonen. Det ble
+		<p>Etter hvert som vi utvidet siden med mer innhold viste det seg imidlertid at vi mistet kontrollen over funksjonen. Det ble
 		vanskelig å beregne hvor de forskjellige visuelle elementene skulle starte og hvordan hastigheten skulle beregnes. Etter en mer
-		grundig undersøkelse av koden i biblioteket fant vi ut at det ikke var optimalisert for vårt bruksområde. Hovedgrunnen til dette
-		er at vi ville ha en sammenhengende nettside, hvor alt innhold befinner seg på en og samme side, med forskjellige bakgrunnsbilder.
+		grundig undersøkelse av koden i biblioteket, fant vi ut at det ikke var optimalisert for vårt bruksområde. Hovedgrunnen til dette
+		er at vi ville ha en sammenhengende nettside, hvor alt innhold befant seg på en og samme side, med forskjellige bakgrunnsbilder.
 		Jarralax fungerer best når det brukes på en mindre side, med bare to eller tre bakgrunnsbilder. Vi fant også at biblioteket var
-		utdatert og bygget på et eldre jQuery bibliotek. Vi valgte derfor å skrote hele Jarralax biblioteket og ta oppgaven i egne hender.</p>
+		utdatert og bygget på et eldre jQuery-bibliotek. Vi valgte derfor å skrote hele Jarralax biblioteket og ta oppgaven i egne hender.</p>
 		<p>Vi leste oss opp på prinsippene for hvordan effekten kan oppnås og satt i gang med å skrive egen kode. Etter mye prøving og
 		feiling kom vi fram til en løsning vi fikk god kontroll på. Vi fikk bildene til å scrolle på den måten vi ville og med den
 		hastigheten vi ønsket. Flytende bilder som beveger seg i utakt med scrollretningen valgte vi å gå bort ifra da vi så at dette
@@ -212,15 +212,26 @@
 		<h3>3.3 Produksjon av bilder</h3>
 		<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men en gruppemedlem var spesielt interessert i å lære å dette
 		og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet
-		Wacom Intuos Pro. Teknikken kalles digital painting og er lært ved å se en serie videoer på nettsiden
+		Wacom Intuos Pro. Teknikken kalles digital painting og har blitt lært ved å se en serie videoer på nettsiden
 		<a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”.
 		Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andre relevante
 		funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
+		<img src="images/drage.jpg" alt="Bilde av drage">
+		<p>Alle bildene er tegnet på frihånd inspirert av passende bilder som er funnet ved hjelp av google bildesøk. Motivene er noe modifisert
+		med tanke på å kommunisere tydeligere hva som illustreres, spesielt på de mindre bildene av kaffeutstyr. Logoer av kaffemerker er for
+		eksempel fjernet. Videre er den sorte skissen av motivene beholdt og lagt i lag oppå fargene for å gi et mer tegnet inntrykk. Ved mindre
+		størrelser ble det nesten et luksusproblem at tegningene liknet litt for mye på de opprinnelige fotografiene i stedet for å se ut som
+		en hjemmekoselig tegning. Nedenfor kan man se et eksempel på hvordan bildene er tegnet i lag. Det først bildet viser sluttresultatet
+		av utstyret til håndbrygging, der fargene er blandet jevnt sammen:</p>
+		<img scr="images/haandbryggmedskygge.jpg" alt="Bilde av en håndbryggeutstyr">
+		<p>På bildet nedenfor kan man se hvordan det samme bildet ser ut når man fjerner det øverste skyggelaget som blander de grove skyggene
+		sammen. Man trykker på øyet som er ringet rundt, for å velge om man vil se tilhørende lag eller ikke.</p>
+		<img scr="images/haandbryggutenskygge.jpg" alt="Bilde av en håndbrygg uten skygge">
 	</div>
 
 	<div>
 		<h3>Hva gjør en god parallax side?</h3>
-		<p>Store bakgrunnsbilder, enkel brutt opp tekst. Nesten som oneliners. En kontinuerlig historie ispedd interaktivitet å nettstedet
+		<p>Store bakgrunnsbilder, enkel brutt opp tekst. Nesten som oneliners. En kontinuerlig historie ispedd interaktivitet på nettstedet
 		opplever vi som suksessfaktorer for å få et godt nettsted.</p>
 	</div>
 
@@ -273,15 +284,12 @@
 		men litt høyere og slankere. På de bakgrunnsbildene med klare motiver er teksten plassert over den delen av bildet hvor
 		motivet ikke ligger. På de bakgrunnsbildene med mer tekstur-orienterte motiver er teksten plassert i bolker med
 		bakgrunnsfarge for å skape kontrast. </p>
-		<p>Siden vårt tema var kaffe, og intensjonen var å motivere leseren til å bli mere glad i sin kaffe, så mente vi at det
-		var viktig med en nettside som var visuelt innbydende og varm. Vi fant ut at det kanskje ville se mer hjemmekoselig ut
-		hvis vi hadde med noen illustrasjoner på siden, i stedet for bare fotografier. Dessuten skulle kaffevelgeren inneholde
-		en god del bilder av ulike tilberedningsmetoder, og vi tenkte at den ville gi et bedre inntrykk om vi kunne lage bilder
-		som hadde samme stil. Videre fant vi ut at det kunne bli fint å tegne to landskapsbilder for å motivere leseren til å
-		lese om kaffehistorien i Norge og verdenshistorien. Som nevnt ellers i rapporten, så ønsket vi å bruke parallax-teknologien
-		aktivt til å pirre leserens nysgjerrighet ved hjelp av flotte bilder.</p>
-		<p></p>
-		<img src="">
+		<p>Egenproduksjon av bilder til nettsiden sprang ut fra en visualiseringsidé. Vi så for oss at en fin måte å
+		motivere leseren til å lese om kaffehistorie i Norge og verden på, kunne være ved hjelp av bilder som motiverte til dette.
+		En på gruppa så for seg at man scrollet ned til et bilde av norsk natur, der norsk kaffehistorie kom opp bak fjellene. Videre så
+		gruppemedlemmen for seg at refleksjonen av himmelen i vannet til fjordene kunne gli over til å bli himmelen i et landskap av
+		etiopisk natur. Skjermen skulle også stoppe ved bildet av etiopisk natur, slik at historien om den første munken som smakte kaffe
+		kunne komme opp bak horisonten.</p>
 	</div>
 
 
@@ -373,9 +381,9 @@
 		<h3>6.2 Teknologiske valg</h3
 
 		<p>De teknologiske valgene vi har gjort underveis i prosjektet har fungert bra. Vi valgte og gå bort fra Jarralax biblioteket,
-		som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen 
+		som beskrvet i punkt <a href="#teknologiskutvikling">[3.2]</a>. Det hadde vært en fordel om vi kom fram til denne beslutningen
 		tidligere enn vi gjorde, med tanke på «tapt» arbeidskraft. På den annen side så fikk vi innblikk og forståelse i hvordan denne
-		effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og 
+		effekten kan gjenskapes med hjemmesnekret kode. Det var også dette som gjorde at vi fikk øynene opp for javascript/jquery og
 		ble motivert til å sette oss bedre inn i språket. Resultatet vi endte opp med er mye bedre enn det vi kunne fått til med Jarralax.
 	    Samtidig er det mer gøy å bruke egen kode framfor et ferdig bibliotek.</p>
 	</div>
@@ -389,10 +397,10 @@
 		<h3 id="refSam">7.1 Samarbeid</h3>
 		<p>Hvordan har vi samarbeidet? Hvordan har ansvarsfordelingen fungert. </p>
 		<p>I starten var vi veldig strukturerte og skrev møtereferater, ga hjemmelekser med oppfølging på at de ble gjort. Etterhvert ble dette noe løsere etterhvert som vi fant våre oppgaver å løse og vi så at vi gikk mot samme mål.</p>
-		<p>Vi har også hatt tendenser til å være for fokusert på egne arbeidsoppgaver. Når vi først har sittet lenge og jobbet har vi alle merket 
-		at vi har havnet litt i vår engen verden. Dette har resultert i at et stykke arbeid er gjort flere ganger, av flere personer uten at de i mellom seg 
+		<p>Vi har også hatt tendenser til å være for fokusert på egne arbeidsoppgaver. Når vi først har sittet lenge og jobbet har vi alle merket
+		at vi har havnet litt i vår engen verden. Dette har resultert i at et stykke arbeid er gjort flere ganger, av flere personer uten at de i mellom seg
 		har vært klar over hva de andre har jobbet med. Dette har ikke vært spesielt ødeleggende for noen av oss, men vi har reflektert litt over det i ettertid.
-		Problemet mener vi vi enkelt kunne ha løst ved å være enda klarere med hverandre. Det har ofte skjedd at noen har begynnt å jobbe med noe uten å si ifra til de 
+		Problemet mener vi vi enkelt kunne ha løst ved å være enda klarere med hverandre. Det har ofte skjedd at noen har begynnt å jobbe med noe uten å si ifra til de
 		andre på gruppen. Hadde vi fulgt Scrum enda mer slavisk og hatt flere møter hvor vi fortalte hvor vi var og hva vi jobbet med kunne vi unngått slike situasjoner.
 		</p>
 		<p>Gruppeleder har hatt hovedansvaret for at vi skulle komme i mål, men vi har alle bidratt med å spørre om hjelp, hjelpe hverandre og kjøre statussjekker. for at vi skulle fordele oppgaver og gi hver</p>
@@ -402,8 +410,8 @@
 		<h3>7.2 Sluttprodukt</h3>
 		<p>Samsvarer sluttproduktet med abisjonsnivået? Vi hadde høye ambisjoner da vi startet prosjektet. Vi ville lage en nettside med avansert scrollefunksjon
 		som skulle være spennende for bruker å utforske. Vi har måtte forkaste en del idéer om hvordan parallaxen skulle fungere, men endte opp med et resultat som
-		ikke ligger langt fra det vi opprinnelig hadde sett for oss. Det vi har måtte forkaste er de mer "fancy" parallax-idéene vi hadde, for eksempel objekter, 
-		annet enn tekst som bevegde seg i forsjellig hastighet fra bakgrunnen, tekst som fader inn og ut når man scroller nedover og andre småting. Det produktet vi sitter igjen med er forsatt bygd på de samme grunnprinsippene som vi startet med, men vi har ikke klart å implimentere alle funksjonene vi ønsket. Derimot 
+		ikke ligger langt fra det vi opprinnelig hadde sett for oss. Det vi har måtte forkaste er de mer "fancy" parallax-idéene vi hadde, for eksempel objekter,
+		annet enn tekst som bevegde seg i forsjellig hastighet fra bakgrunnen, tekst som fader inn og ut når man scroller nedover og andre småting. Det produktet vi sitter igjen med er forsatt bygd på de samme grunnprinsippene som vi startet med, men vi har ikke klart å implimentere alle funksjonene vi ønsket. Derimot
 		veier det opp, for oss, at vi har løst problemene vi hadde med eksterne bibliotet ved å skrive egen kode.</p>
 	</div>
 	<div id="utvidelse">
@@ -429,7 +437,7 @@
 	<div id="læring">
 		<h3>8.2 Hva har vi lært?</h3>
 		<p>Alle har hatt forsjellige områder de har fokusert på og som som de har lært mer om. Den mest dramatiske utviklingen er nok likevel
-		å finne hos Hege som har brukt mye tid på å produsere egne bilder. Ellers har alle lært mer om hva som funker og hva som ikke funker 
+		å finne hos Hege som har brukt mye tid på å produsere egne bilder. Ellers har alle lært mer om hva som funker og hva som ikke funker
 		på en nettside. Dette har også vært noen av oss sine første ordentlige erfaringer med Javascript og eksterne Javascriptbiblioteker. </p>
 	</div>n
 </section>
@@ -449,14 +457,14 @@
 	Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
 	Bildene av norsk fjord, afrikansk steppelandskap og de forsjellige tilbredningsmetodene er tegnet av Hege Grostad. </p>
 	<table border="1">
-		<tr> 
+		<tr>
 			<th>Tittel</th>
 			<th>Eier</th>
 			<th>Lenke</th>
 			<th>Filnavn</th>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>If coffee were red</td>
 			<td>Marcello</td>
 			<td><a href="http://www.flickr.com/photos/67265930@N00/1874968239/">link</a></td>
@@ -468,52 +476,52 @@
 		    <td>A Coffee bean 3</td>
 			<td>Joe Lencioni</td>
 			<td><a href="http://www.flickr.com/photos/12943844@N00/2291755823">link</a></td>
-			<td>2291755823_513c35efd6_oSjolmekket.jpg</td> 
+			<td>2291755823_513c35efd6_oSjolmekket.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>teXture - Dark Grunge Burlap</td>
 			<td>photonate.com</td>
 			<td><a href="http://www.flickr.com/photos/themacguy2k/3297949680/">link</a></td>
 			<td>3297949680_f7f64e11f7_o.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>Coffee Scoop</td>
 			<td>Oberazzi</td>
 			<td><a href="http://www.flickr.com/photos/42788859@N00/3367777051/">link</a></td>
 			<td>3367777051_a18a02c53d_o.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>Atomium</td>
 			<td>Seb Ruiz</td>
 			<td><a href="http://www.flickr.com/photos/60906956@N00/423580043/">link</a></td>
 			<td>423580043_4d6302fb42_occaffeine3.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>harimau coffee burlap</td>
 			<td>javabags</td>
 			<td><a href="http://www.flickr.com/photos/66871266@N04/6085694779/">link</a></td>
 			<td>6085694779_9a49e657f5_o.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>Joie</td>
 			<td>Geoff Llerena</td>
 			<td><a href="http://www.flickr.com/photos/22678640@N03/10502752753">link</a></td>
 			<td>10502752753_673727d16b_o.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>Coffe splash</td>
 			<td>Nick Olejniczak</td>
 			<td><a href="http://www.flickr.com/photos/71235231@N00/4448779926/">link</a></td>
 			<td>4448779926_b9329c1568_o.jpg</td>
 		</tr>
 
-		<tr> 
+		<tr>
 			<td>Burlap and Lace square (3)</td>
 			<td>Lucy Portsmouth</td>
 			<td><a href="http://www.flickr.com/photos/48224373@N04/8112875566/">link</a></td>
