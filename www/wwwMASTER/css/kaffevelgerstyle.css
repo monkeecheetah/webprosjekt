@@ -8,13 +8,13 @@ border-radius:5px;
 }
 .tilbWrap {
     float: left;
-	width:22%;
+	width:20%;
     display:block;
     font-family:Arial;
     margin:1%;
     background-color: rgba(255,255,255,0.4);
     border-radius: 5px;
-    padding:3%;  
+    padding:1%;  
 }
 .kaffeTilbBilde {
     margin-left: auto;
