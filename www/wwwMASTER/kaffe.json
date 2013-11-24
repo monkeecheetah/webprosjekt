@@ -10,7 +10,7 @@
 				"p": "p1",
 				"img": "Kaffetrakter300.png",
 				"mobile": "Kaffetrakter120.png",				
-				"om": "Trakteren gjør mesteparten av jobben for deg, i løpet av 10 minutter. Smaken avhenger av hvilken trakter du har og hvilken bønnetype du kjøper."
+				"om": "Trakteren gjør mesteparten av jobben for deg. Smaken avhenger av hvilken trakter du har og hvilken bønnetype du kjøper."
 			},
 			{
 				"name":"Presskanne",
@@ -32,7 +32,7 @@
 				"p": "p1",
 				"img": "Mokkakanne300.png",
 				"mobile": "Mokkakanne120.png",				
-				"om": "Kaffe fra en Mokkakanne er god og fyldig. Den krever litt innsats, spesielt hvis du kverner bønner selv."
+				"om": "Kaffe fra en mokkakanne er god og fyldig. Med denne kan du også lage en espresso, som man ellers må ha en espressomaskin for å lage."
 			},
 			{
 				"name":"Vakuum-kolbe",
@@ -43,7 +43,7 @@
 				"p": "p1",
 				"img": "Gass300.png",
 				"mobile": "Gass120.png",				
-				"om": "Ser kjempekult ut! Krever ikke mer innsats enn å ta den av og på platen, fysikken gjør resten av jobben, men bruker litt tid."
+				"om": "Ser kjempekult ut! Krever ikke mer innsats enn å ta den av og på platen - fysikken gjør resten av jobben. Vannet suges oppover, så nedover." 
 			},
 			{
 				"name":"Kokekaffe",
@@ -54,7 +54,7 @@
 				"p": "p1",
 				"img": "Kokekaffe300.png",
 				"mobile": "Kokekaffe120.png",				
-				"om": "Kok opp vann og kaffe, hell i kopp, superenkelt og raskt!(Gjennomsnittlig alder på bruker er 80)"
+				"om": "Kok opp vann og kaffe, hell i kopp, superenkelt og raskt! Old-school-kaffe: Gjennomsnittlig bruker er over 80 år!"
 			},
 			{
 				"name":"Aeropress",
@@ -76,7 +76,7 @@
 				"p": "p1",
 				"img": "Espressomaskin300.png",
 				"mobile": "Espressomaskin300.png",				
-				"om": "Trykket i maskinen gir deg muligheten til å ."
+				"om": "Som navnet tilsier: Du kan lage en espresso. I tillegg har den gjerne en melkesteamer slik at du kan lage nam-nam kaffedrikker med melk."
 			},
 			{
 				"name":"Pulverkaffe",
@@ -131,7 +131,7 @@
 				"p": "p1",
 				"img": "SlowDrip300.png",
 				"mobile": "SlowDrip120.png",								
-				"om": "Etter 14 timer med tilberedning, får du omsider en kald kopp kaffe. Skal visst smake godt, da."
+				"om": "Etter 14 timer med dryppende tilberedning, får du omsider en kald kopp kaffe. Skal visst smake godt."
 			},			
 			{
 				"name":"Håndbrygget",
@@ -142,7 +142,7 @@
 				"p": "p1",
 				"img": "haandbrygg300.png",
 				"mobile": "haandbrygg120.png",				
-				"om": "Full kontroll over alle kjemiske prosesser! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmenge, tepratur, tekketid, osv"
+				"om": "Full kontroll! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmenge, tepratur, tekketid, osv."
 			}			]
 		}
 
