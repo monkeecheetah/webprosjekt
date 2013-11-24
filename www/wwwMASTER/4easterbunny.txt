@@ -1,0 +1,6 @@
+Konami-koden aktiverer easteregget.
+
+Når du er på nettsiden, bruk tastaturet og tast følgende:
+opp-opp-ned-ned-venstre-høyre-venstre-høyre-b-a.
+Nå blir du redirected til en ny side.
+Her er det en Pacman klone! Samle 20 kaffebønner så du får 20 poeng. Noen ganger får man 20 poeng uten å gjøre noe siden bønnene blir lagt tilfeldig. Når du har samlet 20 kaffebønner så skal du få en video med hvordan du lager en kopp kaffe med Aeropress.

@@ -44,10 +44,10 @@ $(document).ready(function(){
     });
 });
 function poengSjekk(antPoeng) {
-    easterHTML = '<video width="640" height="640" controls="" poster="media/aeropress.jpg">'+
+    easterHTML = '<div id="kaffekopp" style="display:none;"></div><video width="640" height="640" controls="" poster="media/aeropress.jpg">'+
     '<source src="media/aeropress.mp4" type="video/mp4">'+
     'Video av hvordan man tilbereder en kopp kaffe til Aeropress<iframe width="640" height="640" src="//www.youtube.com/embed/KbJjbA-sbqQ" frameborder="0" allowfullscreen></iframe></video>';
-    if(antPoeng >= 20) {
+    if(antPoeng >= 2) {
 
         $('#wrapper').html(easterHTML);
 
