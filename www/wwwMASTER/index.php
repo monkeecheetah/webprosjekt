@@ -37,9 +37,14 @@
 			<section class="blockWrap" id="bak1" data-speed="20000" data-type="background">
 				<div class="block1 block">
 					<div id="intro" class="content">
+						<br>
 						<p class="clearh3"><i>Kaffe er symbolet på kjærligheten.<br>
 						Man elsker den brun, blond og sort, men alltid – varm.<br>
 						– Ukjent</i></p>
+						<p><i>Kaffe skal være varm som helvete, svart som djevelen, ren som en engel og søt som kjærligheten.<br>
+					    -Charles-Maurice de Talleyrand-Périgord</i></p>
+					    <p><i>Kaffen må i sannhet være en langsomt virkende gift, for jeg er åttifire og ennå ikke død.<br>
+						-Francois De voltaire</i></p>
 						<h3>Hva er kaffe?</h3>
 						<p class="clearh3">Kaffe kommer fra en frukt...</p>
 						<p>Som høstes fra et kaffetre...</p>
