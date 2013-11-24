@@ -220,7 +220,7 @@
 					<a href="http://www.digitaltutors.com" target="_blank">www.digitaltutors.com</a> som heter “getting started with digital painting”.
 					Videoen går igjennom hvordan man lager skisse, lag, endrer på kostene, fargelegging, blanding av farger og andre relevante
 					funksjoner i photoshop. I løpet av videoene demonstrerer illustratøren hvordan man bruker disse teknikkene for å tegne en drage:</p>
-					<img id="drage" src="prosjektrapport/images/drage.jpg" alt="Bilde av en drage">
+					<img id="drage" src="images/drage.jpg" alt="Bilde av en drage">
 					<h4>3.3.3 Teknikken</h4>
 					<p>Alle bildene er tegnet på frihånd inspirert av passende bilder som er funnet ved hjelp av google bildesøk. Motivene er noe modifisert
 					med tanke på å kommunisere tydeligere hva som illustreres, spesielt på de mindre bildene av kaffeutstyr. Logoer av kaffemerker er for
@@ -228,10 +228,10 @@
 					størrelser ble det nesten et luksusproblem at tegningene liknet litt for mye på de opprinnelige fotografiene i stedet for å se ut som
 					en hjemmekoselig tegning. Nedenfor kan man se et eksempel på hvordan bildene er tegnet i lag. Det først bildet viser sluttresultatet
 					av utstyret til håndbrygging, der fargene er blandet jevnt sammen:</p>
-					<img class="brygg" src="prosjektrapport/images/haandbryggmedskygge.jpg" alt="Bilde av håndbrygger">
+					<img class="brygg" src="images/haandbryggmedskygge.jpg" alt="Bilde av håndbrygger">
 					<p>På bildet nedenfor kan man se hvordan det samme bildet ser ut når man fjerner det øverste skyggelaget som blander de grove skyggene
 					sammen. Man trykker på øyet som er ringet rundt, for å velge om man vil se tilhørende lag eller ikke.</p>
-					<img src="prosjektrapport/images/haandbryggutenskygge.jpg" alt="Bilde av håndbrygger uten skygge">
+					<img src="images/haandbryggutenskygge.jpg" alt="Bilde av håndbrygger uten skygge">
 			
 				</div>
 			</section>
@@ -284,7 +284,7 @@
 					<p>Bakgrunnsbildene vi har valgt er funnet på Flickr.com sitt område for bilder med Creative Commons-lisens.
 					Creative Commons-lisens betyr i hovedsak at eier gir andre rettighet til å bruke bildene sine. Det finnes en
 					del forskjellige typer CC-lisens som blant annet hindrer bildene i å bli brukt i kommersielle formål. Vi bruker bare bilder
-					med de mest tilgjengelige lisensene for å være sikker. <a href="prosjektrapport/index.php?page=8">Oversikt over bildene vi har brukt.</a> Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med klare motiver har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over (gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken). Bildene som er tegnet, er tegnet på frihånd og tilpasset dets formål.</p>
+					med de mest tilgjengelige lisensene for å være sikker. <a href="index.php?page=8">Oversikt over bildene vi har brukt.</a> Ettersom at bildene skulle være bakgrunnsbilder, har vi valgt enkle bilder. Noen har klare motiver, andre er bilder av tekstur vi tenkte passe bra som bakgrunn. Noen av bildene med klare motiver har vi redigert slik at teksten skulle få en glatt bakgrunn å rulle over (gjelder spesielt de to øverste bildene. Se link til orginalbilde i bildebanken). Bildene som er tegnet, er tegnet på frihånd og tilpasset dets formål.</p>
 				</div>
 				<div id="testing">
 					<h3>4.7 Easteregget</h3>
