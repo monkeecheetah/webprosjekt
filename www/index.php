@@ -416,7 +416,6 @@
 						<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
 						<p>for å dekke det kommende behovet for kaffe må den bli dyrere,</p>
 						<p>så vi kan nyte vår kaffe i framtiden også</p>
-						<p class="linkP"><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
 						<p class="linkP"><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
 						<p class="linkP"><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
 					</div>
