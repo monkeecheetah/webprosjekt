@@ -38,25 +38,25 @@
 				<div class="block1 block">
 					<div id="intro" class="content">
 						<h3>Kaffe er</h3>
-						<p class="clearh3">Det man starter dagen med</p>
-						<p>Det venner møtes over</p>
-						<p>Det som får deg gjennom arbeidsdagen</p>
+						<p class="clearh3">Det man starter dagen med.</p>
+						<p>Det venner møtes over.</p>
+						<p>Det som får deg gjennom arbeidsdagen.</p>
 						<h3>Men hva er kaffe egentlig?</h3>
 						<p class="clearh3">Kaffe kommer fra en frukt</p>
-						<p>Som høstes fra et kaffetre</p>
-						<p>De to vanligste kaffetrærene er</p>
-						<p><strong>Arabicatrærene</strong>, vokser i tørt klima, høyt i fjellet</p>
-						<p><strong>Arabica</strong> gir visstnok den beste kaffen og er den vi drikker mest av i Norge</p>
-						<p><strong>Robustatrærene</strong>, er mer robuste og vokser i tørt klima, i lavlandet</p>
-						<p>Det er frøet i frukten som blir kaffe</p>
-						<p>Som vi på folkemunne kaller <em>kaffebønner</em></p>
-						<h3>Fra bønne til kopp</h3>
-						<p class="clearh3">Fruktene høstes</p>
-						<p>Frøene tas ut</p>
-						<p>Tørkes</p>
-						<p>Sorteres</p>
-						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt</p>
-						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje</p>
+						<p>Som høstes fra et kaffetre.</p>
+						<p>De to vanligste kaffetrærene er.</p>
+						<p><strong>Arabicatrærene</strong>, vokser i tørt klima, høyt i fjellet.</p>
+						<p><strong>Arabica</strong> gir visstnok den beste kaffen og er den vi drikker mest av i Norge.</p>
+						<p><strong>Robustatrærene</strong>, er mer robuste og vokser i tørt klima, i lavlandet.</p>
+						<p>Det er frøet i frukten som blir kaffe.</p>
+						<p>Som vi på folkemunne kaller <em>kaffebønner.</em></p>
+						<h3>Fra bønne til kopp.</h3>
+						<p class="clearh3">Fruktene høstes.</p>
+						<p>Frøene tas ut,</p>
+						<p>tørkes,</p>
+						<p>sorteres,</p>
+						<p>og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
+						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje.</p>
 					</div>
 				</div>
 			</section>
@@ -74,12 +74,12 @@
 						</div>	
 						<div id="caption">  
 							<h3>KAFFE TIL NORGE?</h3>
-							<p>Norge fikk kaffe på 1600 tallet</p>
-							<p>Og da var det en luksusvare, for rikfolket</p>
-							<p>I dag drikkes det heldigvis av alle sosiale lag</p>
-							<p>Nordmenn drikker 3-4 kopper om dagen hver</p>
-							<p>Som blir ca 1200 kopper i året</p>
-							<p>Og totalt mer enn 4 000 000 000 kopper i året<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+							<p>Norge fikk kaffe på 1600 tallet.</p>
+							<p>Og da var det en luksusvare, for rikfolket.</p>
+							<p>I dag drikkes det heldigvis av alle sosiale lag.</p>
+							<p>Nordmenn drikker 3-4 kopper om dagen hver.</p>
+							<p>Som blir ca 1200 kopper i året.</p>
+							<p>Og totalt mer enn 4 000 000 000 kopper i året.<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
 							<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p>De syns du burde besøke disse stedene:</p>
@@ -99,13 +99,13 @@
 					<div id="caption2">
 
 						<h3>GJETEREN</h3>
-						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia</p>
+						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia.</p>
 						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto at fort at effekten kom fra de røde fruktene på en liten busk.</p>
 						<p>Han spiste bærene og merket selv energien han fikk av de. Han løp til det nærmeste klosteret for å vise fram de guddommelige bærene til munkene</p>
 						<p>I klosteret ble han ikke godt mottatt og munkene hæv bærene på bålet. Legenden sier at lukten av de brente bærene fikk munkene til å ta bære av ilden og legge dem i vann. Så drakk de vanne og drikken kaffe ble til</p>
-						<p>Det vi vet derimot</p>
-						<p>Er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
-						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag</p>
+						<p>Det vi derimot vet</p>
+						<p>er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
+						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag.</p>
 						<p><a class="kilde" href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
 						<p><a class="kilde" href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 					</div>
@@ -279,13 +279,13 @@
 								<li>Du utvikler demens senere enn andre!</li>
 								<li>Og mer kaffe du drikker, jo <strong>mindre</strong> sjanse for parkinson!</li>
 								<li>Og siden kaffe stammer fra frukt</li>
-								<li>Kan vi da si at det er en av de fem om dagen?</li>
+								<li>kan vi da si at det er en av de fem om dagen?</li>
 							</ul>
 						</div>
 
 						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
 						<p>Rett bak Finland.</p>
-						<p>Topp 10 listen er som følger</p>
+						<p>Topp 10 listen er som følger:</p>
 						<ol id="kaffeKonsum" class="toppListe">
 							<li data-consume="12.0">Finland (12.0 kg)</li>
 							<li data-consume="9.6">Norge (9.6 kg)</li>
@@ -309,12 +309,12 @@
 				<div class="block6 block">
 					<div id="koffein" class="content">
 						<h3>KOFFEIN</h3>
-						<p>Ikke bare er den oppkvikkende</p>
-						<p>Den <strong>hjelper deg</strong> å stimulere galleblærefunksjonen og kan forebygge gallestein</p>
+						<p>Ikke bare er den oppkvikkende,</p>
+						<p>den <strong>hjelper deg</strong> å stimulere galleblærefunksjonen og kan forebygge gallestein.</p>
 						<p>Rekorden på mest kaffe på kortest tid</p>
-						<p>- er 82 kopper på 100 timer</p>
+						<p>- er 82 kopper på 100 timer.</p>
 						<p>Og om du er du redd for å drikke for mye kaffe?</p>
-						<p>Vit at det skal 100 kopper til for å drepe deg</p>
+						<p>Vit at det skal 100 kopper til for å drepe deg.</p>
 						<p class="linkP"><a class="kilde" href="http://www.huffingtonpost.com/2013/08/25/caffeine-facts_n_3814825.html">[Kilde]</a></p>
 						<p class="linkP"><a class="kilde" href="http://en.ilovecoffee.jp/posts/view/92">[Kilde]</a></p>
 					</div>
@@ -332,20 +332,20 @@
 						<div id ="MKinnhold">
 							<p>Selvfølgelig gjør du det</p>
 							<p>For du hentet kaffe sant?</p>
-							<p>Koffeinen tas opp nesten umiddelbart</p>
-							<p>En kopp kaffe inneholder opptil 200mg koffein</p>
+							<p>Koffeinen tas opp nesten umiddelbart.</p>
+							<p>En kopp kaffe inneholder opptil 200mg koffein.</p>
 							<p>Energidrikker? Ca. 80mg. </p>
-							<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola <a class="kilde" href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
-							<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er  mørkbrent </p>
+							<p>Og en stor kaffe fra Starbucks har like mye koffein som 9.5 bokser cola. <a class="kilde" href="http://www.energyfiend.com/caffeine-content/coffee-brewed">Kilde</a></p>
+							<p>Og er kaffe din lysbrent inneholder den mer koffein enn om den er mørkbrent.</p>
 							<p>Nyt kaffen din!</p>
-							<p>Du har glede av den</p>
+							<p>Du har glede av den!</p>
 							<p>Mentalt</p>
-							<p>Og fysisk</p>
+							<p>- og fysisk</p>
 							<p>Nyter du en bit sjokolade til kaffen din?</p>
-							<p>Den inneholder også koffein</p>
-							<p>Og smertestillende kan også inneholde koffein</p>
+							<p>Den inneholder også koffein.</p>
+							<p>Og smertestillende kan også inneholde koffein.</p>
 							<p>Gjør de det er de inntil 40% mer effektive</p>
-							<p>og kan hjelpe kroppen til å ta det opp raskere</p>
+							<p>og kan hjelpe kroppen til å ta det opp raskere.</p>
 						</div>
 					</div>
 				</div>
@@ -374,7 +374,7 @@
 							<div id="prodland" class="content">
 								<h3>Produksjonsland</h3>
 								<div id="prodlandinnhold">
-									<p>Etiopa. Hvor kaffen først kom fra, og fortsatt kommer fra</p>
+									<p>Etiopa. Hvor kaffen først kom fra, og fortsatt kommer fra.</p>
 									<p>Er i dag det 5. mest produserende landet</p>
 									<p>1/3 av kaffen kommer faktisk fra Brasil.</p>
 									<p>Topp 10 målt i antall produserte sekker er:</p>
@@ -404,13 +404,13 @@
 						<h3>Fra kaffen såes i jorda</h3>	
 						<p>- til den er i din kopp</p>
 						<p>Trengs det 140 liter vann</p>
-						<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya</p>
-						<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe</p>
+						<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya.</p>
+						<p>Tettbefolkede land som India og Kina har en oppvoksende generasjon som har begynt å få smaken for kaffe.</p>
 						<p>Det sies at verden trenger 25-30millioner flere kaffesekker i 2020. </p>
-						<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin</p>
+						<p>Ved hjelp av kunnskapsutveksling og investeringer i moderne produksjonsmetoder og infrastruktur kan en kaffebonde så mye som tidoble produksjonen sin.</p>
 						<p>Så kaffebønder kan investere i det utstyret og kunnskapen som trengs for å effektivisere produksjonen sin</p>
-						<p>For å dekke det kommende behovet for kaffe må den bli dyrere</p>
-						<p>Så vi kan nyte vår kaffe i framtiden også</p>
+						<p>for å dekke det kommende behovet for kaffe må den bli dyrere,</p>
+						<p>så vi kan nyte vår kaffe i framtiden også</p>
 						<p class="linkP"><a class="kilde" href="http://www.nationen.no/2013/09/16/naring/dagens_kommentar/kommentar/kaffe/fairtrade/8274215/">[Kilde]</a></p>
 						<p class="linkP"><a class="kilde" href="http://www.kaffe.no/verden-trenger-mer-kaffe-til-l%C3%B8nnsomme-priser/">[Kilde]</a></p>
 						<p class="linkP"><a class="kilde" href="http://coffeelands.crs.org/2012/09/302-the-water-footprint-of-your-coffee/">[Kilde]</a></p>
