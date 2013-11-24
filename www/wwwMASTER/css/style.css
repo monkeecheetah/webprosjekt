@@ -8,6 +8,8 @@
  *                                                                   
  *______________________________________________________________________________________                                                                 
  */
+
+ /* Parallax funksjon */ 
  #bak2 {
     background-color:#1085f9;
  }
@@ -42,11 +44,13 @@
     background-color:#1085f9;    
 }
 #caption, #caption2{
-    background-color:#1085f9;
-    z-index:1;
+ background-color:#1085f9;
+ z-index:1;
     width:100%;
+    /*background:rgba(0,0,0,0.5);*/
     color:#ffffff;
     position:absolute;
+    /*padding-left: 40%;*/
     overflow: auto;
 }
 #caption p, #caption2 p{
@@ -84,7 +88,8 @@
     display:  table;
     background-color:#eee;
     border:1px solid  #666666;
-    border-spacing:5px;
+    border-spacing:5px;/*cellspacing:poor IE support for  this*/
+   /* border-collapse:separate;*/
 }
 .tHead {
     font-weight:bold;
@@ -93,6 +98,7 @@
 {
    display:table-row;
    width:auto;
+
 }
 
 .celleData
@@ -100,7 +106,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    float:left;
+    float:left;/*fix for  buggy browsers*/
     display:table-column;
     width:auto;
     background-color:#ccc;
@@ -171,9 +177,12 @@ nav a:hover {
     width: 100%;
     font-size: 50px;
 }
+
+
 .block1 h3, .block1 p, .block2 h3, .block2 p {
     opacity:1;
 }
+
 .clearh3 {
     clear:left;
 }
@@ -184,6 +193,8 @@ nav a:hover {
     margin-top:0%;
     overflow:auto;
 }
+
+
 body{
     margin:0 0 0 0;
     padding:0 0 0 0;
@@ -198,12 +209,14 @@ footer h2,h3,p,td,th{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /*GENERELLE REGLER FOR TEKST*/
 .content p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 130%;
     letter-spacing: 3px;
     color:white;
+ 
 }
 .content h3{
     letter-spacing: 8px;
@@ -213,7 +226,13 @@ footer h2,h3,p,td,th{
     border-bottom-width: 1px;
 }
 
+
+
+
+
 /*************************PLASSERING AV TEKST**************************/
+
+
 /*OVERSKRIFT*/
 .block0 h1
  {
@@ -237,6 +256,9 @@ footer h2,h3,p,td,th{
     float:left;
     padding-bottom: 15%;
 }
+
+
+
 /*Gultkaffebønnebilde*/
 #intro{
     width:50%;
@@ -249,9 +271,17 @@ footer h2,h3,p,td,th{
     margin-bottom: 5%;
     float: left;
 }
+
+
 #intro p{
     color: black;
 }
+
+
+
+
+
+
 /*Norge*/
 #kaffetilnorge{
   margin-left:0px;
@@ -272,6 +302,9 @@ footer h2,h3,p,td,th{
 #kaffetilnorge a{
     font-size: 120%;
 }
+
+
+
 /*OPPRINNELSE*/
 #oppdagelsen{
 
@@ -292,6 +325,9 @@ footer h2,h3,p,td,th{
 #oppdagelsen a{
     display: inline;
 }
+
+
+
 /*HVORDANTARDUKAFFEN*/
 #hvordankaffen{
     
@@ -302,6 +338,7 @@ footer h2,h3,p,td,th{
     text-align: center;
 }
 #hvordankaffen p{
+
      font-size: 200%;
      margin-top: 10%;
      margin-bottom: 10%;
@@ -313,6 +350,9 @@ footer h2,h3,p,td,th{
     font-size: 400%;
     font-weight: bold;
 }
+
+
+
 /*KAFFEVELGER*/
 
 #kaffevelger{
@@ -324,6 +364,7 @@ footer h2,h3,p,td,th{
     background-color: #734A12;
 }
 #kaffevelgerheader{
+
     font-size: 700%;
     margin-bottom:3%;
     margin-top: 7%;
@@ -345,12 +386,16 @@ footer h2,h3,p,td,th{
     margin-bottom: 0%;
     margin-top: 0%;
 }
+
+
+
 /*KAFFEHELSE*/
 #helse{
     width:60%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+
 }
 #helseinfo{
     border-radius: 50px;
@@ -358,10 +403,12 @@ footer h2,h3,p,td,th{
     text-align: left;
     padding:1px;
 }
+
 #helse .countDown {
     float: left;
     margin-left: 45%;
 }
+
 #helse p {
     clear:left;
     font-weight:100;
@@ -369,6 +416,7 @@ footer h2,h3,p,td,th{
     margin-top:5%;
     margin-bottom:5%;
 }
+
 #helseinfo li{
     color:black;
     margin-top:3%;
@@ -376,6 +424,11 @@ footer h2,h3,p,td,th{
     font-size:200%;
     margin-left: 3%;
 }
+
+#helse p:not(.linkP) {
+   /* background-color: rgba(0,0,0,0.5); */
+}
+
 #helse h3{
 
     font-weight: bold;
@@ -385,6 +438,11 @@ footer h2,h3,p,td,th{
     margin-bottom: 5%;
     margin-top: 5%;
 }
+
+
+
+
+
 /*KOFFEIN*/
 #koffein{
     width:45%;
@@ -403,6 +461,9 @@ footer h2,h3,p,td,th{
     padding-bottom: 3%;
     margin-top: 3%;
 }
+
+
+
 /*MER KOFFEIN*/
 #merkoffein{
     margin-left: 5%;
@@ -429,6 +490,9 @@ footer h2,h3,p,td,th{
     border-radius: 20px;
     background-color:rgba(255,255,255,0.4);
 }
+
+
+
 /*KAFFE _ SMAK PÅ ORDET*/
 #ordetkaffe{
     text-align: center;
@@ -442,6 +506,7 @@ footer h2,h3,p,td,th{
     padding-bottom: 3%;
 }
 #ordetkaffe h3{
+    
     width: 80%;
     margin-top: 5%;
     margin-right: auto;
@@ -451,6 +516,9 @@ footer h2,h3,p,td,th{
     font-size: 400%;
     font-weight: bold;
 }
+
+
+
 /* PRODLAND */
 #prodland{
     width: 55%;
@@ -495,7 +563,9 @@ footer h2,h3,p,td,th{
     text-align: left;
     color:#000;
 }
+
 /*ANSVAR*/
+
 #kaffeansvar{
     margin-top: 5%;
     margin-bottom: 5%;
@@ -507,6 +577,7 @@ footer h2,h3,p,td,th{
     margin-left: auto;
     margin-right: auto;
 }
+
 #kaffeansvar h3{
     color: white;
     margin-top: 2%;
@@ -530,32 +601,33 @@ footer h2,h3,p,td,th{
  *                                          
  *_____________________________________________________________________________________                                             
  */
+
 #bak0{
-    background: url(images/background/full/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 }    
 #bak1{
-    background: url(images/background/full/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; 
+    background: url(images/background/full/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
 }
 #bak4{
-    background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
 }
 #bak5{
-    background: url(images/background/full/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
 }
 #bak6{
-    background: url(images/background/full/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
 }
 #bak7{
-    background: url(images/background/full/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
 }
 #bak8{
-    background: url(images/background/full/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  
+    background: url(images/background/full/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
 }
 #bak9{
-    background: url(images/background/full/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed; 
+    background: url(images/background/full/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  /*gul kaffekopp*/
 }
 #bak10{
-    background: url(images/background/full/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed; 
+    background: url(images/background/full/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  /*putesekk*/
 }
 #kaffetilnorge img{
     padding: 0px;
@@ -570,6 +642,7 @@ footer h2,h3,p,td,th{
     position: relative; 
     background-size: cover !important;
 }
+
 .sitat {
     clear:left;
     float:left;
