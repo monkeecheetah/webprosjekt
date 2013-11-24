@@ -39,7 +39,6 @@
 		margin-left:0%;
 		position:relative;
 		float:left;
-
 	}
 	#caption2 h3, #caption2 p {
 		width:90%;
@@ -52,21 +51,17 @@
 		margin-left:30px;
 		margin-top:19%;
 		font-size:400%;
-
 	}
 	.block0 h2 {
 		font-size:100%;
 		margin-left: 10%;
 	}
-
-
 	#kaffevelgerheader {
 		font-size:400%;
 	}
 	#ordetkaffe h3{
 		font-size: 400%;
 	}
-
 	#prodland {
 		width:70%;
 		margin-left:25%;
@@ -76,46 +71,42 @@
 		padding:2%;
 	}
 	#bak0{
-	    background: url(images/background/900/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
+	    background: url(images/background/900/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  
 	}    
 	#bak1{
-	    background:none; /* kaffebønne med gul bakgrunn*/
-	    background-color:#ceaf06; /* kaffebønne med gul bakgrunn*/	
-	}
-	#bak2{
-/*	    background: url(images/background/900/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
+	    background:none; 
+	    background-color:#ceaf06; 
 	}
 	#bak3{
-	    background: url(images/background/900/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
+	    background: url(images/background/900/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak4{
-	    background: url(images/background/900/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+	    background: url(images/background/900/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak5{
-	    background: url(images/background/900/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
+	    background: url(images/background/900/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak6{
-	    background: url(images/background/900/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
+	    background: url(images/background/900/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak7{
-	    background: url(images/background/900/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
+	    background: url(images/background/900/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak8{
-	    background: url(images/background/900/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
+	    background: url(images/background/900/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak9{
-	    background: url(images/background/900/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  /*gul kaffekopp*/
+	    background: url(images/background/900/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak10{
-	    background: url(images/background/900/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  /*putesekk*/
+	    background: url(images/background/900/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak11{
-	    background: url(images/background/900/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
+	    background: url(images/background/900/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak12{
 	    background: url(images/background/900/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  
 	}
-
 }
 /***
  *      _____    _                                  
@@ -136,7 +127,7 @@
 		width:90%;
 		margin-left:5%;
 	}
-	.celleData {
+	.celleData{
 		font-size:12px;
 	}
 	#photo, #photo2 {
@@ -212,11 +203,6 @@
 	#helseinfo li {
 		font-size:120%;
 	}
-
-/*	#helse h3 {
-		font-size:200%;
-		letter-spacing:5px;
-	}*/
 	.toppListe {
 		width:89%;
 		margin-left:0%;
@@ -266,42 +252,35 @@
 		font-size:200%;
 	}
 	#bak0{
-	    /*height: 780px;*/
-	    background: url(images/background/480/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
+	    background: url(images/background/480/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed; 
 	}    
 	#bak1{
 		background:none;
-	    background-color:#ceaf06; /* kaffebønne med gul bakgrunn*/
-	}
-	#bak2{
-	    /*background: url(images/background/480/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
-	}
-	#bak3{
-	    background: url(images/background/480/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken*/
+	    background-color:#ceaf06; 
 	}
 	#bak4{
-	    background: url(images/background/480/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
+	    background: url(images/background/480/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak5{
-	    background: url(images/background/480/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  /* kaffepulver */
+	    background: url(images/background/480/3367777051_a18a02c53d_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak6{
-	    background: url(images/background/480/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  /* Kaffemoleky */
+	    background: url(images/background/480/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak7{
-	    background: url(images/background/480/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk med rødt merke*/
+	    background: url(images/background/480/6085694779_9a49e657f5_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak8{
-	    background: url(images/background/480/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  /*uteligger*/
+	    background: url(images/background/480/10502752753_673727d16b_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak9{
-	    background: url(images/background/480/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed;  /*gul kaffekopp*/
+	    background: url(images/background/480/4448779926_b9329c1568_o.jpg) 100% 0 no-repeat fixed; 
 	}
 	#bak10{
-	    background: url(images/background/480/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  /*putesekk*/
+	    background: url(images/background/480/8112875566_653aab9940_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak11{
-	    background: url(images/background/480/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  /*Kjedelig kaffekopp*/
+	    background: url(images/background/480/4048845899_db46e5d2d8_o.jpg) 100% 0 no-repeat fixed;  
 	}
 	#bak12{
 	    background: url(images/background/480/423580043_4d6302fb42_occaffeine3.jpg) 100% 0 no-repeat fixed;  
