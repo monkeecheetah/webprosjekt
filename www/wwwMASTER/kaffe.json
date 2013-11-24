@@ -21,7 +21,7 @@
 				"p": "p1",
 				"img": "Presskanne300.png",
 				"mobile": "Presskanne120.png",				
-				"om": "Regn med vannkoketid og trekketid. Du får relativt god kontroll på smaken og styrer selv de fleste prosesser under bryggingen"
+				"om": "Regn med vannkoketid og trekketid. Du får relativt god kontroll på smaken og styrer selv de fleste prosesser under bryggingen."
 			},
 			{
 				"name":"Mokkakanne",
@@ -142,7 +142,7 @@
 				"p": "p1",
 				"img": "haandbrygg300.png",
 				"mobile": "haandbrygg120.png",				
-				"om": "Full kontroll! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmenge, tepratur, tekketid, osv."
+				"om": "Full kontroll! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmengde, teperatur, trekketid, osv."
 			}			]
 		}
 
