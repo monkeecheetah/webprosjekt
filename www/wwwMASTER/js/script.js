@@ -37,7 +37,7 @@ $(document).ready(function(){
 	if(vinduBredde > 1024) {
 		console.log($('#bak2').height()+"  +  "+$('#caption2').height());
 		winH = $(window).height();
-		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+340+'px').css('padding-top','300px');
+		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+320+'px').css('padding-top','300px');
 		$('#photo').height((winH+800)+'px');
 		blockFade();
 		$window = $(window);
