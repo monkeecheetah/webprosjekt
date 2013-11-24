@@ -5,7 +5,7 @@
 <html>
 	<head>
     	<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Kaffe - en kjærlighetshistorie</title>
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/style.css">
 		<link rel="stylesheet" type="text/css" title="Standard" href="css/mediaqueries.css">
@@ -21,13 +21,13 @@
 				<ul>
 					<li><a href="#intro">INTRO</a></li>
 					<li><a href="#kaffetilnorge">OM</a></li>
-					<li><a href="#kaffevelger">KAFFEVELGER</a></li>	
-					<li><a href="#koffein">KOFFEIN</a></li>														
+					<li><a href="#kaffevelger">KAFFEVELGER</a></li>
+					<li><a href="#koffein">KOFFEIN</a></li>
 				</ul>
 			</nav>
 			<section class="blockWrap" id="bak0" data-speed="20000" data-type="background">
 				<div class="block0 block">
-					<h1>KAFFE</h1> 
+					<h1>KAFFE</h1>
 					<h2>- en kjærlighetshistorie</h2>
 				</div>
 				<p id="arrow">&darr;</p>
@@ -42,21 +42,21 @@
 						<p>Det venner møtes over.</p>
 						<p>Det som får deg gjennom arbeidsdagen.</p>
 						<h3>Men hva er kaffe egentlig?</h3>
-						<p class="clearh3">Kaffe kommer fra en frukt</p>
-						<p>Som høstes fra et kaffetre.</p>
-						<p>De to vanligste kaffetrærene er.</p>
-						<p><strong>Arabicatrærene</strong>, vokser i tørt klima, høyt i fjellet.</p>
+						<p class="clearh3">Kaffe kommer fra en frukt...</p>
+						<p>Som høstes fra et kaffetre...</p>
+						<p>De vanligste kaffetrærene er:</p>
+						<p><strong>Arabicatrærene</strong> vokser i tørt klima, høyt i fjellet.</p>
 						<p><strong>Arabica</strong> gir visstnok den beste kaffen og er den vi drikker mest av i Norge.</p>
-						<p><strong>Robustatrærene</strong>, er mer robuste og vokser i tørt klima, i lavlandet.</p>
-						<p>Det er frøet i frukten som blir kaffe.</p>
+						<p><strong>Robustatrærene</strong> er mer robuste og vokser i tørt klima, i lavlandet.</p>
+						<p>Det er frøet i frukten som blir kaffe...</p>
 						<p>Som vi på folkemunne kaller <em>kaffebønner.</em></p>
 						<h3>Fra bønne til kopp.</h3>
-						<p class="clearh3">Fruktene høstes.</p>
-						<p>Frøene tas ut,</p>
-						<p>tørkes,</p>
-						<p>sorteres,</p>
-						<p>og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
-						<p>Det er den andre mest <strong>omsatte varen</strong> i verden etter olje.</p>
+						<p class="clearh3">Fruktene høstes...</p>
+						<p>Frøene tas ut...</p>
+						<p>Tørkes...</p>
+						<p>Sorteres...</p>
+						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
+						<p>Det er den andre mest <strong>omsatte varen</strong> i verden, etter olje.</p>
 					</div>
 				</div>
 			</section>
@@ -71,56 +71,56 @@
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
 						<div id="photo">
-						</div>	
-						<div id="caption">  
+						</div>
+						<div id="caption">
 							<h3>KAFFE TIL NORGE?</h3>
 							<p>Norge fikk kaffe på 1600 tallet.</p>
 							<p>Og da var det en luksusvare, for rikfolket.</p>
 							<p>I dag drikkes det heldigvis av alle sosiale lag.</p>
 							<p>Nordmenn drikker 3-4 kopper om dagen hver.</p>
 							<p>Som blir ca 1200 kopper i året.</p>
-							<p>Og totalt mer enn 4 000 000 000 kopper i året.<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">[Kilde]</a></p>
+							<p>Og totalt mer enn 4 000 000 000 kopper i året.<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">Kilde</a></p>
 							<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
-							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br/> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p>De syns du burde besøke disse stedene:</p>
 							<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
 							<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Java espressobar & Kaffeforretning</a></p>
 							<p><a class="kilde" href="http://www.javamocca.blogspot.com/">Mocca Kaffebar & Brenneri</a></p>
 							<p id="triggerElement"><a class="kilde" href="http://timwendelboe.no/">Tim Wendelboe</a></p>
-						</div>						
+						</div>
 					</div>
 					<div id="filler"></div>
 <!--				</div>
 			</section>
 
-			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background"> 
+			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
 				<div class="block3 block"> -->
 					<div id="photo2"></div>
 					<div id="caption2">
 
 						<h3>GJETEREN</h3>
-						<p>Legenden skal ha det at kaffebønnenes energigivende effekt ble oppdag av en gjeter i Etiopia.</p>
-						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto at fort at effekten kom fra de røde fruktene på en liten busk.</p>
-						<p>Han spiste bærene og merket selv energien han fikk av de. Han løp til det nærmeste klosteret for å vise fram de guddommelige bærene til munkene</p>
-						<p>I klosteret ble han ikke godt mottatt og munkene hæv bærene på bålet. Legenden sier at lukten av de brente bærene fikk munkene til å ta bære av ilden og legge dem i vann. Så drakk de vanne og drikken kaffe ble til</p>
-						<p>Det vi derimot vet</p>
-						<p>er at fruktene er blitt brukt som oppkvikkere siden 600tallet på afrikas horn</p>
-						<p>og fra ca. 1400 brukt mer som vi kjenner det i dag.</p>
+						<p>Legenden skal ha det til at kaffebønnenes energigivende effekt ble oppdaget av en gjeter i Etiopia.</p>
+						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto fort at effekten kom fra de røde fruktene på en liten busk.</p>
+						<p>Han spiste bærene og merket selv energien han fikk av de. Han løp til det nærmeste klosteret for å vise fram de guddommelige bærene til munkene.</p>
+						<p>I klosteret ble han ikke godt mottatt og munkene kastet bærene på bålet. Legenden sier at lukten av de brente bærene fikk munkene til å ta bærene av
+						ilden og legge dem i vann. Så drakk de vannet og drikken kaffe ble til.</p>
+						<p>Det vi derimot vet er at fruktene har blitt brukt som oppkvikkere siden 600-tallet på afrikas horn.</p>
+						<p>Fra 1400-tallet har kaffe blitt drukket slik vi kjenner vår kaffe den dag i dag.</p>
 						<p><a class="kilde" href="http://www.kaffeguiden.info/historie.html">[Kilde]</a></p>
 						<p><a class="kilde" href="http://coffeetea.about.com/od/advancedcoffee/a/The-Origin-Of-Coffee.htm">[Kilde]</a></p>
 					</div>
-				</div>	
+				</div>
 			</section>
 			<section class="blockWrap" id="bak4" data-speed="20000" data-type="background">
 				<div class="block4 block">
 					<div id="hvordankaffen" class="content">
-						<h3>HVORDAN TAR DU KAFFEN?</h3>
+						<h3>MANGE DEILIGE MULIGHETER...</h3>
 						<p>svart / </p>
 						<p>med melk / </p>
-						<p>Fra lokale kaffebaren / </p>
+						<p>kaffebaren / </p>
 						<p>melkeskum / </p>
-						<p>Har du prøvd en red eye - filterkaffe med en shot espresso / </p>
-						<p>Viatnemesisk iskaffe / </p>
+						<p>red eye / </p>
+						<p>vietnamesisk iskaffe / </p>
 						<p>kapsel / </p>
 						<p>moccamaster / </p>
 						<p>selvkværnet / </p>
@@ -130,9 +130,10 @@
 						<p>vakumkolbe / </p>
 						<p>presskanne / </p>
 						<p>chemex / </p>
-						<p>Slow-drip - som tar 12 timer / </p>
+						<p>slowdrip / </p>
 						<p>mørkbrent / </p>
 						<p>lysbrent / </p>
+						<h3>VI HJELPER DEG MED VALGET...</h3>
 					</div>
 				</div>
 			</section>
@@ -321,9 +322,9 @@
 				</div>
 			</section>
 
-			
 
-			
+
+
 
 			<section class="blockWrap" id="bak7" data-speed="20000" data-type="background">
 				<div class="block7 block">
@@ -356,10 +357,10 @@
 		 			<div id="ordetkaffe" class="content">
 		 				<h3>Kaffe - Smak på ordet</h3>
 		 				<p>Hvor kommer det fra?</p>
-		 				<p>Første gang dokumentert er fra 1598 på italiensk, caffe</p>
-		 				<p>Som igjen er fra tyrkisk kahve</p>
-		 				<p>Som igjen er avledet fra det arabiske ordet qahwah (kaffe). </p>
-		 				<p>Det siste skal etter sigende bety vin, </p>
+		 				<p>De første dokumenter er fra 1598 på italiensk.</p>
+		 				<p>Som igjen er fra tyrkisk kahve.</p>
+		 				<p>Som igjen er avledet fra det arabiske ordet qahwah (kaffe).</p>
+		 				<p>Det siste skal etter sigende bety vin.</p>
 		 				<p>Mer sannsynlig har det sin opprinnelse fra den etiopiske regionen Kaffa, et tradisjonelt område for kaffeproduksjon.</p>
 		 				<p>Og ordet café - ja du har alltid antatt det riktige. Det stammer fra ordet kaffe <a class="kilde" href="http://snl.no/kaf%C3%A9">[Kilde]</a></p>
 						<p>Kaffe er forøvrig kalt buno i Etiopia</p>
@@ -391,17 +392,17 @@
 										<li data-production="2700000">Honduras (2,700,000)</li>
 									</ol>
 									<p class="linkP"><a class="kilde" href="http://www.fas.usda.gov/htp/coffee/2009/December_2009/2009_coffee_december.pdf">Kilde</a></p>
-									<p>Har du forresten prøvd cà phê đá?</p>
+									<p>Har du forresten prøvd cà phê ?á?</p>
 									<p>Eller vietnamesisk iskaffe som vi kaller, det kan gjøres med å lage vietnamesisk kaffe rett i et glass med isbiter, og så tilsetter man kondensert melk</p>
 									<p>(og man kan tilsette alkohol, f.eks. whisky)</p>
-								</div>	
+								</div>
 						</div>
 				</div>
 			</section>
 			<section class="blockWrap" id="bak10" data-speed="20000" data-type="background">
 				<div class="block10 block">
 					<div id="kaffeansvar" class="content">
-						<h3>Fra kaffen såes i jorda</h3>	
+						<h3>Fra kaffen såes i jorda</h3>
 						<p>- til den er i din kopp</p>
 						<p>Trengs det 140 liter vann</p>
 						<p>Kaffe dyrkes i land med allerede dårlig tilgang på ferskvann som Etiopia og Kenya.</p>
@@ -420,21 +421,21 @@
 
 			<section class="blockWrap" id="bak11" data-speed="20000" data-type="background">
 				<footer>
-					<h2>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer osen</h2>
+					<h2>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer Osen</h2>
 					<h3>Bildebank</h3>
-					<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder<br>
+					<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder.<br>
 					Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
-					Bildene av norsk fjord, afrikansk steppelandskap og de forsjellige tilbredningsmetodene er tegnet av Hege Grostad. </p>
+					Bildene av norske fjell, afrikansk steppelandskap og de forsjellige tilbredningsmetodene er tegnet av Hege Grostad.</p>
 
 					<div class="tabell">
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tHead tab1">Tittel</div>
 							<div class="celleData tHead tab2">Eier</div>
 							<div class="celleData tHead tab3">Lenke</div>
 							<div class="celleData tHead tab4">Filnavn</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">If coffee were red</div>
 							<div class="celleData tab2">Marcello</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/67265930@N00/1874968239/">link</a></div>
@@ -446,52 +447,52 @@
 						    <div class="celleData tab1">A Coffee bean 3</div>
 							<div class="celleData tab2">Joe Lencioni</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/12943844@N00/2291755823">link</a></div>
-							<div class="celleData tab4">2291755823_513c35efd6_oSjolmekket.jpg</div> 
+							<div class="celleData tab4">2291755823_513c35efd6_oSjolmekket.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">teXture - Dark Grunge Burlap</div>
 							<div class="celleData tab2">photonate.com</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/themacguy2k/3297949680/">link</a></div>
 							<div class="celleData tab4">3297949680_f7f64e11f7_o.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">Coffee Scoop</div>
 							<div class="celleData tab2">Oberazzi</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/42788859@N00/3367777051/">link</a></div>
 							<div class="celleData tab4">3367777051_a18a02c53d_o.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">Atomium</div>
 							<div class="celleData tab2">Seb Ruiz</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/60906956@N00/423580043/">link</a></div>
 							<div class="celleData tab4">423580043_4d6302fb42_occaffeine3.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">harimau coffee burlap</div>
 							<div class="celleData tab2">javabags</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/66871266@N04/6085694779/">link</a></div>
 							<div class="celleData tab4">6085694779_9a49e657f5_o.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">Joie</div>
 							<div class="celleData tab2">Geoff Llerena</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/22678640@N03/10502752753">link</a></div>
 							<div class="celleData tab4">10502752753_673727d16b_o.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">Coffe splash</div>
 							<div class="celleData tab2">Nick Olejniczak</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/71235231@N00/4448779926/">link</a></div>
 							<div class="celleData tab4">4448779926_b9329c1568_o.jpg</div>
 						</div>
 
-						<div class="tabellRad"> 
+						<div class="tabellRad">
 							<div class="celleData tab1">Burlap and Lace square (3)</div>
 							<div class="celleData tab2">Lucy Portsmouth</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/48224373@N04/8112875566/">link</a></div>
