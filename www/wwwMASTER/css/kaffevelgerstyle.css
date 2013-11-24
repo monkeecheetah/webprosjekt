@@ -107,6 +107,11 @@ input[type="radio"], input[type="checkbox"] {
     }
     .tilbWrap {
         width:45%;
+        padding:1%;
+    }
+    #maskinliste p {
+        padding:0px;
+        text-align:left;
     }
     #maskinliste li:nth-child(2n+3) {
         clear:left;
