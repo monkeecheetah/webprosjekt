@@ -212,7 +212,7 @@
 					en på gruppa så for seg at man scrollet ned til et bilde av norsk natur, der norsk kaffehistorie kom opp bak fjellene. Videre så
 					vi for seg at refleksjonen av himmelen i vannet til fjordene kunne gli over til å bli himmelen i et landskap av
 					etiopisk natur. Skjermen skulle også stoppe ved bildet av etiopisk natur, slik at legnden av opprinnelsen skal kunne komme opp bak horisonten.
-					DETTE MÅ KANSKJE IMPLIMENTERES BEDRE, JEG BARE LIMTE INN</p>7
+					</p>
 					<h4>3.3.2 Læringsprosessen</h4>
 					<p>Ingen fra gruppen hadde erfaring med tegning i photoshop, men et gruppemedlem var spesielt interessert i å lære å dette
 					og tok dermed på seg oppgaven med å tegne illustrasjonsbilder. Bildene er tegnet i Photoshop ved hjelp av tegnebrettet
