@@ -10,7 +10,7 @@
 				"p": "p1",
 				"img": "Kaffetrakter300.png",
 				"mobile": "Kaffetrakter120.png",				
-				"om": "Det tar ca. 10 minutter, og kaffen koster så mye eller lite som du selv ønsker. Trakteren gjør mesteparten av jobben for deg. Alt avhenger av hvilken trakter du har og hvilken bønnetype du kjøper"
+				"om": "Trakteren gjør mesteparten av jobben for deg. Smaken avhenger av hvilken trakter du har og hvilken bønnetype du kjøper."
 			},
 			{
 				"name":"Presskanne",
@@ -21,7 +21,7 @@
 				"p": "p1",
 				"img": "Presskanne300.png",
 				"mobile": "Presskanne120.png",				
-				"om": "Presskanne tar tiden et oppkok av vann og hvor lenge du ønsker at du skal la den trekke. Du har relativt god kontroll på smaken og styrer selv de fleste prosesser under bryggingen"
+				"om": "Regn med vannkoketid og trekketid. Du får relativt god kontroll på smaken og styrer selv de fleste prosesser under bryggingen."
 			},
 			{
 				"name":"Mokkakanne",
@@ -32,7 +32,7 @@
 				"p": "p1",
 				"img": "Mokkakanne300.png",
 				"mobile": "Mokkakanne120.png",				
-				"om": "Kaffe fra en Mokkakanne er god og fyldig. Den krever litt innsats, spesielt hvis du kverner bønner selv. "
+				"om": "Kaffe fra en mokkakanne er god og fyldig. Med denne kan du også lage en espresso, som man ellers må ha en espressomaskin for å lage."
 			},
 			{
 				"name":"Vakuum-kolbe",
@@ -43,7 +43,7 @@
 				"p": "p1",
 				"img": "Gass300.png",
 				"mobile": "Gass120.png",				
-				"om": "Ser kjempekult ut! Krever ikke mer innsats enn å ta den av og på platen, fysikken gjør resten av jobben, men bruker litt tid."
+				"om": "Ser kjempekult ut! Krever ikke mer innsats enn å ta den av og på platen - fysikken gjør resten av jobben. Vannet suges oppover, så nedover." 
 			},
 			{
 				"name":"Kokekaffe",
@@ -54,7 +54,7 @@
 				"p": "p1",
 				"img": "Kokekaffe300.png",
 				"mobile": "Kokekaffe120.png",				
-				"om": "Kok opp vann og kaffe, hell i kopp, superenkelt og raskt!(Gjennomsnittlig alder på bruker er 80)"
+				"om": "Kok opp vann og kaffe, hell i kopp, superenkelt og raskt! Old-school-kaffe: Gjennomsnittlig bruker er over 80 år!"
 			},
 			{
 				"name":"Aeropress",
@@ -65,7 +65,7 @@
 				"p": "p1",
 				"img": "Aeropress300.png",
 				"mobile": "Aeropress120.png",				
-				"om": "Aeropress gir deg muligheten til full kontroll og jo mer du tar kontrollen selv jo mer blir resultatet som du selv ønsker. Om du kverner bønnense selv, har funnet perfekte vanntemperaturen og hvilken kaffetype som gir deg kaffen du ønsker."
+				"om": "Aeropress gir deg muligheten til full kontroll over hele prosessen. Dermed kan du slå deg selv på brystet hvis kaffen blir god."
 			},
 			{
 				"name":"Espressomaskin",
@@ -76,7 +76,7 @@
 				"p": "p1",
 				"img": "Espressomaskin300.png",
 				"mobile": "Espressomaskin300.png",				
-				"om": "Det finnes manuelle, halv og helautomatiske espressomaskiner. Noen gir deg mye kontroll, mens andre gir deg null kontroll over sluttresultatet. Likhetstrekket er at de lager en kopp om gangen, litt dyre i innkjøp, relativt billige i drift og gir en mye kraftigere kaffe enn en f.eks. trakter."
+				"om": "Som navnet tilsier: Du kan lage en espresso. I tillegg har den gjerne en melkesteamer slik at du kan lage nam-nam kaffedrikker med melk."
 			},
 			{
 				"name":"Pulverkaffe",
@@ -87,7 +87,7 @@
 				"p": "p2",
 				"img": "Pulverkaffe300.png",
 				"mobile": "Pulverkaffe120.png",				
-				"om": "Det er billig. Og svart. Kaffe? Knapt."
+				"om": "Det er billig. Og svart. Kaffe? Knapt. Kan til nøds drikkes dersom du ikke bryr deg stort om din kaffe."
 			},
 			{
 				"name":"Kapselmaskin",
@@ -98,7 +98,7 @@
 				"p": "p2",
 				"img": "Kapsel300.png",
 				"mobile": "Kapsel120.png",				
-				"om": "Sett inn kapsel, trykk på knapp og få den kaffedrikk du ønsker. Kaffen er ferdig så det er bare å stole på leverandøren."
+				"om": "Sett inn kapsel, trykk på en knappn - og vips så kommer kaffen ut. Kaffeleverandøren avgjør resultatet."
 			},
 			{
 				"name":"Cafékaffe",
@@ -109,7 +109,7 @@
 				"p": "p1",
 				"img": "Cafe300.png",
 				"mobile": "cafe120.png",				
-				"om": "Du kan få akkurat den kaffedrikk du ønsker. Om du vet hva du vil ha kan du virkelig fråtse i kaffehimmel! (og tar deg råda til det) Om du  ikke vet hva du vil ha kan du få gode anbefalinger"
+				"om": "Kaffehimmelen! Koster naturligvis litt mer enn å tilberede kaffen på egen hånd. Men så er det jo så koselig på café!"
 			},
 			{
 				"name":"Chemex",
@@ -120,7 +120,7 @@
 				"p": "p1",
 				"img": "Chemex300.png",
 				"mobile": "Chemex120.png",				
-				"om": "Den tøffeste håndbryggeren! Den er designet på 40tallet og har siden vært et ikon for moderne industridesign."
+				"om": "Den tøffeste håndbryggeren! Den er designet på 40-tallet og har siden vært et ikon for moderne industridesign."
 			},
 			{
 				"name":"Slow drip",
@@ -131,7 +131,7 @@
 				"p": "p1",
 				"img": "SlowDrip300.png",
 				"mobile": "SlowDrip120.png",								
-				"om": "Finnes mange varianter. En type tar 14timer og gir en god iskaffe. Om du har tid."
+				"om": "Etter 14 timer med dryppende tilberedning, får du omsider en kald kopp kaffe. Skal visst smake godt."
 			},			
 			{
 				"name":"Håndbrygget",
@@ -142,7 +142,7 @@
 				"p": "p1",
 				"img": "haandbrygg300.png",
 				"mobile": "haandbrygg120.png",				
-				"om": "Full kontroll over alle kjemiske prosesser! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmenge, tepratur, tekketid, osv"
+				"om": "Full kontroll! Brygg med filter og dripper og bestem selv smak, fylde og andre kvaliteter ved å variere vannmengde, teperatur, trekketid, osv."
 			}			]
 		}
 
