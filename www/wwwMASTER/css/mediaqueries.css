@@ -75,12 +75,6 @@
 		font-size:120%;
 		padding:2%;
 	}
-	table{
-		width: 100%;
-	}
-	td {
-		width:auto;
-	}
 	#bak0{
 	    background: url(images/background/900/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
 	}    
@@ -138,7 +132,13 @@
 	q {
 		font-size:60%;
 	}
-
+	.tabell {
+		width:90%;
+		margin-left:5%;
+	}
+	.celleData {
+		font-size:12px;
+	}
 	#photo, #photo2 {
 		background:none;
 		padding-top:0;
@@ -265,10 +265,6 @@
 	#kaffevelgerheader {
 		font-size:200%;
 	}
-	table{
-		width:100%;
-	}
-
 	#bak0{
 	    /*height: 780px;*/
 	    background: url(images/background/480/1874968239_5ec7cd1eef_o.jpg) 100% 0 no-repeat fixed;  /*BYTT bilde, skal være kaffekopp med overskrift*/
