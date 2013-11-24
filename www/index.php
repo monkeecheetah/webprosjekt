@@ -223,7 +223,6 @@
 					            kvaliteter ved å variere vannmenge, tepratur, tekketid, osv</p>
 					        </li>
 					    </ul>
-						<?php // include('pages/kaffevelger.php'); ?>
 					</div>
 			</section>
 			<section class="blockWrap" id="bak5" data-speed="20000" data-type="background">
