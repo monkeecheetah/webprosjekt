@@ -74,6 +74,9 @@
 		font-size:120%;
 		padding:2%;
 	}
+	table{
+		width: 100%;
+	}
 	td {
 		width:auto;
 	}
@@ -260,6 +263,9 @@
 
 	#kaffevelgerheader {
 		font-size:200%;
+	}
+	table{
+		width:100%;
 	}
 
 	#bak0{
