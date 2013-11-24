@@ -22,7 +22,6 @@ $(window).on('scroll', function() {
 		bak2Pos = $('#bak2').position().top;
 		triggerPos = $('#triggerElement').position().top;
 	    if(currPos >= (bak2Pos+triggerPos)) {
-	        //do stuff
 			captionH = $('#caption').height();
 	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px').css('padding-top', $(window).height()+'px');
 	        $('#photo2').css('padding-bottom', $('#caption2').height());
@@ -37,7 +36,7 @@ $(document).ready(function(){
 	if(vinduBredde > 1024) {
 		console.log($('#bak2').height()+"  +  "+$('#caption2').height());
 		winH = $(window).height();
-		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+320+'px').css('padding-top','300px');
+		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+280+'px').css('padding-top','300px');
 		$('#photo').height((winH+800)+'px');
 		blockFade();
 		$window = $(window);
