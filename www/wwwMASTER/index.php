@@ -37,26 +37,25 @@
 			<section class="blockWrap" id="bak1" data-speed="20000" data-type="background">
 				<div class="block1 block">
 					<div id="intro" class="content">
-						<h3>Kaffe er</h3>
-						<p class="clearh3">Det man starter dagen med.</p>
-						<p>Det venner møtes over.</p>
-						<p>Det som får deg gjennom arbeidsdagen.</p>
-						<h3>Men hva er kaffe egentlig?</h3>
+						<p class="clearh3"><i>Kaffe er symbolet på kjærligheten.<br>
+						Man elsker den brun, blond og sort, men alltid – varm.<br>
+						– Ukjent</i></p>
+						<h3>Hva er kaffe?</h3>
 						<p class="clearh3">Kaffe kommer fra en frukt...</p>
 						<p>Som høstes fra et kaffetre...</p>
 						<p>De vanligste kaffetrærene er:</p>
-						<p><strong>Arabicatrærene</strong> vokser i tørt klima, høyt i fjellet.</p>
-						<p><strong>Arabica</strong> gir visstnok den beste kaffen og er den vi drikker mest av i Norge.</p>
+						<p><strong>Arabicatrærene</strong> vokser i tørt klima, høyt i fjellet. Arabica gir visstnok den beste kaffen
+						og er den vi drikker mest av i Norge.</p>
 						<p><strong>Robustatrærene</strong> er mer robuste og vokser i tørt klima, i lavlandet.</p>
-						<p>Det er frøet i frukten som blir kaffe...</p>
-						<p>Som vi på folkemunne kaller <em>kaffebønner.</em></p>
+						<p>Kaffebønner er egentlig små frø som kommer fra frukten på kaffetreet.
+						<p>Det er frøet i frukten som blir til kaffen koser oss med.</p>
 						<h3>Fra bønne til kopp.</h3>
 						<p class="clearh3">Fruktene høstes...</p>
 						<p>Frøene tas ut...</p>
 						<p>Tørkes...</p>
 						<p>Sorteres...</p>
 						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
-						<p>Det er den andre mest <strong>omsatte varen</strong> i verden, etter olje.</p>
+						<p>Det er den andre <strong>mest omsatte varen</strong> i verden, etter olje.</p>
 					</div>
 				</div>
 			</section>
@@ -80,7 +79,7 @@
 							<p>Nordmenn drikker 3-4 kopper om dagen hver.</p>
 							<p>Som blir ca 1200 kopper i året.</p>
 							<p>Og totalt mer enn 4 000 000 000 kopper i året.<a class="kilde" href="http://www.kaffe.no/vi-drikker-fire-milliarder-kopper-kaffe-i-aret/">Kilde</a></p>
-							<p>Ifølge New York Times er Oslo en <strong>kjempebra</strong> kaffeby! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
+							<p>Ifølge New York Times er Oslo en <strong>kjempebra kaffeby</strong>! <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p class="sitat"><q>Oslo is to coffee what San Sebastian or Copenhagen is to food: it’s where you go to get your mind blown.</q><br> - Oliver Strand, New York Times Oktober 2011  <a class="kilde" href="http://tmagazine.blogs.nytimes.com/2011/10/20/ristretto-coffee-in-oslo/?_r=0">Kilde</a></p>
 							<p>De syns du burde besøke disse stedene:</p>
 							<p><a class="kilde" href="http://www.fuglen.no/">Fuglen</a></p>
