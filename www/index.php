@@ -16,7 +16,6 @@
 		<script src="js/kaffescript.js"></script>
 	</head>
 	<body>
-
 			<nav>
 				<ul>
 					<li><a href="#intro">INTRO</a></li>
@@ -32,8 +31,6 @@
 				</div>
 				<p id="arrow">&darr;</p>
 			</section>
-
-
 			<section class="blockWrap" id="bak1" data-speed="20000" data-type="background">
 				<div class="block1 block">
 					<div id="intro" class="content">
@@ -62,15 +59,8 @@
 						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
 						<p>Det er den andre <strong>mest omsatte varen</strong> i verden, etter olje.</p>
 					</div>
-				</div>
+				</div> 
 			</section>
-
-<!-- 			<section class="blockWrap" id="bak15" data-speed="400" data-type="background">
-				<div class="block15 block">
-					<div id="pynteblokk" class="filler"></div>
-				</div> -->
-			</section>
-
 			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
 				<div class="block2 block">
 					<div id="kaffetilnorge" class="content">
@@ -94,14 +84,8 @@
 						</div>
 					</div>
 					<div id="filler"></div>
-<!--				</div>
-			</section>
-
-			<section class="blockWrap" id="bak3" data-speed="20000" data-type="background">
-				<div class="block3 block"> -->
 					<div id="photo2"></div>
 					<div id="caption2">
-
 						<h3>GJETEREN</h3>
 						<p>Legenden skal ha det til at kaffebønnenes energigivende effekt ble oppdaget av en gjeter i Etiopia.</p>
 						<p>En dag begynte sauene hans å danse rundt, hoppe og breke høyt. Han forsto fort at effekten kom fra de røde fruktene på en liten busk.</p>
@@ -141,7 +125,6 @@
 					</div>
 				</div>
 			</section>
-
 			<section class="blockWrap" id="kaffeV">
 					<div id="kaffevelger">
 						<ul id="maskinliste">
@@ -154,90 +137,71 @@
 					            jobben for deg. Alt avhenger av hvilken trakter du har og hvilken
 					            bønnetype du kjøper</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Presskanne</h3><img alt="Tegning av Presskanne" class=
 					            "kaffeTilbBilde" src="images/Presskanne300.png">
-
 					            <p class="tilbText">Presskanne tar tiden et oppkok av vann og hvor
 					            lenge du ønsker at du skal la den trekke. Du har relativt god
 					            kontroll på smaken og styrer selv de fleste prosesser under
 					            bryggingen</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Mokkakanne</h3><img alt="Tegning av Mokkakanne" class=
 					            "kaffeTilbBilde" src="images/Mokkakanne300.png">
-
 					            <p class="tilbText">Kaffe fra en Mokkakanne er god og fyldig. Den
 					            krever litt innsats, spesielt hvis du kverner bønner selv.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Vakuum-kolbe</h3><img alt="Tegning av Vakuum-kolbe" class=
 					            "kaffeTilbBilde" src="images/Gass300.png">
-
 					            <p class="tilbText">Ser kjempekult ut! Krever ikke mer innsats enn
 					            å ta den av og på platen, fysikken gjør resten av jobben, men
 					            bruker litt tid.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Kokekaffe</h3><img alt="Tegning av Kokekaffe" class=
 					            "kaffeTilbBilde" src="images/Kokekaffe300.png">
-
 					            <p class="tilbText">Kok opp vann og kaffe, hell i kopp, superenkelt
 					            og raskt!(Gjennomsnittlig alder på bruker er 80)</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Aeropress</h3><img alt="Tegning av Aeropress" class=
 					            "kaffeTilbBilde" src="images/Aeropress300.png">
-
 					            <p class="tilbText">Aeropress gir deg muligheten til full kontroll
 					            og jo mer du tar kontrollen selv jo mer blir resultatet som du selv
 					            ønsker. Om du kverner bønnense selv, har funnet perfekte
 					            vanntemperaturen og hvilken kaffetype som gir deg kaffen du
 					            ønsker.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Espressomaskin</h3><img alt="Tegning av Espressomaskin" class=
 					            "kaffeTilbBilde" src="images/Espressomaskin300.png">
-
 					            <p class="tilbText">Det finnes manuelle, halv og helautomatiske
 					            espressomaskiner. Noen gir deg mye kontroll, mens andre gir deg
 					            null kontroll over sluttresultatet. Likhetstrekket er at de lager
 					            en kopp om gangen, litt dyre i innkjøp, relativt billige i drift og
 					            gir en mye kraftigere kaffe enn en f.eks. trakter.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Pulverkaffe</h3><img alt="Tegning av Pulverkaffe" class=
 					            "kaffeTilbBilde" src="images/Pulverkaffe300.png">
-
 					            <p class="tilbText">Det er billig. Og svart. Kaffe? Knapt.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Kapselmaskin</h3><img alt="Tegning av Kapselmaskin" class=
 					            "kaffeTilbBilde" src="images/Kapsel300.png">
-
 					            <p class="tilbText">Sett inn kapsel, trykk på knapp og få den
 					            kaffedrikk du ønsker. Kaffen er ferdig så det er bare å stole på
 					            leverandøren.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Cafékaffe</h3><img alt="Tegning av Cafékaffe" class=
 					            "kaffeTilbBilde" src="images/Cafe300.png">
-
 					            <p class="tilbText">Du kan få akkurat den kaffedrikk du ønsker. Om
 					            du vet hva du vil ha kan du virkelig fråtse i kaffehimmel! (og tar
 					            deg råda til det) Om du ikke vet hva du vil ha kan du få gode
 					            anbefalinger</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Chemex</h3><img alt="Tegning av Chemex" class="kaffeTilbBilde"
 					            src="images/Chemex300.png">
@@ -245,19 +209,15 @@
 					            <p class="tilbText">Den tøffeste håndbryggeren! Den er designet på
 					            40tallet og har siden vært et ikon for moderne industridesign.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Slow drip</h3><img alt="Tegning av Slow drip" class=
 					            "kaffeTilbBilde" src="images/SlowDrip300.png">
-
 					            <p class="tilbText">Finnes mange varianter. En type tar 14timer og
 					            gir en god iskaffe. Om du har tid.</p>
 					        </li>
-
 					        <li class="tilbWrap">
 					            <h3>Håndbrygget</h3><img alt="Tegning av Håndbrygget" class=
 					            "kaffeTilbBilde" src="images/haandbrygg300.png">
-
 					            <p class="tilbText">Full kontroll over alle kjemiske prosesser!
 					            Brygg med filter og dripper og bestem selv smak, fylde og andre
 					            kvaliteter ved å variere vannmenge, tepratur, tekketid, osv</p>
@@ -266,8 +226,6 @@
 						<?php // include('pages/kaffevelger.php'); ?>
 					</div>
 			</section>
-
-
 			<section class="blockWrap" id="bak5" data-speed="20000" data-type="background">
 				<div class="block5 block">
 					<div id="helse" class="content">
@@ -287,7 +245,6 @@
 								<li>kan vi da si at det er en av de fem om dagen?</li>
 							</ul>
 						</div>
-
 						<p>Norge er <strong>nummer to</strong> på kaffetoppen</p>
 						<p>Rett bak Finland.</p>
 						<p>Topp 10 listen er som følger:</p>
@@ -308,8 +265,6 @@
 					</div>
 				</div>
 			</section>
-
-
 			<section class="blockWrap" id="bak6" data-speed="20000" data-type="background">
 				<div class="block6 block">
 					<div id="koffein" class="content">
@@ -325,11 +280,6 @@
 					</div>
 				</div>
 			</section>
-
-
-
-
-
 			<section class="blockWrap" id="bak7" data-speed="20000" data-type="background">
 				<div class="block7 block">
 					<div id="merkoffein" class="content">
@@ -355,7 +305,6 @@
 					</div>
 				</div>
 			</section>
-
 			<section class="blockWrap" id="bak8" data-speed="20000" data-type="background">
 				<div class="block8 block">
 		 			<div id="ordetkaffe" class="content">
@@ -372,8 +321,6 @@
 					</div>
 				</div>
 			</section>
-
-
 			<section class="blockWrap" id="bak9" data-speed="20000" data-type="background">
 				<div class="block9 block">
 							<div id="prodland" class="content">
@@ -421,7 +368,6 @@
 					</div>
 				</div>
 			</section>
-
 			<section class="blockWrap" id="bak11" data-speed="20000" data-type="background">
 				<footer>
 					<h2>Skrevet av Kristoffer Johansen, Hege Grostad, Christer Bang og Kristoffer Osen</h2>
@@ -429,7 +375,6 @@
 					<p>Alle bilder har Creative Commons-lisens og er hentet fra flickr.com sine register for Creative Commons-bilder.<br>
 					Alle bildene på nettsiden er redigerte versjoner av orginalene.<br>
 					Bildene av norske fjell, afrikansk steppelandskap og de forsjellige tilbredningsmetodene er tegnet av Hege Grostad.</p>
-
 					<div class="tabell">
 						<div class="tabellRad">
 							<div class="celleData tHead tab1">Tittel</div>
@@ -437,64 +382,54 @@
 							<div class="celleData tHead tab3">Lenke</div>
 							<div class="celleData tHead tab4">Filnavn</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">If coffee were red</div>
 							<div class="celleData tab2">Marcello</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/67265930@N00/1874968239/">link</a></div>
 							<div class="celleData tab4">1874968239_5ec7cd1eef_o.jpg</div>
 						</div>
-
-
 						<div class="tabellRad">
 						    <div class="celleData tab1">A Coffee bean 3</div>
 							<div class="celleData tab2">Joe Lencioni</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/12943844@N00/2291755823">link</a></div>
 							<div class="celleData tab4">2291755823_513c35efd6_oSjolmekket.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">teXture - Dark Grunge Burlap</div>
 							<div class="celleData tab2">photonate.com</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/themacguy2k/3297949680/">link</a></div>
 							<div class="celleData tab4">3297949680_f7f64e11f7_o.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">Coffee Scoop</div>
 							<div class="celleData tab2">Oberazzi</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/42788859@N00/3367777051/">link</a></div>
 							<div class="celleData tab4">3367777051_a18a02c53d_o.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">Atomium</div>
 							<div class="celleData tab2">Seb Ruiz</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/60906956@N00/423580043/">link</a></div>
 							<div class="celleData tab4">423580043_4d6302fb42_occaffeine3.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">harimau coffee burlap</div>
 							<div class="celleData tab2">javabags</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/66871266@N04/6085694779/">link</a></div>
 							<div class="celleData tab4">6085694779_9a49e657f5_o.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">Joie</div>
 							<div class="celleData tab2">Geoff Llerena</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/22678640@N03/10502752753">link</a></div>
 							<div class="celleData tab4">10502752753_673727d16b_o.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">Coffe splash</div>
 							<div class="celleData tab2">Nick Olejniczak</div>
 							<div class="celleData tab3"><a href="http://www.flickr.com/photos/71235231@N00/4448779926/">link</a></div>
 							<div class="celleData tab4">4448779926_b9329c1568_o.jpg</div>
 						</div>
-
 						<div class="tabellRad">
 							<div class="celleData tab1">Burlap and Lace square (3)</div>
 							<div class="celleData tab2">Lucy Portsmouth</div>
@@ -502,7 +437,6 @@
 							<div class="celleData tab4">8112875566_653aab9940_o.jpg</div>
 						</div>
 					</div>
-
 					<p>© Copymachine webProsjekt.gruppe(29) 2013</p>
 				</footer>
 			</section>
