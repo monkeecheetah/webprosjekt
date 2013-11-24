@@ -59,8 +59,7 @@
 						<p>Og sendes i <strong>jutesekker</strong> på 60kg, verden rundt.</p>
 						<p>Det er den andre <strong>mest omsatte varen</strong> i verden, etter olje.</p>
 					</div>
-				</div>
-			</section> 
+				</div> 
 			</section>
 			<section class="blockWrap" id="bak2" data-speed="20000" data-type="background">
 				<div class="block2 block">
