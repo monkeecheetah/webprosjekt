@@ -14,8 +14,7 @@ border-radius:5px;
     margin:1%;
     background-color: rgba(255,255,255,0.4);
     border-radius: 5px;
-    padding-right: 1px; 
-    padding-left: 4px;   
+    padding:3%;  
 }
 .kaffeTilbBilde {
     margin-left: auto;
@@ -24,6 +23,7 @@ border-radius:5px;
 }
 .tilbText{
     border-radius: 5px;
+    text-align: justify;
 }
 #kaffevelger input[type="radio"]:checked + label, #showAll:checked + label  { 
     background:red !important;
