@@ -22,7 +22,6 @@ $(window).on('scroll', function() {
 		bak2Pos = $('#bak2').position().top;
 		triggerPos = $('#triggerElement').position().top;
 	    if(currPos >= (bak2Pos+triggerPos)) {
-	        //do stuff
 			captionH = $('#caption').height();
 	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px').css('padding-top', $(window).height()+'px');
 	        $('#photo2').css('padding-bottom', $('#caption2').height());
