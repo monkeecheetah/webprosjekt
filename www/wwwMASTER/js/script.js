@@ -24,7 +24,8 @@ $(window).on('scroll', function() {
 	    if(currPos >= (bak2Pos+triggerPos)) {
 	        //do stuff
 			captionH = $('#caption').height();
-	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px');
+	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px').css('padding-top', $(window).height()+'px');
+	        $('#photo2').css('padding-bottom', $('#caption2').height());
 	        $('#caption').css('visibility', 'hidden');
 	        console.log("Du lukter promp");
 	    } else {
@@ -37,7 +38,7 @@ $(document).ready(function(){
 	if(vinduBredde > 1024) {
 		console.log($('#caption').height());
 		winH = $(window).height();
-		$('#caption2').css('margin-top', $('#photo2').position().top+200+'px');
+		$('#caption2').css('margin-top', $('#photo2').position().top+$('#caption').height()+200+'px');
 		$('#photo').height((winH+800)+'px');
 		$('#bak15').css('height', $(document).width()/1.81+'px');
 		$('#bak16').css('height', $(document).width()/1.7472+'px');
