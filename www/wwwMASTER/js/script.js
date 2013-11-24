@@ -36,9 +36,9 @@ $(window).on('scroll', function() {
 
 $(document).ready(function(){
 	if(vinduBredde > 1024) {
-		console.log($('#caption').height());
+		console.log($('#bak2').height()+"  +  "+$('#caption2').height());
 		winH = $(window).height();
-		$('#caption2').css('margin-top', $('#photo2').position().top+$('#caption').height()+200+'px');
+		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+'px').css('padding-top','300px');
 		$('#photo').height((winH+800)+'px');
 		$('#bak15').css('height', $(document).width()/1.81+'px');
 		$('#bak16').css('height', $(document).width()/1.7472+'px');
