@@ -189,12 +189,36 @@
 				Nettsieden er for alle i Norge. Enkle grep for bedre kaffe.
 			</p>
 			<p>God regel: Hvis det er naturlig å linke til det vi skriver om, så link.</p>
+	<h2><u>Tirsdag 29.10.2013</u></h2>
+		<p>Agenda
+			Hvordan har det gått siden sist
+			Arbeidsfordeling
+			Uklarheter
+			Tekniske spørsmål
+			Innføring i responsivt design stilark
+			Når skal vi ta fotoer (vet vi hvilke foto vi trenger)
+			Møteplan fremover
+			Hjemmelekse
+			Annet?
+		</p>
 
-	
+	<h2><u>Torsdag 31.10.2013</u></h2>
+			<h3>Mål for møtet:</h3>
+			<p>-Sende inn teknologien vi vil bruke for å lage parallax-side for whitelisting<br>
+				-Begynne å snekre nettside</p>
+		<h3>Til neste gang:</h3>
+			<p> - Lære hvordan lage parallax-side.<br>
+				- Alle skal skrive sine tekster i html med logisk struktur innen søndag.<br>
+				- På mandag ser vi på hverandres tekster og tenker i gjennom hvor vi ønsker å ha de ulike elementene på siden.<br>
+				- Vi skal også finne bilder som illustrerer innholdet i teksten, og som vil lokke leseren til å lese mer.</p>
+		<h3>På tirsdag</h3>
+			 <p>-Planlegge visuell struktur på siden.</p>
 
+	<h2><u>Tirsdag 5.11.2013</u></h2>
+		<p>Til i dag hadde vi kortet ned innholdet på våre tekster og avgrenset overskrifter. Flere på gruppen hadde eksperimentert med parallax-teknologien og følte seg komfortabel med å bruke den. På møtet ble vi enige om at nettsiden skal ha en fin ramme laget av kaffebønner og hjerter.</p>
 
-
-
+	<h2><u>Tirsdag 12.11.2013</u></h2>
+		<P>I dag har vi fått satt sammen mange av bildene på nettsiden, og det gjenstår å vurdere hvor mye tekst som skal tilhøre hvert bilde. Teknologien vi valgte ser ut til å fungere som tiltenkt, etter litt prøving og feiling. Vi vurderer ulike muligheter for å ha en meny øverst på siden.</p>
 
 
 
