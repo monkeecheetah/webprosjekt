@@ -27,7 +27,6 @@ $(window).on('scroll', function() {
 	        $('#photo').css('background-attachment', 'scroll').css('background-size', 'contain').css('margin-top', captionH +'px').height($(window).height()+'px').css('padding-top', $(window).height()+'px');
 	        $('#photo2').css('padding-bottom', $('#caption2').height());
 	        $('#caption').css('visibility', 'hidden');
-	        console.log("Du lukter promp");
 	    } else {
 	        $('#caption').css('visibility', 'visible');    	
 	    }
@@ -38,10 +37,8 @@ $(document).ready(function(){
 	if(vinduBredde > 1024) {
 		console.log($('#bak2').height()+"  +  "+$('#caption2').height());
 		winH = $(window).height();
-		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+'px').css('padding-top','300px');
+		$('#caption2').css('margin-top', $('#bak2').height()+$('#caption2').height()+340+'px').css('padding-top','300px');
 		$('#photo').height((winH+800)+'px');
-		$('#bak15').css('height', $(document).width()/1.81+'px');
-		$('#bak16').css('height', $(document).width()/1.7472+'px');
 		blockFade();
 		$window = $(window);
 		$('section[data-type="background"]').each(function(){
