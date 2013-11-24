@@ -8,6 +8,8 @@
  *                                                                   
  *______________________________________________________________________________________                                                                 
  */
+
+ /* Parallax funksjon */ 
  #bak2 {
     background-color:#1085f9;
  }
@@ -16,15 +18,7 @@
     display: inline-block;
     float: left;
     background-image: url(images/background/full/norgefjell2.png);
-    background-position-x: 100%;
-    background-position-y: 0px;
-    background-repeat:no-repeat;
-    background-repeat-x: no-repeat;
-    background-repeat-y: no-repeat;
     background-attachment: fixed;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
     background-size:cover;
     width:100%;
     padding-top:500px;
@@ -38,58 +32,12 @@
     display: inline-block;
     float: left;
     background-image: url(images/background/full/etiopiautenhimmel.png);
-    background-position-x: 100%;
-    background-position-y: 0px;
-    background-repeat:no-repeat;
-    background-repeat-x: no-repeat;
-    background-repeat-y: no-repeat;
-    background-attachment: fixed;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: initial;
     background-size:cover;
     width:100%;
     padding-top:500px;
     z-index:99;
 }
-   .tabell
-    {
-        margin-left:10%;
-        width:80%;
-        display:  table;
-        background-color:#eee;
-        border:1px solid  #666666;
-        border-spacing:5px;/*cellspacing:poor IE support for  this*/
-       /* border-collapse:separate;*/
-    }
-    .tHead {
-        font-weight:bold;
-    }
-    .tabellRad
-    {
-       display:table-row;
-       width:auto;
 
-    }
-
-    .celleData
-    {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        float:left;/*fix for  buggy browsers*/
-        display:table-column;
-        width:auto;
-        background-color:#ccc;
-        display:block;
-    }
-    .tab1, .tab2, .tab3, .tab4 {
-        width:25%;
-    }
-#pynteblokk {
-    background-image: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed;;
-
-}
 #filler {
     height:500px;
     width:100%;
@@ -130,6 +78,42 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 130%;
     letter-spacing: 3px;
+}
+
+/* Tabell */
+.tabell
+{
+    margin-left:10%;
+    width:80%;
+    display:  table;
+    background-color:#eee;
+    border:1px solid  #666666;
+    border-spacing:5px;/*cellspacing:poor IE support for  this*/
+   /* border-collapse:separate;*/
+}
+.tHead {
+    font-weight:bold;
+}
+.tabellRad
+{
+   display:table-row;
+   width:auto;
+
+}
+
+.celleData
+{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float:left;/*fix for  buggy browsers*/
+    display:table-column;
+    width:auto;
+    background-color:#ccc;
+    display:block;
+}
+.tab1, .tab2, .tab3, .tab4 {
+    width:25%;
 }
 nav {
     position:fixed;
@@ -623,22 +607,6 @@ footer h2,h3,p,td,th{
 }    
 #bak1{
     background: url(images/background/full/2291755823_513c35efd6_oSjolmekket.jpg) 100% 0 no-repeat fixed; /* kaffebønne med gul bakgrunn*/
-}
-#bak2{
-/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
-/*background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/*/
-}
-#bak15{
-/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
-/*background: url(images/norgetopp.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/*/
-}
-#bak16{
-/*    background: url(images/background/full/1424445_10152028026882139_716846569_n.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/ 
-/*background: url(images/etiopia.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/*/
-}
-#bak3{
- /*   background: url(images/background/full/1401901_10152028027422139_1551925132_o.jpg) 100% 0 no-repeat fixed;  /*vann til Himmel til bakken
-/*background: url(images/bakgrunn.jpg) 100% 0 no-repeat fixed; /*fjell til vann*/
 }
 #bak4{
     background: url(images/background/full/3297949680_f7f64e11f7_o.jpg) 100% 0 no-repeat fixed;  /* kaffesekk*/
